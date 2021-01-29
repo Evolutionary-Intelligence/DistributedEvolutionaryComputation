@@ -8,6 +8,10 @@ Probst, M. and Rothlauf, F., 2020. Harmless overfitting: Using denoising autoenc
 
 Elsken, T., Metzen, J.H. and Hutter, F., 2019. Neural architecture search: A survey. Journal of Machine Learning Research, 20(55), pp.1-21. [ [www](https://www.jmlr.org/papers/v20/18-598.html) | [pdf](https://www.jmlr.org/papers/volume20/18-598/18-598.pdf) ]
 
+## 2017
+
+Ollivier, Y., Arnold, L., Auger, A. and Hansen, N., 2017. Information-geometric optimization algorithms: A unifying picture via invariance principles. Journal of Machine Learning Research, 18(18), pp.1-65. [ [www](https://jmlr.org/papers/v18/14-467.html) | [pdf](https://www.jmlr.org/papers/volume18/14-467/14-467.pdf) ]
+
 ## 2014
 
 Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. Natural evolution strategies. Journal of Machine Learning Research, 15(1), pp.949-980. [ [www](https://jmlr.org/papers/v15/wierstra14a.html) | [pdf](https://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf) | [Python - PyBrain](https://github.com/pybrain/pybrain) | [source code](http://schaul.site44.com/nes.html) ]
