@@ -27,3 +27,7 @@ Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, 
 ## 2010
 
 Schaul, T., Bayer, J., Wierstra, D., Sun, Y., Felder, M., Sehnke, F., Rückstieß, T. and Schmidhuber, J., 2010. PyBrain. Journal of Machine Learning Research, 11(24), pp.743-746. [ [www](https://jmlr.org/papers/v11/schaul10a.html) | [pdf](https://www.jmlr.org/papers/volume11/schaul10a/schaul10a.pdf) | [Python](https://github.com/pybrain/pybrain) ]
+
+## 2008
+
+Gomez, F., Schmidhuber, J. and Miikkulainen, R., 2008. Accelerated neural evolution through cooperatively coevolved synapses. Journal of Machine Learning Research, 9(5), pp.937-965. [ [www](https://jmlr.org/papers/v9/gomez08a.html) | [pdf](https://www.jmlr.org/papers/volume9/gomez08a/gomez08a.pdf) ]
