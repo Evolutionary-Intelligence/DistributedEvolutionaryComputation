@@ -31,3 +31,7 @@ Schaul, T., Bayer, J., Wierstra, D., Sun, Y., Felder, M., Sehnke, F., R√ºckstie√
 ## 2008
 
 Gomez, F., Schmidhuber, J. and Miikkulainen, R., 2008. Accelerated neural evolution through cooperatively coevolved synapses. Journal of Machine Learning Research, 9(5), pp.937-965. [ [www](https://jmlr.org/papers/v9/gomez08a.html) | [pdf](https://www.jmlr.org/papers/volume9/gomez08a/gomez08a.pdf) ]
+
+## 2006
+
+Whiteson, S. and Stone, P., 2006. Evolutionary function approximation for reinforcement learning. Journal of Machine Learning Research, 7(31), pp.877-917. [ [www](https://www.jmlr.org/papers/v7/whiteson06a.html) | [pdf](https://www.jmlr.org/papers/volume7/whiteson06a/whiteson06a.pdf) ]
