@@ -35,3 +35,7 @@ Gomez, F., Schmidhuber, J. and Miikkulainen, R., 2008. Accelerated neural evolut
 ## 2006
 
 Whiteson, S. and Stone, P., 2006. Evolutionary function approximation for reinforcement learning. Journal of Machine Learning Research, 7(31), pp.877-917. [ [www](https://www.jmlr.org/papers/v7/whiteson06a.html) | [pdf](https://www.jmlr.org/papers/volume7/whiteson06a/whiteson06a.pdf) ]
+
+## 2005
+
+Bongard, J. and Lipson, H., 2005. Active coevolutionary learning of deterministic finite automata. Journal of Machine Learning Research, 6(56), pp.1651-1678. [ [www](https://www.jmlr.org/papers/v6/bongard05a.html) | [pdf](https://www.jmlr.org/papers/volume6/bongard05a/bongard05a.pdf) ]
