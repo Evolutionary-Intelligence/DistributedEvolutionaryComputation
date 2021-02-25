@@ -15,3 +15,7 @@ Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution 
 ## 2003
 
 Lenski, R.E., Ofria, C., Pennock, R.T. and Adami, C., 2003. The evolutionary origin of complex features. Nature, 423(6936), pp.139-144. [ [www](https://www.nature.com/articles/nature01568) ]
+
+## 1999
+
+Lenski, R.E., Ofria, C., Collier, T.C. and Adami, C., 1999. Genome complexity, robustness and genetic interactions in digital organisms. Nature, 400(6745), pp.661-664. [ [www](https://www.nature.com/articles/23245) ]
