@@ -3,3 +3,7 @@
 ## 2020
 
 Pacchiano, A., Parker-Holder, J., Tang, Y., Choromanski, K., Choromanska, A. and Jordan, M., 2020, November. Learning to score behaviors for guided policy optimization. In International Conference on Machine Learning (pp. 7445-7454). PMLR. [ [www](http://proceedings.mlr.press/v119/pacchiano20a.html) | [pdf](http://proceedings.mlr.press/v119/pacchiano20a/pacchiano20a.pdf) | [Python](https://github.com/behaviorguidedRL/BGRL) ]
+
+## 1995
+
+Baluja, S. and Caruana, R., 1995. Removing the genetics from the standard genetic algorithm. In International Conference on Machine Learning (pp. 38-46). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603776500141) ]
