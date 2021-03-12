@@ -15,3 +15,7 @@ Confavreux, B., Zenke, F., Agnes, E.J., Lillicrap, T. and Vogels, T.P., 2020. A 
 ## 2019
 
 Choromanski, K., Pacchiano, A., Parker-Holder, J. and Tang, Y., 2019. From complexity to simplicity: Adaptive es-active subspaces for blackbox optimization. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2019/hash/88bade49e98db8790df275fcebb37a13-Abstract.html) | [pdf](https://papers.nips.cc/paper/2019/file/88bade49e98db8790df275fcebb37a13-Paper.pdf) | [Python](https://github.com/jparkerholder/ASEBO) ]
+
+## 2018
+
+Khadka, S. and Tumer, K., 2018, December. Evolution-guided policy gradient in reinforcement learning. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2018/hash/85fc37b18c57097425b52fc7afbb6969-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/85fc37b18c57097425b52fc7afbb6969-Paper.pdf) | [Python](https://github.com/ShawK91/Evolutionary-Reinforcement-Learning) ]
