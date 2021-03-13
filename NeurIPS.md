@@ -18,4 +18,6 @@ Choromanski, K., Pacchiano, A., Parker-Holder, J. and Tang, Y., 2019. From compl
 
 ## 2018
 
+Conti, E., Madhavan, V., Such, F.P., Lehman, J., Stanley, K.O. and Clune, J., 2018, January. Improving exploration in evolution strategies for deep reinforcement learning via a population of novelty-seeking agents. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2018/hash/b1301141feffabac455e1f90a7de2054-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/b1301141feffabac455e1f90a7de2054-Paper.pdf) | [Python](https://github.com/uber-research/deep-neuroevolution) ]
+
 Khadka, S. and Tumer, K., 2018, December. Evolution-guided policy gradient in reinforcement learning. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2018/hash/85fc37b18c57097425b52fc7afbb6969-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/85fc37b18c57097425b52fc7afbb6969-Paper.pdf) | [Python](https://github.com/ShawK91/Evolutionary-Reinforcement-Learning) ]
