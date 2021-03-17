@@ -14,6 +14,10 @@ Ollivier, Y., Arnold, L., Auger, A. and Hansen, N., 2017. Information-geometric 
 
 Popovici, E., 2017. Bridging supervised learning and test-based co-optimization. Journal of Machine Learning Research, 18(1), pp.1255-1293. [ [www](https://www.jmlr.org/papers/v18/16-223.html) | [pdf](https://www.jmlr.org/papers/volume18/16-223/16-223.pdf) ]
 
+## 2016
+
+Ly, D.L. and Lipson, H., 2012. Learning symbolic representations of hybrid dynamical systems. Journal of Machine Learning Research, 13(1), pp.3585-3618. [ [www](https://www.jmlr.org/papers/v13/ly12a.html) | [pdf](https://www.jmlr.org/papers/volume13/ly12a/ly12a.pdf) ]
+
 ## 2015
 
 da Silva, C.P., Dias, D.M., Bentes, C., Pacheco, M.A.C. and Cupertino, L.F., 2015. Evolving GPU machine code. Journal of Machine Learning Research, 16, pp.673-712. [ [www](https://www.jmlr.org/papers/v16/dasilva15a.html) | [pdf](https://m.jmlr.org/papers/volume16/dasilva15a/dasilva15a.pdf) ]
