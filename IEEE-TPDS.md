@@ -7,3 +7,7 @@ Santander-Jimenez, S. and Vega-Rodriguez, M.A., 2019. Comparative analysis of in
 ## 2017
 
 Santander-Jimenez, S. and Vega-Rodríguez, M.A., 2017. Asynchronous non-generational model to parallelize metaheuristics: A bioinformatics case study. IEEE Transactions on Parallel and Distributed Systems, 28(7), pp.1825-1838. [ [www](https://ieeexplore.ieee.org/abstract/document/7801038) ]
+
+## 2015
+
+Santander-Jimenez, S. and Vega-Rodriguez, M.A., 2015. Parallel multiobjective metaheuristics for inferring phylogenies on multicore clusters. IEEE Transactions on Parallel and Distributed Systems, 26(6), pp.1678-1692. [ [www](https://ieeexplore.ieee.org/abstract/document/6819075/) ]
