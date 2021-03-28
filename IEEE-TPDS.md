@@ -1,5 +1,9 @@
 # IEEE-TPDS (IEEE Transactions on Parallel and Distributed Systems)
 
+## 2021
+
+Liu, X., Sun, J., Zheng, L., Wang, S., Liu, Y. and Wei, T., 2021. Parallelization and optimization of NSGA-II on Sunway TaihuLight system. IEEE Transactions on Parallel and Distributed Systems, 32(4), pp.975-987. [ [www](https://ieeexplore.ieee.org/abstract/document/9253690) ]
+
 ## 2019
 
 Santander-Jimenez, S. and Vega-Rodriguez, M.A., 2019. Comparative analysis of intra-algorithm parallel multiobjective evolutionary algorithms: Taxonomy implications on bioinformatics scenarios. IEEE Transactions on Parallel and Distributed Systems, 30(1), pp.63-78. [ [www](https://ieeexplore.ieee.org/abstract/document/8409336) ]
