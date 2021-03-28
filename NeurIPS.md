@@ -25,3 +25,7 @@ Conti, E., Madhavan, V., Such, F.P., Lehman, J., Stanley, K.O. and Clune, J., 20
 Houthooft, R., Chen, R.Y., Isola, P., Stadie, B.C., Wolski, F., Ho, J. and Abbeel, P., 2018, December. Evolved policy gradients. In Advances in Neural Information Processing Systems (pp. 5405-5414). [ [www](https://papers.nips.cc/paper/2018/hash/7876acb66640bad41f1e1371ef30c180-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/7876acb66640bad41f1e1371ef30c180-Paper.pdf) | [Python](https://github.com/openai/EPG) | [blog](https://openai.com/blog/evolved-policy-gradients/) ]
 
 Khadka, S. and Tumer, K., 2018, December. Evolution-guided policy gradient in reinforcement learning. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2018/hash/85fc37b18c57097425b52fc7afbb6969-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/85fc37b18c57097425b52fc7afbb6969-Paper.pdf) | [Python](https://github.com/ShawK91/Evolutionary-Reinforcement-Learning) ]
+
+## 2015
+
+Qian, C., Yu, Y. and Zhou, Z.H., 2015. Subset selection by Pareto optimization. In Advances in Neural Information Processing Systems, 28, pp.1774-1782. [ [www](https://papers.nips.cc/paper/2015/hash/b4d168b48157c623fbd095b4a565b5bb-Abstract.html) | [pdf](https://papers.nips.cc/paper/2015/file/b4d168b48157c623fbd095b4a565b5bb-Paper.pdf) ]
