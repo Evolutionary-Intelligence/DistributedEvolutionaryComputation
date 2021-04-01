@@ -28,6 +28,8 @@ Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, 
 
 Ly, D.L. and Lipson, H., 2012. Learning symbolic representations of hybrid dynamical systems. Journal of Machine Learning Research, 13(1), pp.3585-3618. [ [www](https://www.jmlr.org/papers/v13/ly12a.html) | [pdf](https://www.jmlr.org/papers/volume13/ly12a/ly12a.pdf) ]
 
+Fortin, F.A., De Rainville, F.M., Gardner, M.A.G., Parizeau, M. and Gagné, C., 2012. DEAP: Evolutionary algorithms made easy. Journal of Machine Learning Research, 13(1), pp.2171-2175. [ [www](https://www.jmlr.org/papers/v13/fortin12a.html) | [pdf](https://www.jmlr.org/papers/volume13/fortin12a/fortin12a.pdf) | [Python](https://github.com/DEAP/deap) ]
+
 ## 2010
 
 Schaul, T., Bayer, J., Wierstra, D., Sun, Y., Felder, M., Sehnke, F., Rückstieß, T. and Schmidhuber, J., 2010. PyBrain. Journal of Machine Learning Research, 11(24), pp.743-746. [ [www](https://jmlr.org/papers/v11/schaul10a.html) | [pdf](https://www.jmlr.org/papers/volume11/schaul10a/schaul10a.pdf) | [Python](https://github.com/pybrain/pybrain) ]
