@@ -51,3 +51,7 @@ Whiteson, S. and Stone, P., 2006. Evolutionary function approximation for reinfo
 ## 2005
 
 Bongard, J. and Lipson, H., 2005. Active coevolutionary learning of deterministic finite automata. Journal of Machine Learning Research, 6(56), pp.1651-1678. [ [www](https://www.jmlr.org/papers/v6/bongard05a.html) | [pdf](https://www.jmlr.org/papers/volume6/bongard05a/bongard05a.pdf) ]
+
+## 2000
+
+Boyan, J. and Moore, A.W., 2000. Learning evaluation functions to improve optimization by local search. Journal of Machine Learning Research, 1(Nov), pp.77-112. [ [www](https://www.jmlr.org/papers/v1/boyan00a.html) | [pdf](https://www.jmlr.org/papers/volume1/boyan00a/boyan00a.pdf) ]
