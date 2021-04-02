@@ -44,6 +44,8 @@ Gomez, F., Schmidhuber, J. and Miikkulainen, R., 2008. Accelerated neural evolut
 
 Panait, L., Tuyls, K. and Luke, S., 2008. Theoretical advantages of lenient learners: An evolutionary game theoretic perspective. Journal of Machine Learning Research, 9(13), pp.423-457. [ [www](https://www.jmlr.org/papers/v9/panait08a.html) | [pdf](https://www.jmlr.org/papers/volume9/panait08a/panait08a.pdf) ]
 
+Igel, C., Heidrich-Meisner, V. and Glasmachers, T., 2008. Shark. Journal of Machine Learning Research, 9(33), pp.993-996. [ [www](https://jmlr.org/papers/v9/igel08a.html) | [pdf](https://jmlr.org/papers/volume9/igel08a/igel08a.pdf) | [C++](https://github.com/Shark-ML/Shark) ]
+
 ## 2006
 
 Whiteson, S. and Stone, P., 2006. Evolutionary function approximation for reinforcement learning. Journal of Machine Learning Research, 7(31), pp.877-917. [ [www](https://www.jmlr.org/papers/v7/whiteson06a.html) | [pdf](https://www.jmlr.org/papers/volume7/whiteson06a/whiteson06a.pdf) ]
