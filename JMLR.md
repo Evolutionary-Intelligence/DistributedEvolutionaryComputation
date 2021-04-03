@@ -34,6 +34,8 @@ Fortin, F.A., De Rainville, F.M., Gardner, M.A.G., Parizeau, M. and Gagné, C., 
 
 Schaul, T., Bayer, J., Wierstra, D., Sun, Y., Felder, M., Sehnke, F., Rückstieß, T. and Schmidhuber, J., 2010. PyBrain. Journal of Machine Learning Research, 11(24), pp.743-746. [ [www](https://jmlr.org/papers/v11/schaul10a.html) | [pdf](https://www.jmlr.org/papers/volume11/schaul10a/schaul10a.pdf) | [Python](https://github.com/pybrain/pybrain) ]
 
+Verbancsics, P. and Stanley, K.O., 2010. Evolving static representations for task transfer. Journal of Machine Learning Research, 11(58), pp.1737-1769. [ [www](https://www.jmlr.org/papers/v11/verbancsics10a.html) | [pdf](https://www.jmlr.org/papers/volume11/verbancsics10a/verbancsics10a.pdf) ]
+
 ## 2009
 
 Escalante, H.J., Montes, M. and Sucar, L.E., 2009. Particle swarm model selection. Journal of Machine Learning Research, 10(2). [ [www](https://www.jmlr.org/papers/v10/escalante09a.html) | [pdf](https://www.jmlr.org/papers/volume10/escalante09a/escalante09a.pdf) ]
