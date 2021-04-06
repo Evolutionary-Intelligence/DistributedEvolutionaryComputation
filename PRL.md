@@ -1,0 +1,5 @@
+# PRL (Physical Review Letters)
+
+## 2006
+
+Dudiy, S.V. and Zunger, A., 2006. Searching for alloy configurations with target physical properties: impurity design via a genetic algorithm inverse band structure approach. Physical Review Letters, 97(4), p.046401. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.97.046401) ]
