@@ -12,7 +12,7 @@ This is a *growing* paper list for **parallel and distributed** evolutionary com
 
 ## Local Searching
 
-* Levine, D., 1996. Users guide to the PGAPack parallel genetic algorithm library. Argonne National Laboratory, Technical Report. [ [pdf](https://ftp.mcs.anl.gov/pub/tech_reports/reports/ANL9518.pdf) ]
+* Levine, D., 1996. Users guide to the PGAPack parallel genetic algorithm library. Argonne National Laboratory, Technical Report. [ [pdf](https://ftp.mcs.anl.gov/pub/tech_reports/reports/ANL9518.pdf) | [C](https://ftp.mcs.anl.gov/pub/pgapack/) ]
 
 ## Research Support
 
