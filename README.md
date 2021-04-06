@@ -10,6 +10,10 @@ This is a *growing* paper list for **parallel and distributed** evolutionary com
 | **[IEEE-TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)** | 2015 | PDEC | Youkui Zhang, Mingyang Feng, Qiqi Duan |
 | **[JMLR](https://jmlr.org/)** | 2000 | EC | Mingyang Feng, Minghan Zhang, Qiqi Duan |
 
+## Local Searching
+
+* Levine, D., 1996. Users guide to the PGAPack parallel genetic algorithm library. Argonne National Laboratory, Technical Report. [ [pdf](https://ftp.mcs.anl.gov/pub/tech_reports/reports/ANL9518.pdf) ]
+
 ## Research Support
 
 This *ongoing* review for PDEC is now supported by the **Shenzhen NSF** research project (from 2021 to 2023), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China).
