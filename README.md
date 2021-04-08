@@ -12,6 +12,8 @@ This is a *growing* paper list for **parallel and distributed** evolutionary com
 
 ## Local Searching
 
+* Vie, A., 2021. Qualities, challenges and future of genetic algorithms: A literature review. arXiv preprint arXiv:2011.05277. [ [www](https://arxiv.org/abs/2011.05277) | [pdf](https://arxiv.org/pdf/2011.05277.pdf) ]
+
 * Levine, D., 1996. Users guide to the PGAPack parallel genetic algorithm library. Argonne National Laboratory, Technical Report. [ [pdf](https://ftp.mcs.anl.gov/pub/tech_reports/reports/ANL9518.pdf) | [C](https://ftp.mcs.anl.gov/pub/pgapack/) ]
 
 ## Research Support
