@@ -24,6 +24,10 @@ Cano, A., Luna, J.M., Zafra, A. and Ventura, S., 2015. A classification module f
 
 Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. Natural evolution strategies. Journal of Machine Learning Research, 15(1), pp.949-980. [ [www](https://jmlr.org/papers/v15/wierstra14a.html) | [pdf](https://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf) | [Python - PyBrain](https://github.com/pybrain/pybrain) | [source code](http://schaul.site44.com/nes.html) ]
 
+## 2013
+
+Valsalam, V.K. and Miikkulainen, R., 2013. Using symmetry and evolutionary search to minimize sorting networks. Journal of Machine Learning Research, 14(Feb), pp.303-331. [ [www](https://www.jmlr.org/papers/v14/valsalam13a.html) | [pdf](https://www.jmlr.org/papers/volume14/valsalam13a/valsalam13a.pdf) ]
+
 ## 2012
 
 Bergstra, J. and Bengio, Y., 2012. Random search for hyper-parameter optimization. Journal of Machine Learning Research, 13(2), pp.281-305. [ [www](https://www.jmlr.org/papers/v13/bergstra12a.html) | [pdf](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf) ]
