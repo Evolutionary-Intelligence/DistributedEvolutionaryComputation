@@ -28,6 +28,8 @@ Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, 
 
 Valsalam, V.K. and Miikkulainen, R., 2013. Using symmetry and evolutionary search to minimize sorting networks. Journal of Machine Learning Research, 14(Feb), pp.303-331. [ [www](https://www.jmlr.org/papers/v14/valsalam13a.html) | [pdf](https://www.jmlr.org/papers/volume14/valsalam13a/valsalam13a.pdf) ]
 
+Salleb-Aouissi, A., Vrain, C., Nortet, C., Kong, X., Rathod, V. and Cassard, D., 2013. QuantMiner for mining quantitative association rules. Journal of Machine Learning Research, 14(1), pp.3153-3157. [ [www](https://www.jmlr.org/papers/v14/salleb-aouissi13a.html) | [pdf](https://www.jmlr.org/papers/volume14/salleb-aouissi13a/salleb-aouissi13a.pdf) ]
+
 ## 2012
 
 Bergstra, J. and Bengio, Y., 2012. Random search for hyper-parameter optimization. Journal of Machine Learning Research, 13(2), pp.281-305. [ [www](https://www.jmlr.org/papers/v13/bergstra12a.html) | [pdf](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf) ]
