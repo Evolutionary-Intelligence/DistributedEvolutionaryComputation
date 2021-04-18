@@ -20,6 +20,8 @@ da Silva, C.P., Dias, D.M., Bentes, C., Pacheco, M.A.C. and Cupertino, L.F., 201
 
 Cano, A., Luna, J.M., Zafra, A. and Ventura, S., 2015. A classification module for genetic programming algorithms in JCLEC. Journal of Machine Learning Research, 16, pp.491-494. [ [www](https://www.jmlr.org/papers/v16/cano15a.html) | [pdf](https://jmlr.org/papers/volume16/cano15a/cano15a.pdf) ]
 
+Heaton, J., 2015. Encog: Library of interchangeable machine learning models for Java and C#. Journal of Machine Learning Research, 16, pp.1243-1247. [ [www](https://www.jmlr.org/papers/v16/heaton15a.html) | [pdf](https://www.jmlr.org/papers/volume16/heaton15a/heaton15a.pdf) ]
+
 ## 2014
 
 Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. Natural evolution strategies. Journal of Machine Learning Research, 15(1), pp.949-980. [ [www](https://jmlr.org/papers/v15/wierstra14a.html) | [pdf](https://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf) | [Python - PyBrain](https://github.com/pybrain/pybrain) | [source code](http://schaul.site44.com/nes.html) ]
