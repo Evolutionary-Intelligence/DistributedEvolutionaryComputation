@@ -9,3 +9,5 @@ Shu, H., Wang, Y., Jia, X., Han, K., Chen, H., Xu, C., Tian, Q. and Xu, C., 2019
 ## 2017
 
 Xie, L. and Yuille, A., 2017. Genetic cnn. In Proceedings of the IEEE International Conference on Computer Vision (pp. 1379-1388). [ [www](https://openaccess.thecvf.com/content_iccv_2017/html/Xie_Genetic_CNN_ICCV_2017_paper.html) | [pdf](https://openaccess.thecvf.com/content_ICCV_2017/papers/Xie_Genetic_CNN_ICCV_2017_paper.pdf) ]
+
+Arad, B. and Ben-Shahar, O., 2017. Filter selection for hyperspectral estimation. In Proceedings of the IEEE International Conference on Computer Vision (pp. 3153-3161). [ [www](https://openaccess.thecvf.com/content_iccv_2017/html/Arad_Filter_Selection_for_ICCV_2017_paper.html) | [pdf](https://openaccess.thecvf.com/content_ICCV_2017/papers/Arad_Filter_Selection_for_ICCV_2017_paper.pdf) ]
