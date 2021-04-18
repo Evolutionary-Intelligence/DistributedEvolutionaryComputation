@@ -12,7 +12,7 @@ Elsken, T., Metzen, J.H. and Hutter, F., 2019. Neural architecture search: A sur
 
 Ollivier, Y., Arnold, L., Auger, A. and Hansen, N., 2017. Information-geometric optimization algorithms: A unifying picture via invariance principles. Journal of Machine Learning Research, 18(18), pp.1-65. [ [www](https://jmlr.org/papers/v18/14-467.html) | [pdf](https://www.jmlr.org/papers/volume18/14-467/14-467.pdf) ]
 
-Popovici, E., 2017. Bridging supervised learning and test-based co-optimization. Journal of Machine Learning Research, 18(1), pp.1255-1293. [ [www](https://www.jmlr.org/papers/v18/16-223.html) | [pdf](https://www.jmlr.org/papers/volume18/16-223/16-223.pdf) ]
+Popovici, E., 2017. Bridging supervised learning and test-based co-optimization. Journal of Machine Learning Research, 18(38), pp.1-39. [ [www](https://www.jmlr.org/papers/v18/16-223.html) | [pdf](https://www.jmlr.org/papers/volume18/16-223/16-223.pdf) ]
 
 ## 2015
 
