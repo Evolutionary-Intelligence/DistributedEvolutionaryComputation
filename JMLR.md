@@ -48,6 +48,8 @@ Verbancsics, P. and Stanley, K.O., 2010. Evolving static representations for tas
 
 ## 2009
 
+Gorissen, D., Dhaene, T. and De Turck, F., 2009. Evolutionary model type selection for global surrogate modeling. Journal of Machine Learning Research, 10(71), pp.2039-2078. [ [www](https://www.jmlr.org/papers/v10/gorissen09a.html) | [pdf](https://www.jmlr.org/papers/volume10/gorissen09a/gorissen09a.pdf) ]
+
 Escalante, H.J., Montes, M. and Sucar, L.E., 2009. Particle swarm model selection. Journal of Machine Learning Research, 10(2). [ [www](https://www.jmlr.org/papers/v10/escalante09a.html) | [pdf](https://www.jmlr.org/papers/volume10/escalante09a/escalante09a.pdf) ]
 
 ## 2008
