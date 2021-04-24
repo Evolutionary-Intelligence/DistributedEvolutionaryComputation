@@ -29,3 +29,7 @@ Khadka, S. and Tumer, K., 2018, December. Evolution-guided policy gradient in re
 ## 2015
 
 Qian, C., Yu, Y. and Zhou, Z.H., 2015. Subset selection by Pareto optimization. In Advances in Neural Information Processing Systems, 28, pp.1774-1782. [ [www](https://papers.nips.cc/paper/2015/hash/b4d168b48157c623fbd095b4a565b5bb-Abstract.html) | [pdf](https://papers.nips.cc/paper/2015/file/b4d168b48157c623fbd095b4a565b5bb-Paper.pdf) ]
+
+## 1996
+
+Baluja, S., 1996. Genetic algorithms and explicit search statistics. In Advances in Neural Information Processing Systems, pp.319-325. [ [www](https://proceedings.neurips.cc/paper/1996/hash/e6d8545daa42d5ced125a4bf747b3688-Abstract.html) | [pdf](https://papers.nips.cc/paper/1996/file/e6d8545daa42d5ced125a4bf747b3688-Paper.pdf) ]
