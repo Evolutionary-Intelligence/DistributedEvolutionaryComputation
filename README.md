@@ -21,6 +21,10 @@ This is a *growing* paper list for **parallel and distributed** evolutionary com
 
 * Levine, D., 1996. Users guide to the PGAPack parallel genetic algorithm library. Argonne National Laboratory, Technical Report. [ [pdf](https://ftp.mcs.anl.gov/pub/tech_reports/reports/ANL9518.pdf) | [C](https://ftp.mcs.anl.gov/pub/pgapack/) ]
 
+### PDEC on Apache Spark
+
+* Wen, Z., Lin, T., Yang, R., Ji, S., Ranjan, R., Romanovsky, A., Lin, C. and Xu, J., 2020. Ga-par: Dependable microservice orchestration framework for geo-distributed clouds. IEEE Transactions on Parallel and Distributed Systems, 31(1), pp.129-143. (-> 4)
+
 ## Research Support
 
 This *ongoing* review for PDEC is now supported by the **Shenzhen NSF** research project (from 2021 to 2023), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China).
