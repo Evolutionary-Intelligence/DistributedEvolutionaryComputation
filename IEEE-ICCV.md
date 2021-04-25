@@ -18,6 +18,6 @@ Arad, B. and Ben-Shahar, O., 2017. Filter selection for hyperspectral estimation
 
 ## 2015
 
-Tang, D., Taylor, J., Kohli, P., Keskin, C., Kim, T.K. and Shotton, J., 2015. Opening the black box: Hierarchical sampling optimization for estimating human hand pose. In Proceedings of the IEEE International Conference on Computer Vision (pp. 3325-3333). [ [www](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Tang_Opening_the_Black_ICCV_2015_paper.html) | [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tang_Opening_the_Black_ICCV_2015_paper.pdf) ]
+Tang, D., Taylor, J., Kohli, P., Keskin, C., Kim, T.K. and Shotton, J., 2015. Opening the black box: Hierarchical sampling optimization for estimating human hand pose. In Proceedings of the IEEE International Conference on Computer Vision (pp. 3325-3333). [ [www](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Tang_Opening_the_Black_ICCV_2015_paper.html) | [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tang_Opening_the_Black_ICCV_2015_paper.pdf) ] (**Particle Swarm Optimization**)
 
 Oberweger, M., Wohlhart, P. and Lepetit, V., 2015. Training a feedback loop for hand pose estimation. In Proceedings of the IEEE International Conference on Computer Vision (pp. 3316-3324). [ [www](https://openaccess.thecvf.com/content_iccv_2015/html/Oberweger_Training_a_Feedback_ICCV_2015_paper.html) | [pdf](https://openaccess.thecvf.com/content_iccv_2015/papers/Oberweger_Training_a_Feedback_ICCV_2015_paper.pdf) ] (**Baseline: Particle Swarm Optimization**)
