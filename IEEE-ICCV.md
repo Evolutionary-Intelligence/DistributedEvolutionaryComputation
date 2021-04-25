@@ -16,6 +16,8 @@ Xie, L. and Yuille, A., 2017. Genetic cnn. In Proceedings of the IEEE Internatio
 
 Arad, B. and Ben-Shahar, O., 2017. Filter selection for hyperspectral estimation. In Proceedings of the IEEE International Conference on Computer Vision (pp. 3153-3161). [ [www](https://openaccess.thecvf.com/content_iccv_2017/html/Arad_Filter_Selection_for_ICCV_2017_paper.html) | [pdf](https://openaccess.thecvf.com/content_ICCV_2017/papers/Arad_Filter_Selection_for_ICCV_2017_paper.pdf) ]
 
+Qi, S., Huang, S., Wei, P. and Zhu, S.C., 2017. Predicting human activities using stochastic grammar. In Proceedings of the IEEE International Conference on Computer Vision (pp. 1164-1172). [ [www](https://openaccess.thecvf.com/content_iccv_2017/html/Qi_Predicting_Human_Activities_ICCV_2017_paper.html) | [pdf](https://openaccess.thecvf.com/content_ICCV_2017/papers/Qi_Predicting_Human_Activities_ICCV_2017_paper.pdf) ] (**Simulated Annealing**)
+
 ## 2015
 
 Meyer, G.P., Gupta, S., Frosio, I., Reddy, D. and Kautz, J., 2015. Robust model-based 3d head pose estimation. In Proceedings of the IEEE International Conference on Computer Vision (pp. 3649-3657). [ [www](https://openaccess.thecvf.com/content_iccv_2015/html/Meyer_Robust_Model-Based_3D_ICCV_2015_paper.html) | [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Meyer_Robust_Model-Based_3D_ICCV_2015_paper.pdf) ] (**Particle Swarm Optimization**)
