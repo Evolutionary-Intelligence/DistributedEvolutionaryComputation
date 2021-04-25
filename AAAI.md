@@ -5,3 +5,7 @@
 Real, E., Aggarwal, A., Huang, Y. and Le, Q.V., 2019, July. Regularized evolution for image classifier architecture search. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 4780-4789). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/4405) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4405/4283) ]
 
 Feng, C., Qian, C. and Tang, K., 2019, July. Unsupervised feature selection by Pareto optimization. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 3534-3541). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/4232) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4232/4110) ]
+
+## 1990
+
+Kitano, H., 1990, July. Empirical studies on the speed of convergence of neural network training using genetic algorithms. In Proceedings of the AAAI Conference on Artificial Intelligence (pp. 789-795). [ [pdf](https://www.aaai.org/Papers/AAAI/1990/AAAI90-118.pdf) ]
