@@ -71,3 +71,7 @@ Bongard, J. and Lipson, H., 2005. Active coevolutionary learning of deterministi
 ## 2000
 
 Boyan, J. and Moore, A.W., 2000. Learning evaluation functions to improve optimization by local search. Journal of Machine Learning Research, 1(Nov), pp.77-112. [ [www](https://www.jmlr.org/papers/v1/boyan00a.html) | [pdf](https://www.jmlr.org/papers/volume1/boyan00a/boyan00a.pdf) ]
+
+## 1993
+
+Forrest, S. and Mitchell, M., 1993. What makes a problem hard for a genetic algorithm? Some anomalous results and their explanation. Machine Learning, 13(2-3), pp.285-319. [ [www](https://link.springer.com/article/10.1007/BF00993046) | [pdf](https://link.springer.com/content/pdf/10.1007/BF00993046.pdf) ]
