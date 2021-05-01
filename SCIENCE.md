@@ -8,6 +8,8 @@ Aguilar, J., Monaenkova, D., Linevich, V., Savoie, W., Dutta, B., Kuan, H.S., Be
 
 Schmidt, M. and Lipson, H., 2009. Distilling free-form natural laws from experimental data. Science, 324(5923), pp.81-85. [ [www](https://science.sciencemag.org/content/324/5923/81.abstract) ]
 
+Hornby, G.S. and Kurtoglu, T., 2009. Toward a smarter Web. Science, 325(5938), pp.277-278. [ [www](https://science.sciencemag.org/content/325/5938/277.summary) ]
+
 ## 1993
 
 Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878. [ [www](https://science.sciencemag.org/content/261/5123/872.abstract) ]
