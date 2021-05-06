@@ -1,5 +1,9 @@
 # IJCV (International Journal of Computer Vision)
 
+## 2018
+
+Gonzalez-Garcia, A., Modolo, D. and Ferrari, V., 2018. Do semantic parts emerge in convolutional neural networks?. International Journal of Computer Vision, 126(5), pp.476-494. [ [www](https://link.springer.com/article/10.1007/s11263-017-1048-0) ] (**GA**)
+
 ## 2017
 
 Jeon, H.G., Lee, J.Y., Han, Y., Kim, S.J. and Kweon, I.S., 2017. Generating fluttering patterns with low autocorrelation for coded exposure imaging. International Journal of Computer Vision, 123(2), pp.269-286. [ [www](https://link.springer.com/article/10.1007/s11263-016-0976-4) ]
