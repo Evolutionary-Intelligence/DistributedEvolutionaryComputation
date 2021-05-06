@@ -15,3 +15,5 @@ Pickup, D., Sun, X., Rosin, P.L., Martin, R.R., Cheng, Z., Lian, Z., Aono, M., H
 ## 2015
 
 Zhang, X., Hu, W., Xie, N., Bao, H. and Maybank, S., 2015. A robust tracking system for low frame rate video. International Journal of Computer Vision, 115(3), pp.279-304. [ [www](https://link.springer.com/article/10.1007/s11263-015-0819-8) ] (**PSO**)
+
+Cirujeda, P., Cid, Y.D., Mateo, X. and Binefa, X., 2015. A 3D scene registration method via covariance descriptors and an evolutionary stable strategy game theory solver. International Journal of Computer Vision, 115(3), pp.306-329. [ [www](https://link.springer.com/article/10.1007/s11263-015-0820-2) ] (**EGT**)
