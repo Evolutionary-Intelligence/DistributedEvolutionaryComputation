@@ -22,7 +22,7 @@ Santander-Jimenez, S. and Vega-Rodríguez, M.A., 2017. Asynchronous non-generati
 
 Zhan, Z.H., Liu, X.F., Zhang, H., Yu, Z., Weng, J., Li, Y., Gu, T. and Zhang, J., 2017. Cloudde: A heterogeneous differential evolution algorithm and its distributed cloud version. IEEE Transactions on Parallel and Distributed Systems, 28(3), pp.704-716. [ [www](https://ieeexplore.ieee.org/abstract/document/7530859) | [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7530859) ]
 
-Wachowiak, M.P., Timson, M.C. and DuVal, D.J., 2017. Adaptive particle swarm optimization with heterogeneous multicore parallelism and GPU acceleration. IEEE Transactions on Parallel and Distributed Systems, 28(10), pp.2784-2793. [ [www](https://ieeexplore.ieee.org/abstract/document/7886331) ]
+Wachowiak, M.P., Timson, M.C. and DuVal, D.J., 2017. Adaptive particle swarm optimization with heterogeneous multicore parallelism and GPU acceleration. IEEE Transactions on Parallel and Distributed Systems, 28(10), pp.2784-2793. [ [www](https://ieeexplore.ieee.org/abstract/document/7886331) ] (**Parallel PSO on GPU**)
 
 Kan, G., Lei, T., Liang, K., Li, J., Ding, L., He, X., Yu, H., Zhang, D., Zuo, D., Bao, Z. and Amo-Boateng, M., 2017. A multi-core CPU and many-core GPU based fast parallel shuffled complex evolution global optimization approach. IEEE Transactions on Parallel and Distributed Systems, 28(2), pp.332-344. [ [www](https://ieeexplore.ieee.org/abstract/document/7491261) ]
 
