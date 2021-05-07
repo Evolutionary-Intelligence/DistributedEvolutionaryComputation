@@ -28,6 +28,8 @@ Cirujeda, P., Cid, Y.D., Mateo, X. and Binefa, X., 2015. A 3D scene registration
 
 Jordt, A. and Koch, R., 2013. Direct model-based tracking of 3d object deformations in depth and color video. International Journal of Computer Vision, 102(1-3), pp.239-255. [ [www](https://link.springer.com/article/10.1007/s11263-012-0572-1) ] (**CMA-ES**)
 
+Rodolà, E., Albarelli, A., Bergamasco, F. and Torsello, A., 2013. A scale independent selection process for 3d object recognition in cluttered scenes. International Journal of Computer Vision, 102(1), pp.129-145. [ [www](https://link.springer.com/article/10.1007/s11263-012-0568-x) ] (**EGT**)
+
 ## 2012
 
 Albarelli, A., Rodolà, E. and Torsello, A., 2012. Imposing semi-local geometric constraints for accurate correspondences selection in structure from motion: A game-theoretic perspective. International Journal of Computer Vision, 97(1), pp.36-53. [ [www](https://link.springer.com/article/10.1007/s11263-011-0432-4) ] (**EGT**)
