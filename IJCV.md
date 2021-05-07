@@ -4,6 +4,8 @@
 
 Gonzalez-Garcia, A., Modolo, D. and Ferrari, V., 2018. Do semantic parts emerge in convolutional neural networks?. International Journal of Computer Vision, 126(5), pp.476-494. [ [www](https://link.springer.com/article/10.1007/s11263-017-1048-0) ] (**GA**)
 
+Qin, Y., Feng, M., Lu, H. and Cottrell, G.W., 2018. Hierarchical cellular automata for visual saliency. International Journal of Computer Vision, 126(7), pp.751-770. [ [www](https://link.springer.com/article/10.1007/s11263-017-1062-2) ] (**CA**)
+
 ## 2017
 
 Jeon, H.G., Lee, J.Y., Han, Y., Kim, S.J. and Kweon, I.S., 2017. Generating fluttering patterns with low autocorrelation for coded exposure imaging. International Journal of Computer Vision, 123(2), pp.269-286. [ [www](https://link.springer.com/article/10.1007/s11263-016-0976-4) ]
@@ -20,4 +22,4 @@ Cirujeda, P., Cid, Y.D., Mateo, X. and Binefa, X., 2015. A 3D scene registration
 
 ## 2013
 
-Jordt, A. and Koch, R., 2013. Direct model-based tracking of 3d object deformations in depth and color video. International journal of computer vision, 102(1-3), pp.239-255. [ [www](https://link.springer.com/article/10.1007/s11263-012-0572-1) ] (**CMA-ES**)
+Jordt, A. and Koch, R., 2013. Direct model-based tracking of 3d object deformations in depth and color video. International Journal of Computer Vision, 102(1-3), pp.239-255. [ [www](https://link.springer.com/article/10.1007/s11263-012-0572-1) ] (**CMA-ES**)
