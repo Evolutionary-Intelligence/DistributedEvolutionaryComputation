@@ -1,5 +1,9 @@
 # IJCV (International Journal of Computer Vision)
 
+## 2021
+
+Li, Z., Xi, T., Zhang, G., Liu, J. and He, R., 2021. AutoDet: Pyramid network architecture search for object detection. International Journal of Computer Vision, 129(4), pp.1087-1105. [ [www](https://link.springer.com/article/10.1007/s11263-020-01415-x) ]
+
 ## 2018
 
 Gonzalez-Garcia, A., Modolo, D. and Ferrari, V., 2018. Do semantic parts emerge in convolutional neural networks?. International Journal of Computer Vision, 126(5), pp.476-494. [ [www](https://link.springer.com/article/10.1007/s11263-017-1048-0) ] (**GA**)
