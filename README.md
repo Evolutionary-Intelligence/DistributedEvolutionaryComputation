@@ -10,6 +10,7 @@ This is a *growing* paper list for **parallel and distributed** evolutionary com
 | **[IEEE-TPDS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)** | 2015 | PDEC | Youkui Zhang, Mingyang Feng, Qiqi Duan |
 | **[JMLR](https://jmlr.org/)** | 2000 | EC | Mingyang Feng, Minghan Zhang, Qiqi Duan |
 | **[ECJ](https://direct.mit.edu/evco)** | 1993 | PDEC | Chang Shao, Minghan Zhang, Qiqi Duan |
+| **[IJCV](https://www.springer.com/journal/11263)** | 2010 | EC | Minghan Zhang, Mingyang Feng, Qiqi Duan |
 
 ## Local Searching
 
