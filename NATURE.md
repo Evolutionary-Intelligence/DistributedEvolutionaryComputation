@@ -20,7 +20,7 @@ Lenski, R.E., Ofria, C., Pennock, R.T. and Adami, C., 2003. The evolutionary ori
 
 ## 2000
 
-Lipson, H. and Pollack, J.B., 2000. Automatic design and manufacture of robotic lifeforms. Nature, 406(6799), pp.974-978. [ [www](https://www.nature.com/articles/35023115) ] (**Parallel ES/EP | NeuroEvolution**)
+Lipson, H. and Pollack, J.B., 2000. Automatic design and manufacture of robotic lifeforms. Nature, 406(6799), pp.974-978. [ [www](https://www.nature.com/articles/35023115) | [Project - Golem](http://demo.cs.brandeis.edu/golem/) ] (**Parallel ES/EP | NeuroEvolution**)
 
 ## 1999
 
