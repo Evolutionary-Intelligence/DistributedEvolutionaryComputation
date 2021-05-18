@@ -2,7 +2,7 @@
 
 ## 2020
 
-Austin, J., Corrales-Fatou, R., Wyetzner, S. and Lipson, H., 2020, May. Titan: A parallel asynchronous library for multi-agent and soft-body robotics using nvidia cuda. In Proceedings of International Conference on Robotics and Automation (pp. 7754-7760). IEEE. [ [www](https://ieeexplore.ieee.org/abstract/document/9196808) ]
+Austin, J., Corrales-Fatou, R., Wyetzner, S. and Lipson, H., 2020, May. Titan: A parallel asynchronous library for multi-agent and soft-body robotics using nvidia cuda. In Proceedings of International Conference on Robotics and Automation (pp. 7754-7760). IEEE. [ [www](https://ieeexplore.ieee.org/abstract/document/9196808) | [CUDA](https://github.com/jacobaustin123/Titan) ]
 
 ## 1997
 
