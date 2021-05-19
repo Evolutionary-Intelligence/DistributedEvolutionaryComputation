@@ -6,6 +6,8 @@ Angermueller, C., Belanger, D., Gane, A., Mariet, Z., Dohan, D., Murphy, K., Col
 
 Pacchiano, A., Parker-Holder, J., Tang, Y., Choromanski, K., Choromanska, A. and Jordan, M., 2020, November. Learning to score behaviors for guided policy optimization. In International Conference on Machine Learning (pp. 7445-7454). PMLR. [ [www](http://proceedings.mlr.press/v119/pacchiano20a.html) | [pdf](http://proceedings.mlr.press/v119/pacchiano20a/pacchiano20a.pdf) | [Python](https://github.com/behaviorguidedRL/BGRL) ]
 
+Li, C. and Sun, Z., 2020, November. Evolutionary topology search for tensor network decomposition. In International Conference on Machine Learning (pp. 5947-5957). PMLR. [ [www](http://proceedings.mlr.press/v119/li20l.html) | [pdf](http://proceedings.mlr.press/v119/li20l/li20l.pdf) | [Python](https://github.com/minogame/icml2020-TNGA) ]
+
 ## 2018
 
 Suganuma, M., Ozay, M. and Okatani, T., 2018, July. Exploiting the potential of standard convolutional autoencoders for image restoration by evolutionary search. In International Conference on Machine Learning (pp. 4771-4780). PMLR. [ [www](http://proceedings.mlr.press/v80/suganuma18a.html) | [pdf](http://proceedings.mlr.press/v80/suganuma18a/suganuma18a.pdf) | [Python](https://github.com/sg-nm/Evolutionary-Autoencoders) ]
