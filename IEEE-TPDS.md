@@ -8,7 +8,7 @@ Ye, Q., Sun, Y., Zhang, J. and Lv, J.C., 2021. A distributed framework for EA-ba
 
 ## 2020
 
-Wen, Z., Lin, T., Yang, R., Ji, S., Ranjan, R., Romanovsky, A., Lin, C. and Xu, J., 2020. Ga-par: Dependable microservice orchestration framework for geo-distributed clouds. IEEE Transactions on Parallel and Distributed Systems, 31(1), pp.129-143. [ [www](https://ieeexplore.ieee.org/abstract/document/8766876) ] (**Distributed GA on Apache Spark**)
+Wen, Z., Lin, T., Yang, R., Ji, S., Ranjan, R., Romanovsky, A., Lin, C. and Xu, J., 2020. Ga-par: Dependable microservice orchestration framework for geo-distributed clouds. IEEE Transactions on Parallel and Distributed Systems, 31(1), pp.129-143. [ [www](https://ieeexplore.ieee.org/abstract/document/8766876) ] (**Distributed GA on Google Cloud**)
 
 ## 2019
 
