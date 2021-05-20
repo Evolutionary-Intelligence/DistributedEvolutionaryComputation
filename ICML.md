@@ -6,6 +6,8 @@ Angermueller, C., Belanger, D., Gane, A., Mariet, Z., Dohan, D., Murphy, K., Col
 
 Pacchiano, A., Parker-Holder, J., Tang, Y., Choromanski, K., Choromanska, A. and Jordan, M., 2020, November. Learning to score behaviors for guided policy optimization. In International Conference on Machine Learning (pp. 7445-7454). PMLR. [ [www](http://proceedings.mlr.press/v119/pacchiano20a.html) | [pdf](http://proceedings.mlr.press/v119/pacchiano20a/pacchiano20a.pdf) | [Python](https://github.com/behaviorguidedRL/BGRL) ]
 
+Majumdar, S., Khadka, S., Miret, S., Mcaleer, S. and Tumer, K., 2020, November. Evolutionary reinforcement learning for sample-efficient multiagent coordination. In International Conference on Machine Learning (pp. 6651-6660). PMLR. [ [www](http://proceedings.mlr.press/v119/majumdar20a.html) | [pdf](http://proceedings.mlr.press/v119/majumdar20a/majumdar20a.pdf) | [Python](https://anonymous.4open.science/repository/1590ffb0-aa6b-4838-9d59-ae20cdd8df11/README.md) ]
+
 Li, C. and Sun, Z., 2020, November. Evolutionary topology search for tensor network decomposition. In International Conference on Machine Learning (pp. 5947-5957). PMLR. [ [www](http://proceedings.mlr.press/v119/li20l.html) | [pdf](http://proceedings.mlr.press/v119/li20l/li20l.pdf) | [Python](https://github.com/minogame/icml2020-TNGA) ]
 
 ## 2018
