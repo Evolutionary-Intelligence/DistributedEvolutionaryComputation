@@ -2,6 +2,8 @@
 
 ## 2020
 
+Real, E., Liang, C., So, D. and Le, Q., 2020, November. AutoML-zero: Evolving machine learning algorithms from scratch. In International Conference on Machine Learning (pp. 8007-8019). PMLR. [ [www](http://proceedings.mlr.press/v119/real20a.html) | [pdf](http://proceedings.mlr.press/v119/real20a/real20a.pdf) | [C++](https://github.com/google-research/google-research/tree/master/automl_zero) ]
+
 Angermueller, C., Belanger, D., Gane, A., Mariet, Z., Dohan, D., Murphy, K., Colwell, L. and Sculley, D., 2020, November. Population-based black-box optimization for biological sequence design. In International Conference on Machine Learning (pp. 324-334). PMLR. [ [www](http://proceedings.mlr.press/v119/angermueller20a.html) | [pdf](http://proceedings.mlr.press/v119/angermueller20a/angermueller20a.pdf) ]
 
 Pacchiano, A., Parker-Holder, J., Tang, Y., Choromanski, K., Choromanska, A. and Jordan, M., 2020, November. Learning to score behaviors for guided policy optimization. In International Conference on Machine Learning (pp. 7445-7454). PMLR. [ [www](http://proceedings.mlr.press/v119/pacchiano20a.html) | [pdf](http://proceedings.mlr.press/v119/pacchiano20a/pacchiano20a.pdf) | [Python](https://github.com/behaviorguidedRL/BGRL) ]
