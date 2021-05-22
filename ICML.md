@@ -18,6 +18,8 @@ Xu, J., Tian, Y., Ma, P., Rus, D., Sueda, S. and Matusik, W., 2020, November. Pr
 
 ## 2019
 
+So, D., Le, Q. and Liang, C., 2019, May. The evolved transformer. In International Conference on Machine Learning (pp. 5877-5886). PMLR. [ [www](http://proceedings.mlr.press/v97/so19a.html) | [pdf](http://proceedings.mlr.press/v97/so19a/so19a.pdf) | [Python](https://github.com/tensorflow/tensor2tensor/blob/adf76adc8f45e1899e41808c860f509f633b18b3/tensor2tensor/models/evolved_transformer.py) ]
+
 Khadka, S., Majumdar, S., Nassar, T., Dwiel, Z., Tumer, E., Miret, S., Liu, Y. and Tumer, K., 2019, May. Collaborative evolutionary reinforcement learning. In International Conference on Machine Learning (pp. 3341-3350). PMLR. [ [www](http://proceedings.mlr.press/v97/khadka19a.html) | [pdf](http://proceedings.mlr.press/v97/khadka19a/khadka19a.pdf) | [Python](https://github.com/IntelAI/cerl) ]
 
 Maheswaranathan, N., Metz, L., Tucker, G., Choi, D. and Sohl-Dickstein, J., 2019, May. Guided evolutionary strategies: Augmenting random search with surrogate gradients. In International Conference on Machine Learning (pp. 4264-4273). PMLR. [ [www](http://proceedings.mlr.press/v97/maheswaranathan19a.html) | [pdf](http://proceedings.mlr.press/v97/maheswaranathan19a/maheswaranathan19a.pdf) | [Python](https://github.com/brain-research/guided-evolutionary-strategies) ]
