@@ -20,6 +20,8 @@ Xu, J., Tian, Y., Ma, P., Rus, D., Sueda, S. and Matusik, W., 2020, November. Pr
 
 Khadka, S., Majumdar, S., Nassar, T., Dwiel, Z., Tumer, E., Miret, S., Liu, Y. and Tumer, K., 2019, May. Collaborative evolutionary reinforcement learning. In International Conference on Machine Learning (pp. 3341-3350). PMLR. [ [www](http://proceedings.mlr.press/v97/khadka19a.html) | [pdf](http://proceedings.mlr.press/v97/khadka19a/khadka19a.pdf) | [Python](https://github.com/IntelAI/cerl) ]
 
+Maheswaranathan, N., Metz, L., Tucker, G., Choi, D. and Sohl-Dickstein, J., 2019, May. Guided evolutionary strategies: Augmenting random search with surrogate gradients. In International Conference on Machine Learning (pp. 4264-4273). PMLR. [ [www](http://proceedings.mlr.press/v97/maheswaranathan19a.html) | [pdf](http://proceedings.mlr.press/v97/maheswaranathan19a/maheswaranathan19a.pdf) | [Python](https://github.com/brain-research/guided-evolutionary-strategies) ]
+
 ## 2018
 
 Suganuma, M., Ozay, M. and Okatani, T., 2018, July. Exploiting the potential of standard convolutional autoencoders for image restoration by evolutionary search. In International Conference on Machine Learning (pp. 4771-4780). PMLR. [ [www](http://proceedings.mlr.press/v80/suganuma18a.html) | [pdf](http://proceedings.mlr.press/v80/suganuma18a/suganuma18a.pdf) | [Python](https://github.com/sg-nm/Evolutionary-Autoencoders) ]
