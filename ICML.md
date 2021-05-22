@@ -22,6 +22,8 @@ Khadka, S., Majumdar, S., Nassar, T., Dwiel, Z., Tumer, E., Miret, S., Liu, Y. a
 
 Maheswaranathan, N., Metz, L., Tucker, G., Choi, D. and Sohl-Dickstein, J., 2019, May. Guided evolutionary strategies: Augmenting random search with surrogate gradients. In International Conference on Machine Learning (pp. 4264-4273). PMLR. [ [www](http://proceedings.mlr.press/v97/maheswaranathan19a.html) | [pdf](http://proceedings.mlr.press/v97/maheswaranathan19a/maheswaranathan19a.pdf) | [Python](https://github.com/brain-research/guided-evolutionary-strategies) ]
 
+Ho, D., Liang, E., Chen, X., Stoica, I. and Abbeel, P., 2019, May. Population based augmentation: Efficient learning of augmentation policy schedules. In International Conference on Machine Learning (pp. 2731-2741). PMLR. [ [www](http://proceedings.mlr.press/v97/ho19b.html) | [pdf](http://proceedings.mlr.press/v97/ho19b/ho19b.pdf) | [Python](https://github.com/arcelien/pba) ]
+
 ## 2018
 
 Suganuma, M., Ozay, M. and Okatani, T., 2018, July. Exploiting the potential of standard convolutional autoencoders for image restoration by evolutionary search. In International Conference on Machine Learning (pp. 4771-4780). PMLR. [ [www](http://proceedings.mlr.press/v80/suganuma18a.html) | [pdf](http://proceedings.mlr.press/v80/suganuma18a/suganuma18a.pdf) | [Python](https://github.com/sg-nm/Evolutionary-Autoencoders) ]
