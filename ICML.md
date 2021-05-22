@@ -33,3 +33,7 @@ Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. Stochastic sea
 ## 1995
 
 Baluja, S. and Caruana, R., 1995. Removing the genetics from the standard genetic algorithm. In International Conference on Machine Learning (pp. 38-46). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603776500141) ]
+
+## 1993
+
+Baluja, S., 1993, July. The evolution of genetic algorithms: Towards massive parallelism. In International Conference on Machine Learning (pp. 1-8). [ [www](https://dl.acm.org/doi/abs/10.5555/3091529.3091530) ]
