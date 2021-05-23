@@ -1,4 +1,4 @@
-# NeurIPS
+# NeurIPS (Neural Information Processing Systems)
 
 ## 2020
 
@@ -11,6 +11,8 @@ Lee, K., Lee, B.U., Shin, U. and Kweon, I.S., 2020. An efficient asynchronous me
 Parker-Holder, J., Nguyen, V. and Roberts, S.J., 2020. Provably efficient online hyperparameter optimization with population-based bandits. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2020/hash/c7af0926b294e47e52e46cfebe173f20-Abstract.html) | [pdf](https://papers.nips.cc/paper/2020/file/c7af0926b294e47e52e46cfebe173f20-Paper.pdf) | [Python](https://github.com/jparkerholder/PB2) ]
 
 Confavreux, B., Zenke, F., Agnes, E.J., Lillicrap, T. and Vogels, T.P., 2020. A meta-learning approach to (re)discover plasticity rules that carve a desired function into a neural network. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2020/hash/bdbd5ebfde4934142c8a88e7a3796cd5-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/bdbd5ebfde4934142c8a88e7a3796cd5-Paper.pdf) ]
+
+Barbalau, A., Cosma, A., Ionescu, R.T. and Popescu, M., 2020. Black-box ripper: Copying black-box models using generative evolutionary algorithms. In Advances in Neural Information Processing Systems, 33. [ [www](https://proceedings.neurips.cc//paper_files/paper/2020/hash/e8d66338fab3727e34a9179ed8804f64-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/e8d66338fab3727e34a9179ed8804f64-Paper.pdf) | [Python](https://github.com/antoniobarbalau/black-box-ripper) ]
 
 ## 2019
 
