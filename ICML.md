@@ -32,6 +32,8 @@ Ho, D., Liang, E., Chen, X., Stoica, I. and Abbeel, P., 2019, May. Population ba
 
 Choromanski, K., Rowland, M., Sindhwani, V., Turner, R. and Weller, A., 2018, July. Structured evolution with compact architectures for scalable policy optimization. In International Conference on Machine Learning (pp. 970-978). PMLR. [ [www](http://proceedings.mlr.press/v80/choromanski18a.html) | [pdf](http://proceedings.mlr.press/v80/choromanski18a/choromanski18a.pdf) ]
 
+Miconi, T., Stanley, K. and Clune, J., 2018, July. Differentiable plasticity: Training plastic neural networks with backpropagation. In International Conference on Machine Learning (pp. 3559-3568). PMLR. [ [www](http://proceedings.mlr.press/v80/miconi18a.html) | [pdf](http://proceedings.mlr.press/v80/miconi18a/miconi18a.pdf) ]
+
 Suganuma, M., Ozay, M. and Okatani, T., 2018, July. Exploiting the potential of standard convolutional autoencoders for image restoration by evolutionary search. In International Conference on Machine Learning (pp. 4771-4780). PMLR. [ [www](http://proceedings.mlr.press/v80/suganuma18a.html) | [pdf](http://proceedings.mlr.press/v80/suganuma18a/suganuma18a.pdf) | [Python](https://github.com/sg-nm/Evolutionary-Autoencoders) ]
 
 Pham, H., Guan, M., Zoph, B., Le, Q. and Dean, J., 2018, July. Efficient neural architecture search via parameters sharing. In International Conference on Machine Learning (pp. 4095-4104). PMLR. [ [www](http://proceedings.mlr.press/v80/pham18a.html) | [pdf](http://proceedings.mlr.press/v80/pham18a/pham18a.pdf) ]
