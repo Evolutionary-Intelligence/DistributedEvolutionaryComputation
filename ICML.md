@@ -38,6 +38,8 @@ Pham, H., Guan, M., Zoph, B., Le, Q. and Dean, J., 2018, July. Efficient neural 
 
 Colas, C., Sigaud, O. and Oudeyer, P.Y., 2018, July. Gep-pg: Decoupling exploration and exploitation in deep reinforcement learning algorithms. In International Conference on Machine Learning (pp. 1039-1048). PMLR. [ [www](http://proceedings.mlr.press/v80/colas18a.html) | [pdf](http://proceedings.mlr.press/v80/colas18a/colas18a.pdf) | [Python](https://github.com/flowersteam/geppg) ]
 
+Dai, H., Li, H., Tian, T., Huang, X., Wang, L., Zhu, J. and Song, L., 2018, July. Adversarial attack on graph structured data. In International Conference on Machine Learning (pp. 1115-1124). PMLR. [ [www](http://proceedings.mlr.press/v80/dai18b.html) | [pdf](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf) ]
+
 ## 2017
 
 Real, E., Moore, S., Selle, A., Saxena, S., Suematsu, Y.L., Tan, J., Le, Q.V. and Kurakin, A., 2017, July. Large-scale evolution of image classifiers. In International Conference on Machine Learning (pp. 2902-2911). PMLR. [ [www](http://proceedings.mlr.press/v70/real17a.html) | [pdf](http://proceedings.mlr.press/v70/real17a/real17a.pdf) ]
