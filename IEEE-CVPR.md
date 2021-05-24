@@ -7,3 +7,7 @@ Lu, Z., Deb, K. and Boddeti, V.N., 2020. Muxconv: Information multiplexing in co
 ## 2014
 
 Qian, C., Sun, X., Wei, Y., Tang, X. and Sun, J., 2014. Realtime and robust hand tracking from depth. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 1106-1113). [ [www](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Qian_Realtime_and_Robust_2014_CVPR_paper.html) | [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Qian_Realtime_and_Robust_2014_CVPR_paper.pdf) ]
+
+## 2013
+
+Kyriazis, N. and Argyros, A., 2013. Physically plausible 3d scene tracking: The single actor hypothesis. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 9-16). [ [www](https://openaccess.thecvf.com/content_cvpr_2013/html/Kyriazis_Physically_Plausible_3D_2013_CVPR_paper.html) | [pdf](https://openaccess.thecvf.com/content_cvpr_2013/papers/Kyriazis_Physically_Plausible_3D_2013_CVPR_paper.pdf) ]
