@@ -12,7 +12,9 @@ Parker-Holder, J., Nguyen, V. and Roberts, S.J., 2020. Provably efficient online
 
 Confavreux, B., Zenke, F., Agnes, E.J., Lillicrap, T. and Vogels, T.P., 2020. A meta-learning approach to (re)discover plasticity rules that carve a desired function into a neural network. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2020/hash/bdbd5ebfde4934142c8a88e7a3796cd5-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/bdbd5ebfde4934142c8a88e7a3796cd5-Paper.pdf) ]
 
-Barbalau, A., Cosma, A., Ionescu, R.T. and Popescu, M., 2020. Black-box ripper: Copying black-box models using generative evolutionary algorithms. In Advances in Neural Information Processing Systems, 33. [ [www](https://proceedings.neurips.cc//paper_files/paper/2020/hash/e8d66338fab3727e34a9179ed8804f64-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/e8d66338fab3727e34a9179ed8804f64-Paper.pdf) | [Python](https://github.com/antoniobarbalau/black-box-ripper) ]
+Barbalau, A., Cosma, A., Ionescu, R.T. and Popescu, M., 2020. Black-box ripper: Copying black-box models using generative evolutionary algorithms. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc//paper_files/paper/2020/hash/e8d66338fab3727e34a9179ed8804f64-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/e8d66338fab3727e34a9179ed8804f64-Paper.pdf) | [Python](https://github.com/antoniobarbalau/black-box-ripper) ]
+
+Ahn, S.S., Kim, J., Lee, H. and Shin, J., 2020. Guiding deep molecular optimization with genetic exploration. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc//paper/2020/hash/8ba6c657b03fc7c8dd4dff8e45defcd2-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/8ba6c657b03fc7c8dd4dff8e45defcd2-Paper.pdf) | [Python](https://github.com/sungsoo-ahn/genetic-expert-guided-learning) ]
 
 ## 2019
 
