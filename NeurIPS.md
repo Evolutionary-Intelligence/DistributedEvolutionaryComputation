@@ -16,6 +16,8 @@ Barbalau, A., Cosma, A., Ionescu, R.T. and Popescu, M., 2020. Black-box ripper: 
 
 Ahn, S.S., Kim, J., Lee, H. and Shin, J., 2020. Guiding deep molecular optimization with genetic exploration. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc//paper/2020/hash/8ba6c657b03fc7c8dd4dff8e45defcd2-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/8ba6c657b03fc7c8dd4dff8e45defcd2-Paper.pdf) | [Python](https://github.com/sungsoo-ahn/genetic-expert-guided-learning) ]
 
+Etcheverry, M., Moulin-Frier, C. and Oudeyer, P.Y., 2020. Hierarchically organized latent modules for exploratory search in morphogenetic systems. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2020/hash/33a5435d4f945aa6154b31a73bab3b73-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/33a5435d4f945aa6154b31a73bab3b73-Paper.pdf) | [Python](https://mayalene.github.io/holmes/) ]
+
 ## 2019
 
 Choromanski, K., Pacchiano, A., Parker-Holder, J. and Tang, Y., 2019. From complexity to simplicity: Adaptive es-active subspaces for blackbox optimization. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2019/hash/88bade49e98db8790df275fcebb37a13-Abstract.html) | [pdf](https://papers.nips.cc/paper/2019/file/88bade49e98db8790df275fcebb37a13-Paper.pdf) | [Python](https://github.com/jparkerholder/ASEBO) ]
