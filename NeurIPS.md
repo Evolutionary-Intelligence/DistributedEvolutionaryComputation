@@ -18,6 +18,8 @@ Ahn, S.S., Kim, J., Lee, H. and Shin, J., 2020. Guiding deep molecular optimizat
 
 Etcheverry, M., Moulin-Frier, C. and Oudeyer, P.Y., 2020. Hierarchically organized latent modules for exploratory search in morphogenetic systems. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2020/hash/33a5435d4f945aa6154b31a73bab3b73-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/33a5435d4f945aa6154b31a73bab3b73-Paper.pdf) | [Python](https://mayalene.github.io/holmes/) ]
 
+Liu, H., Brock, A., Simonyan, K. and Le, Q.V., 2020. Evolving normalization-activation layers. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2020/hash/9d4c03631b8b0c85ae08bf05eda37d0f-Abstract.html) | [pdf](https://papers.nips.cc/paper/2020/file/9d4c03631b8b0c85ae08bf05eda37d0f-Paper.pdf) | [Python](https://github.com/tensorflow/tpu/tree/master/models/official/resnet) ]
+
 ## 2019
 
 Choromanski, K., Pacchiano, A., Parker-Holder, J. and Tang, Y., 2019. From complexity to simplicity: Adaptive es-active subspaces for blackbox optimization. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2019/hash/88bade49e98db8790df275fcebb37a13-Abstract.html) | [pdf](https://papers.nips.cc/paper/2019/file/88bade49e98db8790df275fcebb37a13-Paper.pdf) | [Python](https://github.com/jparkerholder/ASEBO) ]
