@@ -6,7 +6,7 @@ Tang, D., Ye, Q., Yuan, S., Taylor, J., Kohli, P., Keskin, C., Kim, T.K. and Sho
 
 ## 2005
 
-Silva, L., Bellon, O.R.P. and Boyer, K.L., 2005. Precision range image registration using a robust surface interpenetration measure and enhanced genetic algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 27(5), pp.762-776. [ [www](https://ieeexplore.ieee.org/abstract/document/1407879) ]
+Silva, L., Bellon, O.R.P. and Boyer, K.L., 2005. Precision range image registration using a robust surface interpenetration measure and enhanced genetic algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 27(5), pp.762-776. [ [www](https://ieeexplore.ieee.org/abstract/document/1407879) ] (**Comparison: Parallel/Distributed MA**)
 
 ## 2004
 
