@@ -38,6 +38,8 @@ Khadka, S. and Tumer, K., 2018. Evolution-guided policy gradient in reinforcemen
 
 Chang, S., Yang, J., Choi, J. and Kwak, N., 2018. Genetic-gated networks for deep reinforcement learning. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2018/hash/d516b13671a4179d9b7b458a6ebdeb92-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2018/file/d516b13671a4179d9b7b458a6ebdeb92-Paper.pdf) ]
 
+Cui, X., Zhang, W., Tüske, Z. and Picheny, M., Evolutionary stochastic gradient descent for optimization of deep neural networks. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2018/hash/62da8c91ce7b10846231921795d6059e-Abstract.html) |[pdf](https://proceedings.neurips.cc/paper/2018/file/62da8c91ce7b10846231921795d6059e-Paper.pdf) | [Python](https://github.com/tqch/esgd-ws) ]
+
 ## 2015
 
 Qian, C., Yu, Y. and Zhou, Z.H., 2015. Subset selection by Pareto optimization. In Advances in Neural Information Processing Systems, 28, pp.1774-1782. [ [www](https://papers.nips.cc/paper/2015/hash/b4d168b48157c623fbd095b4a565b5bb-Abstract.html) | [pdf](https://papers.nips.cc/paper/2015/file/b4d168b48157c623fbd095b4a565b5bb-Paper.pdf) ]
