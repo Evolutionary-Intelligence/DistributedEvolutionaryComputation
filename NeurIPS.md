@@ -24,6 +24,8 @@ Liu, H., Brock, A., Simonyan, K. and Le, Q.V., 2020. Evolving normalization-acti
 
 Choromanski, K., Pacchiano, A., Parker-Holder, J. and Tang, Y., 2019. From complexity to simplicity: Adaptive es-active subspaces for blackbox optimization. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2019/hash/88bade49e98db8790df275fcebb37a13-Abstract.html) | [pdf](https://papers.nips.cc/paper/2019/file/88bade49e98db8790df275fcebb37a13-Paper.pdf) | [Python](https://github.com/jparkerholder/ASEBO) ]
 
+Cao, Y., Chen, T., Wang, Z. and Shen, Y., 2019. Learning to optimize in swarms. In Advances in Neural Information Processing Systems, 32, pp.15044-15054. [ [www](https://proceedings.neurips.cc/paper/2019/hash/ec04e8ebba7e132043e5b4832e54f070-Abstract.html) | [pdf](https://papers.nips.cc/paper/2019/file/ec04e8ebba7e132043e5b4832e54f070-Paper.pdf) | [C++](https://github.com/Shen-Lab/LOIS) ]
+
 ## 2018
 
 Ha, D. and Schmidhuber, J., 2018, December. Recurrent world models facilitate policy evolution. In Advances in Neural Information Processing Systems (pp. 2455-2467). [ [www](https://papers.nips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | [Python](https://github.com/hardmaru/WorldModelsExperiments) | [worldmodels.github.io](https://worldmodels.github.io/) ]
