@@ -24,17 +24,19 @@ Liu, H., Brock, A., Simonyan, K. and Le, Q.V., 2020. Evolving normalization-acti
 
 Choromanski, K., Pacchiano, A., Parker-Holder, J. and Tang, Y., 2019. From complexity to simplicity: Adaptive es-active subspaces for blackbox optimization. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2019/hash/88bade49e98db8790df275fcebb37a13-Abstract.html) | [pdf](https://papers.nips.cc/paper/2019/file/88bade49e98db8790df275fcebb37a13-Paper.pdf) | [Python](https://github.com/jparkerholder/ASEBO) ]
 
-Cao, Y., Chen, T., Wang, Z. and Shen, Y., 2019. Learning to optimize in swarms. In Advances in Neural Information Processing Systems, 32, pp.15044-15054. [ [www](https://proceedings.neurips.cc/paper/2019/hash/ec04e8ebba7e132043e5b4832e54f070-Abstract.html) | [pdf](https://papers.nips.cc/paper/2019/file/ec04e8ebba7e132043e5b4832e54f070-Paper.pdf) | [C++](https://github.com/Shen-Lab/LOIS) ]
+Cao, Y., Chen, T., Wang, Z. and Shen, Y., 2019. Learning to optimize in swarms. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2019/hash/ec04e8ebba7e132043e5b4832e54f070-Abstract.html) | [pdf](https://papers.nips.cc/paper/2019/file/ec04e8ebba7e132043e5b4832e54f070-Paper.pdf) | [C++](https://github.com/Shen-Lab/LOIS) ]
 
 ## 2018
 
-Ha, D. and Schmidhuber, J., 2018, December. Recurrent world models facilitate policy evolution. In Advances in Neural Information Processing Systems (pp. 2455-2467). [ [www](https://papers.nips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | [Python](https://github.com/hardmaru/WorldModelsExperiments) | [worldmodels.github.io](https://worldmodels.github.io/) ]
+Ha, D. and Schmidhuber, J., 2018, December. Recurrent world models facilitate policy evolution. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | [Python](https://github.com/hardmaru/WorldModelsExperiments) | [worldmodels.github.io](https://worldmodels.github.io/) ]
 
 Conti, E., Madhavan, V., Such, F.P., Lehman, J., Stanley, K.O. and Clune, J., 2018, January. Improving exploration in evolution strategies for deep reinforcement learning via a population of novelty-seeking agents. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2018/hash/b1301141feffabac455e1f90a7de2054-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/b1301141feffabac455e1f90a7de2054-Paper.pdf) | [Python](https://github.com/uber-research/deep-neuroevolution) ]
 
-Houthooft, R., Chen, R.Y., Isola, P., Stadie, B.C., Wolski, F., Ho, J. and Abbeel, P., 2018, December. Evolved policy gradients. In Advances in Neural Information Processing Systems (pp. 5405-5414). [ [www](https://papers.nips.cc/paper/2018/hash/7876acb66640bad41f1e1371ef30c180-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/7876acb66640bad41f1e1371ef30c180-Paper.pdf) | [Python](https://github.com/openai/EPG) | [blog](https://openai.com/blog/evolved-policy-gradients/) ]
+Houthooft, R., Chen, R.Y., Isola, P., Stadie, B.C., Wolski, F., Ho, J. and Abbeel, P., 2018, December. Evolved policy gradients. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2018/hash/7876acb66640bad41f1e1371ef30c180-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/7876acb66640bad41f1e1371ef30c180-Paper.pdf) | [Python](https://github.com/openai/EPG) | [blog](https://openai.com/blog/evolved-policy-gradients/) ]
 
 Khadka, S. and Tumer, K., 2018, December. Evolution-guided policy gradient in reinforcement learning. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2018/hash/85fc37b18c57097425b52fc7afbb6969-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/85fc37b18c57097425b52fc7afbb6969-Paper.pdf) | [Python](https://github.com/ShawK91/Evolutionary-Reinforcement-Learning) ]
+
+Chang, S., Yang, J., Choi, J. and Kwak, N., 2018. Genetic-gated networks for deep reinforcement learning. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2018/hash/d516b13671a4179d9b7b458a6ebdeb92-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2018/file/d516b13671a4179d9b7b458a6ebdeb92-Paper.pdf) ]
 
 ## 2015
 
