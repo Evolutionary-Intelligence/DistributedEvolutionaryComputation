@@ -2,7 +2,7 @@
 
 ## 2020
 
-Edelstein, M., Ezuz, D. and Ben-Chen, M., 2020. ENIGMA: Evolutionary non-isometric geometry MAtching. ACM Transactions on Graphics (TOG), 39(4), pp.112-1. [ [www](https://dl.acm.org/doi/abs/10.1145/3386569.3392447) | [pdf](https://dl.acm.org/doi/pdf/10.1145/3386569.3392447) ] (**GA**)
+Edelstein, M., Ezuz, D. and Ben-Chen, M., 2020. ENIGMA: Evolutionary non-isometric geometry matching. ACM Transactions on Graphics (TOG), 39(4), pp.112-1. [ [www](https://dl.acm.org/doi/abs/10.1145/3386569.3392447) | [pdf](https://dl.acm.org/doi/pdf/10.1145/3386569.3392447) ] (**GA**)
 
 ## 2019
 
