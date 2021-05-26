@@ -8,7 +8,7 @@ Angermueller, C., Belanger, D., Gane, A., Mariet, Z., Dohan, D., Murphy, K., Col
 
 Pacchiano, A., Parker-Holder, J., Tang, Y., Choromanski, K., Choromanska, A. and Jordan, M., 2020, November. Learning to score behaviors for guided policy optimization. In International Conference on Machine Learning (pp. 7445-7454). PMLR. [ [www](http://proceedings.mlr.press/v119/pacchiano20a.html) | [pdf](http://proceedings.mlr.press/v119/pacchiano20a/pacchiano20a.pdf) | [Python](https://github.com/behaviorguidedRL/BGRL) ]
 
-Goyal, A. and Deng, J., 2020, November. Packit: A virtual environment for geometric planning. In International Conference on Machine Learning (pp. 3700-3710). PMLR. [ [www](http://proceedings.mlr.press/v119/goyal20b.html) | [pdf](http://proceedings.mlr.press/v119/goyal20b/goyal20b.pdf) | [Python](https://github.com/princeton-vl/PackIt) ]
+Goyal, A. and Deng, J., 2020, November. Packit: A virtual environment for geometric planning. In International Conference on Machine Learning (pp. 3700-3710). PMLR. [ [www](http://proceedings.mlr.press/v119/goyal20b.html) | [pdf](http://proceedings.mlr.press/v119/goyal20b/goyal20b.pdf) | [Python](https://github.com/princeton-vl/PackIt) ] (**GA**)
 
 Majumdar, S., Khadka, S., Miret, S., Mcaleer, S. and Tumer, K., 2020, November. Evolutionary reinforcement learning for sample-efficient multiagent coordination. In International Conference on Machine Learning (pp. 6651-6660). PMLR. [ [www](http://proceedings.mlr.press/v119/majumdar20a.html) | [pdf](http://proceedings.mlr.press/v119/majumdar20a/majumdar20a.pdf) | [Python](https://anonymous.4open.science/repository/1590ffb0-aa6b-4838-9d59-ae20cdd8df11/README.md) ]
 
