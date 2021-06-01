@@ -30,6 +30,8 @@ This is a *growing* paper list for **parallel and distributed** evolutionary com
 
 * da Silva, C.P., Dias, D.M., Bentes, C., Pacheco, M.A.C. and Cupertino, L.F., 2015. Evolving GPU machine code. Journal of Machine Learning Research, 16, pp.673-712. (**-> 3, <- 1**)
 
+* Harding, S. and Banzhaf, W., 2007, April. Fast genetic programming on GPUs. In European Conference on Genetic Programming (pp. 90-101). Springer, Berlin, Heidelberg. (**-> 1, <- 3**)
+
 ### PDEC for Evolutionary Neural Architecture Search (NAS)
 
 * Ye, Q., Sun, Y., Zhang, J. and Lv, J.C., 2021. A distributed framework for EA-based NAS. IEEE Transactions on Parallel and Distributed Systems, 32(7), pp.975-987. (-> 8)
