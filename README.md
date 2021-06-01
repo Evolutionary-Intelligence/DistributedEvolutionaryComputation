@@ -26,6 +26,10 @@ This is a *growing* paper list for **parallel and distributed** evolutionary com
 
 * Levine, D., 1996. Users guide to the PGAPack parallel genetic algorithm library. Argonne National Laboratory, Technical Report. [ [pdf](https://ftp.mcs.anl.gov/pub/tech_reports/reports/ANL9518.pdf) | [C](https://ftp.mcs.anl.gov/pub/pgapack/) ]
 
+#### Genetic Programming (GP)
+
+* da Silva, C.P., Dias, D.M., Bentes, C., Pacheco, M.A.C. and Cupertino, L.F., 2015. Evolving GPU machine code. Journal of Machine Learning Research, 16, pp.673-712. (**-> 3, <- 1**)
+
 ### PDEC for Evolutionary Neural Architecture Search (NAS)
 
 * Ye, Q., Sun, Y., Zhang, J. and Lv, J.C., 2021. A distributed framework for EA-based NAS. IEEE Transactions on Parallel and Distributed Systems, 32(7), pp.975-987. (-> 8)
