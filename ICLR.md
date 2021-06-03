@@ -2,6 +2,8 @@
 
 ## 2021
 
+Co-Reyes, J.D., Miao, Y., Peng, D., Real, E., Levine, S., Le, Q.V., Lee, H. and Faust, A., 2021. Evolving reinforcement learning algorithms. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=0XXpJ4OtjW) | [pdf](https://openreview.net/pdf?id=0XXpJ4OtjW) ]
+
 Marchesini, E., Corsi, D. and Farinelli, A., 2021. Genetic soft updates for policy evolution in deep reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=TGFO0DbD_pk) | [pdf](https://openreview.net/pdf?id=TGFO0DbD_pk) ]
 
 ## 2018
