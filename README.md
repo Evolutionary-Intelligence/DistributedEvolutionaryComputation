@@ -16,6 +16,8 @@ This is a *growing* paper list for **parallel and distributed** evolutionary com
 
 ### Evolutionary Computation (EC)
 
+* Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution of things. Nature, 521(7553), pp.476-482.
+
 * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
 
 * Levine, D., 1997. Commentary—Genetic algorithms: A practitioner's view. INFORMS Journal on Computing, 9(3), pp.256-259.
