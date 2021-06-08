@@ -34,7 +34,7 @@ Salleb-Aouissi, A., Vrain, C., Nortet, C., Kong, X., Rathod, V. and Cassard, D.,
 
 ## 2012
 
-Bergstra, J. and Bengio, Y., 2012. Random search for hyper-parameter optimization. Journal of Machine Learning Research, 13(2), pp.281-305. [ [www](https://www.jmlr.org/papers/v13/bergstra12a.html) | [pdf](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf) ]
+Bergstra, J. and Bengio, Y., 2012. Random search for hyper-parameter optimization. Journal of Machine Learning Research, 13(10), pp.281-305. [ [www](https://www.jmlr.org/papers/v13/bergstra12a.html) | [pdf](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf) ]
 
 Ly, D.L. and Lipson, H., 2012. Learning symbolic representations of hybrid dynamical systems. Journal of Machine Learning Research, 13(1), pp.3585-3618. [ [www](https://www.jmlr.org/papers/v13/ly12a.html) | [pdf](https://www.jmlr.org/papers/volume13/ly12a/ly12a.pdf) ]
 
