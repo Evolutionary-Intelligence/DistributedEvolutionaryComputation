@@ -4,6 +4,8 @@
 
 Co-Reyes, J.D., Miao, Y., Peng, D., Real, E., Levine, S., Le, Q.V., Lee, H. and Faust, A., 2021. Evolving reinforcement learning algorithms. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=0XXpJ4OtjW) | [pdf](https://openreview.net/pdf?id=0XXpJ4OtjW) ]
 
+Hejna III, D.J., Abbeel, P. and Pinto, L., 2021. Task-agnostic morphology evolution. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=CGQ6ENUMX6) | [pdf](https://openreview.net/pdf?id=CGQ6ENUMX6) ]
+
 Marchesini, E., Corsi, D. and Farinelli, A., 2021. Genetic soft updates for policy evolution in deep reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=TGFO0DbD_pk) | [pdf](https://openreview.net/pdf?id=TGFO0DbD_pk) ]
 
 Khadka, S., Aflalo, E., Marder, M., Ben-David, A., Miret, S., Mannor, S., Hazan, T., Tang, H. and Majumdar, S., 2020. Optimizing memory placement using evolutionary graph reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=-6vS_4Kfz0) | [pdf](https://openreview.net/pdf?id=-6vS_4Kfz0) ]
