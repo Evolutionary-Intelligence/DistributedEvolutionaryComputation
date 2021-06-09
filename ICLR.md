@@ -28,4 +28,6 @@ Song, X., Gao, W., Yang, Y., Choromanski, K., Pacchiano, A. and Tang, Y., 2020. 
 
 Liu, H., Simonyan, K., Vinyals, O., Fernando, C. and Kavukcuoglu, K., 2018. Hierarchical representations for efficient architecture search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BJQRKzbA-) | [pdf](https://openreview.net/pdf?id=BJQRKzbA-) ]
 
+Plappert, M., Houthooft, R., Dhariwal, P., Sidor, S., Chen, R.Y., Chen, X., Asfour, T., Abbeel, P. and Andrychowicz, M., 2018. Parameter space noise for exploration. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=ByBAl2eAZ) | [pdf](https://openreview.net/pdf?id=ByBAl2eAZ) ]
+
 Elsken, T., Metzen, J.H. and Hutter, F., 2018. Efficient multi-objective neural architecture search via Lamarckian evolution. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=ByME42AqK7) | [pdf](https://openreview.net/pdf?id=ByME42AqK7) ]
