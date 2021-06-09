@@ -24,6 +24,10 @@ Paliwal, A., Gimeno, F., Nair, V., Li, Y., Lubin, M., Kohli, P. and Vinyals, O.,
 
 Song, X., Gao, W., Yang, Y., Choromanski, K., Pacchiano, A. and Tang, Y., 2020. ES-MAML: Simple Hessian-free meta learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=S1exA2NtDB) | [pdf](https://openreview.net/pdf?id=S1exA2NtDB) ]
 
+## 2019
+
+La Cava, W., Singh, T.R., Taggart, J., Suri, S. and Moore, J.H., 2019. Learning concise representations for regression by evolving networks of trees. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=Hke-JhA9Y7) | [pdf](https://openreview.net/pdf?id=Hke-JhA9Y7) ]
+
 ## 2018
 
 Liu, H., Simonyan, K., Vinyals, O., Fernando, C. and Kavukcuoglu, K., 2018. Hierarchical representations for efficient architecture search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BJQRKzbA-) | [pdf](https://openreview.net/pdf?id=BJQRKzbA-) ]
