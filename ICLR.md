@@ -20,6 +20,8 @@ Alet, F., Schneider, M.F., Lozano-Perez, T. and Kaelbling, L.P., 2020. Meta-lear
 
 Paliwal, A., Gimeno, F., Nair, V., Li, Y., Lubin, M., Kohli, P. and Vinyals, O., 2019. Reinforced genetic algorithm learning for optimizing computation graphs. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=rkxDoJBYPB) | [pdf](https://openreview.net/pdf?id=rkxDoJBYPB) ]
 
+Song, X., Gao, W., Yang, Y., Choromanski, K., Pacchiano, A. and Tang, Y., 2020. ES-MAML: Simple Hessian-free meta learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=S1exA2NtDB) | [pdf](https://openreview.net/pdf?id=S1exA2NtDB) ]
+
 ## 2018
 
 Liu, H., Simonyan, K., Vinyals, O., Fernando, C. and Kavukcuoglu, K., 2018. Hierarchical representations for efficient architecture search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BJQRKzbA-) | [pdf](https://openreview.net/pdf?id=BJQRKzbA-) ]
