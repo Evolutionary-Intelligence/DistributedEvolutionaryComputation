@@ -16,6 +16,8 @@ Moskovitz, T., Arbel, M., Huszar, F. and Gretton, A., 2021. Efficient Wasserstei
 
 ## 2020
 
+Kirsch, L., van Steenkiste, S. and Schmidhuber, J., 2020. Improving generalization in meta reinforcement learning using learned objectives. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=S1evHerYPr) | [pdf](https://openreview.net/pdf?id=S1evHerYPr) ]
+
 Alet, F., Schneider, M.F., Lozano-Perez, T. and Kaelbling, L.P., 2020. Meta-learning curiosity algorithms. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BygdyxHFDS) | [pdf](https://openreview.net/pdf?id=BygdyxHFDS) | [Python](https://github.com/mfranzs/meta-learning-curiosity-algorithms) ]
 
 Paliwal, A., Gimeno, F., Nair, V., Li, Y., Lubin, M., Kohli, P. and Vinyals, O., 2019. Reinforced genetic algorithm learning for optimizing computation graphs. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=rkxDoJBYPB) | [pdf](https://openreview.net/pdf?id=rkxDoJBYPB) ]
