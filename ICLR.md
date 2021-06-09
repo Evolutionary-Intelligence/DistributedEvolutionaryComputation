@@ -12,6 +12,8 @@ Khadka, S., Aflalo, E., Marder, M., Ben-David, A., Miret, S., Mannor, S., Hazan,
 
 Chen, B.H., Wang, T.Z., Li, C.T., Dai, H.J. and Song, L., 2021. Molecule optimization by explainable evolution. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=jHefDGsorp5) | [pdf](https://openreview.net/pdf?id=jHefDGsorp5) ]
 
+Moskovitz, T., Arbel, M., Huszar, F. and Gretton, A., 2021. Efficient Wasserstein natural gradients for reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=OHgnfSrn2jv) | [pdf](https://openreview.net/pdf?id=OHgnfSrn2jv) ]
+
 ## 2020
 
 Alet, F., Schneider, M.F., Lozano-Perez, T. and Kaelbling, L.P., 2020. Meta-learning curiosity algorithms. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BygdyxHFDS) | [pdf](https://openreview.net/pdf?id=BygdyxHFDS) | [Python](https://github.com/mfranzs/meta-learning-curiosity-algorithms) ]
