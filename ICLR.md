@@ -37,3 +37,5 @@ Liu, H., Simonyan, K., Vinyals, O., Fernando, C. and Kavukcuoglu, K., 2018. Hier
 Plappert, M., Houthooft, R., Dhariwal, P., Sidor, S., Chen, R.Y., Chen, X., Asfour, T., Abbeel, P. and Andrychowicz, M., 2018. Parameter space noise for exploration. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=ByBAl2eAZ) | [pdf](https://openreview.net/pdf?id=ByBAl2eAZ) ]
 
 Elsken, T., Metzen, J.H. and Hutter, F., 2018. Efficient multi-objective neural architecture search via Lamarckian evolution. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=ByME42AqK7) | [pdf](https://openreview.net/pdf?id=ByME42AqK7) ]
+
+Wen, Y., Vicol, P., Ba, J., Tran, D. and Grosse, R., 2018. Flipout: Efficient pseudo-independent weight perturbations on mini-batches. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=rJNpifWAb) | [pdf](https://openreview.net/pdf?id=rJNpifWAb) ]
