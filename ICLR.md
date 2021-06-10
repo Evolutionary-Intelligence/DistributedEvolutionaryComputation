@@ -36,6 +36,8 @@ Wang, T., Zhou, Y., Fidler, S. and Ba, J., 2019. Neural graph evolution: Towards
 
 Pourchot, A. and Sigaud, O., 2019. CEM-RL: Combining evolutionary and gradient-based methods for policy search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BkeU5j0ctQ) | [pdf](https://openreview.net/pdf?id=BkeU5j0ctQ) ]
 
+Elsken, T., Metzen, J.H. and Hutter, F., 2019. Efficient multi-objective neural architecture search via Lamarckian evolution. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=ByME42AqK7) | [pdf](https://openreview.net/pdf?id=ByME42AqK7) ]
+
 ## 2018
 
 Liu, H., Simonyan, K., Vinyals, O., Fernando, C. and Kavukcuoglu, K., 2018. Hierarchical representations for efficient architecture search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BJQRKzbA-) | [pdf](https://openreview.net/pdf?id=BJQRKzbA-) ]
