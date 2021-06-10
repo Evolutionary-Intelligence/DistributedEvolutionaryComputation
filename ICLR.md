@@ -32,6 +32,8 @@ La Cava, W., Singh, T.R., Taggart, J., Suri, S. and Moore, J.H., 2019. Learning 
 
 Wang, T., Zhou, Y., Fidler, S. and Ba, J., 2019. Neural graph evolution: Towards efficient automatic robot design. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BkgWHnR5tm) | [pdf](https://openreview.net/pdf?id=BkgWHnR5tm) ]
 
+Pourchot, A. and Sigaud, O., 2019. CEM-RL: Combining evolutionary and gradient-based methods for policy search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BkeU5j0ctQ) | [pdf](https://openreview.net/pdf?id=BkeU5j0ctQ) ]
+
 ## 2018
 
 Liu, H., Simonyan, K., Vinyals, O., Fernando, C. and Kavukcuoglu, K., 2018. Hierarchical representations for efficient architecture search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BJQRKzbA-) | [pdf](https://openreview.net/pdf?id=BJQRKzbA-) ]
