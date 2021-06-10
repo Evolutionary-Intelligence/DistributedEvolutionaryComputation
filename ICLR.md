@@ -14,6 +14,8 @@ Chen, B.H., Wang, T.Z., Li, C.T., Dai, H.J. and Song, L., 2021. Molecule optimiz
 
 Moskovitz, T., Arbel, M., Huszar, F. and Gretton, A., 2021. Efficient Wasserstein natural gradients for reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=OHgnfSrn2jv) | [pdf](https://openreview.net/pdf?id=OHgnfSrn2jv) ]
 
+Liu, P., Zhang, G., Wang, B., Xu, H., Liang, X., Jiang, Y. and Li, Z., 2021. Loss function discovery for object detection via convergence-simulation driven search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=5jzlpHvvRk) | [pdf](https://openreview.net/pdf?id=5jzlpHvvRk) ]
+
 ## 2020
 
 Kirsch, L., van Steenkiste, S. and Schmidhuber, J., 2020. Improving generalization in meta reinforcement learning using learned objectives. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=S1evHerYPr) | [pdf](https://openreview.net/pdf?id=S1evHerYPr) ]
