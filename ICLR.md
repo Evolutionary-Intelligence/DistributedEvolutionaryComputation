@@ -53,3 +53,5 @@ Plappert, M., Houthooft, R., Dhariwal, P., Sidor, S., Chen, R.Y., Chen, X., Asfo
 Elsken, T., Metzen, J.H. and Hutter, F., 2018. Efficient multi-objective neural architecture search via Lamarckian evolution. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=ByME42AqK7) | [pdf](https://openreview.net/pdf?id=ByME42AqK7) ]
 
 Wen, Y., Vicol, P., Ba, J., Tran, D. and Grosse, R., 2018. Flipout: Efficient pseudo-independent weight perturbations on mini-batches. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=rJNpifWAb) | [pdf](https://openreview.net/pdf?id=rJNpifWAb) ]
+
+Gangwani, T. and Peng, J., 2018. Policy optimization by genetic distillation. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=ByOnmlWC-) | [pdf](https://openreview.net/pdf?id=ByOnmlWC-) ]
