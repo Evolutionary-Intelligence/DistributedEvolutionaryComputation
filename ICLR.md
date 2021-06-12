@@ -32,6 +32,8 @@ Long, Q., Zhou, Z., Gupta, A., Fang, F., Wu, Y. and Wang, X., 2020. Evolutionary
 
 Jung, W., Park, G. and Sung, Y., 2020. Population-guided parallel policy search for reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=rJeINp4KwH) | [pdf](https://openreview.net/pdf?id=rJeINp4KwH) ]
 
+Nigam, A., Friederich, P., Krenn, M. and Aspuru-Guzik, A., 2020. Augmenting genetic algorithms with deep neural networks for exploring the chemical space. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=H1lmyRNFvr) | [pdf](https://openreview.net/pdf?id=H1lmyRNFvr) ]
+
 ## 2019
 
 La Cava, W., Singh, T.R., Taggart, J., Suri, S. and Moore, J.H., 2019. Learning concise representations for regression by evolving networks of trees. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=Hke-JhA9Y7) | [pdf](https://openreview.net/pdf?id=Hke-JhA9Y7) ]
