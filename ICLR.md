@@ -30,6 +30,8 @@ Song, X., Gao, W., Yang, Y., Choromanski, K., Pacchiano, A. and Tang, Y., 2020. 
 
 Long, Q., Zhou, Z., Gupta, A., Fang, F., Wu, Y. and Wang, X., 2020. Evolutionary population curriculum for scaling multi-agent reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=SJxbHkrKDH) | [pdf](https://openreview.net/pdf?id=SJxbHkrKDH) ]
 
+Jung, W., Park, G. and Sung, Y., 2020. Population-guided parallel policy search for reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=rJeINp4KwH) | [pdf](https://openreview.net/pdf?id=rJeINp4KwH) ]
+
 ## 2019
 
 La Cava, W., Singh, T.R., Taggart, J., Suri, S. and Moore, J.H., 2019. Learning concise representations for regression by evolving networks of trees. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=Hke-JhA9Y7) | [pdf](https://openreview.net/pdf?id=Hke-JhA9Y7) ]
