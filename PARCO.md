@@ -11,3 +11,9 @@ Lou, Z. and Reinitz, J., 2016. Parallel simulated annealing using an adaptive re
 ## 2015
 
 Liu, Y.Y. and Wang, S., 2015. A scalable parallel genetic algorithm for the generalized assignment problem. Parallel Computing, 46, pp.98-119. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819114000519) ]
+
+-------
+
+## 2015
+
+De Falco, I., Scafuri, U. and Tarantino, E., 2015. Mapping of time-consuming multitask applications on a cloud system by multiobjective differential evolution. Parallel Computing, 48, pp.40-58. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819115000629) ]
