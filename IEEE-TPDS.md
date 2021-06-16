@@ -29,3 +29,7 @@ Kan, G., Lei, T., Liang, K., Li, J., Ding, L., He, X., Yu, H., Zhang, D., Zuo, D
 ## 2015
 
 Santander-Jimenez, S. and Vega-Rodriguez, M.A., 2015. Parallel multiobjective metaheuristics for inferring phylogenies on multicore clusters. IEEE Transactions on Parallel and Distributed Systems, 26(6), pp.1678-1692. [ [www](https://ieeexplore.ieee.org/abstract/document/6819075/) ] (**Distributed NSGA-II on a Cluster of Commodity Servers**)
+
+## 1998
+
+Chen, H., Flann, N.S. and Watson, D.W., 1998. Parallel genetic simulated annealing: A massively parallel SIMD algorithm. IEEE Transactions on Parallel and Distributed Systems, 9(2), pp.126-136. [ [www](https://ieeexplore.ieee.org/abstract/document/663870) ]
