@@ -34,6 +34,10 @@ Santander-Jimenez, S. and Vega-Rodriguez, M.A., 2015. Parallel multiobjective me
 
 Chen, H., Flann, N.S. and Watson, D.W., 1998. Parallel genetic simulated annealing: A massively parallel SIMD algorithm. IEEE Transactions on Parallel and Distributed Systems, 9(2), pp.126-136. [ [www](https://ieeexplore.ieee.org/abstract/document/663870) ]
 
+## 1996
+
+Lee, S.Y. and Lee, K.G., 1996. Synchronous and asynchronous parallel simulated annealing with multiple Markov chains. IEEE Transactions on Parallel and Distributed Systems, 7(10), pp.993-1008. [ [www](https://ieeexplore.ieee.org/abstract/document/539732) ]
+
 ## 1991
 
 Witte, E.E., Chamberlain, R.D. and Franklin, M.A., 1991. Parallel simulated annealing using speculative computation. IEEE Transactions on Parallel and Distributed Systems, 2(4), pp.483-494. [ [www](https://ieeexplore.ieee.org/abstract/document/97904) ]
