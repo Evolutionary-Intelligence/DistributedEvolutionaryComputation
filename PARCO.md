@@ -20,6 +20,10 @@ Liu, Y.Y. and Wang, S., 2015. A scalable parallel genetic algorithm for the gene
 
 Mühlenbein, H., Schomisch, M. and Born, J., 1991. The parallel genetic algorithm as function optimizer. Parallel Computing, 17(6-7), pp.619-632. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819105800523) ]
 
+## 1988
+
+Mühlenbein, H., Gorges-Schleuter, M. and Krämer, O., 1988. Evolution algorithms in combinatorial optimization. Parallel Computing, 7(1), pp.65-85. [ [www](https://www.sciencedirect.com/science/article/abs/pii/0167819188900981) ]
+
 ## 1987
 
 Mühlenbein, H., Gorges-Schleuter, M. and Krämer, O., 1987. New solutions to the mapping problem of parallel systems: The evolution approach. Parallel Computing, 4(3), pp.269-279. [ [www](https://www.sciencedirect.com/science/article/abs/pii/0167819187900263) ]
