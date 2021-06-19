@@ -8,6 +8,10 @@ Hussain, M.M. and Fujimoto, N., 2020. GPU-based parallel multi-objective particl
 
 Starzec, M., Starzec, G., Byrski, A. and Turek, W., 2019. Distributed ant colony optimization based on actor model. Parallel Computing, 90, p.102573. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819119301644) ]
 
+## 2018
+
+González-Álvarez, D.L., Vega-Rodríguez, M.A. and Rubio-Largo, Á., 2018. Searching for common patterns on protein sequences by means of a parallel hybrid honey-bee mating optimization algorithm. Parallel Computing, 76, pp.1-17. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819118300978) ]
+
 ## 2016
 
 Lou, Z. and Reinitz, J., 2016. Parallel simulated annealing using an adaptive resampling interval. Parallel Computing, 53, pp.23-31. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819116000430) ]
