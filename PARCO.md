@@ -34,6 +34,10 @@ Mühlenbein, H., Gorges-Schleuter, M. and Krämer, O., 1987. New solutions to th
 
 -------
 
+## 2019
+
+Durillo, J.J., Gschwandtner, P., Kofler, K. and Fahringer, T., 2019. Multi-objective region-aware optimization of parallel programs. Parallel Computing, 83, pp.3-21. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819118300905) ]
+
 ## 2017
 
 Verma, A. and Kaushal, S., 2017. A hybrid multi-objective particle swarm optimization for scientific workflow scheduling. Parallel Computing, 62, pp.1-19. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819117300145) ]
