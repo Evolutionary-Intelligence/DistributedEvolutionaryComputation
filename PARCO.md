@@ -34,6 +34,10 @@ Mühlenbein, H., Gorges-Schleuter, M. and Krämer, O., 1987. New solutions to th
 
 -------
 
+## 2020
+
+Gong, D., Tian, T., Wang, J., Du, Y. and Li, Z., 2020. A novel method of grouping target paths for parallel programs. Parallel Computing, 97, p.102665. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819120300582) ]
+
 ## 2019
 
 Durillo, J.J., Gschwandtner, P., Kofler, K. and Fahringer, T., 2019. Multi-objective region-aware optimization of parallel programs. Parallel Computing, 83, pp.3-21. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819118300905) ]
