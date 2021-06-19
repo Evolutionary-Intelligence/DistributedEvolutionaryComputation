@@ -30,6 +30,10 @@ Mühlenbein, H., Gorges-Schleuter, M. and Krämer, O., 1987. New solutions to th
 
 -------
 
+## 2017
+
+Verma, A. and Kaushal, S., 2017. A hybrid multi-objective particle swarm optimization for scientific workflow scheduling. Parallel Computing, 62, pp.1-19. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819117300145) ]
+
 ## 2015
 
 De Falco, I., Scafuri, U. and Tarantino, E., 2015. Mapping of time-consuming multitask applications on a cloud system by multiobjective differential evolution. Parallel Computing, 48, pp.40-58. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819115000629) ]
