@@ -20,6 +20,10 @@ Lou, Z. and Reinitz, J., 2016. Parallel simulated annealing using an adaptive re
 
 Liu, Y.Y. and Wang, S., 2015. A scalable parallel genetic algorithm for the generalized assignment problem. Parallel Computing, 46, pp.98-119. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819114000519) | [C](https://github.com/cybergis/cybergis-toolkit/tree/master/pgap) ]
 
+## 2005
+
+Wang, Z.G., Wong, Y.S. and Rahman, M., 2005. Development of a parallel optimization method based on genetic simulated annealing algorithm. Parallel Computing, 31(8-9), pp.839-857. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819105000499) ]
+
 ## 1995
 
 Mahfoud, S.W. and Goldberg, D.E., 1995. Parallel recombinative simulated annealing: A genetic algorithm. Parallel Computing, 21(1), pp.1-28. [ [www](https://www.sciencedirect.com/science/article/abs/pii/016781919400071H) ]
