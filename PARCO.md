@@ -22,6 +22,8 @@ Liu, Y.Y. and Wang, S., 2015. A scalable parallel genetic algorithm for the gene
 
 ## 1995
 
+Mahfoud, S.W. and Goldberg, D.E., 1995. Parallel recombinative simulated annealing: A genetic algorithm. Parallel Computing, 21(1), pp.1-28. [ [www](https://www.sciencedirect.com/science/article/abs/pii/016781919400071H) ]
+
 Yong, L., Lishan, K. and Evans, D.J., 1995. The annealing evolution algorithm as function optimizer. Parallel Computing, 21(3), pp.389-400. [ [www](https://www.sciencedirect.com/science/article/abs/pii/016781919400078O) ]
 
 ## 1991
