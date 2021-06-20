@@ -1,5 +1,9 @@
 # JGO (Journal of Global Optimization)
 
+## 2013
+
+Ferreiro, A.M., García, J.A., López-Salas, J.G. and Vázquez, C., 2013. An efficient implementation of parallel simulated annealing algorithm in GPUs. Journal of Global Optimization, 57(3), pp.863-890. [ [www](https://link.springer.com/article/10.1007/s10898-012-9979-z) | [pdf](https://link.springer.com/content/pdf/10.1007/s10898-012-9979-z.pdf) ]
+
 ## 2007
 
 Chen, D.J., Lee, C.Y., Park, C.H. and Mendes, P., 2007. Parallelizing simulated annealing algorithms based on high-performance computer. Journal of Global Optimization, 39(2), pp.261-289. [ [www](https://link.springer.com/article/10.1007/s10898-007-9138-0) ]
