@@ -2,7 +2,7 @@
 
 ## 2021
 
-Ohira, R., Islam, M.S. and Kayesh, H., 2021. Speedup vs. quality: Asynchronous and cluster-based distributed adaptive genetic algorithms for ordered problems. Parallel Computing, 103, p.102755. [ [www](https://www.sciencedirect.com/science/article/pii/S0092867418316283) ]
+Ohira, R., Islam, M.S. and Kayesh, H., 2021. Speedup vs. quality: Asynchronous and cluster-based distributed adaptive genetic algorithms for ordered problems. Parallel Computing, 103, p.102755. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819121000156) ]
 
 ## 2020
 
