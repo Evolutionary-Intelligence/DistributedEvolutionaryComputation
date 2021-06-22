@@ -33,3 +33,7 @@ Lenski, R.E., Ofria, C., Collier, T.C. and Adami, C., 1999. Genome complexity, r
 ## 1992
 
 Smith, J.M., 1992. Byte-sized evolution. Nature, 355(6363), pp.772-773. [ [www](https://www.nature.com/articles/355772a0) ]
+
+## 1985
+
+Brady, R.M., 1985. Optimization strategies gleaned from biological evolution. Nature, 317(6040), pp.804-806. [ [www](https://www.nature.com/articles/317804a0) ]
