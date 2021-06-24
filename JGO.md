@@ -1,5 +1,9 @@
 # JGO (Journal of Global Optimization)
 
+## 2020
+
+Ramanauskas, M., Šešok, D., Žilinskas, J., Starikovičius, V., Kačeniauskas, A. and Belevičius, R., 2020. Global optimization of grillage-type foundations using a distributed genetic algorithm. Journal of Global Optimization, 77, pp.157–173. [ [www](https://link.springer.com/article/10.1007/s10898-019-00838-2) | [pdf](https://link.springer.com/content/pdf/10.1007/s10898-019-00838-2.pdf) ]
+
 ## 2013
 
 Ferreiro, A.M., García, J.A., López-Salas, J.G. and Vázquez, C., 2013. An efficient implementation of parallel simulated annealing algorithm in GPUs. Journal of Global Optimization, 57(3), pp.863-890. [ [www](https://link.springer.com/article/10.1007/s10898-012-9979-z) | [pdf](https://link.springer.com/content/pdf/10.1007/s10898-012-9979-z.pdf) ]
