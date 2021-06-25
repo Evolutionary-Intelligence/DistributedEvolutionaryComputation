@@ -10,7 +10,7 @@ Marchesini, E., Corsi, D. and Farinelli, A., 2021. Genetic soft updates for poli
 
 Khadka, S., Aflalo, E., Marder, M., Ben-David, A., Miret, S., Mannor, S., Hazan, T., Tang, H. and Majumdar, S., 2021. Optimizing memory placement using evolutionary graph reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=-6vS_4Kfz0) | [pdf](https://openreview.net/pdf?id=-6vS_4Kfz0) ]
 
-Chen, B.H., Wang, T.Z., Li, C.T., Dai, H.J. and Song, L., 2021. Molecule optimization by explainable evolution. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=jHefDGsorp5) | [pdf](https://openreview.net/pdf?id=jHefDGsorp5) ]
+Chen, B.H., Wang, T.Z., Li, C.T., Dai, H.J. and Song, L., 2021. Molecule optimization by explainable evolution. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=jHefDGsorp5) | [pdf](https://openreview.net/pdf?id=jHefDGsorp5) | [Python](https://github.com/binghong-ml/MolEvol) ]
 
 Moskovitz, T., Arbel, M., Huszar, F. and Gretton, A., 2021. Efficient Wasserstein natural gradients for reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=OHgnfSrn2jv) | [pdf](https://openreview.net/pdf?id=OHgnfSrn2jv) | [Python](https://github.com/tedmoskovitz/WNPG) ] (**ES**)
 
