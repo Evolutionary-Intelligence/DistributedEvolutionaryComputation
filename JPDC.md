@@ -9,3 +9,7 @@ de Campos Jr, A., Pozo, A.T. and Duarte Jr, E.P., 2019. Parallel multi-swarm PSO
 ## 1996
 
 Ram, D.J., Sreenivas, T.H. and Subramaniam, K.G., 1996. Parallel simulated annealing algorithms. Journal of Parallel and Distributed Computing, 37(2), pp.207-212.
+
+## 1989
+
+Barbosa, V.C. and Gafni, E., 1989. A distributed implementation of simulated annealing. Journal of Parallel and Distributed Computing, 6(2), pp.411-434. [ [www](https://www.sciencedirect.com/science/article/abs/pii/0743731589900671) ]
