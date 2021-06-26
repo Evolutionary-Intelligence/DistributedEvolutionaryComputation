@@ -41,3 +41,7 @@ Lee, S.Y. and Lee, K.G., 1996. Synchronous and asynchronous parallel simulated a
 ## 1991
 
 Witte, E.E., Chamberlain, R.D. and Franklin, M.A., 1991. Parallel simulated annealing using speculative computation. IEEE Transactions on Parallel and Distributed Systems, 2(4), pp.483-494. [ [www](https://ieeexplore.ieee.org/abstract/document/97904) ]
+
+## 1990
+
+Banerjee, P., Jones, M.H. and Sargent, J.S., 1990. Parallel simulated annealing algorithms for cell placement on hypercube multiprocessors. IEEE Transactions on Parallel and Distributed Systems, 1(1), pp.91-106. [ [www](https://ieeexplore.ieee.org/document/80128) ]
