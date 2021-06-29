@@ -32,6 +32,10 @@ Hidalgo, J.I., Fernandez, F., Lanchares, J., Cant-Paz, E. and Zomaya, A., 2010. 
 
 Wang, Z.G., Wong, Y.S. and Rahman, M., 2005. Development of a parallel optimization method based on genetic simulated annealing algorithm. Parallel Computing, 31(8-9), pp.839-857. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819105000499) ]
 
+## 2004
+
+Cahon, S., Melab, N. and Talbi, E.G., 2004. Building with paradisEO reusable parallel and distributed evolutionary algorithms. Parallel Computing, 30(5-6), pp.677-697. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819104000377) ]
+
 ## 1995
 
 Mahfoud, S.W. and Goldberg, D.E., 1995. Parallel recombinative simulated annealing: A genetic algorithm. Parallel Computing, 21(1), pp.1-28. [ [www](https://www.sciencedirect.com/science/article/abs/pii/016781919400071H) ]
