@@ -36,6 +36,10 @@ Wang, Z.G., Wong, Y.S. and Rahman, M., 2005. Development of a parallel optimizat
 
 Cahon, S., Melab, N. and Talbi, E.G., 2004. Building with paradisEO reusable parallel and distributed evolutionary algorithms. Parallel Computing, 30(5-6), pp.677-697. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819104000377) ]
 
+## 2000
+
+Marco, N. and Lanteri, S., 2000. A two-level parallelization strategy for genetic algorithms applied to optimum shape design. Parallel Computing, 26(4), pp.377-397. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819199001167) ]
+
 ## 1995
 
 Mahfoud, S.W. and Goldberg, D.E., 1995. Parallel recombinative simulated annealing: A genetic algorithm. Parallel Computing, 21(1), pp.1-28. [ [www](https://www.sciencedirect.com/science/article/abs/pii/016781919400071H) ]
