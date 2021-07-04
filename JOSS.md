@@ -4,6 +4,8 @@
 
 Izzo, D. and Biscani, F., 2020. Dcgp: Differentiable cartesian genetic programming made easy. Journal of Open Source Software, 5(51), p.2290. [ [www](https://joss.theoj.org/papers/10.21105/joss.02290) | [pdf](https://joss.theoj.org/papers/10.21105/joss.02290.pdf) | [C++](https://github.com/darioizzo/dcgp) ]
 
+Radtke, J.J., Bertoldo, G. and Marchi, C.H., 2020. DEPP-Differential evolution parallel program. Journal of Open Source Software, 5(47), p.1701. [ [www](https://joss.theoj.org/papers/10.21105/joss.01701) | [pdf](https://joss.theoj.org/papers/10.21105/joss.01701.pdf) | [Fortran](https://github.com/gbertoldo/DEPP) ]
+
 ## 2019
 
 Detorakis, G. and Burton, A., 2019. GAIM: A C++ library for genetic algorithms and island models. Journal of Open Source Software, 4(44), p.1839. [ [www](https://joss.theoj.org/papers/10.21105/joss.01839) | [pdf](https://joss.theoj.org/papers/10.21105/joss.01839.pdf) | [C++](https://gitlab.com/gdetor/genetic_alg) ]
