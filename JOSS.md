@@ -1,5 +1,9 @@
 # JOSS (Journal of Open Source Software)
 
+## 2021
+
+Arcuri, A., Galeotti, J.P., Marculescu, B. and Zhang, M., 2021. EvoMaster: A search-based system test generation tool. Journal of Open Source Software, 6(57), p.2153. [ [www](https://joss.theoj.org/papers/10.21105/joss.02153) | [pdf](https://joss.theoj.org/papers/10.21105/joss.02153.pdf) | [Java](https://github.com/EMResearch/EvoMaster) ]
+
 ## 2020
 
 Izzo, D. and Biscani, F., 2020. Dcgp: Differentiable cartesian genetic programming made easy. Journal of Open Source Software, 5(51), p.2290. [ [www](https://joss.theoj.org/papers/10.21105/joss.02290) | [pdf](https://joss.theoj.org/papers/10.21105/joss.02290.pdf) | [C++](https://github.com/darioizzo/dcgp) ]
