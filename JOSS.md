@@ -8,6 +8,8 @@ Radtke, J.J., Bertoldo, G. and Marchi, C.H., 2020. DEPP-Differential evolution p
 
 ## 2019
 
+Gijsbers, P. and Vanschoren, J., 2019. GAMA: genetic automated machine learning assistant. Journal of Open Source Software, 4(33), p.1132. [ [www](https://joss.theoj.org/papers/10.21105/joss.01132) | [pdf](https://joss.theoj.org/papers/10.21105/joss.01132.pdf) | [Python](https://github.com/openml-labs/gama) ]
+
 Detorakis, G. and Burton, A., 2019. GAIM: A C++ library for genetic algorithms and island models. Journal of Open Source Software, 4(44), p.1839. [ [www](https://joss.theoj.org/papers/10.21105/joss.01839) | [pdf](https://joss.theoj.org/papers/10.21105/joss.01839.pdf) | [C++](https://gitlab.com/gdetor/genetic_alg) ]
 
 Bell, I.H., 2019. CEGO: C++ 11 evolutionary global optimization. Journal of Open Source Software, 4(36), p.1147. [ [www](https://joss.theoj.org/papers/10.21105/joss.01147) | [pdf](https://joss.theoj.org/papers/10.21105/joss.01147.pdf) | [C++](https://github.com/usnistgov/CEGO) ]
