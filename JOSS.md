@@ -8,6 +8,8 @@ Haan, S., 2021. GeoBO: Python package for multi-objective Bayesian optimisation 
 
 ## 2020
 
+Biscani, F. and Izzo, D., 2020. A parallel global multiobjective framework for optimization: pagmo. Journal of Open Source Software, 5(53), p.2338. [ [www](https://joss.theoj.org/papers/10.21105/joss.02338) | [pdf](https://joss.theoj.org/papers/10.21105/joss.02338.pdf) | [C++](https://github.com/esa/pagmo2) ]
+
 Izzo, D. and Biscani, F., 2020. Dcgp: Differentiable cartesian genetic programming made easy. Journal of Open Source Software, 5(51), p.2290. [ [www](https://joss.theoj.org/papers/10.21105/joss.02290) | [pdf](https://joss.theoj.org/papers/10.21105/joss.02290.pdf) | [C++](https://github.com/darioizzo/dcgp) ]
 
 Radtke, J.J., Bertoldo, G. and Marchi, C.H., 2020. DEPP-Differential evolution parallel program. Journal of Open Source Software, 5(47), p.1701. [ [www](https://joss.theoj.org/papers/10.21105/joss.01701) | [pdf](https://joss.theoj.org/papers/10.21105/joss.01701.pdf) | [Fortran](https://github.com/gbertoldo/DEPP) ]
