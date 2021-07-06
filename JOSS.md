@@ -18,6 +18,8 @@ Detorakis, G. and Burton, A., 2019. GAIM: A C++ library for genetic algorithms a
 
 Bell, I.H., 2019. CEGO: C++ 11 evolutionary global optimization. Journal of Open Source Software, 4(36), p.1147. [ [www](https://joss.theoj.org/papers/10.21105/joss.01147) | [pdf](https://joss.theoj.org/papers/10.21105/joss.01147.pdf) | [C++](https://github.com/usnistgov/CEGO) ]
 
+Simson, J., 2019. LGP: A robust linear genetic programming implementation on the JVM using Kotlin. Journal of Open Source Software, 4(42), p.1337. [ [www](https://joss.theoj.org/papers/10.21105/joss.01337) | [pdf](https://joss.theoj.org/papers/10.21105/joss.01337.pdf) | [Kotlin](https://github.com/JedS6391/LGP) ]
+
 ## 2018
 
 Miranda, L.J., 2018. PySwarms: A research toolkit for particle swarm optimization in python. Journal of Open Source Software, 3(21), p.433. [ [www](https://joss.theoj.org/papers/10.21105/joss.00433) | [pdf](https://joss.theoj.org/papers/10.21105/joss.00433.pdf) | [Python](https://github.com/ljvmiranda921/pyswarms) ]
