@@ -1,5 +1,7 @@
 # JOSS (Journal of Open Source Software)
 
+For **JOSS**, we systematically searched all the Evolutionary Computation (EC) papers published before 2021-07-01. All papers involving Parallel and Distributed EC are marked as **[---PDEC---]**.
+
 ## 2021
 
 Arcuri, A., Galeotti, J.P., Marculescu, B. and Zhang, M., 2021. EvoMaster: A search-based system test generation tool. Journal of Open Source Software, 6(57), p.2153. [ [www](https://joss.theoj.org/papers/10.21105/joss.02153) | [pdf](https://joss.theoj.org/papers/10.21105/joss.02153.pdf) | [Kotlin](https://github.com/EMResearch/EvoMaster) ]
@@ -8,7 +10,7 @@ Haan, S., 2021. GeoBO: Python package for multi-objective Bayesian optimisation 
 
 ## 2020
 
-Biscani, F. and Izzo, D., 2020. A parallel global multiobjective framework for optimization: pagmo. Journal of Open Source Software, 5(53), p.2338. [ [www](https://joss.theoj.org/papers/10.21105/joss.02338) | [pdf](https://joss.theoj.org/papers/10.21105/joss.02338.pdf) | [C++](https://github.com/esa/pagmo2) ]
+**[---PDEC---]** Biscani, F. and Izzo, D., 2020. A parallel global multiobjective framework for optimization: pagmo. Journal of Open Source Software, 5(53), p.2338. [ [www](https://joss.theoj.org/papers/10.21105/joss.02338) | [pdf](https://joss.theoj.org/papers/10.21105/joss.02338.pdf) | [C++](https://github.com/esa/pagmo2) ]
 
 Cicirello, V.A., 2020. Chips-n-salsa: A java library of customizable, hybridizable, iterative, parallel, stochastic, and self-adaptive local search algorithms. Journal of Open Source Software, 5(52). [ [www](https://joss.theoj.org/papers/10.21105/joss.02448) | [pdf](https://www.theoj.org/joss-papers/joss.02448/10.21105.joss.02448.pdf) | [Java](https://github.com/cicirello/Chips-n-Salsa) ]
 
