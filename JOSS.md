@@ -29,3 +29,7 @@ Simson, J., 2019. LGP: A robust linear genetic programming implementation on the
 Miranda, L.J., 2018. PySwarms: A research toolkit for particle swarm optimization in python. Journal of Open Source Software, 3(21), p.433. [ [www](https://joss.theoj.org/papers/10.21105/joss.00433) | [pdf](https://joss.theoj.org/papers/10.21105/joss.00433.pdf) | [Python](https://github.com/ljvmiranda921/pyswarms) ]
 
 Cicirello, V.A., 2018. JavaPermutationTools: A java library of permutation distance metrics. Journal of Open Source Software, 3(31). [ [www](https://joss.theoj.org/papers/10.21105/joss.00950) | [pdf](https://joss.theoj.org/papers/10.21105/joss.00950.pdf) | [Java](https://github.com/cicirello/JavaPermutationTools)  ]
+
+## 2017
+
+Bossek, J., 2017. mcMST: A toolbox for the multi-criteria minimum spanning tree problem. Journal of Open Source Software, 2(17), p.374. [ [www](https://joss.theoj.org/papers/10.21105/joss.00374) | [pdf](https://joss.theoj.org/papers/10.21105/joss.00374.pdf) | [R](https://github.com/jakobbossek/mcMST) ]
