@@ -1,6 +1,6 @@
 # Representative Research Groups for Parallel and Distributed Evolutionary Computation (PDEC)
 
-## Dario Izzo from Advanced Concepts Team, European Space Research and Technology Center
+## Dario Izzo from Advanced Concepts Team, European Space Research and Technology Center and Francesco Biscani, Max Planck Institute for Astronomy
 
 * Biscani, F. and Izzo, D., 2020. A parallel global multiobjective framework for optimization: pagmo. Journal of Open Source Software, 5(53), p.2338.
 
