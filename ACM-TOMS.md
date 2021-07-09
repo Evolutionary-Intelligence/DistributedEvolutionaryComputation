@@ -2,7 +2,7 @@
 
 ## 2021
 
-Lakhmiri, D., Digabel, S.L. and Tribes, C., 2021. HyperNOMAD: Hyperparameter optimization of deep neural networks using mesh adaptive direct search. ACM Transactions on Mathematical Software, 47(3), pp.1-27.
+Lakhmiri, D., Digabel, S.L. and Tribes, C., 2021. HyperNOMAD: Hyperparameter optimization of deep neural networks using mesh adaptive direct search. ACM Transactions on Mathematical Software, 47(3), pp.1-27. [ [www](https://dl.acm.org/doi/abs/10.1145/3450975) ]
 
 ## 2019
 
