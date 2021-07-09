@@ -1,5 +1,9 @@
 # ACM-TOMS (ACM Transactions on Mathematical Software)
 
+## 2021
+
+Lakhmiri, D., Digabel, S.L. and Tribes, C., 2021. HyperNOMAD: Hyperparameter optimization of deep neural networks using mesh adaptive direct search. ACM Transactions on Mathematical Software, 47(3), pp.1-27.
+
 ## 2019
 
 Porcelli, M. and Toint, P.L., 2019. A note on using performance and data profiles for training algorithms. ACM Transactions on Mathematical Software, 45(2), pp.1-10. [ [www](https://dl.acm.org/doi/10.1145/3310362) ]
