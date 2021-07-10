@@ -10,6 +10,10 @@ Porcelli, M. and Toint, P.L., 2019. A note on using performance and data profile
 
 Cartis, C., Fiala, J., Marteau, B. and Roberts, L., 2019. Improving the flexibility and robustness of model-based derivative-free optimization solvers. ACM Transactions on Mathematical Software, 45(3), pp.1-41. [ [www](https://dl.acm.org/doi/abs/10.1145/3338517) ]
 
+## 2017
+
+Porcelli, M. and Toint, P.L., 2017. BFO, A trainable derivative-free brute force optimizer for nonlinear bound-constrained optimization and equilibrium computations with continuous and discrete variables. ACM Transactions on Mathematical Software, 44(1), pp.1-25. [ [www](https://dl.acm.org/doi/abs/10.1145/3085592) ]
+
 ## 2018
 
 Irurozki, E., Ceberio, J., Santamaria, J., Santana, R. and Mendiburu, A., 2018. Algorithm 989: Perm_mateda: A matlab toolbox of estimation of distribution algorithms for permutation-based combinatorial optimization problems. ACM Transactions on Mathematical Software, 44(4), pp.1-13. [ [www](https://dl.acm.org/doi/10.1145/3206429) ]
