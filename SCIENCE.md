@@ -13,3 +13,7 @@ Hornby, G.S. and Kurtoglu, T., 2009. Toward a smarter Web. Science, 325(5938), p
 ## 1993
 
 Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878. [ [www](https://science.sciencemag.org/content/261/5123/872.abstract) ]
+
+## 1983
+
+Kirkpatrick, S., Gelatt, C.D. and Vecchi, M.P., 1983. Optimization by simulated annealing. Science, 220(4598), pp.671-680. [ [www](https://science.sciencemag.org/content/220/4598/671) ]
