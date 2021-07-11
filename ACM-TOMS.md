@@ -22,6 +22,8 @@ Porcelli, M. and Toint, P.L., 2017. BFO, A trainable derivative-free brute force
 
 Gould, N. and Scott, J., 2016. A note on performance profiles for benchmarking software. ACM Transactions on Mathematical Software, 43(2), pp.1-5. [ [www](https://dl.acm.org/doi/10.1145/2950048) ]
 
+Mei, Y., Omidvar, M.N., Li, X. and Yao, X., 2016. A competitive divide-and-conquer algorithm for unconstrained large-scale black-box optimization. ACM Transactions on Mathematical Software, 42(2), pp.1-24. [ [www](https://dl.acm.org/doi/10.1145/2791291) ]
+
 ## 1987
 
 Corana, A., Marchesi, M., Martini, C. and Ridella, S., 1987. Minimizing multimodal functions of continuous variables with the “simulated annealing” algorithm. ACM Transactions on Mathematical Software, 13(3), pp.262-280. [ [www](https://dl.acm.org/doi/abs/10.1145/29380.29864) | [Corrigenda](https://dl.acm.org/doi/10.1145/66888.356281) ]
