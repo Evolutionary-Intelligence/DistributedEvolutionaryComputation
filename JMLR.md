@@ -82,4 +82,4 @@ Forrest, S. and Mitchell, M., 1993. What makes a problem hard for a genetic algo
 
 ## 1988
 
-Goldberg, D.E. and Holland, J.H., 1988. Genetic Algorithms and Machine Learning. Machine Learning, 3(2), pp.95-99. [ [www](https://link.springer.com/article/10.1023/A:1022602019183) | [pdf](https://link.springer.com/content/pdf/10.1023/A:1022602019183.pdf) ]
+Goldberg, D.E. and Holland, J.H., 1988. Genetic algorithms and machine learning. Machine Learning, 3(2), pp.95-99. [ [www](https://link.springer.com/article/10.1023/A:1022602019183) | [pdf](https://link.springer.com/content/pdf/10.1023/A:1022602019183.pdf) ]
