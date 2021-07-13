@@ -79,3 +79,7 @@ Pollack, J.B. and Blair, A.D., 1998. Co-evolution in the successful learning of 
 ## 1993
 
 Forrest, S. and Mitchell, M., 1993. What makes a problem hard for a genetic algorithm? Some anomalous results and their explanation. Machine Learning, 13(2-3), pp.285-319. [ [www](https://link.springer.com/article/10.1007/BF00993046) | [pdf](https://link.springer.com/content/pdf/10.1007/BF00993046.pdf) ]
+
+## 1988
+
+Goldberg, D.E. and Holland, J.H., 1988. Genetic Algorithms and Machine Learning. Machine Learning, 3(2), pp.95-99. [ [www](https://link.springer.com/article/10.1023/A:1022602019183) | [pdf](https://link.springer.com/content/pdf/10.1023/A:1022602019183.pdf) ]
