@@ -10,7 +10,7 @@ Haan, S., 2021. GeoBO: Python package for multi-objective Bayesian optimisation 
 
 ## 2020
 
-**[---PDEC---]** Biscani, F. and Izzo, D., 2020. A parallel global multiobjective framework for optimization: pagmo. Journal of Open Source Software, 5(53), p.2338. [ [www](https://joss.theoj.org/papers/10.21105/joss.02338) | [pdf](https://joss.theoj.org/papers/10.21105/joss.02338.pdf) | [C++](https://github.com/esa/pagmo2) ]
+**[---PDEC---]** Biscani, F. and Izzo, D., 2020. A parallel global multiobjective framework for optimization: pagmo. Journal of Open Source Software, 5(53), p.2338. [ [www](https://joss.theoj.org/papers/10.21105/joss.02338) | [pdf](https://joss.theoj.org/papers/10.21105/joss.02338.pdf) | [C++](https://github.com/esa/pagmo2) | [Python](https://github.com/esa/pygmo2) ]
 
 **[---PDEC---]** Cicirello, V.A., 2020. Chips-n-salsa: A java library of customizable, hybridizable, iterative, parallel, stochastic, and self-adaptive local search algorithms. Journal of Open Source Software, 5(52). [ [www](https://joss.theoj.org/papers/10.21105/joss.02448) | [pdf](https://www.theoj.org/joss-papers/joss.02448/10.21105.joss.02448.pdf) | [Java](https://github.com/cicirello/Chips-n-Salsa) ]
 
