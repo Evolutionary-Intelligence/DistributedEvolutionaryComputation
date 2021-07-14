@@ -10,6 +10,10 @@ Schmidt, M. and Lipson, H., 2009. Distilling free-form natural laws from experim
 
 Hornby, G.S. and Kurtoglu, T., 2009. Toward a smarter Web. Science, 325(5938), pp.277-278. [ [www](https://science.sciencemag.org/content/325/5938/277.summary) ]
 
+## 1996
+
+Macready, W.G., Siapas, A.G. and Kauffman, S.A., 1996. Criticality and parallelism in combinatorial optimization. Science, 271(5245), pp.56-59. [ [www](https://science.sciencemag.org/content/271/5245/56) ]
+
 ## 1993
 
 Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878. [ [www](https://science.sciencemag.org/content/261/5123/872.abstract) ]
