@@ -14,6 +14,10 @@ Hornby, G.S. and Kurtoglu, T., 2009. Toward a smarter Web. Science, 325(5938), p
 
 Macready, W.G., Siapas, A.G. and Kauffman, S.A., 1996. Criticality and parallelism in combinatorial optimization. Science, 271(5245), pp.56-59. [ [www](https://science.sciencemag.org/content/271/5245/56) ]
 
+## 1995
+
+Cvijović, D. and Klinowski, J., 1995. Taboo search: An approach to the multiple minima problem. Science, 267(5198), pp.664-666. [ [www](https://science.sciencemag.org/content/267/5198/664.abstract) ]
+
 ## 1993
 
 Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878. [ [www](https://science.sciencemag.org/content/261/5123/872.abstract) ]
