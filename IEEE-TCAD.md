@@ -1,5 +1,9 @@
 # IEEE-TCAD
 
+## 1997
+
+Chandy, J.A., Kim, S., Ramkumar, B., Parkes, S. and Banerjee, P., 1997. An evaluation of parallel simulated annealing strategies with application to standard cell placement. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 16(4), pp.398-410. [ [www](https://ieeexplore.ieee.org/abstract/document/602476) ]
+
 ## 1990
 
 Roussel-Ragot, P. and Dreyfus, G., 1990. A problem independent parallel implementation of simulated annealing: Models and experiments. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 9(8), pp.827-835. [ [www](https://ieeexplore.ieee.org/abstract/document/57790) ]
