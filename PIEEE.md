@@ -12,6 +12,10 @@ Chellapilla, K. and Fogel, D.B., 1999. Evolution, neural networks, games, and in
 
 Wilson, S.S., 1991. Teaching network connectivity using simulated annealing on a massively parallel processor. Proceedings of the IEEE, 79(4), pp.559-566. [ [www](https://ieeexplore.ieee.org/abstract/document/92048) ]
 
+## 1998
+
+Rose, K., 1998. Deterministic annealing for clustering, compression, classification, regression, and related optimization problems. Proceedings of the IEEE, 86(11), pp.2210-2239. [ [www](https://ieeexplore.ieee.org/abstract/document/726788) ]
+
 ## 1987
 
 Szu, H.H. and Hartley, R.L., 1987. Nonconvex optimization by fast simulated annealing. Proceedings of the IEEE, 75(11), pp.1538-1540. [ [www](https://ieeexplore.ieee.org/abstract/document/1458183) ]
