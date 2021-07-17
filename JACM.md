@@ -1,5 +1,9 @@
 # JACM (Journal of the ACM)
 
+## 2021
+
+Bubeck, S., Eldan, R. and Lee, Y.T., 2021. Kernel-based methods for bandit convex optimization. Journal of the ACM, 68(4), pp.1-35. [ [www](https://dl.acm.org/doi/10.1145/3453721) ]
+
 ## 2017
 
 Feldman, V., Grigorescu, E., Reyzin, L., Vempala, S.S. and Xiao, Y., 2017. Statistical algorithms and a lower bound for detecting planted cliques. Journal of the ACM, 64(2), pp.1-37. [ [www](https://dl.acm.org/doi/10.1145/3046674) ]
