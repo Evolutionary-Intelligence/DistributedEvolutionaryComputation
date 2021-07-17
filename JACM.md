@@ -1,5 +1,9 @@
 # JACM (Journal of the ACM)
 
+## 2017
+
+Feldman, V., Grigorescu, E., Reyzin, L., Vempala, S.S. and Xiao, Y., 2017. Statistical algorithms and a lower bound for detecting planted cliques. Journal of the ACM, 64(2), pp.1-37. [ [www](https://dl.acm.org/doi/10.1145/3046674) ]
+
 ## 2009
 
 Štefankovič, D., Vempala, S. and Vigoda, E., 2009. Adaptive simulated annealing: A near-optimal connection between sampling and counting. Journal of the ACM, 56(3), pp.1-36. [ [www](https://dl.acm.org/doi/abs/10.1145/1516512.1516520) ]
