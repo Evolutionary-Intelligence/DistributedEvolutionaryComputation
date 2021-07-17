@@ -4,4 +4,4 @@ This is a *growing* paper list for **parallel and distributed** evolutionary com
 
 ## Research Support
 
-This *ongoing* review for PDEC is now supported by the **Shenzhen NSF** research project (from 2021 to 2023), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China).
+This *ongoing* review for PDEC is now supported by the **Shenzhen NSF** research project (from 2021 to 2023), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China), and actively maintained/updated by his group members (e.g., *Qiqi Duan*, *Chang Shao*, Mingyang Feng, Minghan Zhang, Youkui Zhang, and Qi Zhao).
