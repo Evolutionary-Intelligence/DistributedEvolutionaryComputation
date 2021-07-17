@@ -1,5 +1,7 @@
 # Evolutionary Computation (EC)
 
+* Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution of things. Nature, 521(7553), pp.476-482.
+
 ## Genetic Algorithm (GA)
 
 * Vie, A., 2021. Qualities, challenges and future of genetic algorithms: A literature review. arXiv preprint arXiv:2011.05277.
