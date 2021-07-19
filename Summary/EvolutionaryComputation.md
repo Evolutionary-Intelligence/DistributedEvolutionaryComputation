@@ -8,6 +8,8 @@
 
 * Levine, D., 1997. Commentary—Genetic algorithms: A practitioner's view. INFORMS Journal on Computing, 9(3), pp.256-259.
 
+* Goldberg, D.E., 1994. Genetic and evolutionary algorithms come of age. Communications of the ACM, 37(3), pp.113-120.
+
 * Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878.
 
 * Holland, J.H., 1992. Genetic algorithms. Scientific American, 267(1), pp.66-73.
