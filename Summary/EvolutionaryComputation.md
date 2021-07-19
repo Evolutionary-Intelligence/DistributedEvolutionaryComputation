@@ -22,6 +22,8 @@
 
 ## Evolution Strategies (ES)
 
+* Beyer, H.G. and Schwefel, H.P., 2002. Evolution strategies–a comprehensive introduction. Natural Computing, 1(1), pp.3-52.
+
 * Hansen, N. and Ostermeier, A., 2001. Completely derandomized self-adaptation in evolution strategies. Evolutionary Computation, 9(2), pp.159-195.
 
 ## Broader Viewpoints From AI/ML
