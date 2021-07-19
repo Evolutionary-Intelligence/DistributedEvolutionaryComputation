@@ -16,6 +16,8 @@
 
 * Goldberg, D.E. and Holland, J.H., 1988. Genetic algorithms and machine learning. Machine Learning, 3(2), pp.95-99.
 
+* Holland, J.H., 1962. Outline for a logical theory of adaptive systems. Journal of the ACM, 9(3), pp.297-314.
+
 ## Broader Viewpoints From AI/ML
 
 * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
