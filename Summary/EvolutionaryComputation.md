@@ -6,6 +6,8 @@
 
 * Vie, A., 2021. Qualities, challenges and future of genetic algorithms: A literature review. arXiv preprint arXiv:2011.05277.
 
+* Whitley, D., 2019. Next generation genetic algorithms: A user’s guide and tutorial. In Handbook of Metaheuristics (pp. 245-274). Springer, Cham.
+
 * Levine, D., 1997. Commentary—Genetic algorithms: A practitioner's view. INFORMS Journal on Computing, 9(3), pp.256-259.
 
 * Goldberg, D.E., 1994. Genetic and evolutionary algorithms come of age. Communications of the ACM, 37(3), pp.113-120.
