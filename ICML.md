@@ -56,4 +56,9 @@ Baluja, S. and Caruana, R., 1995. Removing the genetics from the standard geneti
 
 ## 1993
 
-Baluja, S., 1993, July. The evolution of genetic algorithms: Towards massive parallelism. In International Conference on Machine Learning (pp. 1-8). [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603073500071) ]
+Baluja, S., 1993, July. The evolution of genetic algorithms: Towards massive parallelism. In International Conference on Machine Learning (pp. 1-8). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603073500071) ]
+
+## 1988
+
+Caruana, R.A. and Schaffer, J.D., 1988. Representation and hidden bias: Gray vs. binary coding for genetic algorithms. In International Conference on Machine Learning (pp. 153-161). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500219) ]
+
