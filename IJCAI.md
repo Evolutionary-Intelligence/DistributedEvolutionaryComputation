@@ -17,3 +17,7 @@ Suganuma, M., Shirakawa, S. and Nagao, T., 2018, July. A genetic programming app
 ## 1999
 
 Gomez, F.J. and Miikkulainen, R., 1999, July. Solving non-Markovian control tasks with neuroevolution. In Proceedings of the International Joint Conference on Artificial Intelligence (Vol. 99, pp. 1356-1361). [ [www](https://www.ijcai.org/proceedings/1999-2/) | [pdf](https://www.ijcai.org/Proceedings/99-2/Papers/097.pdf) ]
+
+## 1985
+
+Schaffer, J.D. and Grefenstette, J.J., 1985, August. Multi-objective learning via genetic algorithms. In Proceedings of the International Joint Conference on Artificial Intelligence (Vol. 85, pp. 593-595). [ [www](https://dl.acm.org/doi/10.5555/1625135.1625248) | [pdf](https://www.ijcai.org/Proceedings/85-1/Papers/113.pdf) ]
