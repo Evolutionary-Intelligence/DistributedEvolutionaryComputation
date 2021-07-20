@@ -1,6 +1,6 @@
 # Representative Research Groups for Parallel and Distributed Evolutionary Computation (PDEC)
 
-## Dario Izzo from Advanced Concepts Team, European Space Research and Technology Center and Francesco Biscani, Max Planck Institute for Astronomy
+## Dario Izzo from European Space Research and Technology Center and Francesco Biscani from Max Planck Institute for Astronomy
 
 * Biscani, F. and Izzo, D., 2020. A parallel global multiobjective framework for optimization: pagmo. Journal of Open Source Software, 5(53), p.2338.
 
@@ -21,3 +21,7 @@
 * Biscani, F., Izzo, D. and Yam, C.H., 2010. A global optimisation toolbox for massively parallel engineering optimisation. arXiv preprint arXiv:1004.3824.
 
 * Izzo, D., Rucinski, M. and Ampatzis, C., 2009, May. Parallel global optimisation meta-heuristics using an asynchronous island-model. In IEEE Congress on Evolutionary Computation (pp. 2301-2308). IEEE.
+
+## Shumeet Baluja from Camegie Mellon University
+
+* Baluja, S., 1993, July. The evolution of genetic algorithms: Towards massive parallelism. In International Conference on Machine Learning (pp. 1-8).
