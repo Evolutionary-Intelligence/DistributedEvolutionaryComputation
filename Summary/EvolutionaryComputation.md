@@ -22,6 +22,8 @@
 
 ## Evolution Strategies (ES)
 
+* Vicol, P., Metz, L. and Sohl-Dickstein, J., 2021, July. Unbiased gradient estimation in unrolled computation graphs with persistent evolution strategies. In International Conference on Machine Learning (pp. 10553-10563). PMLR.
+
 * Nesterov, Y. and Spokoiny, V., 2017. Random gradient-free minimization of convex functions. Foundations of Computational Mathematics, 17(2), pp.527-566.
 
 * Ollivier, Y., Arnold, L., Auger, A. and Hansen, N., 2017. Information-geometric optimization algorithms: A unifying picture via invariance principles. Journal of Machine Learning Research, 18(18), pp.1-65.
