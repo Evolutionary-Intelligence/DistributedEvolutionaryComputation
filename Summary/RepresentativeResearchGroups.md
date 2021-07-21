@@ -25,3 +25,9 @@
 ## Shumeet Baluja from Camegie Mellon University
 
 * Baluja, S., 1993, July. The evolution of genetic algorithms: Towards massive parallelism. In International Conference on Machine Learning (pp. 1-8).
+
+* Baluja, S., 1993. Structure and performance of fine-grain parallelism in genetic search. In Practical Handbook of Genetic Algorithms (pp. 139-154). CRC Press.
+
+* Liepins, G.E. and Baluja, S., 1992. ApGA: An adaptive parallel genetic algorithm. In Computer Science and Operations Research (pp. 399-409). Pergamon.
+
+* Baluja, S., 1992. A massively distributed parallel genetic algorithm: MdpGA. School of Computer Science, Carnegie Mellon University.
