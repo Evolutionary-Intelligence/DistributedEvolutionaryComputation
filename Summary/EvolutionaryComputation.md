@@ -42,6 +42,10 @@
 
 Deb, K., Pratap, A., Agarwal, S. and Meyarivan, T.A.M.T., 2002. A fast and elitist multiobjective genetic algorithm: NSGA-II. IEEE Transactions on Evolutionary Computation, 6(2), pp.182-197.
 
+## MOEA/D
+
+Zhang, Q. and Li, H., 2007. MOEA/D: A multiobjective evolutionary algorithm based on decomposition. IEEE Transactions on Evolutionary Computation, 11(6), pp.712-731.
+
 ## Broader Viewpoints From AI/ML
 
 * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
