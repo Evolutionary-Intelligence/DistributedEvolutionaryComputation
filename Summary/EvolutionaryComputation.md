@@ -38,6 +38,10 @@
 
 * Rechenberg, I., 1978. Evolutionsstrategien. In Simulationsmethoden in der Medizin und Biologie (pp. 83-114). Springer, Berlin, Heidelberg. (*NOTE that this paper was not read directly by us since it was originally written in German. Here we add it owing to its historically significant contributions to EC.*)
 
+## NSGA-II
+
+Deb, K., Pratap, A., Agarwal, S. and Meyarivan, T.A.M.T., 2002. A fast and elitist multiobjective genetic algorithm: NSGA-II. IEEE Transactions on Evolutionary Computation, 6(2), pp.182-197.
+
 ## Broader Viewpoints From AI/ML
 
 * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
