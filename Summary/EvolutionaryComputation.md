@@ -50,6 +50,10 @@
 
 * Storn, R., 1999. System design by constraint adaptation and differential evolution. IEEE Transactions on Evolutionary Computation, 3(1), pp.22-34.
 
+## Estimation of Distribution Algorithms (EDAs)
+
+* Larrañaga, P. and Lozano, J.A. eds., 2001. Estimation of distribution algorithms: A new tool for evolutionary computation. Springer Science & Business Media.
+
 ## Natural Evolution Strategies (ES)
 
 * Salimans, T., Ho, J., Chen, X., Sidor, S. and Sutskever, I., 2017. Evolution strategies as a scalable alternative to reinforcement learning. arXiv preprint arXiv:1703.03864.
