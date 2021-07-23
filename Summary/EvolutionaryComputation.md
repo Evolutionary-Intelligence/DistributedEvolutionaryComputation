@@ -52,6 +52,8 @@
 
 ## Natural Evolution Strategies (ES)
 
+* Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. Natural evolution strategies. Journal of Machine Learning Research, 15(1), pp.949-980.
+
 * Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. Stochastic search using the natural gradient. In Proceedings of International Conference on Machine Learning (pp. 1161-1168).
 
 ## Broader Viewpoints From AI/ML
