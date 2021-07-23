@@ -64,6 +64,8 @@
 
 ## Quality Diversity (QD)
 
+* Cully, A. and Demiris, Y., 2017. Quality and diversity optimization: A unifying modular framework. IEEE Transactions on Evolutionary Computation, 22(2), pp.245-259.
+
 * Pugh, J.K., Soros, L.B. and Stanley, K.O., 2016. Quality diversity: A new frontier for evolutionary computation. Frontiers in Robotics and AI, 3, pp.1-17.
 
 ## Broader Viewpoints From AI/ML
