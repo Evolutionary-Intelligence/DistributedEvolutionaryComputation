@@ -16,9 +16,13 @@ Li, M.Q., Yang, S.X. and Liu, X.H., 2015. Bi-goal evolution for many-objective o
 
 Xue, X.S. and Wang, Y.P., 2015. Optimizing ontology alignments through a memetic algorithm using both matchFmeasure and unanimous improvement ratio. Artificial Intelligence, 223, pp.65-81. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370215000399) ]
 
+## 2013
+
+Bringmann, K. and Friedrich, T., 2013. Approximation quality of the hypervolume indicator. Artificial Intelligence, 195, pp.265-290. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370212001178) ]
+
 ## 2012
 
-Yu, Y., Yao, X. and Zhou, Z.H., 2012. On the approximation ability of evolutionary optimization with application to minimum set cover. Artificial Intelligence, 180, pp.20-33. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370212000033) | [pdf](https://pdf.sciencedirectassets.com/271585/1-s2.0-S0004370212X0002X/1-s2.0-S0004370212000033/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIDNdMk3xFoSmiKXNmAAcDmtRcorqzJzrQJ0YOtHWA8RgAiBGvUY%2FIGQNrcE0YZIO71aDFgkxdSAoWDqvVcH27PUyLSq9Awjp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDA1OTAwMzU0Njg2NSIMVoGYC%2BZWO4cAoZ4yKpEDJCGKStwSQ3Rdp3GooOD2rbF76bIWS%2B8713d5qn%2FnJT%2FYeY6qxVLF6HBLCK6%2FaS%2FVgkDEJmS1UXuZxVzuGMND3ycNqSpKWdjWOSMYjxVakyZ9L2845%2FAIS5pMDRI967%2BF7kwLbxF1m2X3zNPtgPg3jIe8pmOLftLLfCNjf5J5TB7XIdQiVZfsrQ%2FP3KO6DWZhAktpJGKA%2FVYMynk3qbKlQdMnT1lgylo95h7rqJB6Rp8tf280Ia5U0trJAK0JNmKfjWUxGbB4N%2FydCOijzGXL6ufqkAPYPY7BteeyyYHjumyfl5Hp4zvkY%2FQwBRkN2lJc9Qc0lwe5H2Z2ONY8jOlcDqiQyTtla3%2FAzlg4UvV5aKhU07OfA2R7Nt7Ya0vs6kmHK44Fd9obzmjLTieIzUM2e42qgQOc%2BLLl9WoJiYm7xhF3nQFHB3lEdxyxWGKL1INBwrElMGuDVy%2FBYYx7kGlWF%2FCJik4iG%2BISzBZMOsnkootalQYghx9BaXaSOdzEJGBXIbkLOpaGy8oLP787kWJFxrQww4jxggY67AHYV9AqViNCdF3JIDlr8CvV5Z%2BUWIYIeCmBUJU5ACePXQtZH3cs%2B2Sz9Pl5p%2BVB1z%2FOm6evAkBYiEY1bS%2F8ln5H%2F%2BUoWegTJypM9HZNqM9XHyRFdqqKimAjJ2cmwlirhI2iq%2F0wwVQcMwSWnZ69T5B0vvgsM46M72XEg7uCE61HTwLdpNubDzLlZ5n96DkW%2BA2ZK3IDDc5dYNo6EGYD8cUTshYFM5pzOMmdufVAzEV5Rcsj7eIe372rSV5Dl5UjtKrr%2FfFngntlUOpYW4LV9DE6FYA7QGoNxOb7L8sRCVj5yhGvpsQWdeZy%2FJL%2FPg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210325T085500Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQM4EKY2I%2F20210325%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8b66302cbf79e04264d50e112963fb1dca3eb4786e44e67b609d2610f591af1a&hash=5c28901bad0a2bba7e3ac3aedea171556b4bf4f4538041e27a1e4f0bc4be6630&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0004370212000033&tid=spdf-7d7c0d9b-3dbf-4c6c-ac4e-7f2415915808&sid=362c59ae44c638479c495158b586b0f5b5cegxrqb&type=client) ]
+Yu, Y., Yao, X. and Zhou, Z.H., 2012. On the approximation ability of evolutionary optimization with application to minimum set cover. Artificial Intelligence, 180, pp.20-33. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370212000033) ]
 
 ## 2010
 
