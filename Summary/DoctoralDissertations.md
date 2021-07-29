@@ -1,5 +1,9 @@
 # Doctoral Dissertations
 
+## 2021
+
+Liang, E., 2021. Scalable reinforcement learning systems and their applications. Doctoral Dissertation, University of California, Berkeley. [ [www](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-48.pdf) ]
+
 ## 2020
 
 Zhang, L., 2020. Analysis and application of parallel simulated annealing. Doctoral Dissertation, State University of New York at Stony Brook.
