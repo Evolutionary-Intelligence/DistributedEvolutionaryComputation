@@ -1,5 +1,9 @@
 # OSDI (USENIX Symposium on Operating Systems Design and Implementation)
 
+## 2021
+
+Wang, J., Ding, D., Wang, H., Christensen, C., Wang, Z., Chen, H. and Li, J., 2021. Polyjuice: High-performance transactions via learned concurrency control. In USENIX Symposium on Operating Systems Design and Implementation (pp. 199-217). [ [www](https://www.usenix.org/conference/osdi21/presentation/wang-jiachen) | [pdf](https://www.usenix.org/system/files/osdi21-wang-jiachen.pdf) ]
+
 ## 2020
 
 Zhang, Q., Han, Z., Yang, F., Zhang, Y., Liu, Z., Yang, M. and Zhou, L., 2020. Retiarii: A deep learning exploratory-training framework. In USENIX Symposium on Operating Systems Design and Implementation (pp. 919-936). [ [www](https://www.usenix.org/conference/osdi20/presentation/zhang-quanlu) | [pdf](https://www.usenix.org/system/files/osdi20-zhang_quanlu.pdf) ]
