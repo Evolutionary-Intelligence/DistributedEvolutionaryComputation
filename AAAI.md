@@ -1,5 +1,9 @@
 # AAAI (AAAI Conference on Artificial Intelligence)
 
+## 2021
+
+Xu, X., Meng, Q., Qin, Y., Guo, J., Zhao, C., Zhou, F. and Lei, Z., 2021, May. Searching for alignment in face recognition. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 4, pp. 3065-3073). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/16415) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16415/16222) ]
+
 ## 2019
 
 Real, E., Aggarwal, A., Huang, Y. and Le, Q.V., 2019, July. Regularized evolution for image classifier architecture search. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 4780-4789). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/4405) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4405/4283) ]
