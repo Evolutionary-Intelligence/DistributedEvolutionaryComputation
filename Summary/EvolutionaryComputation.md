@@ -82,4 +82,6 @@
 
 ## Broader Viewpoints From AI/ML
 
+* Millhouse, T., Moses, M. and Mitchell, M., 2021. Foundations of intelligence in natural and artificial systems: A workshop report. arXiv preprint arXiv:2105.02198.
+
 * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
