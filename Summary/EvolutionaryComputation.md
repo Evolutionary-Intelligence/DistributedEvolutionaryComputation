@@ -64,7 +64,9 @@
 
 ## Quality Diversity (QD)
 
-* Chatzilygeroudis, K., Cully, A., Vassiliades, V. and Mouret, J.B., 2021. Quality-Diversity Optimization: A novel branch of stochastic optimization. In Black Box Optimization, Machine Learning, and No-Free Lunch Theorems (pp. 109-135). Springer, Cham.
+* https://quality-diversity.github.io/    (The content of this link is actively added/updated.)
+
+* Chatzilygeroudis, K., Cully, A., Vassiliades, V. and Mouret, J.B., 2021. Quality-diversity optimization: A novel branch of stochastic optimization. In Black Box Optimization, Machine Learning, and No-Free Lunch Theorems (pp. 109-135). Springer, Cham.
 
 * Cully, A. and Demiris, Y., 2017. Quality and diversity optimization: A unifying modular framework. IEEE Transactions on Evolutionary Computation, 22(2), pp.245-259.
 
