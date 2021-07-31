@@ -72,6 +72,8 @@
 
 * Pugh, J.K., Soros, L.B. and Stanley, K.O., 2016. Quality diversity: A new frontier for evolutionary computation. Frontiers in Robotics and AI, 3, pp.1-17.
 
+* Lehman, J. and Stanley, K.O., 2011, July. Evolving a diversity of virtual creatures through novelty search and local competition. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 211-218).
+
 ## Broader Viewpoints From AI/ML
 
 * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
