@@ -30,7 +30,7 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
 
 * Several Relatively New Extensions/Improvements/Variants
 
-  * Co-Evolutionary Algorithms (CEAs) including both Cooperative and Competitive Evolution
+  * Co-Evolutionary Algorithms (CEA) including both Cooperative and Competitive Evolution
   
   * Differential Evolution (DE)
   
@@ -42,6 +42,8 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
   
   * Quality-Diveristy (QD)
   
+    * Multidimensional Archive of Phenotypic Elites (MAP-Elites)
+
 * NeuroEvolution (aka Evolving Neural Networks)
 
 * Evolutionary/Swarm Robotics
