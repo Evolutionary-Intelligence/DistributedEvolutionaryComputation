@@ -80,8 +80,10 @@
 
 * Lehman, J. and Stanley, K.O., 2011, July. Evolving a diversity of virtual creatures through novelty search and local competition. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 211-218).
 
-## Broader Viewpoints From AI/ML
+## Broader Viewpoints From AI/ML/Optimization
 
 * Millhouse, T., Moses, M. and Mitchell, M., 2021. Foundations of intelligence in natural and artificial systems: A workshop report. arXiv preprint arXiv:2105.02198.
 
 * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
+
+* Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
