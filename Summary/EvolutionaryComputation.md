@@ -72,6 +72,8 @@
 
 * Pugh, J.K., Soros, L.B. and Stanley, K.O., 2016. Quality diversity: A new frontier for evolutionary computation. Frontiers in Robotics and AI, 3, pp.1-17.
 
+* Mouret, J.B. and Clune, J., 2015. Illuminating search spaces by mapping elites. arXiv preprint arXiv:1504.04909.
+
 * Lehman, J. and Stanley, K.O., 2011, July. Evolving a diversity of virtual creatures through novelty search and local competition. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 211-218).
 
 ## Broader Viewpoints From AI/ML
