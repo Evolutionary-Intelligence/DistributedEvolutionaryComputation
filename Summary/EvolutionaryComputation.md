@@ -52,6 +52,8 @@
 
 ## Differential Evolution (DE)
 
+* Das, S. and Suganthan, P.N., 2010. Differential evolution: A survey of the state-of-the-art. IEEE Transactions on Evolutionary Computation, 15(1), pp.4-31.
+
 * Storn, R., 1999. System design by constraint adaptation and differential evolution. IEEE Transactions on Evolutionary Computation, 3(1), pp.22-34.
 
 ## Estimation of Distribution Algorithms (EDAs)
