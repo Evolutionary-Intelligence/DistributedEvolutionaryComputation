@@ -84,6 +84,10 @@
 
 * Lehman, J. and Stanley, K.O., 2011, July. Evolving a diversity of virtual creatures through novelty search and local competition. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 211-218).
 
+## Recent Reviews/Surveys
+
+* Corne, D.W. and Lones, M.A., 2018. Evolutionary algorithms. arXiv preprint arXiv:1805.11014.
+
 ## Broader Viewpoints From AI/ML/Optimization
 
 * Millhouse, T., Moses, M. and Mitchell, M., 2021. Foundations of intelligence in natural and artificial systems: A workshop report. arXiv preprint arXiv:2105.02198.
