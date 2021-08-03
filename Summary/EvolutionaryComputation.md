@@ -94,7 +94,9 @@
 
 ## Evolutionary/Swarm Robotics
 
-* Floreano, D. and Lipson, H., 2021. From individual robots to robot societies. Science Robotics, 6(56).
+* Floreano, D. and Lipson, H., 2021. From individual robots to robot societies. Science Robotics, 6(56). (SPECIAL ISSUE ON ROBOT SWARMS ACROSS SCALES)
+
+* Dorigo, M., Theraulaz, G. and Trianni, V., 2020. Reflections on the future of swarm robotics. Science Robotics, 5(49).
 
 ## Recent Reviews/Surveys
 
