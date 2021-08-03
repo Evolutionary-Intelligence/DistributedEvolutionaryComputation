@@ -42,6 +42,10 @@
 
 * Rechenberg, I., 1978. Evolutionsstrategien. In Simulationsmethoden in der Medizin und Biologie (pp. 83-114). Springer, Berlin, Heidelberg. (*NOTE that this paper was not read directly by us since it was originally written in German. Here we add it owing to its historically significant contributions to EC.*)
 
+## Ant Colony Optimization (ACO)
+
+* Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm Intelligence: From natural to artificial systems. Oxford University Press.
+
 ## NSGA-II
 
 * Deb, K., Pratap, A., Agarwal, S. and Meyarivan, T.A.M.T., 2002. A fast and elitist multiobjective genetic algorithm: NSGA-II. IEEE Transactions on Evolutionary Computation, 6(2), pp.182-197.
