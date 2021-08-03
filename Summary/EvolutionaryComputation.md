@@ -44,7 +44,11 @@
 
 ## Ant Colony Optimization (ACO)
 
-* Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm Intelligence: From natural to artificial systems. Oxford University Press.
+* Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: From natural to artificial systems. Oxford University Press.
+
+## Particle Swarm Optimization (PSO)
+
+* Kennedy, J. and Eberhart, R., 1995, November. Particle swarm optimization. In Proceedings of International Conference on Neural Networks (Vol. 4, pp. 1942-1948). IEEE.
 
 ## NSGA-II
 
