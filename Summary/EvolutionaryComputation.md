@@ -92,6 +92,10 @@
 
 * Floreano, D., Dürr, P. and Mattiussi, C., 2008. Neuroevolution: From architectures to learning. Evolutionary Intelligence, 1(1), pp.47-62.
 
+## Evolutionary/Swarm Robotics
+
+* Floreano, D. and Lipson, H., 2021. From individual robots to robot societies. Science Robotics, 6(56).
+
 ## Recent Reviews/Surveys
 
 * Corne, D.W. and Lones, M.A., 2018. Evolutionary algorithms. arXiv preprint arXiv:1805.11014.
