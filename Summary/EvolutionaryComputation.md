@@ -1,5 +1,11 @@
 # Evolutionary Computation (EC)
 
+In this page, we try our best to provide a (relatively complete) reference list for the **original/seminal/landmark/survey/review** papers in the EC field, in order to help better understand them (especially for newcomers). However, owing to the uncountable paper amount (which keeps growing every day), we must select some of *limited* representative works (how to select is a non-trivial work, depending on our *possibly biased* experience).
+
+Since there are still other worth-citing papers missed here, we expect to continue to add them in the future if you report them via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) and [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls).  
+
+## Popular Nature/Science Reviews  
+
 * Miikkulainen, R. and Forrest, S., 2021. A biological perspective on evolutionary computation. Nature Machine Intelligence, 3(1), pp.9-15.
 
 * Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution of things. Nature, 521(7553), pp.476-482.
