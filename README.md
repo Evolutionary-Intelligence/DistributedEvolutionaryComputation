@@ -4,7 +4,7 @@ This is a *growing* paper list for **parallel and distributed** evolutionary com
 
 ## A (Relatively Big) Family of Evolutionary Algorithms (EAs)
 
-In this review, we consider a *relatively big* family of evolutionary algorithms (and also several closely related techniques, e.g., *random search* and *simulated annealing*), as presented below. Since here we focus primarily on their parallel/distributed versions and variants, we also provide a [ reference list](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md) for their original/seminal/survey papers, in order to help better understand them (especially for newcomers).
+In this review, we consider a *relatively big* family of evolutionary algorithms (and also several closely related techniques, e.g., *random search* and *simulated annealing*), as presented below. Since here we focus primarily on their parallel/distributed versions and variants, we also provide a [ reference list](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md) for their original/seminal/landmark/survey/review papers, in order to help better understand them (especially for newcomers).
 
 * Four Conventional EAs
 
