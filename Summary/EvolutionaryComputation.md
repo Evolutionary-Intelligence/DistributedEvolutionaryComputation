@@ -100,6 +100,8 @@
 
 * Floreano, D., Dürr, P. and Mattiussi, C., 2008. Neuroevolution: From architectures to learning. Evolutionary Intelligence, 1(1), pp.47-62.
 
+* Stanley, K.O. and Miikkulainen, R., 2002. Evolving neural networks through augmenting topologies. Evolutionary Computation, 10(2), pp.99-127.
+
 ## Evolutionary/Swarm Robotics
 
 * Floreano, D. and Lipson, H., 2021. From individual robots to robot societies. Science Robotics, 6(56). (SPECIAL ISSUE ON ROBOT SWARMS ACROSS SCALES)
