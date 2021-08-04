@@ -1,6 +1,6 @@
 # Evolutionary Computation (EC)
 
-In this page, we try our best to provide a (relatively complete) reference list for the **original/seminal/landmark/survey/review** papers in the EC field, in order to help better understand them (especially for newcomers). However, owing to the uncountable paper amount (which keeps growing every day), we must select some of *limited* representative works (how to select is a non-trivial work, depending on our *possibly biased* experience).
+In this page, we try our best to provide a (relatively complete) reference list for the **original/seminal/landmark/survey/review** papers from the EC field, in order to help better understand EC (especially for newcomers). However, owing to the uncountable paper amount (which keeps growing everyday), we must select some of *limited* representative works (how to select is a non-trivial work, depending on our *possibly biased* experience).
 
 Since there are still other worth-citing papers missed here, we expect to continue to add them in the future if you report them via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) and [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls).  
 
@@ -27,6 +27,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 * Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878.
 
 * Holland, J.H., 1992. Genetic algorithms. Scientific American, 267(1), pp.66-73.
+
+* Holland, J.H., 1992. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. MIT Press.
 
 * Goldberg, D.E. and Holland, J.H., 1988. Genetic algorithms and machine learning. Machine Learning, 3(2), pp.95-99.
 
