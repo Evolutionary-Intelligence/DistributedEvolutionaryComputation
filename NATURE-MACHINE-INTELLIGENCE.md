@@ -13,3 +13,5 @@ Birattari, M., Ligot, A. and Hasselmann, K., 2020. Disentangling automatic and s
 Stanley, K.O., Clune, J., Lehman, J. and Miikkulainen, R., 2019. Designing neural networks through neuroevolution. Nature Machine Intelligence, 1(1), pp.24-35. [ [www](https://www.nature.com/articles/s42256-018-0006-z) ]
 
 Kriegman, S., 2019. Why virtual creatures matter. Nature Machine Intelligence, 1(10), pp.492-492. [ [www](https://www.nature.com/articles/s42256-019-0102-8) ]
+
+Howard, D., Eiben, A.E., Kennedy, D.F., Mouret, J.B., Valencia, P. and Winkler, D., 2019. Evolving embodied intelligence from materials to machines. Nature Machine Intelligence, 1(1), pp.12-19. [ [www](https://www.nature.com/articles/s42256-018-0009-9) ]
