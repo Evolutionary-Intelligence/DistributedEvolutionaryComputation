@@ -22,6 +22,12 @@
 
 * Izzo, D., Rucinski, M. and Ampatzis, C., 2009, May. Parallel global optimisation meta-heuristics using an asynchronous island-model. In IEEE Congress on Evolutionary Computation (pp. 2301-2308). IEEE.
 
+## Enrique Alba from University of Málaga
+
+* http://www.lcc.uma.es/~eat/
+
+* Alba, E., 2005. Parallel metaheuristics: a new class of algorithms (Vol. 47). John Wiley & Sons.
+
 ## Shumeet Baluja from Camegie Mellon University
 
 * Baluja, S., 1993, July. The evolution of genetic algorithms: Towards massive parallelism. In International Conference on Machine Learning (pp. 1-8).
