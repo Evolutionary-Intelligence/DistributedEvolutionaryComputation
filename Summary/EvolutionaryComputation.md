@@ -122,6 +122,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Corne, D.W. and Lones, M.A., 2018. Evolutionary algorithms. arXiv preprint arXiv:1805.11014.
 
+* De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
+
 ## Broader Viewpoints From AI/ML/Optimization
 
 * Millhouse, T., Moses, M. and Mitchell, M., 2021. Foundations of intelligence in natural and artificial systems: A workshop report. arXiv preprint arXiv:2105.02198.
