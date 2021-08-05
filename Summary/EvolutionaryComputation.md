@@ -116,6 +116,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Dorigo, M., Theraulaz, G. and Trianni, V., 2020. Reflections on the future of swarm robotics. Science Robotics, 5(49).
 
+* Nolfi, S. and Floreano, D., 2000. Evolutionary robotics: The biology, intelligence, and technology of self-organizing machines. MIT Press.
+
 ## Recent Reviews/Surveys
 
 * Corne, D.W. and Lones, M.A., 2018. Evolutionary algorithms. arXiv preprint arXiv:1805.11014.
