@@ -114,6 +114,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Floreano, D. and Lipson, H., 2021. From individual robots to robot societies. Science Robotics, 6(56). (SPECIAL ISSUE ON ROBOT SWARMS ACROSS SCALES)
 
+* Kriegman, S., Blackiston, D., Levin, M. and Bongard, J., 2020. A scalable pipeline for designing reconfigurable organisms. Proceedings of the National Academy of Sciences, 117(4), pp.1853-1859.
+
 * Dorigo, M., Theraulaz, G. and Trianni, V., 2020. Reflections on the future of swarm robotics. Science Robotics, 5(49).
 
 * Nolfi, S. and Floreano, D., 2000. Evolutionary robotics: The biology, intelligence, and technology of self-organizing machines. MIT Press.
