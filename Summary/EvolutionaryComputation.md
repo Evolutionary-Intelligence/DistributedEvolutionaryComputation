@@ -14,8 +14,6 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 ## Genetic Algorithm (GA)
 
-* Vie, A., 2021. Qualities, challenges and future of genetic algorithms: A literature review. arXiv preprint arXiv:2011.05277.
-
 * Whitley, D., 2019. Next generation genetic algorithms: A user’s guide and tutorial. In Handbook of Metaheuristics (pp. 245-274). Springer, Cham.
 
 * Levine, D., 1997. Commentary—Genetic algorithms: A practitioner's view. INFORMS Journal on Computing, 9(3), pp.256-259.
@@ -110,6 +108,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Stanley, K.O. and Miikkulainen, R., 2002. Evolving neural networks through augmenting topologies. Evolutionary Computation, 10(2), pp.99-127.
 
+* Yao, X., 1999. Evolving artificial neural networks. Proceedings of the IEEE, 87(9), pp.1423-1447.
+
 ## Evolutionary/Swarm Robotics
 
 * Floreano, D. and Lipson, H., 2021. From individual robots to robot societies. Science Robotics, 6(56). (SPECIAL ISSUE ON ROBOT SWARMS ACROSS SCALES)
@@ -120,7 +120,9 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Nolfi, S. and Floreano, D., 2000. Evolutionary robotics: The biology, intelligence, and technology of self-organizing machines. MIT Press.
 
-## Recent Reviews/Surveys
+## Recent Reviews/Surveys/Books
+
+* Vie, A., 2021. Qualities, challenges and future of genetic algorithms: A literature review. arXiv preprint arXiv:2011.05277.
 
 * Corne, D.W. and Lones, M.A., 2018. Evolutionary algorithms. arXiv preprint arXiv:1805.11014.
 
