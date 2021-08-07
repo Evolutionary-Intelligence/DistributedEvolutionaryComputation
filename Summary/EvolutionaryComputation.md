@@ -46,6 +46,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Hansen, N. and Ostermeier, A., 2001. Completely derandomized self-adaptation in evolution strategies. Evolutionary Computation, 9(2), pp.159-195.
 
+* Bäck, T., Hoffmeister, F. and Schwefel, H.P., 1991. A survey of evolution strategies. In Proceedings of International Conference on Genetic Algorithms.
+
 * Rechenberg, I., 1978. Evolutionsstrategien. In Simulationsmethoden in der Medizin und Biologie (pp. 83-114). Springer, Berlin, Heidelberg. (*NOTE that this paper was not read directly by us since it was originally written in German. Here we add it owing to its historically significant contributions to EC.*)
 
 ## Ant Colony Optimization (ACO)
