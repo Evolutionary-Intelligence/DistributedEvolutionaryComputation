@@ -140,4 +140,6 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
 
+* Floreano, D. and Mattiussi, C., 2008. Bio-inspired artificial intelligence: Theories, methods, and technologies. MIT Press.
+
 * Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
