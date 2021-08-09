@@ -2,6 +2,8 @@
 
 ## 2021
 
+Nomura, M., Watanabe, S., Akimoto, Y., Ozaki, Y. and Onishi, M., 2021, May. Warm starting CMA-ES for hyperparameter optimization. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 10, pp. 9188-9196). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/17109) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17109/16916) | [Python](https://github.com/CyberAgent/cmaes) ]
+
 Xu, X., Meng, Q., Qin, Y., Guo, J., Zhao, C., Zhou, F. and Lei, Z., 2021, May. Searching for alignment in face recognition. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 4, pp. 3065-3073). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/16415) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16415/16222) ]
 
 ## 2019
