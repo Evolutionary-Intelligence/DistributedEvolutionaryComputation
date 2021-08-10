@@ -62,6 +62,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: From natural to artificial systems. Oxford University Press.
 
+* Dorigo, M. and Gambardella, L.M., 1997. Ant colony system: A cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1(1), pp.53-66.
+
 ## Particle Swarm Optimization (PSO)
 
 * Eberhart, R.C., Shi, Y. and Kennedy, J., 2001. Swarm intelligence. Elsevier.
