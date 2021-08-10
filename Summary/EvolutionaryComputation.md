@@ -64,6 +64,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Dorigo, M. and Gambardella, L.M., 1997. Ant colony system: A cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1(1), pp.53-66.
 
+* Gambardella, L.M. and Dorigo, M., 1995. Ant-Q: A reinforcement learning approach to the traveling salesman problem. In International Conference on Machine Learning (pp. 252-260). Morgan Kaufmann.
+
 ## Particle Swarm Optimization (PSO)
 
 * Eberhart, R.C., Shi, Y. and Kennedy, J., 2001. Swarm intelligence. Elsevier.
