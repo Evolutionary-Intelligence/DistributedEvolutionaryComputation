@@ -56,6 +56,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Dorigo, M. and Stützle, T., 2019. Ant colony optimization: Overview and recent advances. Handbook of Metaheuristics, pp.311-351.
 
+* Dorigo, M., Birattari, M. and Stutzle, T., 2006. Ant colony optimization. IEEE Computational Intelligence Magazine, 1(4), pp.28-39.
+
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: From natural to artificial systems. Oxford University Press.
 
 ## Particle Swarm Optimization (PSO)
