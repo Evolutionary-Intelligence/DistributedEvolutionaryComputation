@@ -58,6 +58,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Dorigo, M., Birattari, M. and Stutzle, T., 2006. Ant colony optimization. IEEE Computational Intelligence Magazine, 1(4), pp.28-39.
 
+* Bonabeau, E., Dorigo, M. and Theraulaz, G., 2000. Inspiration for optimization from social insect behaviour. Nature, 406(6791), pp.39-42.
+
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: From natural to artificial systems. Oxford University Press.
 
 ## Particle Swarm Optimization (PSO)
