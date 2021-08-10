@@ -58,6 +58,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 ## Particle Swarm Optimization (PSO)
 
+* Eberhart, R.C., Shi, Y. and Kennedy, J., 2001. Swarm intelligence. Elsevier.
+
 * Kennedy, J. and Eberhart, R., 1995, November. Particle swarm optimization. In Proceedings of International Conference on Neural Networks (Vol. 4, pp. 1942-1948). IEEE.
 
 ## NSGA-II
