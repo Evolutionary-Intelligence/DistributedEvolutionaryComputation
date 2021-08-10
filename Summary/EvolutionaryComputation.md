@@ -1,6 +1,6 @@
 # Evolutionary Computation (EC)
 
-In this page, we try our best to provide a (relatively complete) reference list for the **original/seminal/landmark/survey/review** papers from the EC field, in order to help better understand EC (especially for newcomers). However, owing to the uncountable paper amount (which keeps growing everyday), we must select some of *limited* representative works (how to select is a non-trivial work, depending on our *possibly biased* experience).
+In this page, we try our best to provide a (relatively complete) reference list for the **original/seminal/landmark/survey/review** papers from the EC field, in order to help better understand EC (especially for newcomers). However, owing to the uncountable paper amount (which keeps growing everyday), we must select a small set of *representative* works (note that how to select is a non-trivial work, depending on our *possibly biased* experience).
 
 Since there are still other worth-citing papers missed here, we expect to continue to add them in the future if you report them via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) and [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls).  
 
@@ -63,6 +63,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: From natural to artificial systems. Oxford University Press.
 
 * Dorigo, M. and Gambardella, L.M., 1997. Ant colony system: A cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1(1), pp.53-66.
+
+* Dorigo, M., Maniezzo, V. and Colorni, A., 1996. Ant system: Optimization by a colony of cooperating agents. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 26(1), pp.29-41.
 
 * Gambardella, L.M. and Dorigo, M., 1995. Ant-Q: A reinforcement learning approach to the traveling salesman problem. In International Conference on Machine Learning (pp. 252-260). Morgan Kaufmann.
 
