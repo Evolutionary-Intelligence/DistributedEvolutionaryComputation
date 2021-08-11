@@ -1,5 +1,9 @@
 # CACM (Communications of the ACM)
 
+## 2016
+
+Forrest, S. and Mitchell, M., 2016. Adaptive computation: The multidisciplinary legacy of John H. Holland. Communications of the ACM, 59(8), pp.58-63. [ [www](https://dl.acm.org/doi/10.1145/2964342) ]
+
 ## 2013
 
 Bongard, J.C., 2013. Evolutionary robotics. Communications of the ACM, 56(8), pp.74-83. [ [www](https://dl.acm.org/doi/abs/10.1145/2493883) ]
