@@ -4,6 +4,10 @@
 
 Bongard, J.C., 2013. Evolutionary robotics. Communications of the ACM, 56(8), pp.74-83. [ [www](https://dl.acm.org/doi/abs/10.1145/2493883) ]
 
+## 2010
+
+Weimer, W., Forrest, S., Le Goues, C. and Nguyen, T., 2010. Automatic program repair with evolutionary computation. Communications of the ACM, 53(5), pp.109-116. [ [www](https://dl.acm.org/doi/abs/10.1145/1735223.1735249) ]
+
 ## 2008
 
 Kari, L. and Rozenberg, G., 2008. The many facets of natural computing. Communications of the ACM, 51(10), pp.72-83. [ [www](https://dl.acm.org/doi/10.1145/1400181.1400200) ]
