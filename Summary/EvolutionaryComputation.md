@@ -122,6 +122,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 ## NeuroEvolution (aka Evolving Neural Networks)
 
+* Jaderberg, M., Czarnecki, W.M., Dunning, I., Marris, L., Lever, G., Castaneda, A.G., Beattie, C., Rabinowitz, N.C., Morcos, A.S., Ruderman, A. and Sonnerat, N., 2019. Human-level performance in 3D multiplayer games with population-based reinforcement learning. Science, 364(6443), pp.859-865.
+
 * Floreano, D., Dürr, P. and Mattiussi, C., 2008. Neuroevolution: From architectures to learning. Evolutionary Intelligence, 1(1), pp.47-62.
 
 * Stanley, K.O. and Miikkulainen, R., 2002. Evolving neural networks through augmenting topologies. Evolutionary Computation, 10(2), pp.99-127.
