@@ -32,6 +32,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * De Jong, K.A., 1975. An analysis of the behavior of a class of genetic adaptive systems. Doctoral Dissertation, University of Michigan.
 
+* Holland, J.H., 1973. Genetic algorithms and the optimal allocation of trials. SIAM Journal on Computing, 2(2), pp.88-105.
+
 * Holland, J.H., 1962. Outline for a logical theory of adaptive systems. Journal of the ACM, 9(3), pp.297-314.
 
 ## Evolution Strategies (ES)
