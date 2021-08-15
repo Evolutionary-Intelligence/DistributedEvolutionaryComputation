@@ -4,6 +4,10 @@
 
 Tang, D., Ye, Q., Yuan, S., Taylor, J., Kohli, P., Keskin, C., Kim, T.K. and Shotton, J., 2019. Opening the black box: Hierarchical sampling optimization for hand pose estimation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 41(9), pp.2161-2175. [ [www](https://ieeexplore.ieee.org/abstract/document/8386667) ]
 
+## 2011
+
+Passalis, G., Perakis, P., Theoharis, T. and Kakadiaris, I.A., 2011. Using facial symmetry to handle pose variations in real-world 3D face recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 33(10), pp.1938-1951. [ [www](https://ieeexplore.ieee.org/abstract/document/5728826) ] (**SA**)
+
 ## 2007
 
 Kakadiaris, I.A., Passalis, G., Toderici, G., Murtuza, M.N., Lu, Y., Karampatziakis, N. and Theoharis, T., 2007. Three-dimensional face recognition in the presence of facial expressions: An annotated deformable model approach. IEEE Transactions on Pattern Analysis and Machine Intelligence, 29(4), pp.640-649. [ [www](https://ieeexplore.ieee.org/abstract/document/4107568) ] (**SA**)
