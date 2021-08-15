@@ -24,7 +24,7 @@ Oh, I.S., Lee, J.S. and Moon, B.R., 2004. Hybrid genetic algorithms for feature 
 
 ## 2002
 
-Papaioannou, G., Karabassi, E.A. and Theoharis, T., 2002. Reconstruction of three-dimensional objects through matching of their parts. IEEE Transactions on Pattern Analysis and Machine Intelligence, 24(1), pp.114-124. [ [www](https://ieeexplore.ieee.org/abstract/document/982888) ]
+Papaioannou, G., Karabassi, E.A. and Theoharis, T., 2002. Reconstruction of three-dimensional objects through matching of their parts. IEEE Transactions on Pattern Analysis and Machine Intelligence, 24(1), pp.114-124. [ [www](https://ieeexplore.ieee.org/abstract/document/982888) ] (**SA**)
 
 ## 1984
 
