@@ -22,6 +22,10 @@ Pernkopf, F. and Bouchaffra, D., 2005. Genetic-based EM algorithm for learning G
 
 Oh, I.S., Lee, J.S. and Moon, B.R., 2004. Hybrid genetic algorithms for feature selection. IEEE Transactions on Pattern Analysis and Machine Intelligence, 26(11), pp.1424-1437. [ [www](https://ieeexplore.ieee.org/abstract/document/1335448) ]
 
+## 2002
+
+Papaioannou, G., Karabassi, E.A. and Theoharis, T., 2002. Reconstruction of three-dimensional objects through matching of their parts. IEEE Transactions on Pattern Analysis and Machine Intelligence, 24(1), pp.114-124. [ [www](https://ieeexplore.ieee.org/abstract/document/982888) ]
+
 ## 1984
 
 Geman, S. and Geman, D., 1984. Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images. IEEE Transactions on Pattern Analysis and Machine Intelligence, (6), pp.721-741. [ [www](https://ieeexplore.ieee.org/abstract/document/4767596) ]
