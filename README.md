@@ -48,6 +48,18 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
 
 * Evolutionary/Swarm Robotics
 
+* Common Individual-based Counterparts/Baselines/Competitors (especially for their *stochastic* versions)
+
+  * Random Search (RS)
+  
+  * Local Search (LS)
+    
+    * Hill Climbers (HC)
+  
+  * Simulated Annealing (SA)
+
 ## Research Support
 
 This *ongoing* review for PDEC is now supported by the **Shenzhen NSF** research project (from 2021 to 2023), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China), and actively maintained/updated by his group members (e.g., *Qiqi Duan*, *Chang Shao*, Mingyang Feng, Minghan Zhang, Youkui Zhang, and Qi Zhao).
+
+We also acknowledge the additional contributions from [Vincent A. Cicirello](https://github.com/cicirello).
