@@ -1,5 +1,9 @@
 # IEEE-TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)
 
+## 2020
+
+Ye, Q., Amini, A. and Zhou, Q., 2020. Optimizing regularized cholesky score for order-based learning of bayesian networks. IEEE Transactions on Pattern Analysis and Machine Intelligence. [ [www](https://ieeexplore.ieee.org/abstract/document/9079582) ] (**SA**)
+
 ## 2019
 
 Tang, D., Ye, Q., Yuan, S., Taylor, J., Kohli, P., Keskin, C., Kim, T.K. and Shotton, J., 2019. Opening the black box: Hierarchical sampling optimization for hand pose estimation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 41(9), pp.2161-2175. [ [www](https://ieeexplore.ieee.org/abstract/document/8386667) ]
