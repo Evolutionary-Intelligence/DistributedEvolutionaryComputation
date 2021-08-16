@@ -1,4 +1,4 @@
-# PNAS
+# PNAS (Proceedings of the National Academy of Sciences)
 
 ## 2020
 
@@ -7,3 +7,7 @@ Kriegman, S., Blackiston, D., Levin, M. and Bongard, J., 2020. A scalable pipeli
 ## 2011
 
 Bongard, J., 2011. Morphological change in machines accelerates the evolution of robust behavior. Proceedings of the National Academy of Sciences, 108(4), pp.1234-1239. [ [www](https://www.pnas.org/content/108/4/1234.short) | [pdf](https://www.pnas.org/content/pnas/108/4/1234.full.pdf) ]
+
+## 2005
+
+Hwang, D., Rust, A.G., Ramsey, S., Smith, J.J., Leslie, D.M., Weston, A.D., De Atauri, P., Aitchison, J.D., Hood, L., Siegel, A.F. and Bolouri, H., 2005. A data integration methodology for systems biology. Proceedings of the National Academy of Sciences, 102(48), pp.17296-17301. [ [www](https://www.pnas.org/content/102/48/17296/) | [pdf](https://www.pnas.org/content/pnas/102/48/17296.full.pdf) ] (**SA**)
