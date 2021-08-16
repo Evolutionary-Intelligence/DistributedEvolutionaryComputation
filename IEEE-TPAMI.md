@@ -8,6 +8,8 @@ Ye, Q., Amini, A. and Zhou, Q., 2020. Optimizing regularized cholesky score for 
 
 Tang, D., Ye, Q., Yuan, S., Taylor, J., Kohli, P., Keskin, C., Kim, T.K. and Shotton, J., 2019. Opening the black box: Hierarchical sampling optimization for hand pose estimation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 41(9), pp.2161-2175. [ [www](https://ieeexplore.ieee.org/abstract/document/8386667) ]
 
+Jauer, P., Kuhlemann, I., Bruder, R., Schweikard, A. and Ernst, F., 2019. Efficient registration of high-resolution feature enhanced point clouds. IEEE Transactions on Pattern Analysis and Machine Intelligence, 41(5), pp.1102-1115. [ [www](https://ieeexplore.ieee.org/abstract/document/8352814) ] (**SA**)
+
 ## 2016
 
 Kolesov, I., Lee, J., Sharp, G., Vela, P. and Tannenbaum, A., 2016. A stochastic approach to diffeomorphic point set registration with landmark constraints. IEEE Transactions on Pattern Analysis and Machine Intelligence, 38(2), pp.238-251. [ [www](https://ieeexplore.ieee.org/document/7130637) ] (**SA**)
