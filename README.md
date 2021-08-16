@@ -40,7 +40,7 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
   
   * Natural Evolution Strategies (NES)
   
-  * Quality-Diveristy (QD)
+  * Quality-Diversity (QD)
   
     * Multidimensional Archive of Phenotypic Elites (MAP-Elites)
 
