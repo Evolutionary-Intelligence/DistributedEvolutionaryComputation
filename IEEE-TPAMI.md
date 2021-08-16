@@ -4,6 +4,10 @@
 
 Tang, D., Ye, Q., Yuan, S., Taylor, J., Kohli, P., Keskin, C., Kim, T.K. and Shotton, J., 2019. Opening the black box: Hierarchical sampling optimization for hand pose estimation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 41(9), pp.2161-2175. [ [www](https://ieeexplore.ieee.org/abstract/document/8386667) ]
 
+## 2016
+
+Kolesov, I., Lee, J., Sharp, G., Vela, P. and Tannenbaum, A., 2016. A stochastic approach to diffeomorphic point set registration with landmark constraints. IEEE Transactions on Pattern Analysis and Machine Intelligence, 38(2), pp.238-251. [ [www](https://ieeexplore.ieee.org/document/7130637) ] (**SA**)
+
 ## 2011
 
 Passalis, G., Perakis, P., Theoharis, T. and Kakadiaris, I.A., 2011. Using facial symmetry to handle pose variations in real-world 3D face recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 33(10), pp.1938-1951. [ [www](https://ieeexplore.ieee.org/abstract/document/5728826) ] (**SA**)
