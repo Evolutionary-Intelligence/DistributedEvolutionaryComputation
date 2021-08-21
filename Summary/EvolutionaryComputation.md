@@ -16,6 +16,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Whitley, D., 2019. Next generation genetic algorithms: A user’s guide and tutorial. In Handbook of Metaheuristics (pp. 245-274). Springer, Cham.
 
+* Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
+
 * Levine, D., 1997. Commentary—Genetic algorithms: A practitioner's view. INFORMS Journal on Computing, 9(3), pp.256-259.
 
 * Forrest, S., 1996. Genetic algorithms. ACM Computing Surveys, 28(1), pp.77-80.
