@@ -152,6 +152,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Dorigo, M., Theraulaz, G. and Trianni, V., 2020. Reflections on the future of swarm robotics. Science Robotics, 5(49).
 
+* Bongard, J.C., 2013. Evolutionary robotics. Communications of the ACM, 56(8), pp.74-83.
+
 * Nolfi, S. and Floreano, D., 2000. Evolutionary robotics: The biology, intelligence, and technology of self-organizing machines. MIT Press.
 
 * Sims, K., 1994, July. Evolving virtual creatures. In Proceedings of Annual Conference on Computer Graphics and Interactive Techniques (pp. 15-22).
