@@ -54,6 +54,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Bäck, T., Hoffmeister, F. and Schwefel, H.P., 1991. A survey of evolution strategies. In Proceedings of International Conference on Genetic Algorithms.
 
+* Schwefel, H.P., 1984. Evolution strategies: A family of non-linear optimization techniques based on imitating some principles of organic evolution. Annals of Operations Research, 1(2), pp.165-167.
+
 * Rechenberg, I., 1978. Evolutionsstrategien. In Simulationsmethoden in der Medizin und Biologie (pp. 83-114). Springer, Berlin, Heidelberg. (*NOTE that this paper was not read directly by us since it was originally written in German. Here we add it owing to its historically significant contributions to EC.*)
 
 ## Ant Colony Optimization (ACO)
