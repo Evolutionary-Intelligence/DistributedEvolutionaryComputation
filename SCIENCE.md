@@ -10,6 +10,10 @@ Schmidt, M. and Lipson, H., 2009. Distilling free-form natural laws from experim
 
 Hornby, G.S. and Kurtoglu, T., 2009. Toward a smarter Web. Science, 325(5938), pp.277-278. [ [www](https://science.sciencemag.org/content/325/5938/277.summary) ]
 
+## 2006
+
+Bongard, J., Zykov, V. and Lipson, H., 2006. Resilient machines through continuous self-modeling. Science, 314(5802), pp.1118-1121. [ [www](https://science.sciencemag.org/content/314/5802/1118) ]
+
 ## 1996
 
 Macready, W.G., Siapas, A.G. and Kauffman, S.A., 1996. Criticality and parallelism in combinatorial optimization. Science, 271(5245), pp.56-59. [ [www](https://science.sciencemag.org/content/271/5245/56) ]
