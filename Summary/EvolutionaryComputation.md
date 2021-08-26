@@ -174,6 +174,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Clune, J., 2019. AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence. arXiv preprint arXiv:1905.10985.
 
+* Kerschke, P., Hoos, H.H., Neumann, F. and Trautmann, H., 2019. Automated algorithm selection: Survey and perspectives. Evolutionary Computation, 27(1), pp.3-45.
+
 * Forrest, S. and Mitchell, M., 2016. Adaptive computation: The multidisciplinary legacy of John H. Holland. Communications of the ACM, 59(8), pp.58-63.
 
 * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
