@@ -1,5 +1,9 @@
 # CACM (Communications of the ACM)
 
+## 2020
+
+[Evolutionary Algorithm Spawns Living Robots from Frog Cells](https://m-cacm.acm.org/news/245485-evolutionary-algorithm-spawns-living-robots-from-frog-cells/fulltext)
+
 ## 2016
 
 Forrest, S. and Mitchell, M., 2016. Adaptive computation: The multidisciplinary legacy of John H. Holland. Communications of the ACM, 59(8), pp.58-63. [ [www](https://dl.acm.org/doi/10.1145/2964342) ]
