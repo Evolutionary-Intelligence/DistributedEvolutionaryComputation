@@ -1,4 +1,4 @@
-# Distributed Evolutionary Computation
+# Distributed Evolutionary Computation (EC)
 
 This is a *growing* paper list for **parallel and distributed** evolutionary computation (PDEC). Currently we are **actively** updating this paper list (at least from 2021 to 2023). Owing to the abundance of the related literature, however, we believe that much interesting work is still missed here. If you find them missed in this paper list, welcome to contact with us via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) or [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls) (and we will be very happy to add them).
 
@@ -57,6 +57,15 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
     * Hill Climbers (HC)
   
   * Simulated Annealing (SA)
+
+## Review Scope
+
+| Publication Type  | Publication Name | Search Range | collection |
+| ----------------- | ---------------- | ------------ | --------------- |
+| multidisciplinary journal | [Nature](https://www.nature.com/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature.md)
+| multidisciplinary journal | [Science](https://science.sciencemag.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Science.md)
+| multidisciplinary journal | [PRL (Physical Review Letters)](https://journals.aps.org/prl/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/PRL.md)
+| multidisciplinary journal | [PNAS (Proceedings of the National Academy of Sciences)](https://www.pnas.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/PNAS.md)
 
 ## Research Support
 
