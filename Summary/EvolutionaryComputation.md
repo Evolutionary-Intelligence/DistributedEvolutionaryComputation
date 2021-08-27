@@ -58,6 +58,10 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Rechenberg, I., 1978. Evolutionsstrategien. In Simulationsmethoden in der Medizin und Biologie (pp. 83-114). Springer, Berlin, Heidelberg. (*NOTE that this paper was not read directly by us since it was originally written in German. Here we add it owing to its historically significant contributions to EC.*)
 
+## Genetic Programming
+
+* Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection (Vol. 1). MIT Press.
+
 ## Ant Colony Optimization (ACO)
 
 * https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/    (This is the official homepage of ACO's inventor Marco Dorigo, which includes much information about ACO.)
