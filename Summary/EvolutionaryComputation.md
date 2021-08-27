@@ -156,6 +156,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Dorigo, M., Theraulaz, G. and Trianni, V., 2020. Reflections on the future of swarm robotics. Science Robotics, 5(49).
 
+* Doncieux, S., Bredeche, N., Mouret, J.B. and Eiben, A.E.G., 2015. Evolutionary robotics: What, why, and where to. Frontiers in Robotics and AI, 2, p.4.
+
 * Bongard, J.C., 2013. Evolutionary robotics. Communications of the ACM, 56(8), pp.74-83.
 
 * Pfeifer, R. and Bongard, J., 2006. How the body shapes the way we think: A new view of intelligence. MIT Press.
