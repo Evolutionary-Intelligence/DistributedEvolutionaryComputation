@@ -1,8 +1,8 @@
 # Evolutionary Computation (EC)
 
-In this page, we try our best to provide a (relatively complete) reference list for the **original/seminal/landmark/survey/review** papers from the EC field, in order to help better understand EC (especially for newcomers). However, owing to the uncountable paper amount (which keeps growing everyday), we must select a small set of *representative* works (note that how to select is a non-trivial work, depending on our *possibly biased* experience).
+In this page, we try our best to provide a (relatively complete) reference list for the **original/seminal/landmark/survey/review** papers from the EC field, in order to help better understand EC (especially for newcomers). However, owing to the uncountable paper amount (which keeps growing everyday), we have to select a small set of *representative* works (note that how to select is a non-trivial work, depending on our *possibly biased* experience).
 
-Since there are still other worth-citing papers missed here, we expect to continue to add them in the future if you report them via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) and [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls).  
+Since there are still other worth-citing papers missed here, we expect to continue to add them in the future if you report them via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) or [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls).  
 
 ## Popular Nature/Science Reviews  
 
@@ -112,7 +112,7 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 ## Quality Diversity (QD)
 
-* https://quality-diversity.github.io/    (The content of this link is actively added/updated by Antoine Cully, Jean-Baptiste Mouret, and Stephane Doncieux.)
+* https://quality-diversity.github.io/    (The content on this website is actively added/updated by Antoine Cully, Jean-Baptiste Mouret, and Stephane Doncieux.)
 
 * Ecoffet, A., Huizinga, J., Lehman, J., Stanley, K.O. and Clune, J., 2021. First return, then explore. Nature, 590(7847), pp.580-586.
 
@@ -144,7 +144,7 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 ## Evolutionary/Swarm Robotics
 
-* Floreano, D. and Lipson, H., 2021. From individual robots to robot societies. Science Robotics, 6(56). (SPECIAL ISSUE ON ROBOT SWARMS ACROSS SCALES)
+* Floreano, D. and Lipson, H., 2021. From individual robots to robot societies. Science Robotics, 6(56).
 
 * Dorigo, M., Theraulaz, G. and Trianni, V., 2021. Swarm robotics: Past, present, and future. Proceedings of the IEEE, 109(7), pp.1152-1165.
 
