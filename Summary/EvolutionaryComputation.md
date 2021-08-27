@@ -158,6 +158,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Nolfi, S. and Floreano, D., 2000. Evolutionary robotics: The biology, intelligence, and technology of self-organizing machines. MIT Press.
 
+* Sims, K., 1994. Evolving 3D morphology and behavior by competition. Artificial Life, 1(4), pp.353-372.
+
 * Sims, K., 1994, July. Evolving virtual creatures. In Proceedings of Annual Conference on Computer Graphics and Interactive Techniques (pp. 15-22).
 
 ## Recent Reviews/Surveys/Books
