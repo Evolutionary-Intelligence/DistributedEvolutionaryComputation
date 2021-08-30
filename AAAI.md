@@ -12,6 +12,10 @@ Real, E., Aggarwal, A., Huang, Y. and Le, Q.V., 2019, July. Regularized evolutio
 
 Feng, C., Qian, C. and Tang, K., 2019, July. Unsupervised feature selection by Pareto optimization. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 3534-3541). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/4232) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4232/4110) ]
 
+## 2015
+
+MacAlpine, P., Depinet, M. and Stone, P., 2015, February. UT Austin Villa 2014: RoboCup 3D simulation league champion via overlapping layered learning. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 29, No. 1). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/9540) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/9540/9399) ]
+
 ## 2014
 
 Cire, A., Kadioglu, S. and Sellmann, M., 2014, June. Parallel restarted search. In Proceedings of the AAAI Conference on Artificial Intelligence (pp. 842-848). [ [www](https://dl.acm.org/doi/10.5555/2893873.2894004) ]
