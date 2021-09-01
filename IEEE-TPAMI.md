@@ -28,6 +28,8 @@ Silva, L., Bellon, O.R.P. and Boyer, K.L., 2005. Precision range image registrat
 
 Pernkopf, F. and Bouchaffra, D., 2005. Genetic-based EM algorithm for learning Gaussian mixture models. IEEE Transactions on Pattern Analysis and Machine Intelligence, 27(8), pp.1344-1348. [ [www](https://ieeexplore.ieee.org/abstract/document/1453522) ]
 
+Lucas, S.M. and Reynolds, T.J., 2005. Learning deterministic finite automata with a smart state labeling evolutionary algorithm. IEEE Transactions on Pattern Analysis and Machine Intelligence, 27(7), pp.1063-1074. [ [www](https://ieeexplore.ieee.org/abstract/document/1432740) ]
+
 ## 2004
 
 Oh, I.S., Lee, J.S. and Moon, B.R., 2004. Hybrid genetic algorithms for feature selection. IEEE Transactions on Pattern Analysis and Machine Intelligence, 26(11), pp.1424-1437. [ [www](https://ieeexplore.ieee.org/abstract/document/1335448) ]
