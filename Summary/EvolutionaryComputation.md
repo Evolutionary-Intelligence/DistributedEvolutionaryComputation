@@ -174,6 +174,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Sims, K., 1994, July. Evolving virtual creatures. In Proceedings of Annual Conference on Computer Graphics and Interactive Techniques (pp. 15-22).
 
+* Reynolds, C.W., 1987, August. Flocks, herds and schools: A distributed behavioral model. In Proceedings of Annual Conference on Computer Graphics and Interactive Techniques (pp. 25-34).
+
 ## Recent Reviews/Surveys/Books
 
 * Vie, A., 2021. Qualities, challenges and future of genetic algorithms: A literature review. arXiv preprint arXiv:2011.05277.
