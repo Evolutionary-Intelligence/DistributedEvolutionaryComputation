@@ -62,7 +62,7 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1966. Artificial intelligence through simulated evolution. John Wiley & Sons Inc.
 
-## Genetic Programming
+## Genetic Programming (GP)
 
 * Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection (Vol. 1). MIT Press.
 
@@ -179,6 +179,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 * Vie, A., 2021. Qualities, challenges and future of genetic algorithms: A literature review. arXiv preprint arXiv:2011.05277.
 
 * Corne, D.W. and Lones, M.A., 2018. Evolutionary algorithms. arXiv preprint arXiv:1805.11014.
+
+* Eiben, A.E. and Smith, J.E., 2016. Towards the evolution of things. ACM SIGEVOlution, 8(3), pp.3-6.
 
 * De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
 
