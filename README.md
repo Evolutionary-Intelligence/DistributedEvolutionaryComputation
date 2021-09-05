@@ -46,7 +46,7 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
 
 * NeuroEvolution (aka Evolving Neural Networks)
 
-* Evolutionary/Swarm Robotics
+* Evolutionary/Swarm Robotics (ER/SR)
 
 * Common Individual-based Counterparts/Baselines/Competitors (especially for their *stochastic* versions)
 
