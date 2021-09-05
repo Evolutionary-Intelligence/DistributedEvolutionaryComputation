@@ -12,6 +12,8 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
   
   * Evolution Strategies (ES)
   
+    * Covariance Matrix Adaptation ES (CMA-ES)
+
   * Evolutionary Programming (EP)
   
   * Genetic Programming (GP)
