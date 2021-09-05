@@ -164,7 +164,7 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Bongard, J.C., 2013. Evolutionary robotics. Communications of the ACM, 56(8), pp.74-83.
 
-* Pfeifer, R. and Bongard, J., 2006. How the body shapes the way we think: A new view of intelligence. MIT Press.
+* Pfeifer, R. and Bongard, J., 2007. How the body shapes the way we think: A new view of intelligence. MIT Press.
 
 * Nolfi, S. and Floreano, D., 2000. Evolutionary robotics: The biology, intelligence, and technology of self-organizing machines. MIT Press.
 
