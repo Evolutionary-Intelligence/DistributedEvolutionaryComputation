@@ -10,6 +10,8 @@ Weiel, M., Götz, M., Klein, A., Coquelin, D., Floca, R. and Schug, A., 2021. Dy
 
 ## 2020
 
+Miriyev, A. and Kovač, M., 2020. Skills for physical artificial intelligence. Nature Machine Intelligence, 2(11), pp.658-660. [ [www](https://www.nature.com/articles/s42256-020-00258-y) ] (**ER**)
+
 Birattari, M., Ligot, A. and Hasselmann, K., 2020. Disentangling automatic and semi-automatic approaches to the optimization-based design of control software for robot swarms. Nature Machine Intelligence, 2(9), pp.494-499. [ [www](https://www.nature.com/articles/s42256-020-0215-0) ]
 
 ## 2019
