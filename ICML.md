@@ -58,6 +58,10 @@ Baluja, S. and Caruana, R., 1995. Removing the genetics from the standard geneti
 
 Baluja, S., 1993, July. The evolution of genetic algorithms: Towards massive parallelism. In International Conference on Machine Learning (pp. 1-8). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603073500071) ]
 
+## 1990
+
+De Garis, H., 1990. Genetic programming: Building artificial nervous systems using genetically programmed neural network modules. In International Conference on Machine Learning 1990 (pp. 132-139). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558601413500195) ]
+
 ## 1988
 
 Caruana, R.A. and Schaffer, J.D., 1988. Representation and hidden bias: Gray vs. binary coding for genetic algorithms. In International Conference on Machine Learning (pp. 153-161). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500219) ]
