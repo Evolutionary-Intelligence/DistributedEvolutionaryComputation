@@ -15,3 +15,7 @@ Ye, Z., Xiao, K., Ge, Y. and Deng, Y., 2019. Applying simulated annealing and pa
 ## 2015
 
 Wang, S., Wu, Y., Gao, B.J., Wang, K., Lauw, H.W. and Ma, J., 2015. A cooperative coevolution framework for parallel learning to rank. IEEE Transactions on Knowledge and Data Engineering, 27(12), pp.3152-3165. [ [www](https://ieeexplore.ieee.org/abstract/document/7152946) ]
+
+## 2006
+
+Divina, F. and Aguilar-Ruiz, J.S., 2006. Biclustering of expression data with evolutionary computation. IEEE Transactions on Knowledge and Data Engineering, 18(5), pp.590-602. [ [www](https://ieeexplore.ieee.org/abstract/document/1613863) ]
