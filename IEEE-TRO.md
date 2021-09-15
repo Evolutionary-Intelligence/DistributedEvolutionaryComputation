@@ -2,7 +2,7 @@
 
 ## 2012
 
-Hiller, J. and Lipson, H., 2012. Automatic design and manufacture of soft robots. IEEE Transactions on Robotics, 28(2), pp.457-466. [ [www](https://ieeexplore.ieee.org/abstract/document/6096440) ]
+Hiller, J. and Lipson, H., 2012. Automatic design and manufacture of soft robots. IEEE Transactions on Robotics, 28(2), pp.457-466. [ [www](https://ieeexplore.ieee.org/abstract/document/6096440) ] (**ER**)
 
 ## 2003
 
