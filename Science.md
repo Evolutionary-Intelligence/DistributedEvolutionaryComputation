@@ -1,4 +1,4 @@
-# SCIENCE
+# Science
 
 ## 2018
 
@@ -12,7 +12,7 @@ Hornby, G.S. and Kurtoglu, T., 2009. Toward a smarter Web. Science, 325(5938), p
 
 ## 2006
 
-Bongard, J., Zykov, V. and Lipson, H., 2006. Resilient machines through continuous self-modeling. Science, 314(5802), pp.1118-1121. [ [www](https://science.sciencemag.org/content/314/5802/1118) ]
+Bongard, J., Zykov, V. and Lipson, H., 2006. Resilient machines through continuous self-modeling. Science, 314(5802), pp.1118-1121. [ [www](https://science.sciencemag.org/content/314/5802/1118) ] (**ER**)
 
 ## 1996
 
