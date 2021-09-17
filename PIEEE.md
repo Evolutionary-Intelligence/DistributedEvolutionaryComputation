@@ -1,5 +1,9 @@
 # PIEEE (Proceedings of the IEEE)
 
+## 2014
+
+Bongard, J. and Lipson, H., 2014. Evolved machines shed light on robustness and resilience. Proceedings of the IEEE, 102(5), pp.899-914. [ [www](https://ieeexplore.ieee.org/abstract/document/6783985) ] (**ER**)
+
 ## 2004
 
 Fogel, D.B., Hays, T.J., Hahn, S.L. and Quon, J., 2004. A self-learning evolutionary chess program. Proceedings of the IEEE, 92(12), pp.1947-1954. [ [www](https://ieeexplore.ieee.org/abstract/document/1360168) ]
