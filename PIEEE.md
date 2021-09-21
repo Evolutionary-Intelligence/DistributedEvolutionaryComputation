@@ -12,6 +12,8 @@ Fogel, D.B., Hays, T.J., Hahn, S.L. and Quon, J., 2004. A self-learning evolutio
 
 Chellapilla, K. and Fogel, D.B., 1999. Evolution, neural networks, games, and intelligence. Proceedings of the IEEE, 87(9), pp.1471-1496. [ [www](https://ieeexplore.ieee.org/abstract/document/784222) ]
 
+Yao, X., 1999. Evolving artificial neural networks. Proceedings of the IEEE, 87(9), pp.1423-1447. [ [www](https://ieeexplore.ieee.org/abstract/document/784219) ]
+
 ## 1991
 
 Wilson, S.S., 1991. Teaching network connectivity using simulated annealing on a massively parallel processor. Proceedings of the IEEE, 79(4), pp.559-566. [ [www](https://ieeexplore.ieee.org/abstract/document/92048) ]
