@@ -8,6 +8,10 @@ Bongard, J. and Lipson, H., 2014. Evolved machines shed light on robustness and 
 
 Fogel, D.B., Hays, T.J., Hahn, S.L. and Quon, J., 2004. A self-learning evolutionary chess program. Proceedings of the IEEE, 92(12), pp.1947-1954. [ [www](https://ieeexplore.ieee.org/abstract/document/1360168) ]
 
+## 2001
+
+Takagi, H., 2001. Interactive evolutionary computation: Fusion of the capabilities of EC optimization and human evaluation. Proceedings of the IEEE, 89(9), pp.1275-1296. [ [www](https://ieeexplore.ieee.org/abstract/document/949485) ]
+
 ## 1999
 
 Chellapilla, K. and Fogel, D.B., 1999. Evolution, neural networks, games, and intelligence. Proceedings of the IEEE, 87(9), pp.1471-1496. [ [www](https://ieeexplore.ieee.org/abstract/document/784222) ]
