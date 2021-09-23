@@ -18,7 +18,7 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
   
   * [Genetic Programming (GP)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#genetic-programming-gp)
 
-* Two [Swarm Intelligence](https://www.springer.com/journal/11721) (SI) Siblings
+* Two [Swarm Intelligence (SI)](https://www.springer.com/journal/11721) Siblings
 
   * [Ant Colony Optimization (ACO)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#ant-colony-optimization-aco)
 
@@ -26,9 +26,9 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
 
 * Two Representative Multi-Objective Optimization (MOO) Evolutionary Frameworks
 
-  * Non-dominated Sorting Genetic Algorithm II (NSGA-II)
+  * [Non-dominated Sorting Genetic Algorithm II (NSGA-II)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#non-dominated-sorting-genetic-algorithm-ii-nsga-ii)
   
-  * Multi-Objective Evolutionary Algorithm based on Decomposition (MOEA/D)
+  * [Multi-Objective Evolutionary Algorithm based on Decomposition (MOEA/D)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#multi-objective-evolutionary-algorithm-based-on-decomposition-moead)
 
 * Several Relatively New Extensions/Improvements/Variants
 
