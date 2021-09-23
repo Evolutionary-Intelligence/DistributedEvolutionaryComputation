@@ -90,11 +90,11 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Kennedy, J. and Eberhart, R., 1995, November. Particle swarm optimization. In Proceedings of International Conference on Neural Networks (Vol. 4, pp. 1942-1948). IEEE.
 
-## NSGA-II
+## Non-dominated Sorting Genetic Algorithm II (NSGA-II)
 
 * Deb, K., Pratap, A., Agarwal, S. and Meyarivan, T.A.M.T., 2002. A fast and elitist multiobjective genetic algorithm: NSGA-II. IEEE Transactions on Evolutionary Computation, 6(2), pp.182-197.
 
-## MOEA/D
+## Multi-Objective Evolutionary Algorithm based on Decomposition (MOEA/D)
 
 * Zhang, Q. and Li, H., 2007. MOEA/D: A multiobjective evolutionary algorithm based on decomposition. IEEE Transactions on Evolutionary Computation, 11(6), pp.712-731.
 
