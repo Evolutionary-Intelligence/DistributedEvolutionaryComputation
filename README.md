@@ -50,6 +50,8 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
 
 * Evolutionary/Swarm Robotics (ER/SR)
 
+* [Artificial Life (AL)](https://direct.mit.edu/artl)
+
 * Common Individual-based Counterparts/Baselines/Competitors (especially for their *stochastic* versions)
 
   * Random Search (RS)
