@@ -38,7 +38,7 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
   
   * Memetic Algorithms (MA)
   
-  * Estimation of Distribution Algorithms (EDA)
+  * [Estimation of Distribution Algorithms (EDA)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#estimation-of-distribution-algorithms-edas)
   
   * Natural Evolution Strategies (NES)
   
