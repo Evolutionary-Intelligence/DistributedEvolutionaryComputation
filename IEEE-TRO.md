@@ -1,5 +1,9 @@
 # IEEE-TRO (IEEE Transactions on Robotics)
 
+## 2021
+
+Favaro, A., Segato, A., Muretti, F. and De Momi, E., 2021. An evolutionary-optimized surgical path planner for a programmable bevel-tip needle. IEEE Transactions on Robotics, 37(4), pp.1039-1050. [ [www](https://ieeexplore.ieee.org/abstract/document/9312206) ]
+
 ## 2012
 
 Hiller, J. and Lipson, H., 2012. Automatic design and manufacture of soft robots. IEEE Transactions on Robotics, 28(2), pp.457-466. [ [www](https://ieeexplore.ieee.org/abstract/document/6096440) ] (**ER** | **GA**)
