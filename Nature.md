@@ -36,7 +36,7 @@ Lenski, R.E., Ofria, C., Collier, T.C. and Adami, C., 1999. Genome complexity, r
 
 ## 1992
 
-Smith, J.M., 1992. Byte-sized evolution. Nature, 355(6363), pp.772-773. [ [www](https://www.nature.com/articles/355772a0) ]
+Smith, J.M., 1992. Byte-sized evolution. Nature, 355(6363), pp.772-773. [ [www](https://www.nature.com/articles/355772a0) ] (**AL**)
 
 ## 1985
 
