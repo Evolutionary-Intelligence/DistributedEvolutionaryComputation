@@ -52,6 +52,8 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
 
 * [Artificial Life (AL)](https://direct.mit.edu/artl)
 
+  * Open-Ended Evolution
+
 * Common Individual-based Counterparts/Baselines/Competitors (especially for their *stochastic* versions)
 
   * Random Search (RS)
