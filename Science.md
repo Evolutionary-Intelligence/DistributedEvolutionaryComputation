@@ -28,4 +28,4 @@ Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied t
 
 ## 1983
 
-Kirkpatrick, S., Gelatt, C.D. and Vecchi, M.P., 1983. Optimization by simulated annealing. Science, 220(4598), pp.671-680. [ [www](https://science.sciencemag.org/content/220/4598/671) ]
+Kirkpatrick, S., Gelatt, C.D. and Vecchi, M.P., 1983. Optimization by simulated annealing. Science, 220(4598), pp.671-680. [ [www](https://science.sciencemag.org/content/220/4598/671) ] (**SA**)
