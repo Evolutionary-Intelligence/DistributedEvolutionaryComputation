@@ -1,4 +1,4 @@
-# AIJ
+# AIJ (Artificial Intelligence Journal)
 
 ## 2020
 
@@ -30,7 +30,7 @@ Graff, M. and Poli, R., 2010. Practical performance models of algorithms in evol
 
 ## 2009
 
-Baldassarre, G. and Nolfi, S., 2009. Strengths and synergies of evolved and designed controllers: A study within collective robotics. Artificial Intelligence, 173(7-8), pp.857-875. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370209000022) | [pdf](https://pdf.sciencedirectassets.com/271585/1-s2.0-S0004370209X00044/1-s2.0-S0004370209000022/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHUaCXVzLWVhc3QtMSJGMEQCIBX%2FyAk%2BkDj481idaUZ2cnUp9TKF0UlaU2ub0mpXIruNAiAcdwl0qv0XfoP4VTM8Cp2pvoCzu6640G5B2H551Jr%2BZSq9AwiO%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDA1OTAwMzU0Njg2NSIMQpPKXau3bIM01GxRKpEDwcSNQ30ahGtheEMMqBCmw%2FnRyMbeAWdSGWIdhdaYeKw3vK3gwanBxtU%2BiPNUSowV3nspMuiWdDb%2B82RL%2Bi5ntOWofI%2BWz7dybzhqFER5OFRVhI6IaDCwOgcWi4K7af4bbm%2Bwk32IbzHlpucL359Pca4Yp%2BCQZeKDkBrhW8HRe1jm%2BSeSM3q%2Bvfgcpqe8sjPpRTvzu6Qgpjmr189oVtqHMAvWzK9BQXzvzPRkZqL8qc3ZiTj0DK5qnlT995oy0crNzoKp%2Fzlw0y%2FqafOrFTG%2F7SxPgWbnIMu2uwhlmjMSkE3cvSeQCxslrIaVX5qHC%2Fukhr9ubAYp%2FCxwLNFHuQ%2Fpcw34o330xHdeJlDVlpVDa9d%2BJfLyTx29e3Z7P9fI5jy%2BOR5gyOmTs0RUTu7Nesg5BgkLCXW%2FoR2uk7faKRwLtTgXNdDuLHZyMAa%2FU7TRXePPEsfN0IOhXkOKgk5v5PBRMjW6kM%2BvjdPYxk9rQmANjWX%2Fofi2NMeol7ddO1DZpV1JWTeNs%2BQQy9T%2Bo0NKAQHD7Mcwur%2FzgQY67AFdTRCA%2FilXdRo2WKybF%2FXUQeIKBAMKXePJewo2udeyrXNLXWpgpmPQCiNdKVSGz8VP%2BwZLRzx8RVvOshRjzgCxU7Y0hs5nXHAlAREpoewIUn1%2FWEnWf%2FM1yJXoAB5YyeNRdk43r3hVUmyXGMmwhfzVqV07vSjkFQpaYbrK5hhcY6NdTcBJpuZJzEeKH9Lu6dkFVa0DclUb6gXZ2guvoPxY4maMbrWblG6ADi38%2BGy4kq2LIQpBaoM6NJGodedMbz1H%2F2DYECYEnD7I5sNCrgay8b6fhs8OPBFeDbXAHBpAHW6yJ36v%2BBijqUZEZw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210301T131537Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYV5GUXT53%2F20210301%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8776f4ff229c90288719e6d3bddf7f0f92613a72030b6305d7f0611fad4d8b64&hash=9d367384118b79f3fa26d43c48805e2e8a7c7a33c94bd789acb467bdbe6ec4da&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0004370209000022&tid=spdf-3aee253c-3feb-40e2-8626-a96c2947ca84&sid=759f76ce84d5694ba39a7c11b847822047f3gxrqb&type=client) ]
+Baldassarre, G. and Nolfi, S., 2009. Strengths and synergies of evolved and designed controllers: A study within collective robotics. Artificial Intelligence, 173(7-8), pp.857-875. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370209000022) ]
 
 ## 2008
 
@@ -69,3 +69,7 @@ Reynolds, D. and Gomatam, J., 1996. Stochastic modelling of genetic algorithms. 
 ## 1993
 
 Battle, D.L. and Vose, M.D., 1993. Isomorphisms of genetic algorithms. Artificial Intelligence, 60(1), pp.155-165. [ [www](https://www.sciencedirect.com/science/article/abs/pii/000437029390037C) ]
+
+## 1989
+
+Booker, L.B., Goldberg, D.E. and Holland, J.H., 1989. Classifier systems and genetic algorithms. Artificial Intelligence, 40(1-3), pp.235-282. [ [www](https://www.sciencedirect.com/science/article/abs/pii/0004370289900507) ] (**GA**)
