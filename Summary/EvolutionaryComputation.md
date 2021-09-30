@@ -64,6 +64,8 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 ## Genetic Programming (GP)
 
+* Koza, J.R., 1994. Genetic programming as a means for programming computers by natural selection. Statistics and Computing, 4(2), pp.87-112.
+
 * Koza, J.R., 1994. Genetic programming II: Automatic discovery of reusable programs. MIT Press.
 
 * Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection. MIT Press.
