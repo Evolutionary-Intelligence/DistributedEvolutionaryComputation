@@ -40,9 +40,9 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
   
   * [Estimation of Distribution Algorithms (EDA)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#estimation-of-distribution-algorithms-edas)
   
-  * [Natural Evolution Strategies (NES)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#natural-evolution-strategies-es)
+  * [Natural Evolution Strategies (NES)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#natural-evolution-strategies-nes)
   
-  * Quality-Diversity (QD)
+  * [Quality-Diversity (QD)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#quality-diversity-qd)
   
     * Multidimensional Archive of Phenotypic Elites (MAP-Elites)
 
