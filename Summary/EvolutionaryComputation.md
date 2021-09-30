@@ -110,7 +110,7 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 * Larrañaga, P. and Lozano, J.A. eds., 2001. Estimation of distribution algorithms: A new tool for evolutionary computation. Springer Science & Business Media.
 
-## Natural Evolution Strategies (ES)
+## Natural Evolution Strategies (NES)
 
 * Salimans, T., Ho, J., Chen, X., Sidor, S. and Sutskever, I., 2017. Evolution strategies as a scalable alternative to reinforcement learning. arXiv preprint arXiv:1703.03864.
 
