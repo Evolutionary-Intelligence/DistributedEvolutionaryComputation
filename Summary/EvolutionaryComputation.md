@@ -64,7 +64,9 @@ Since there are still other worth-citing papers missed here, we expect to contin
 
 ## Genetic Programming (GP)
 
-* Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection (Vol. 1). MIT Press.
+* Koza, J.R., 1994. Genetic programming II: Automatic discovery of reusable programs. MIT Press.
+
+* Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection. MIT Press.
 
 ## Ant Colony Optimization (ACO)
 
