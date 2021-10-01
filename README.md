@@ -77,7 +77,7 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
 | Journal for AI/ML | [Journal of Machine Learning Research (JMLR)](https://jmlr.csail.mit.edu/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/JMLR.md)
 | Journal for AI/ML | [Artificial Intelligence Journal (AIJ)](https://www.sciencedirect.com/journal/artificial-intelligence) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/AIJ.md)
 | Journal for AI/ML | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/NatureMachineIntelligence.md)
-| Journal for EC | [Evolutionary Computation (ECJ)](https://direct.mit.edu/evco) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/ECJ.md)
+| Journal for EC | [Evolutionary Computation Journal (ECJ)](https://direct.mit.edu/evco) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/ECJ.md)
 | Journal for Robotics | [Science Robotics](https://www.science.org/journal/scirobotics) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/ScienceRobotics.md)
 | Journal for Robotics | [IEEE Transactions on Robotics (IEEE-TRO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-TRO.md)
 
