@@ -1,4 +1,8 @@
-# AAMAS (International Conference on Autonomous Agents and MultiAgent Systems)
+# AAMAS (Autonomous Agents and Multi-Agent Systems / International Conference on Autonomous Agents and MultiAgent Systems)
+
+## 2021
+
+Cuccu, G., Togelius, J. and Cudré-Mauroux, P., 2021. Playing Atari with few neurons. Autonomous Agents and Multi-Agent Systems, 35(2), pp.1-23. [ [www](https://link.springer.com/article/10.1007/s10458-021-09497-8) ] (**NES**)
 
 ## 2015
 
