@@ -46,7 +46,7 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
   
     * Multidimensional Archive of Phenotypic Elites (MAP-Elites)
 
-* NeuroEvolution (aka Evolving Neural Networks)
+* [NeuroEvolution (aka Evolving Neural Networks)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#neuroevolution-aka-evolving-neural-networks)
 
 * Evolutionary/Swarm Robotics (ER/SR)
 
