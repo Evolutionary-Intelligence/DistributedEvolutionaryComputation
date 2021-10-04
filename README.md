@@ -48,7 +48,7 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
 
 * [NeuroEvolution (aka Evolving Neural Networks)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#neuroevolution-aka-evolving-neural-networks)
 
-* Evolutionary/Swarm Robotics (ER/SR)
+* [Evolutionary/Swarm Robotics (ER/SR)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#evolutionaryswarm-robotics)
 
 * [Artificial Life (AL)](https://direct.mit.edu/artl)
 
