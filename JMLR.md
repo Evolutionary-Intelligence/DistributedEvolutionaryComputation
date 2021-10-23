@@ -54,7 +54,7 @@ Escalante, H.J., Montes, M. and Sucar, L.E., 2009. Particle swarm model selectio
 
 ## 2008
 
-Gomez, F., Schmidhuber, J. and Miikkulainen, R., 2008. Accelerated neural evolution through cooperatively coevolved synapses. Journal of Machine Learning Research, 9(5), pp.937-965. [ [www](https://jmlr.org/papers/v9/gomez08a.html) | [pdf](https://www.jmlr.org/papers/volume9/gomez08a/gomez08a.pdf) ]
+Gomez, F., Schmidhuber, J. and Miikkulainen, R., 2008. Accelerated neural evolution through cooperatively coevolved synapses. Journal of Machine Learning Research, 9(5), pp.937-965. [ [www](https://jmlr.org/papers/v9/gomez08a.html) | [pdf](https://www.jmlr.org/papers/volume9/gomez08a/gomez08a.pdf) | [C++](http://nn.cs.utexas.edu/downloads/software/CoSyNE-1.2.tar) ]
 
 Panait, L., Tuyls, K. and Luke, S., 2008. Theoretical advantages of lenient learners: An evolutionary game theoretic perspective. Journal of Machine Learning Research, 9(13), pp.423-457. [ [www](https://www.jmlr.org/papers/v9/panait08a.html) | [pdf](https://www.jmlr.org/papers/volume9/panait08a/panait08a.pdf) ]
 
