@@ -24,6 +24,10 @@ Cire, A., Kadioglu, S. and Sellmann, M., 2014, June. Parallel restarted search. 
 
 Gauci, J. and Stanley, K.O., 2008, July. A case study on the critical role of geometric regularity in machine learning. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 628-633). [ [www](https://dl.acm.org/doi/10.5555/1620163.1620169) | [pdf](https://www.aaai.org/Papers/AAAI/2008/AAAI08-100.pdf) ]
 
+## 2007
+
+Bryant, B.D. and Miikkulainen, R., 2007, July. Acquiring visibly intelligent behavior with example-guided neuroevolution. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 801-808). [ [pdf](https://www.aaai.org/Papers/AAAI/2007/AAAI07-127.pdf) ]
+
 ## 1992
 
 Koza, J.R. and Rice, J.P., 1992, July. Automatic programming of robots using genetic programming. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 194-201). [ [www](https://dl.acm.org/doi/abs/10.5555/1867135.1867166) ]
