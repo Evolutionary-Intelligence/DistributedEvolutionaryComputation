@@ -4,7 +4,7 @@ This is a *growing* paper list for **parallel and distributed** evolutionary com
 
 ## A (Relatively Big) Family of [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
 
-In this review, we consider a *relatively big* family of evolutionary algorithms (and also several closely related techniques, e.g., *random search* and *simulated annealing*), as presented below. Since here we focus primarily on their parallel/distributed versions and variants, we also provide a [ reference list](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md) for their original / seminal / landmark / survey / review papers, in order to help better understand them (especially for newcomers). We strongly suggest to see e.g. [2015's Review paper in **Nature** or 1993's Review paper in **Science**](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#popular-naturescience-reviews) for more details.
+Here, we consider a *relatively big* family of evolutionary algorithms (and also several closely related techniques, e.g., *random search* and *simulated annealing*), as presented below. Since here we focus primarily on their parallel/distributed versions and variants, we also provide a [ reference list](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md) for their original / seminal / landmark / survey / review papers, in order to help better understand them (especially for newcomers). We strongly suggest to see e.g. [2015's Review paper in **Nature** or 1993's Review paper in **Science**](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#popular-naturescience-reviews) for more details.
 
 * Four Conventional EAs
 
@@ -87,12 +87,13 @@ In this review, we consider a *relatively big* family of evolutionary algorithms
 | Conference for AI/ML | [ICML (International Conference on Machine Learning)](https://icml.cc/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/ICML.md)
 | Journal for EC | [ECJ (Evolutionary Computation Journal)](https://direct.mit.edu/evco) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/ECJ.md)
 | Journal for EC | [IEEE-TEVC (IEEE Transactions on Evolutionary Computation)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-TEVC.md)
+| Journal for Parallel / Distributed Systems | [IEEE-TPDS (IEEE Transactions on Parallel and Distributed Systems)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-TPDS.md)
 | Journal for Robotics | [Science Robotics](https://www.science.org/journal/scirobotics) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/ScienceRobotics.md)
 | Journal for Robotics | [IEEE-TRO (IEEE Transactions on Robotics)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-TRO.md)
 | Conference for Robotics | [RSS (Robotics: Science and Systems)](http://www.roboticsproceedings.org/index.html) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/RSS.md)
 
 ## Research Support
 
-This *ongoing* review for PDEC is now supported by **Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597** (￥2,000,000), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China), and actively maintained/updated (from 2021 to 2023) by his group members (e.g., **Qiqi Duan**, *Chang Shao*, Mingyang Feng, Minghan Zhang, Youkui Zhang, and Qi Zhao).
+This *ongoing* paper list for PDEC is now supported by **Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597** (￥2,000,000), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China), and actively maintained/updated (from 2021 to 2023) by his group members (e.g., **Qiqi Duan**, *Chang Shao*, Mingyang Feng, Minghan Zhang, Youkui Zhang, and Qi Zhao).
 
 We also acknowledge the additional contributions from [Vincent A. Cicirello](https://github.com/cicirello).
