@@ -36,7 +36,7 @@ Here, we consider a *relatively big* family of evolutionary algorithms (and also
   
     * CoOperative co-Evolutionary Algorithms (COEA)
     
-    * CoMpetitive co-Evolutionary Algorithms (CMEA)
+    * [CoMpetitive co-Evolutionary Algorithms (CMEA)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#competitive-co-evolutionary-algorithms-cmea)
   
   * Differential Evolution (DE)
   
