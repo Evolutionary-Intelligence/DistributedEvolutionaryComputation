@@ -209,3 +209,7 @@ Since there are still other worth-citing papers missed here, we expect to contin
 * Floreano, D. and Mattiussi, C., 2008. Bio-inspired artificial intelligence: Theories, methods, and technologies. MIT Press.
 
 * Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
+
+* Copeland, B.J. ed., 2004. The essential Turing: Seminal writings in computing, logic, philosophy, artificial ingelligence, and artificial life plus the secrets of enigma. Oxford University Press.
+
+  * Turing, A., 1948. Intelligent machinery. In The Essential Turing. Oxford University Press.
