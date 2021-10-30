@@ -1,8 +1,8 @@
 # Evolutionary Computation (EC)
 
-In this page, we try our best to provide a (relatively complete) reference list for the **original/seminal/landmark/survey/review** papers from the EC field, in order to help better understand EC (especially for newcomers). However, owing to the uncountable paper amount (which keeps growing everyday), we have to select a small set of *representative* works (note that how to select is a non-trivial work, depending on our *possibly biased* experience).
+In this page, we try our best to provide a (relatively complete) reference list for the **original/seminal/landmark/survey/review** papers from the EC field, in order to help better understand EC (especially for newcomers). However, owing to the uncountable paper amount (which still keeps growing everyday), we have to select a *very small* set of *representative* works (note that how to select is a non-trivial work, depending on our *definitely biased* reading experience).
 
-Since there are still other worth-citing papers missed here, we expect to continue to add them in the future if you report them via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) or [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls).  
+Since there are still many other worth-citing papers missed here, we expect to continue to add them if you report them via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) or [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls).  
 
 ## Popular Nature/Science Reviews  
 
