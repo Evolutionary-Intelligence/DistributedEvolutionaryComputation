@@ -208,7 +208,9 @@ Since there are still many other worth-citing papers missed here, we expect to c
 
 * Forrest, S. and Mitchell, M., 2016. Adaptive computation: The multidisciplinary legacy of John H. Holland. Communications of the ACM, 59(8), pp.58-63.
 
-* Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
+* Domingos, P., 2015. The master algorithm: How the quest for the ultimate learning machine will remake our world. Basic Books.
+
+  * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
 
 * Floreano, D. and Mattiussi, C., 2008. Bio-inspired artificial intelligence: Theories, methods, and technologies. MIT Press.
 
