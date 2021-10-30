@@ -104,6 +104,10 @@ Since there are still many other worth-citing papers missed here, we expect to c
 
 * Zhang, Q. and Li, H., 2007. MOEA/D: A multiobjective evolutionary algorithm based on decomposition. IEEE Transactions on Evolutionary Computation, 11(6), pp.712-731.
 
+## CoMpetitive co-Evolutionary Algorithms (CMEA)
+
+* Rosin, C.D. and Belew, R.K., 1997. New methods for competitive coevolution. Evolutionary Computation, 5(1), pp.1-29.
+
 ## Differential Evolution (DE)
 
 * Das, S. and Suganthan, P.N., 2010. Differential evolution: A survey of the state-of-the-art. IEEE Transactions on Evolutionary Computation, 15(1), pp.4-31.
