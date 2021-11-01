@@ -216,6 +216,6 @@ Since there are still many other worth-citing papers missed here, we expect to c
 
 * Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
 
-* Copeland, B.J. ed., 2004. The essential Turing: Seminal writings in computing, logic, philosophy, artificial ingelligence, and artificial life plus the secrets of enigma. Oxford University Press.
+* Copeland, B.J. ed., 2004. The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma. Oxford University Press.
 
   * Turing, A., 1948. Intelligent machinery. In The Essential Turing. Oxford University Press.
