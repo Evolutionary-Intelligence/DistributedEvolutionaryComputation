@@ -104,6 +104,10 @@ Since there are still many other worth-citing papers missed here, we expect to c
 
 * Zhang, Q. and Li, H., 2007. MOEA/D: A multiobjective evolutionary algorithm based on decomposition. IEEE Transactions on Evolutionary Computation, 11(6), pp.712-731.
 
+## CoOperative coEvolutionary Algorithms (COEA)
+
+* Potter, M.A. and De Jong, K.A., 1994, October. A cooperative coevolutionary approach to function optimization. In International Conference on Parallel Problem Solving from Nature (pp. 249-257). Springer, Berlin, Heidelberg.
+
 ## CoMpetitive co-Evolutionary Algorithms (CMEA)
 
 * Rosin, C.D. and Belew, R.K., 1997. New methods for competitive coevolution. Evolutionary Computation, 5(1), pp.1-29.
