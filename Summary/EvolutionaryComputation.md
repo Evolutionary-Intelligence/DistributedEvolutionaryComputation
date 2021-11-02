@@ -106,6 +106,8 @@ Since there are still many other worth-citing papers missed here, we expect to c
 
 ## CoOperative coEvolutionary Algorithms (COEA)
 
+* Ma, X., Li, X., Zhang, Q., Tang, K., Liang, Z., Xie, W. and Zhu, Z., 2019. A survey on cooperative co-evolutionary algorithms. IEEE Transactions on Evolutionary Computation, 23(3), pp.421-441.
+
 * Potter, M.A. and De Jong, K.A., 1994, October. A cooperative coevolutionary approach to function optimization. In International Conference on Parallel Problem Solving from Nature (pp. 249-257). Springer, Berlin, Heidelberg.
 
 ## CoMpetitive co-Evolutionary Algorithms (CMEA)
