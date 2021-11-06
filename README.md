@@ -77,6 +77,7 @@ Here, we consider a *relatively big* family of evolutionary algorithms (and also
 | Multidisciplinary Journal | [PRL (Physical Review Letters)](https://journals.aps.org/prl/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/PRL.md)
 | Multidisciplinary Journal | [PNAS (Proceedings of the National Academy of Sciences)](https://www.pnas.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/PNAS.md)
 | Multidisciplinary Journal | [PIEEE (Proceedings of the IEEE)](http://proceedingsoftheieee.ieee.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/PIEEE.md)
+| Journal for CS | [JACM (Journal of the ACM)](https://dl.acm.org/journal/jacm) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/JACM.md)
 | Journal for CS | [CACM (Communications of the ACM)](https://dl.acm.org/magazine/cacm) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/CACM.md)
 | Journal for AI/ML | [JMLR (Journal of Machine Learning Research)](https://jmlr.csail.mit.edu/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/JMLR.md)
 | Journal for AI/ML | [AIJ (Artificial Intelligence Journal)](https://www.sciencedirect.com/journal/artificial-intelligence) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/AIJ.md)
