@@ -2,7 +2,7 @@
 
 ## 2020
 
-Probst, M. and Rothlauf, F., 2020. Harmless overfitting: Using denoising autoencoders in estimation of distribution algorithms. Journal of Machine Learning Research, 21(78), pp.1-31. [ [www](https://jmlr.csail.mit.edu/papers/v21/16-543.html) | [pdf](https://www.jmlr.org/papers/volume21/16-543/16-543.pdf) | [MATLAB](https://github.com/wohnjayne/eda-suite) ]
+Probst, M. and Rothlauf, F., 2020. Harmless overfitting: Using denoising autoencoders in estimation of distribution algorithms. Journal of Machine Learning Research, 21(78), pp.1-31. [ [www](https://jmlr.csail.mit.edu/papers/v21/16-543.html) | [pdf](https://www.jmlr.org/papers/volume21/16-543/16-543.pdf) | [Matlab](https://github.com/wohnjayne/eda-suite) ] (**EDA** for **Combinatorial Optimization**)
 
 ## 2019
 
