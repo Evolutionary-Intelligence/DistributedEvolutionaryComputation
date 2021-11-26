@@ -20,6 +20,8 @@ Xu, J., Tian, Y., Ma, P., Rus, D., Sueda, S. and Matusik, W., 2020, November. Pr
 
 So, D., Le, Q. and Liang, C., 2019, May. The evolved transformer. In International Conference on Machine Learning (pp. 5877-5886). PMLR. [ [www](http://proceedings.mlr.press/v97/so19a.html) | [pdf](http://proceedings.mlr.press/v97/so19a/so19a.pdf) | [Python](https://github.com/tensorflow/tensor2tensor/blob/adf76adc8f45e1899e41808c860f509f633b18b3/tensor2tensor/models/evolved_transformer.py) ]
 
+Brookes, D., Park, H. and Listgarten, J., 2019, May. Conditioning by adaptive sampling for robust design. In International Conference on Machine Learning (pp. 773-782). PMLR.
+
 Balduzzi, D., Garnelo, M., Bachrach, Y., Czarnecki, W., Perolat, J., Jaderberg, M. and Graepel, T., 2019, May. Open-ended learning in symmetric zero-sum games. In International Conference on Machine Learning (pp. 434-443). PMLR. [ [www](http://proceedings.mlr.press/v97/balduzzi19a.html) | [pdf](http://proceedings.mlr.press/v97/balduzzi19a/balduzzi19a.pdf) ]
 
 Khadka, S., Majumdar, S., Nassar, T., Dwiel, Z., Tumer, E., Miret, S., Liu, Y. and Tumer, K., 2019, May. Collaborative evolutionary reinforcement learning. In International Conference on Machine Learning (pp. 3341-3350). PMLR. [ [www](http://proceedings.mlr.press/v97/khadka19a.html) | [pdf](http://proceedings.mlr.press/v97/khadka19a/khadka19a.pdf) | [Python](https://github.com/IntelAI/cerl) ]
