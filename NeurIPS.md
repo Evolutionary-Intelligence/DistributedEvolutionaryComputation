@@ -2,7 +2,7 @@
 
 ## 2021
 
-Bhatia, J.S., Jackson, H., Tian, Y., Xu, J. and Matusik, W., 2021, May. Evolution Gym: A large-scale benchmark for evolving soft robots. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2021/hash/118921efba23fc329e6560b27861f0c2-Abstract.html) | [pdf](https://papers.nips.cc/paper/2021/file/118921efba23fc329e6560b27861f0c2-Paper.pdf) | [https://evolutiongym.github.io/](https://evolutiongym.github.io/) ]
+Bhatia, J.S., Jackson, H., Tian, Y., Xu, J. and Matusik, W., 2021, May. Evolution Gym: A large-scale benchmark for evolving soft robots. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2021/hash/118921efba23fc329e6560b27861f0c2-Abstract.html) | [pdf](https://papers.nips.cc/paper/2021/file/118921efba23fc329e6560b27861f0c2-Paper.pdf) | [Python](https://github.com/EvolutionGym) | [https://evolutiongym.github.io/](https://evolutiongym.github.io/) ] ( **GA**/**CPPN**/**NEAT** for **ER** )
 
 ## 2020
 
