@@ -2,6 +2,8 @@
 
 ## 2021
 
+Fontaine, M.C. and Nikolaidis, S., 2021. Differentiable quality diversity. In Advances in Neural Information Processing Systems. [ [www](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=27402) | [openreview](https://openreview.net/forum?id=uJGObgFU0lU) | [pdf](https://openreview.net/pdf?id=uJGObgFU0lU) | [ppt](https://nips.cc/media/neurips-2021/Slides/27402.pdf) | [Python](https://github.com/icaros-usc/dqd) ] ( **QD** )
+
 Bhatia, J.S., Jackson, H., Tian, Y., Xu, J. and Matusik, W., 2021, May. Evolution Gym: A large-scale benchmark for evolving soft robots. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2021/hash/118921efba23fc329e6560b27861f0c2-Abstract.html) | [pdf](https://papers.nips.cc/paper/2021/file/118921efba23fc329e6560b27861f0c2-Paper.pdf) | [Python](https://github.com/EvolutionGym) | [https://evolutiongym.github.io/](https://evolutiongym.github.io/) ] ( **GA**/**CPPN**/**NEAT** for **ER** )
 
 ## 2020
