@@ -144,7 +144,7 @@ Since there are still many other worth-citing papers missed here, we expect to c
 
 * Chatzilygeroudis, K., Cully, A., Vassiliades, V. and Mouret, J.B., 2021. Quality-diversity optimization: A novel branch of stochastic optimization. In Black Box Optimization, Machine Learning, and No-Free Lunch Theorems (pp. 109-135). Springer, Cham.
 
-* Cully, A. and Demiris, Y., 2017. Quality and diversity optimization: A unifying modular framework. IEEE Transactions on Evolutionary Computation, 22(2), pp.245-259.
+* Cully, A. and Demiris, Y., 2018. Quality and diversity optimization: A unifying modular framework. IEEE Transactions on Evolutionary Computation, 22(2), pp.245-259.
 
 * Pugh, J.K., Soros, L.B. and Stanley, K.O., 2016. Quality diversity: A new frontier for evolutionary computation. Frontiers in Robotics and AI, 3, pp.1-17.
 
