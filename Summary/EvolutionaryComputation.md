@@ -136,7 +136,9 @@ Since there are still many other worth-citing papers missed here, we expect to c
 
 ## Quality Diversity (QD)
 
-* https://quality-diversity.github.io/    (The content on this website is actively added/updated by Antoine Cully, Jean-Baptiste Mouret, and Stephane Doncieux.)
+* https://quality-diversity.github.io/    (Now it is actively updated by Antoine Cully, Jean-Baptiste Mouret, and Stephane Doncieux.)
+
+* Fontaine, M.C. and Nikolaidis, S., 2021. Differentiable quality diversity. In Advances in Neural Information Processing Systems.
 
 * Ecoffet, A., Huizinga, J., Lehman, J., Stanley, K.O. and Clune, J., 2021. First return, then explore. Nature, 590(7847), pp.580-586.
 
