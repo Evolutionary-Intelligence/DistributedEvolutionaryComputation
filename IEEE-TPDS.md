@@ -4,7 +4,7 @@
 
 Liu, X., Sun, J., Zheng, L., Wang, S., Liu, Y. and Wei, T., 2021. Parallelization and optimization of NSGA-II on Sunway TaihuLight system. IEEE Transactions on Parallel and Distributed Systems, 32(4), pp.975-987. [ [www](https://ieeexplore.ieee.org/abstract/document/9253690) ] (**Parallel NSGA-II on SuperComputer**)
 
-Ye, Q., Sun, Y., Zhang, J. and Lv, J., 2021. A distributed framework for EA-based NAS. IEEE Transactions on Parallel and Distributed Systems, 32(7), pp.1753-1764. [ [www](https://ieeexplore.ieee.org/abstract/document/9305984) ] (**Distributed GA** | **GPUs** | **NE** )
+Ye, Q., Sun, Y., Zhang, J. and Lv, J., 2021. A distributed framework for EA-based NAS. IEEE Transactions on Parallel and Distributed Systems, 32(7), pp.1753-1764. [ [www](https://ieeexplore.ieee.org/abstract/document/9305984) ] ( **Distributed GA** | **NE** | **GPUs** )
 
 ## 2020
 
