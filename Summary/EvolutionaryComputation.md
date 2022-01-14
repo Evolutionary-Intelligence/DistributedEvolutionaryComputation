@@ -12,6 +12,10 @@ Since there are still many other worth-citing papers missed here, we expect to c
 
 * Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878.
 
+For more details about the **history** of EC, you can refer to the following wonderful books and papers.
+
+* Fogel, D.B., 1998. Evolutionary computation: The fossil record. IEEE Press.
+
 ## Genetic Algorithm (GA)
 
 * Whitley, D., 2019. Next generation genetic algorithms: A user’s guide and tutorial. In Handbook of Metaheuristics (pp. 245-274). Springer, Cham.
