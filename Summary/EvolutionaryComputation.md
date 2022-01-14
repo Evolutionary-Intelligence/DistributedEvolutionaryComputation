@@ -56,7 +56,9 @@ Since there are still many other worth-citing papers missed here, we expect to c
 
 * Schwefel, H.P., 1984. Evolution strategies: A family of non-linear optimization techniques based on imitating some principles of organic evolution. Annals of Operations Research, 1(2), pp.165-167.
 
-* Rechenberg, I., 1978. Evolutionsstrategien. In Simulationsmethoden in der Medizin und Biologie (pp. 83-114). Springer, Berlin, Heidelberg. (*NOTE that this paper was not read directly by us since it was originally written in German. Here we add it owing to its historically significant contributions to EC.*)
+* Rechenberg, I., 1973. Evolutionsstrategie: Optimierung technischer systeme nach prinzipien der biologischen evolution. Frommann-Holzboog Verlag, Stuttgart.
+
+  * This seminal dissertation was not read by us since originally written in German. Here we still add it owing to its historically significant contributions to EC/ES.
 
 ## Evolutionary Programming (EP)
 
