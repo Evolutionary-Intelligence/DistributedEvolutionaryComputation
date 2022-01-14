@@ -28,7 +28,9 @@ Since there are still many other worth-citing papers missed here, we expect to c
 
 * Holland, J.H., 1992. Genetic algorithms. Scientific American, 267(1), pp.66-73.
 
-* Holland, J.H., 1992. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. MIT Press. (First Published: 1975)
+* Holland, J.H., 1992. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. MIT Press.
+
+  * Holland, J.H., 1975. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. University of Michigan Press.
 
 * Goldberg, D.E. and Holland, J.H., 1988. Genetic algorithms and machine learning. Machine Learning, 3(2), pp.95-99.
 
