@@ -1,8 +1,8 @@
 # Evolutionary Computation (EC)
 
-In this page, we try our best to provide a (relatively complete) reference list for the **original/seminal/landmark/survey/review** papers from the EC field, in order to help better understand EC (especially for newcomers). However, owing to the uncountable paper amount (which still keeps growing everyday), we have to select a *very small* set of *representative* works (note that how to select is a non-trivial work, depending on our *definitely biased* reading experience).
+In this page, we try our best to maintain a (very) short reference list for the **original / seminal / landmark / survey / review** papers for EC, in order to help better understand it (especially for newcomers). However, owing to the uncountable paper amount (which still keeps growing everyday), we have to select a *very small* set of *representative* works.
 
-Since there are still many other worth-citing papers missed here, we expect to continue to add them if you report them via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) or [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls).  
+Note that how to select from huge works is a non-trivial work, depending on our *definitely biased* reading experience. Since there are still many other worth-citing papers missed here, we expect to continue to add them if you report them via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) or [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls).
 
 ## Popular Nature/Science Reviews  
 
@@ -12,7 +12,9 @@ Since there are still many other worth-citing papers missed here, we expect to c
 
 * Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878.
 
-For more details about the **history** of EC, you can refer to the following wonderful books and papers.
+For more details about the **history** and **classification** of EC, you can refer to the following wonderful books and papers.
+
+* Schoenauer, M., 2015. Chapter 28: Evolutionary algorithms. Handbook of Evolutionary Thinking in the Sciences. Springer.
 
 * Fogel, D.B., 1998. Evolutionary computation: The fossil record. IEEE Press.
 
