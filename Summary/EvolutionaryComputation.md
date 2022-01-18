@@ -78,6 +78,8 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Schmidt, M. and Lipson, H., 2009. Distilling free-form natural laws from experimental data. Science, 324(5923), pp.81-85.
 
+* Koza, J.R., Bennet, F.H., Andre, D. and Keane, M.A., 1999. Genetic programming III: Automatic synthesis of analog circuits. MIT Press.
+
 * Koza, J.R., 1994. Genetic programming as a means for programming computers by natural selection. Statistics and Computing, 4(2), pp.87-112.
 
 * Koza, J.R., 1994. Genetic programming II: Automatic discovery of reusable programs. MIT Press.
