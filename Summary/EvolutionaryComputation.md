@@ -18,6 +18,8 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Fogel, D.B., 1998. Evolutionary computation: The fossil record. IEEE Press.
 
+* De Jong, K.A., Fogel, D.B. and Schwefel, H.P., 1997. Chapter A2.3: A history of evolutionary computation. Handbook of Evolutionary Computation. Oxford University Press.
+
 ## Genetic Algorithm (GA)
 
 * Whitley, D., 2019. Next generation genetic algorithms: A user’s guide and tutorial. In Handbook of Metaheuristics (pp. 245-274). Springer, Cham.
