@@ -56,6 +56,8 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Ollivier, Y., Arnold, L., Auger, A. and Hansen, N., 2017. Information-geometric optimization algorithms: A unifying picture via invariance principles. Journal of Machine Learning Research, 18(18), pp.1-65.
 
+* Hansen, N., Arnold, D.V. and Auger, A., 2015. Evolution strategies. In Springer Handbook of Computational Intelligence (pp. 871-898). Springer, Berlin, Heidelberg.
+
 * Bäck, T., Foussette, C. and Krause, P., 2013. Contemporary evolution strategies (Vol. 86). Berlin: Springer.
 
 * Hansen, N., Müller, S.D. and Koumoutsakos, P., 2003. Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES). Evolutionary Computation, 11(1), pp.1-18.
