@@ -70,6 +70,8 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Schwefel, H.P., 1984. Evolution strategies: A family of non-linear optimization techniques based on imitating some principles of organic evolution. Annals of Operations Research, 1(2), pp.165-167.
 
+  * Schwefel, H.P., 1981. Numerical optimization of computer models. John Wiley & Sons, Inc..
+
 * Rechenberg, I., 1973. Evolutionsstrategie: Optimierung technischer systeme nach prinzipien der biologischen evolution. Frommann-Holzboog Verlag, Stuttgart.
 
   * This seminal dissertation was not read by us since originally written in German. Here we still add it owing to its historically significant contributions to EC/ES.
