@@ -70,13 +70,13 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Schwefel, H.P., 1984. Evolution strategies: A family of non-linear optimization techniques based on imitating some principles of organic evolution. Annals of Operations Research, 1(2), pp.165-167.
 
+  * Schwefel, H.P. and de Brito Mendes, M.A., 2010. 45 years of evolution strategies: Hans-Paul Schwefel interviewed for the genetic argonaut blog. ACM SIGEVOlution, 4(2), pp.2-8.
+
   * Schwefel, H.P.P., 1993. Evolution and optimum seeking: The sixth generation. John Wiley & Sons, Inc..
 
   * Schwefel, H.P., 1981. Numerical optimization of computer models. John Wiley & Sons, Inc..
 
-* Rechenberg, I., 1973. Evolutionsstrategie: Optimierung technischer systeme nach prinzipien der biologischen evolution. Frommann-Holzboog Verlag, Stuttgart.
-
-  * This seminal dissertation was not read by us since originally written in German. Here we still add it owing to its historically significant contributions to EC/ES.
+* Rechenberg, I., 1973. Evolutionsstrategie: Optimierung technischer systeme nach prinzipien der biologischen evolution. Frommann-Holzboog Verlag, Stuttgart. [NOTE that this seminal dissertation was not read directly by us since originally written in German. But here we still add it owing to its historically significant contributions to EC/ES.]
 
 ## Evolutionary Programming (EP)
 
