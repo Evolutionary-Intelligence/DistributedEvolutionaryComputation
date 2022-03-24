@@ -73,6 +73,8 @@ For more details about the **history** and **classification** of EC, you can ref
   * Schwefel, H.P. and de Brito Mendes, M.A., 2010. 45 years of evolution strategies: Hans-Paul Schwefel interviewed for the genetic argonaut blog. ACM SIGEVOlution, 4(2), pp.2-8.
 
   * Schwefel, H.P.P., 1993. Evolution and optimum seeking: The sixth generation. John Wiley & Sons, Inc..
+  
+  * Schwefel, H.P., 1988. Collective intelligence in evolving systems. In Ecodynamics (pp. 95-100). Springer, Berlin, Heidelberg.
 
   * Schwefel, H.P., 1981. Numerical optimization of computer models. John Wiley & Sons, Inc..
 
