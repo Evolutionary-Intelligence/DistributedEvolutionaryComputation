@@ -1,5 +1,7 @@
 # NeurIPS (Neural Information Processing Systems)
 
+For **NeurIPS**, we try to collect all the papers related to **Evolutionary Computation**.
+
 ## 2021
 
 Fontaine, M.C. and Nikolaidis, S., 2021. Differentiable quality diversity. In Advances in Neural Information Processing Systems. [ [www](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=27402) | [openreview](https://openreview.net/forum?id=uJGObgFU0lU) | [pdf](https://openreview.net/pdf?id=uJGObgFU0lU) | [ppt](https://nips.cc/media/neurips-2021/Slides/27402.pdf) | [Python](https://github.com/icaros-usc/dqd) ] ( **QD** )
