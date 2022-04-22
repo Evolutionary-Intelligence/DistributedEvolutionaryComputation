@@ -59,3 +59,7 @@ Qian, C., Yu, Y. and Zhou, Z.H., 2015. Subset selection by Pareto optimization. 
 ## 1996
 
 Baluja, S., 1996. Genetic algorithms and explicit search statistics. In Advances in Neural Information Processing Systems, pp.319-325. [ [www](https://proceedings.neurips.cc/paper/1996/hash/e6d8545daa42d5ced125a4bf747b3688-Abstract.html) | [pdf](https://papers.nips.cc/paper/1996/file/e6d8545daa42d5ced125a4bf747b3688-Paper.pdf) ]
+
+## 1995
+
+Juels, A. and Wattenberg, M., 1995. Stochastic hillclimbing as a baseline method for evaluating genetic algorithms. In Advances in Neural Information Processing Systems (pp. 430-436). MIT Press. [ [www](https://proceedings.neurips.cc/paper/1995/hash/36a1694bce9815b7e38a9dad05ad42e0-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1995/file/36a1694bce9815b7e38a9dad05ad42e0-Paper.pdf) ]
