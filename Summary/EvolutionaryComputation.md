@@ -208,6 +208,8 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Doncieux, S., Bredeche, N., Mouret, J.B. and Eiben, A.E.G., 2015. Evolutionary robotics: What, why, and where to. Frontiers in Robotics and AI, 2, p.4.
 
+* Bongard, J. and Lipson, H., 2014. Evolved machines shed light on robustness and resilience. Proceedings of the IEEE, 102(5), pp.899-914.
+
 * Bongard, J.C., 2013. Evolutionary robotics. Communications of the ACM, 56(8), pp.74-83.
 
 * Pfeifer, R. and Bongard, J., 2007. How the body shapes the way we think: A new view of intelligence. MIT Press.
