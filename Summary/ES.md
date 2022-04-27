@@ -7,3 +7,5 @@
 * Rudolph, G., 1990, October. Global optimization by means of distributed evolution strategies. In International Conference on Parallel Problem Solving from Nature (pp. 209-213). Springer, Berlin, Heidelberg.
 
 * Schwefel, H.P., 1988. Evolutionary learning optimum-seeking on parallel computer architectures. In Systems Analysis and Simulation I (pp. 217-225). Springer, New York, NY.
+
+* Schwefel, H.P., 1984. Evolution strategies: A family of non-linear optimization techniques based on imitating some principles of organic evolution. Annals of Operations Research, 1(2), pp.165-167.
