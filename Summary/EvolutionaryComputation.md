@@ -60,8 +60,6 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Bäck, T., Foussette, C. and Krause, P., 2013. Contemporary evolution strategies (Vol. 86). Berlin: Springer.
 
-* Hansen, N., Müller, S.D. and Koumoutsakos, P., 2003. Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES). Evolutionary Computation, 11(1), pp.1-18.
-
 * Beyer, H.G. and Schwefel, H.P., 2002. Evolution strategies–A comprehensive introduction. Natural Computing, 1(1), pp.3-52.
 
 * Hansen, N., Müller, S.D. and Koumoutsakos, P., 2003. Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES). Evolutionary Computation, 11(1), pp.1-18.
@@ -75,7 +73,9 @@ For more details about the **history** and **classification** of EC, you can ref
   * Schwefel, H.P. and de Brito Mendes, M.A., 2010. 45 years of evolution strategies: Hans-Paul Schwefel interviewed for the genetic argonaut blog. ACM SIGEVOlution, 4(2), pp.2-8.
 
   * Schwefel, H.P.P., 1993. Evolution and optimum seeking: The sixth generation. John Wiley & Sons, Inc..
-  
+
+  * Schwefel, H.P., 1988. Evolutionary learning optimum-seeking on parallel computer architectures. In Systems Analysis and Simulation I (pp. 217-225). Springer, New York, NY.
+
   * Schwefel, H.P., 1988. Collective intelligence in evolving systems. In Ecodynamics (pp. 95-100). Springer, Berlin, Heidelberg.
 
   * Schwefel, H.P., 1981. Numerical optimization of computer models. John Wiley & Sons, Inc..
