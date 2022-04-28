@@ -2,7 +2,7 @@
 
 ## 2012
 
-Vidal, T., Crainic, T.G., Gendreau, M., Lahrichi, N. and Rei, W., 2012. A hybrid genetic algorithm for multidepot and periodic vehicle routing problems. Operations Research, 60(3), pp.611-624. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/opre.1120.1048) ]
+Vidal, T., Crainic, T.G., Gendreau, M., Lahrichi, N. and Rei, W., 2012. A hybrid genetic algorithm for multidepot and periodic vehicle routing problems. Operations Research, 60(3), pp.611-624. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/opre.1120.1048) ] ( **GA** )
 
 ## 1991
 
