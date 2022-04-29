@@ -60,19 +60,19 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Bäck, T., Foussette, C. and Krause, P., 2013. Contemporary evolution strategies (Vol. 86). Berlin: Springer.
 
+  * Bäck, T., Hoffmeister, F. and Schwefel, H.P., 1991. A survey of evolution strategies. In Proceedings of International Conference on Genetic Algorithms.
+
 * Beyer, H.G. and Schwefel, H.P., 2002. Evolution strategies–A comprehensive introduction. Natural Computing, 1(1), pp.3-52.
 
 * Hansen, N., Müller, S.D. and Koumoutsakos, P., 2003. Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES). Evolutionary Computation, 11(1), pp.1-18.
 
   * Hansen, N. and Ostermeier, A., 2001. Completely derandomized self-adaptation in evolution strategies. Evolutionary Computation, 9(2), pp.159-195.
 
-* Bäck, T., Hoffmeister, F. and Schwefel, H.P., 1991. A survey of evolution strategies. In Proceedings of International Conference on Genetic Algorithms.
-
 * Schwefel, H.P., 1984. Evolution strategies: A family of non-linear optimization techniques based on imitating some principles of organic evolution. Annals of Operations Research, 1(2), pp.165-167.
 
-  * Schwefel, H.P., 2008. An interview with Hans-Paul Schwefel: With an introduction by Günter Rudolph. ACM SIGEVOlution, 3(4), pp.2-5.
-
   * Schwefel, H.P. and de Brito Mendes, M.A., 2010. 45 years of evolution strategies: Hans-Paul Schwefel interviewed for the genetic argonaut blog. ACM SIGEVOlution, 4(2), pp.2-8.
+
+  * Schwefel, H.P., 2008. An interview with Hans-Paul Schwefel: With an introduction by Günter Rudolph. ACM SIGEVOlution, 3(4), pp.2-5.
 
   * Schwefel, H.P.P., 1993. Evolution and optimum seeking: The sixth generation. John Wiley & Sons, Inc..
 
