@@ -99,6 +99,6 @@ Here, we consider a *relatively big* family of evolutionary algorithms (and also
 
 ## Research Support
 
-This *ongoing* paper list for PDEC is now supported by **Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597** (￥2,000,000), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China), and actively maintained/updated (from 2021 to 2023) by his group members (e.g., **Qiqi Duan**, *Chang Shao*, Mingyang Feng, Minghan Zhang, Youkui Zhang, and Qi Zhao).
+This *ongoing* paper list for PDEC is now supported by **Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597** (￥2,000,000), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China), and actively maintained/updated (from 2021 to 2023) by his group members (e.g., **Qiqi Duan**, *Chang Shao*, *Guocheng Zhou*, Mingyang Feng, Minghan Zhang, Youkui Zhang, and Qi Zhao).
 
-We also acknowledge the additional contributions from [Vincent A. Cicirello](https://github.com/cicirello).
+We also acknowledge the additional contributions from [Vincent A. Cicirello](https://github.com/cicirello). We welcome the recent (from 2022) contributions from Jian Zeng (focusing on data mining).
