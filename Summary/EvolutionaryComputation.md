@@ -70,6 +70,8 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Schwefel, H.P., 1984. Evolution strategies: A family of non-linear optimization techniques based on imitating some principles of organic evolution. Annals of Operations Research, 1(2), pp.165-167.
 
+  * Schwefel, H.P., 2008. An interview with Hans-Paul Schwefel: With an introduction by Günter Rudolph. ACM SIGEVOlution, 3(4), pp.2-5.
+
   * Schwefel, H.P. and de Brito Mendes, M.A., 2010. 45 years of evolution strategies: Hans-Paul Schwefel interviewed for the genetic argonaut blog. ACM SIGEVOlution, 4(2), pp.2-8.
 
   * Schwefel, H.P.P., 1993. Evolution and optimum seeking: The sixth generation. John Wiley & Sons, Inc..
