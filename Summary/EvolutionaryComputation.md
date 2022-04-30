@@ -16,6 +16,8 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Schoenauer, M., 2015. Chapter 28: Evolutionary algorithms. Handbook of Evolutionary Thinking in the Sciences. Springer.
 
+* De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
+
 * Fogel, D.B., 1998. Evolutionary computation: The fossil record. IEEE Press.
 
 * De Jong, K.A., Fogel, D.B. and Schwefel, H.P., 1997. Chapter A2.3: A history of evolutionary computation. Handbook of Evolutionary Computation. Oxford University Press.
@@ -228,13 +230,13 @@ For more details about the **history** and **classification** of EC, you can ref
 
 ## Recent Reviews/Surveys/Books
 
+* Aranha, C., Camacho Villalón, C.L., Campelo, F., Dorigo, M., Ruiz, R., Sevaux, M., Sörensen, K. and Stützle, T., 2022. Metaphor-based metaheuristics, a call for action: The elephant in the room. Swarm Intelligence, 16(1), pp.1-6.
+
 * Vie, A., 2021. Qualities, challenges and future of genetic algorithms: A literature review. arXiv preprint arXiv:2011.05277.
 
 * Corne, D.W. and Lones, M.A., 2018. Evolutionary algorithms. arXiv preprint arXiv:1805.11014.
 
 * Eiben, A.E. and Smith, J.E., 2016. Towards the evolution of things. ACM SIGEVOlution, 8(3), pp.3-6.
-
-* De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
 
 ## Broader Viewpoints From CS/AI/ML/Optimization
 
