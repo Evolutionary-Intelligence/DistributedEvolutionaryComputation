@@ -104,6 +104,8 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection. MIT Press.
 
+* Koza, J.R., 1989, August. Hierarchical genetic algorithms operating on populations of computer programs. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 768-774).
+
 ## Ant Colony Optimization (ACO)
 
 * https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/    (This is the official homepage of ACO's inventor Marco Dorigo, which includes much information about ACO.)
