@@ -86,7 +86,9 @@ For more details about the **history** and **classification** of EC, you can ref
 
   * Schwefel, H.P., 1981. Numerical optimization of computer models. John Wiley & Sons, Inc..
 
-* Rechenberg, I., 1973. Evolutionsstrategie: Optimierung technischer systeme nach prinzipien der biologischen evolution. Frommann-Holzboog Verlag, Stuttgart. [NOTE that this seminal dissertation was not read directly by us since originally written in German. But here we still add it owing to its historically significant contributions to EC/ES.]
+* Rechenberg, I., 1989. Evolution strategy: Nature’s way of optimization. In Optimization: Methods and Applications, Possibilities and Limitations (pp. 106-126). Springer, Berlin, Heidelberg.
+
+  * Rechenberg, I., 1973. Evolutionsstrategie: Optimierung technischer systeme nach prinzipien der biologischen evolution. Frommann-Holzboog Verlag, Stuttgart. [NOTE that this seminal dissertation was not read directly by us since originally written in German. But here we still add it owing to its historically significant contributions to EC/ES.]
 
 ## Evolutionary Programming (EP)
 
