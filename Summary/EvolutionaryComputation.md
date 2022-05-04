@@ -248,6 +248,8 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Millhouse, T., Moses, M. and Mitchell, M., 2021. Foundations of intelligence in natural and artificial systems: A workshop report. arXiv preprint arXiv:2105.02198.
 
+* [https://www.quantamagazine.org/computers-evolve-a-new-path-toward-human-intelligence-20191106/](https://www.quantamagazine.org/computers-evolve-a-new-path-toward-human-intelligence-20191106/)
+
 * Clune, J., 2019. AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence. arXiv preprint arXiv:1905.10985.
 
 * Kerschke, P., Hoos, H.H., Neumann, F. and Trautmann, H., 2019. Automated algorithm selection: Survey and perspectives. Evolutionary Computation, 27(1), pp.3-45.
