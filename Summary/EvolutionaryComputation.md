@@ -100,6 +100,10 @@ For more details about the **history** and **classification** of EC, you can ref
 
 ## Genetic Programming (GP)
 
+* [http://gpbib.cs.ucl.ac.uk/](http://gpbib.cs.ucl.ac.uk/)
+
+* Langdon, W.B. and Poli, R., 2013. Foundations of genetic programming. Springer Science & Business Media.
+
 * Schmidt, M. and Lipson, H., 2009. Distilling free-form natural laws from experimental data. Science, 324(5923), pp.81-85.
 
 * Banzhaf, W., Nordin, P., Keller, R.E. and Francone, F.D., 1998. Genetic programming: An introduction on the automatic evolution of computer programs and its applications. Morgan Kaufmann Publishers Inc..
