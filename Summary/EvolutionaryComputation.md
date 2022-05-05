@@ -102,21 +102,23 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * [http://gpbib.cs.ucl.ac.uk/](http://gpbib.cs.ucl.ac.uk/)
 
+* Langdon, W.B., 2020. Genetic programming and evolvable machines at 20. Genetic Programming and Evolvable Machines, 21(1), pp.205-217.
+
 * Langdon, W.B. and Poli, R., 2013. Foundations of genetic programming. Springer Science & Business Media.
 
 * Schmidt, M. and Lipson, H., 2009. Distilling free-form natural laws from experimental data. Science, 324(5923), pp.81-85.
 
 * Banzhaf, W., Nordin, P., Keller, R.E. and Francone, F.D., 1998. Genetic programming: An introduction on the automatic evolution of computer programs and its applications. Morgan Kaufmann Publishers Inc..
 
-* Koza, J.R., Bennet, F.H., Andre, D. and Keane, M.A., 1999. Genetic programming III: Automatic synthesis of analog circuits. MIT Press.
-
 * Koza, J.R., 1994. Genetic programming as a means for programming computers by natural selection. Statistics and Computing, 4(2), pp.87-112.
 
-* Koza, J.R., 1994. Genetic programming II: Automatic discovery of reusable programs. MIT Press.
+  * Koza, J.R., Bennet, F.H., Andre, D. and Keane, M.A., 1999. Genetic programming III: Automatic synthesis of analog circuits. MIT Press.
 
-* Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection. MIT Press.
+  * Koza, J.R., 1994. Genetic programming II: Automatic discovery of reusable programs. MIT Press.
 
-* Koza, J.R., 1989, August. Hierarchical genetic algorithms operating on populations of computer programs. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 768-774).
+  * Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection. MIT Press.
+
+  * Koza, J.R., 1989, August. Hierarchical genetic algorithms operating on populations of computer programs. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 768-774).
 
 ## Ant Colony Optimization (ACO)
 
