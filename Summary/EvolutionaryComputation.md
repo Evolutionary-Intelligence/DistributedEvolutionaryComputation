@@ -38,6 +38,8 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Goldberg, D.E., 1994. Genetic and evolutionary algorithms come of age. Communications of the ACM, 37(3), pp.113-120.
 
+* De Jong, K.A., 1992. Are genetic algorithms funcion optimizer?. Parallel Problem Solving from Nature, pp.3-13.
+
 * Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878.
 
 * Holland, J.H., 1992. Genetic algorithms. Scientific American, 267(1), pp.66-73.
