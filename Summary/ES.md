@@ -4,6 +4,8 @@
 
   * Zhang, X., Clune, J. and Stanley, K.O., 2017. On the relationship between the OpenAI evolution strategy and stochastic gradient descent. arXiv preprint arXiv:1712.06564.
 
+* Akimoto, Y., Auger, A. and Hansen, N., 2014, July. Comparison-based natural gradient optimization in high dimension. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 373-380). ACM.
+
 * Hansen, N., Müller, S.D. and Koumoutsakos, P., 2003. Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES). Evolutionary Computation, 11(1), pp.1-18.
 
 * Rudolph, G., 1990, October. Global optimization by means of distributed evolution strategies. In International Conference on Parallel Problem Solving from Nature (pp. 209-213). Springer, Berlin, Heidelberg.
