@@ -34,9 +34,7 @@ Choromanski, K., Pacchiano, A., Parker-Holder, J. and Tang, Y., 2019. From compl
 
 Cao, Y., Chen, T., Wang, Z. and Shen, Y., 2019. Learning to optimize in swarms. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2019/hash/ec04e8ebba7e132043e5b4832e54f070-Abstract.html) | [pdf](https://papers.nips.cc/paper/2019/file/ec04e8ebba7e132043e5b4832e54f070-Paper.pdf) | [C++](https://github.com/Shen-Lab/LOIS) ]
 
-## 2018
-
-Ha, D. and Schmidhuber, J., 2018, December. Recurrent world models facilitate policy evolution. In Proceedings of International Conference on Neural Information Processing Systems (pp. 2455-2467). [ [www](https://papers.nips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | [Python](https://github.com/hardmaru/WorldModelsExperiments) | [worldmodels.github.io](https://worldmodels.github.io/) ] (**CMA-ES** for **Neural Controller [Continuous Optimization]** | **ER**)
+* Ha, D. and Schmidhuber, J., 2018, December. Recurrent world models facilitate policy evolution. In Advances in Neural Information Processing Systems (pp. 2455-2467). [ [www](https://papers.nips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | [Python](https://github.com/hardmaru/WorldModelsExperiments) | [worldmodels.github.io](https://worldmodels.github.io/) ] ( **CMA-ES** | **ER** )
 
 Conti, E., Madhavan, V., Such, F.P., Lehman, J., Stanley, K.O. and Clune, J., 2018. Improving exploration in evolution strategies for deep reinforcement learning via a population of novelty-seeking agents. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2018/hash/b1301141feffabac455e1f90a7de2054-Abstract.html) | [pdf](https://papers.nips.cc/paper/2018/file/b1301141feffabac455e1f90a7de2054-Paper.pdf) | [Python](https://github.com/uber-research/deep-neuroevolution) ]
 
