@@ -22,7 +22,7 @@ Cano, A., Luna, J.M., Zafra, A. and Ventura, S., 2015. A classification module f
 
 Heaton, J., 2015. Encog: Library of interchangeable machine learning models for Java and C#. Journal of Machine Learning Research, 16, pp.1243-1247. [ [www](https://www.jmlr.org/papers/v16/heaton15a.html) | [pdf](https://www.jmlr.org/papers/volume16/heaton15a/heaton15a.pdf) ]
 
-* Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. Natural evolution strategies. Journal of Machine Learning Research, 15(27), pp.949-980. [ [www](https://jmlr.org/papers/v15/wierstra14a.html) | [pdf](https://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf) | [Python - PyBrain](https://github.com/pybrain/pybrain) | [source code](http://schaul.site44.com/nes.html) ] ( **NES** )
+* Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. Natural evolution strategies. Journal of Machine Learning Research, 15(27), pp.949-980. [ [www](https://jmlr.org/papers/v15/wierstra14a.html) | [pdf](https://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf) | [Python - PyBrain](https://github.com/pybrain/pybrain) | [source code](http://schaul.site44.com/nes.html) ] ( **NES** | **CO** / **ER** )
 
 ## 2013
 
