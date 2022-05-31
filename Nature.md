@@ -20,6 +20,8 @@ Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution 
 
 * Cully, A., Clune, J., Tarapore, D. and Mouret, J.B., 2015. Robots that can adapt like animals. Nature, 521(7553), pp.503-507. [ [www](https://www.nature.com/articles/nature14422) | [news&views](https://www.nature.com/articles/521426a) ] ( **QD** | **ER** )
 
+  * “An evolutionary algorithm has been developed that allows robots to adapt to unforeseen change. The robots learn behaviours quickly and instinctively by mining the memory of their past achievements.” --- [news&views](https://www.nature.com/articles/521426a)
+
 Rus, D. and Tolley, M.T., 2015. Design, fabrication and control of soft robots. Nature, 521(7553), pp.467-475. [ [www](https://www.nature.com/articles/nature14543) ] (**ER**)
 
 ## 2003
