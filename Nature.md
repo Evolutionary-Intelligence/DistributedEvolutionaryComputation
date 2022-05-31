@@ -18,7 +18,7 @@ Li, S., Batra, R., Brown, D., Chang, H.D., Ranganathan, N., Hoberman, C., Rus, D
 
 Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution of things. Nature, 521(7553), pp.476-482. [ [www](https://www.nature.com/articles/nature14544) ] (**EC**)
 
-Cully, A., Clune, J., Tarapore, D. and Mouret, J.B., 2015. Robots that can adapt like animals. Nature, 521(7553), pp.503-507. [ [www](https://www.nature.com/articles/nature14422) ] ( **QD** for **ER** )
+* Cully, A., Clune, J., Tarapore, D. and Mouret, J.B., 2015. Robots that can adapt like animals. Nature, 521(7553), pp.503-507. [ [www](https://www.nature.com/articles/nature14422) | [news&views](https://www.nature.com/articles/521426a) ] ( **QD** | **ER** )
 
 Rus, D. and Tolley, M.T., 2015. Design, fabrication and control of soft robots. Nature, 521(7553), pp.467-475. [ [www](https://www.nature.com/articles/nature14543) ] (**ER**)
 
