@@ -2,7 +2,7 @@
 
 ## 2022
 
-Zhongqiang Ren, Akshaya Kesarimangalam Srinivasan, Howard Coffin, Ian Abraham, Howie Choset, 2022, July. A Local Optimization Framework for Multi-Objective Ergodic Search. In Proceedings of Robotics: Science and Systems (Vol. 18). [ [www](https://roboticsconference.org/program/papers/052/)| [pdf](http://www.roboticsproceedings.org/rss18/p052.pdf)]
+Zhongqiang Ren, Akshaya Kesarimangalam Srinivasan, Howard Coffin, Ian Abraham, Howie Choset, 2022, July. A Local Optimization Framework for Multi-Objective Ergodic Search. In Proceedings of Robotics: Science and Systems (Vol. 18). [ [www](https://roboticsconference.org/program/papers/052/)| [pdf](http://www.roboticsproceedings.org/rss18/p052.pdf) ] (**GA**)
 
 ## 2021
 
