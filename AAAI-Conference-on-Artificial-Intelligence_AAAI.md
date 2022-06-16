@@ -10,6 +10,8 @@ Xu, X., Meng, Q., Qin, Y., Guo, J., Zhao, C., Zhou, F. and Lei, Z., 2021, May. S
 
 Real, E., Aggarwal, A., Huang, Y. and Le, Q.V., 2019, July. Regularized evolution for image classifier architecture search. In Proceedings of AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 4780-4789). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/4405) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4405/4283) ]
 
+Liu, G., Zhao, L., Yang, F., Bian, J., Qin, T., Yu, N. and Liu, T.Y., 2019, July. Trust region evolution strategies. In Proceedings of AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 4352-4359). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/4345) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4345/4223) ] ( **ES** | **ER** )
+
 Feng, C., Qian, C. and Tang, K., 2019, July. Unsupervised feature selection by Pareto optimization. In Proceedings of AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 3534-3541). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/4232) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/4232/4110) ]
 
 ## 2015
