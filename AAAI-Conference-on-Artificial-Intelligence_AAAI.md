@@ -1,4 +1,4 @@
-# AAAI (AAAI Conference on Artificial Intelligence)
+# AAAI Conference on Artificial Intelligence (AAAI)
 
 ## 2021
 
