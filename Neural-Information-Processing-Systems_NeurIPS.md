@@ -1,4 +1,4 @@
-# NeurIPS (Neural Information Processing Systems)
+# Neural Information Processing Systems (NeurIPS)
 
 For **NeurIPS**, we try to collect all the papers related to **Evolutionary Computation**.
 
@@ -48,7 +48,7 @@ Cui, X., Zhang, W., Tüske, Z. and Picheny, M., Evolutionary stochastic gradient
 
 ## 2016
 
-Krause, O., Arbonès, D.R. and Igel, C., 2016. CMA-ES with optimal covariance update and storage complexity. In Advances in Neural Information Processing Systems, 29, pp.370-378. [ [www](https://proceedings.neurips.cc/paper/2016/hash/289dff07669d7a23de0ef88d2f7129e7-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2016/file/289dff07669d7a23de0ef88d2f7129e7-Paper.pdf) ]
+Krause, O., Arbonès, D.R. and Igel, C., 2016. CMA-ES with optimal covariance update and storage complexity. In Advances in Neural Information Processing Systems, 29, pp.370-378. [ [www](https://proceedings.neurips.cc/paper/2016/hash/289dff07669d7a23de0ef88d2f7129e7-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2016/file/289dff07669d7a23de0ef88d2f7129e7-Paper.pdf) ] ( **ES** | **CMA-ES** )
 
 ## 2015
 
