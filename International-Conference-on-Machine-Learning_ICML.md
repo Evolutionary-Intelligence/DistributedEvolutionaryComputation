@@ -1,4 +1,4 @@
-# ICML (International Conference on Machine Learning)
+# International Conference on Machine Learning (ICML)
 
 ## 2020
 
@@ -51,6 +51,8 @@ Real, E., Moore, S., Selle, A., Saxena, S., Suematsu, Y.L., Tan, J., Le, Q.V. an
 ## 2009
 
 Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. Stochastic search using the natural gradient. In International Conference on Machine Learning (pp. 1161-1168). ACM. [ [www](https://dl.acm.org/doi/abs/10.1145/1553374.1553522) ]
+
+Heidrich-Meisner, V. and Igel, C., 2009, June. Hoeffding and Bernstein races for selecting policies in evolutionary direct policy search. In Proceedings of International Conference on Machine Learning (pp. 401-408). [ [www](https://dl.acm.org/doi/abs/10.1145/1553374.1553426) ]
 
 ## 1995
 
