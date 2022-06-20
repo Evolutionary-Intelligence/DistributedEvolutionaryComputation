@@ -20,6 +20,8 @@ Xue, X.S. and Wang, Y.P., 2015. Optimizing ontology alignments through a memetic
 
 Bringmann, K. and Friedrich, T., 2013. Approximation quality of the hypervolume indicator. Artificial Intelligence, 195, pp.265-290. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370212001178) ]
 
+Bringmann, K., Friedrich, T., Igel, C. and Voß, T., 2013. Speeding up many-objective optimization by Monte Carlo approximations. Artificial Intelligence, 204, pp.22-29. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370213000738) ]
+
 ## 2012
 
 Yu, Y., Yao, X. and Zhou, Z.H., 2012. On the approximation ability of evolutionary optimization with application to minimum set cover. Artificial Intelligence, 180, pp.20-33. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370212000033) ]
