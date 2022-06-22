@@ -46,9 +46,7 @@ Chang, S., Yang, J., Choi, J. and Kwak, N., 2018. Genetic-gated networks for dee
 
 Cui, X., Zhang, W., Tüske, Z. and Picheny, M., Evolutionary stochastic gradient descent for optimization of deep neural networks. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2018/hash/62da8c91ce7b10846231921795d6059e-Abstract.html) |[pdf](https://proceedings.neurips.cc/paper/2018/file/62da8c91ce7b10846231921795d6059e-Paper.pdf) | [Python](https://github.com/tqch/esgd-ws) ]
 
-## 2016
-
-Krause, O., Arbonès, D.R. and Igel, C., 2016. CMA-ES with optimal covariance update and storage complexity. In Advances in Neural Information Processing Systems, 29, pp.370-378. [ [www](https://proceedings.neurips.cc/paper/2016/hash/289dff07669d7a23de0ef88d2f7129e7-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2016/file/289dff07669d7a23de0ef88d2f7129e7-Paper.pdf) ] ( **ES** | **CMA-ES** )
+* Krause, O., Arbonès, D.R. and Igel, C., 2016. CMA-ES with optimal covariance update and storage complexity. In Advances in Neural Information Processing Systems, 29, pp.370-378. [ [www](https://proceedings.neurips.cc/paper/2016/hash/289dff07669d7a23de0ef88d2f7129e7-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2016/file/289dff07669d7a23de0ef88d2f7129e7-Paper.pdf) ] ( **ES** | **CMA-ES** )
 
 ## 2015
 
