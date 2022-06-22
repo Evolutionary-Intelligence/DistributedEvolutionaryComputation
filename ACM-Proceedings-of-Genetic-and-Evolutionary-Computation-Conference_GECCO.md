@@ -1,4 +1,4 @@
-# ACM-GECCO (ACM Proceedings of Genetic and Evolutionary Computation Conference)
+# ACM Proceedings of Genetic and Evolutionary Computation Conference (GECCO)
 
 ## 2020
 
@@ -7,6 +7,8 @@ Medvet, E., Bartoli, A., De Lorenzo, A. and Fidel, G., 2020, June. Evolution of 
 ## 2014
 
 Mambrini, A., and Sudholt, D., 2014, July. Design and analysis of adaptive migration intervals in parallel evolutionary algorithms. In Proceedings of the Genetic and Evolutionary Computation Conference (pp. 1047–1054). [ [www](https://dl.acm.org/doi/10.1145/2576768.2598347) ]
+
+* Glasmachers, T., 2013, July. A natural evolution strategy with asynchronous strategy updates. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 431-438). ACM. [ **ES** ]
 
 ## 2010
 
