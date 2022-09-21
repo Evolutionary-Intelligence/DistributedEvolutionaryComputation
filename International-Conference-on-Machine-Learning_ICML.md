@@ -1,5 +1,7 @@
 # International Conference on Machine Learning (ICML)
 
+* Gambardella, L.M. and Dorigo, M., 1995. Ant-Q: A reinforcement learning approach to the traveling salesman problem. In International Conference on Machine Learning (pp. 252-260). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603776500396) ] ( **ACO** )
+
 ## 2020
 
 Real, E., Liang, C., So, D. and Le, Q., 2020, November. AutoML-zero: Evolving machine learning algorithms from scratch. In International Conference on Machine Learning (pp. 8007-8019). PMLR. [ [www](http://proceedings.mlr.press/v119/real20a.html) | [pdf](http://proceedings.mlr.press/v119/real20a/real20a.pdf) | [C++](https://github.com/google-research/google-research/tree/master/automl_zero) ]
@@ -53,10 +55,6 @@ Real, E., Moore, S., Selle, A., Saxena, S., Suematsu, Y.L., Tan, J., Le, Q.V. an
 Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. Stochastic search using the natural gradient. In International Conference on Machine Learning (pp. 1161-1168). ACM. [ [www](https://dl.acm.org/doi/abs/10.1145/1553374.1553522) ]
 
 Heidrich-Meisner, V. and Igel, C., 2009, June. Hoeffding and Bernstein races for selecting policies in evolutionary direct policy search. In Proceedings of International Conference on Machine Learning (pp. 401-408). [ [www](https://dl.acm.org/doi/abs/10.1145/1553374.1553426) ]
-
-## 1995
-
-Baluja, S. and Caruana, R., 1995. Removing the genetics from the standard genetic algorithm. In International Conference on Machine Learning (pp. 38-46). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603776500141) ]
 
 ## 1993
 
