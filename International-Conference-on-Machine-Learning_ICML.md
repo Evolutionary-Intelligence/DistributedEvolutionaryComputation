@@ -1,9 +1,10 @@
 # International Conference on Machine Learning (ICML)
 
-* Quinlan, J.R., 1988. An empirical comparison of genetic and decision-tree classifiers. In International Conference on Machine Learning (pp. 135-141). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500190) ] (  **GA** )
 * Gambardella, L.M. and Dorigo, M., 1995. Ant-Q: A reinforcement learning approach to the traveling salesman problem. In International Conference on Machine Learning (pp. 252-260). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603776500396) ] ( **ACO** )
 * Baluja, S. and Caruana, R., 1995. Removing the genetics from the standard genetic algorithm. In International Conference on Machine Learning (pp. 38-46). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603776500141) ] ( **EDA** )
 * Kimura, H., Yamamura, M. and Kobayashi, S., 1995. Reinforcement learning by stochastic hill climbing on discounted reward. In International Conference on Machine Learning (pp. 295-303). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B978155860377650044X) ] ( **RHC** )
+* Quinlan, J.R., 1988. An empirical comparison of genetic and decision-tree classifiers. In International Conference on Machine Learning (pp. 135-141). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500190) ] (  **GA** )
+* Robertson, G.G., 1988. Population size in classifier systems. In International Conference on Machine Learning (pp. 142-152). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500207) ] ( **GA** )
 
 ## 2020
 
