@@ -1,8 +1,8 @@
 # Neural Information Processing Systems (NeurIPS)
 
-* De Bonet, J., Isbell, C. and Viola, P., 1996. MIMIC: Finding optima by estimating probability densities. In Advances in Neural Information Processing Systems (pp. 424-430). [ [www](https://proceedings.neurips.cc/paper/1996/hash/4c22bd444899d3b6047a10b20a2f26db-Abstract.html) ] (  **EDA** )
+* De Bonet, J., Isbell, C. and Viola, P., 1996. MIMIC: Finding optima by estimating probability densities. In Advances in Neural Information Processing Systems (pp. 424-430). [ [www](https://proceedings.neurips.cc/paper/1996/hash/4c22bd444899d3b6047a10b20a2f26db-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1996/file/4c22bd444899d3b6047a10b20a2f26db-Paper.pdf) ] (  **EDA** )
 
-* Mitchell, M., Holland, J. and Forrest, S., 1993. When will a genetic algorithm outperform hill climbing. In Advances in Neural Information Processing Systems (pp. 51-58). Morgan-Kaufmann. [ [www](https://proceedings.neurips.cc/paper/1993/hash/ab88b15733f543179858600245108dd8-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1993/file/ab88b15733f543179858600245108dd8-Paper.pdf) ] ( **GA** )
+* Mitchell, M., Holland, J. and Forrest, S., 1993. When will a genetic algorithm outperform hill climbing. In Advances in Neural Information Processing Systems (pp. 51-58). [ [www](https://proceedings.neurips.cc/paper/1993/hash/ab88b15733f543179858600245108dd8-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1993/file/ab88b15733f543179858600245108dd8-Paper.pdf) ] ( **GA** )
 
 ## 2021
 
