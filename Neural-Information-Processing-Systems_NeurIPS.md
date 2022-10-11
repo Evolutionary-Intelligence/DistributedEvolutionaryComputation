@@ -1,6 +1,6 @@
 # Neural Information Processing Systems (NeurIPS)
 
-For **NeurIPS**, we try to collect all the papers related to **Evolutionary Computation**.
+* Mitchell, M., Holland, J. and Forrest, S., 1993. When will a genetic algorithm outperform hill climbing. In Advances in Neural Information Processing Systems (pp. 51-58). Morgan-Kaufmann. [ [www](https://proceedings.neurips.cc/paper/1993/hash/ab88b15733f543179858600245108dd8-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1993/file/ab88b15733f543179858600245108dd8-Paper.pdf) ] ( **GA** )
 
 ## 2021
 
@@ -59,7 +59,3 @@ Baluja, S., 1996. Genetic algorithms and explicit search statistics. In Advances
 ## 1995
 
 Juels, A. and Wattenberg, M., 1995. Stochastic hillclimbing as a baseline method for evaluating genetic algorithms. In Advances in Neural Information Processing Systems (pp. 430-436). MIT Press. [ [www](https://proceedings.neurips.cc/paper/1995/hash/36a1694bce9815b7e38a9dad05ad42e0-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1995/file/36a1694bce9815b7e38a9dad05ad42e0-Paper.pdf) ]
-
-## 1993
-
-Mitchell, M., Holland, J. and Forrest, S., 1993. When will a genetic algorithm outperform hill climbing. In Advances in Neural Information Processing Systems (pp. 51-58). Morgan-Kaufmann. [ [www](https://proceedings.neurips.cc/paper/1993/hash/ab88b15733f543179858600245108dd8-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1993/file/ab88b15733f543179858600245108dd8-Paper.pdf) ]
