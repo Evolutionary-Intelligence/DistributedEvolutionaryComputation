@@ -1,5 +1,7 @@
 # Nature
 
+* Brady, R.M., 1985. Optimization strategies gleaned from biological evolution. Nature, 317(6040), pp.804-806. [ [www](https://www.nature.com/articles/317804a0) ] (  **GA** )
+
 ## 2021
 
 Ecoffet, A., Huizinga, J., Lehman, J., Stanley, K.O. and Clune, J., 2021. First return then explore. Nature, pp.580-586. [ [www](https://www.nature.com/articles/s41586-020-03157-9) | [pdf](https://www.nature.com/articles/s41586-020-03157-9.epdf?sharing_token=fVSAoXFGOipXiv03jaRGFtRgN0jAjWel9jnR3ZoTv0M2nmoar2g6_K5n8IBFPE90s2PCF4tYuP4UnEffP83tohRanjcxryz9Usln4Rw7idY6ufIsQYVgwwD0B8UgE7JYzmgOuMdgNqvVMg7GsfFiI2ZBi9PjjmJtJGEDwzRPFWc%3D) | [Python](https://github.com/uber-research/go-explore) ] (**QD**)
@@ -39,7 +41,3 @@ Lenski, R.E., Ofria, C., Collier, T.C. and Adami, C., 1999. Genome complexity, r
 ## 1992
 
 Smith, J.M., 1992. Byte-sized evolution. Nature, 355(6363), pp.772-773. [ [www](https://www.nature.com/articles/355772a0) ] (**AL**)
-
-## 1985
-
-Brady, R.M., 1985. Optimization strategies gleaned from biological evolution. Nature, 317(6040), pp.804-806. [ [www](https://www.nature.com/articles/317804a0) ]
