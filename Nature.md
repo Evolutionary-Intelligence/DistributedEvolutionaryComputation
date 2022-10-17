@@ -1,5 +1,6 @@
 # Nature
 
+* Smith, J.M., 1992. Byte-sized evolution. Nature, 355(6363), pp.772-773. [ [www](https://www.nature.com/articles/355772a0) ] ( **AL** )
 * Brady, R.M., 1985. Optimization strategies gleaned from biological evolution. Nature, 317(6040), pp.804-806. [ [www](https://www.nature.com/articles/317804a0) ] (  **GA** )
 
 ## 2021
@@ -37,7 +38,3 @@ Lipson, H. and Pollack, J.B., 2000. Automatic design and manufacture of robotic 
 ## 1999
 
 Lenski, R.E., Ofria, C., Collier, T.C. and Adami, C., 1999. Genome complexity, robustness and genetic interactions in digital organisms. Nature, 400(6745), pp.661-664. [ [www](https://www.nature.com/articles/23245) ]
-
-## 1992
-
-Smith, J.M., 1992. Byte-sized evolution. Nature, 355(6363), pp.772-773. [ [www](https://www.nature.com/articles/355772a0) ] (**AL**)
