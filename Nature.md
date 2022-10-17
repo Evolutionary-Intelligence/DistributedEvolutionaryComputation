@@ -1,6 +1,7 @@
 # Nature
 
 * Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution of things. Nature, 521(7553), pp.476-482. [ [www](https://www.nature.com/articles/nature14544) ] ( **EC** )
+* Lenski, R.E., Ofria, C., Collier, T.C. and Adami, C., 1999. Genome complexity, robustness and genetic interactions in digital organisms. Nature, 400(6745), pp.661-664. [ [www](https://www.nature.com/articles/23245) ] ( **AL** )
 * Smith, J.M., 1992. Byte-sized evolution. Nature, 355(6363), pp.772-773. [ [www](https://www.nature.com/articles/355772a0) ] ( **AL** )
 * Brady, R.M., 1985. Optimization strategies gleaned from biological evolution. Nature, 317(6040), pp.804-806. [ [www](https://www.nature.com/articles/317804a0) ] (  **GA** )
 
@@ -33,7 +34,3 @@ Lenski, R.E., Ofria, C., Pennock, R.T. and Adami, C., 2003. The evolutionary ori
 ## 2000
 
 Lipson, H. and Pollack, J.B., 2000. Automatic design and manufacture of robotic lifeforms. Nature, 406(6799), pp.974-978. [ [www](https://www.nature.com/articles/35023115) | [NEWS](https://www.nature.com/articles/35023200) | [The Golem Project](http://demo.cs.brandeis.edu/golem/) ] ( **ES/EP** for **ER** | **Parallel** | **Distributed** )
-
-## 1999
-
-Lenski, R.E., Ofria, C., Collier, T.C. and Adami, C., 1999. Genome complexity, robustness and genetic interactions in digital organisms. Nature, 400(6745), pp.661-664. [ [www](https://www.nature.com/articles/23245) ]
