@@ -1,5 +1,7 @@
 # Science
 
+* Fan, J.X., Shen, S.Z., Erwin, D.H., Sadler, P.M., MacLeod, N., Cheng, Q.M., Hou, X.D., Yang, J., Wang, X.D., Wang, Y. and Zhang, H., 2020. A high-resolution summary of Cambrian to Early Triassic marine invertebrate biodiversity. Science, 367(6475), pp.272-277. [ [www](https://www.science.org/doi/full/10.1126/science.aax4953) ] ( **GA+SA** | **Parallel** )
+
 ## 2018
 
 Aguilar, J., Monaenkova, D., Linevich, V., Savoie, W., Dutta, B., Kuan, H.S., Betterton, M.D., Goodisman, M.A.D. and Goldman, D.I., 2018. Collective clog control: Optimizing traffic flow in confined biological and robophysical excavation. Science, 361(6403), pp.672-677. [ [www](https://science.sciencemag.org/content/361/6403/672.abstract) ]
