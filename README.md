@@ -94,10 +94,10 @@ Here, we consider a *relatively big* family of evolutionary algorithms (and also
 | Journal for Neural Networks | [NN (Neural Networks)](https://www.sciencedirect.com/journal/neural-networks) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/NN.md)
 | Journal for Parallel/Distributed Systems | [IEEE-TPDS (IEEE Transactions on Parallel and Distributed Systems)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-TPDS.md)
 | Conference for Parallel/Distributed Systems | [OSDI (USENIX Symposium on Operating Systems Design and Implementation)](https://www.usenix.org/conferences/byname/179) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/OSDI.md)
-| Journal for Control/Robotics | [Science Robotics](https://www.science.org/journal/scirobotics) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/ScienceRobotics.md)
-| Journal for Control/Robotics | [IEEE-TAC (IEEE Transactions on Automatic Control)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-TAC.md)
-| Journal for Control/Robotics | [IEEE-TRO (IEEE Transactions on Robotics)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-TRO.md)
-| Conference for Control/Robotics | [RSS (Robotics: Science and Systems)](http://www.roboticsproceedings.org/index.html) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/RSS.md)
+| Journals for Control/Robotics | [Science Robotics](https://www.science.org/journal/scirobotics) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Science-Robotics.md)
+| Journals for Control/Robotics | [IEEE-TAC (IEEE Transactions on Automatic Control)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-TAC.md)
+| Journals for Control/Robotics | [IEEE-TRO (IEEE Transactions on Robotics)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-TRO.md)
+| Conferences for Control/Robotics | [RSS (Robotics: Science and Systems)](http://www.roboticsproceedings.org/index.html) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/RSS.md)
 
 ## Research Support
 
