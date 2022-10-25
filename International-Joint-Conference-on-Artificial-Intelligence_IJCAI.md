@@ -1,6 +1,6 @@
 # IJCAI (International Joint Conference on Artificial Intelligence)
 
-* Schmidhuber, J., Wierstra, D. and Gomez, F., 2005, July. Evolino: Hybrid neuroevolution/optimal linear search for sequence learning. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 853-858). [ [www](https://www.ijcai.org/proceedings/2005/) | [pdf](ijcai.org/Proceedings/05/Papers/1452.pdf) ] ( **COEA** )
+* Schmidhuber, J., Wierstra, D. and Gomez, F., 2005, July. Evolino: Hybrid neuroevolution/optimal linear search for sequence learning. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 853-858). [ [www](https://www.ijcai.org/proceedings/2005/) | [pdf](https://www.ijcai.org/Proceedings/05/Papers/1452.pdf) ] ( **COEA** )
 * Gomez, F.J. and Miikkulainen, R., 1999, July. Solving non-Markovian control tasks with neuroevolution. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 1356-1361). [ [www](https://www.ijcai.org/proceedings/1999-2/) | [pdf](https://www.ijcai.org/Proceedings/99-2/Papers/097.pdf) ] ( **COEA** )
 
 ## 2020
