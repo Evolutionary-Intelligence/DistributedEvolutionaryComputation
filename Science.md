@@ -2,6 +2,7 @@
 
 * Fan, J.X., Shen, S.Z., Erwin, D.H., Sadler, P.M., MacLeod, N., Cheng, Q.M., Hou, X.D., Yang, J., Wang, X.D., Wang, Y. and Zhang, H., 2020. A high-resolution summary of Cambrian to Early Triassic marine invertebrate biodiversity. Science, 367(6475), pp.272-277. [ [www](https://www.science.org/doi/full/10.1126/science.aax4953) ] ( **GA+SA** | **Parallel** )
 * Schmidt, M. and Lipson, H., 2009. Distilling free-form natural laws from experimental data. Science, 324(5923), pp.81-85. [ [www](https://science.sciencemag.org/content/324/5923/81.abstract) | [eureqa](https://www.creativemachineslab.com/eureqa.html) ] ( **GP** | **Parallel** )
+* Bongard, J., Zykov, V. and Lipson, H., 2006. Resilient machines through continuous self-modeling. Science, 314(5802), pp.1118-1121. [ [www](https://science.sciencemag.org/content/314/5802/1118) ] ( **ER** )
 
 ## 2018
 
@@ -12,10 +13,6 @@ Aguilar, J., Monaenkova, D., Linevich, V., Savoie, W., Dutta, B., Kuan, H.S., Be
 Zhang, J., Fiers, P., Witte, K.A., Jackson, R.W., Poggensee, K.L., Atkeson, C.G. and Collins, S.H., 2017. Human-in-the-loop optimization of exoskeleton assistance during walking. Science, 356(6344), pp.1280-1284. [ [www](https://www.science.org/doi/abs/10.1126/science.aal5054) ] (**CMA-ES**)
 
 Hornby, G.S. and Kurtoglu, T., 2009. Toward a smarter Web. Science, 325(5938), pp.277-278. [ [www](https://science.sciencemag.org/content/325/5938/277.summary) ]
-
-## 2006
-
-Bongard, J., Zykov, V. and Lipson, H., 2006. Resilient machines through continuous self-modeling. Science, 314(5802), pp.1118-1121. [ [www](https://science.sciencemag.org/content/314/5802/1118) ] (**ER**)
 
 ## 1996
 
