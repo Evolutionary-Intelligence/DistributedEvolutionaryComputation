@@ -1,4 +1,6 @@
-# ACM Proceedings of Genetic and Evolutionary Computation Conference (GECCO)
+# GECCO (ACM Proceedings of Genetic and Evolutionary Computation Conference)
+
+* Sastry, K., Goldberg, D.E. and Llorà, X., 2007, July. Towards billion-bit optimization via a parallel estimation of distribution algorithm. In Proceedings of Genetic and Evolutionary Computation Conference (pp. 577-584). [ [www](https://dl.acm.org/doi/abs/10.1145/1276958.1277077) ] ( **EDA** | **Parallel** )
 
 ## 2020
 
