@@ -1,4 +1,6 @@
-# AAAI Conference on Artificial Intelligence (AAAI)
+# AAAI (AAAI Conference on Artificial Intelligence)
+
+* Moriarty, D.E. and Miikkulainen, R., 1994, January. Evolving neural networks to focus minimax search. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1371-1377). [ [www](https://www.aaai.org/Library/AAAI/1994/aaai94-211.php) | [pdf](https://www.aaai.org/Papers/AAAI/1994/AAAI94-211.pdf) ] ( **NE** )
 
 ## 2021
 
