@@ -7,6 +7,7 @@
 * Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution of things. Nature, 521(7553), pp.476-482. [ [www](https://www.nature.com/articles/nature14544) ] ( **EC** )
 * Lenski, R.E., Ofria, C., Pennock, R.T. and Adami, C., 2003. The evolutionary origin of complex features. Nature, 423(6936), pp.139-144. [ [www](https://www.nature.com/articles/nature01568) ] (  **AL** )
 * Yedid, G. and Bell, G., 2002. Macroevolution simulated with autonomously replicating computer programs. Nature, 420(6917), pp.810-812. [ [www](https://www.nature.com/articles/nature01151) ] (  **AL** )
+* Wilke, C.O., Wang, J.L., Ofria, C., Lenski, R.E. and Adami, C., 2001. Evolution of digital organisms at high mutation rates leads to survival of the flattest. Nature, 412(6844), pp.331-333. [ [www]() ] (  **AL** )
 * Lipson, H. and Pollack, J.B., 2000. Automatic design and manufacture of robotic lifeforms. Nature, 406(6799), pp.974-978. [ [www](https://www.nature.com/articles/35023115) | [news & views](https://www.nature.com/articles/35023200) | [Golem](http://demo.cs.brandeis.edu/golem/) ] ( **ES/EP** | **Parallel** | **Distributed** )
 * Lenski, R.E., Ofria, C., Collier, T.C. and Adami, C., 1999. Genome complexity, robustness and genetic interactions in digital organisms. Nature, 400(6745), pp.661-664. [ [www](https://www.nature.com/articles/23245) ] ( **AL** )
 * Smith, J.M., 1992. Byte-sized evolution. Nature, 355(6363), pp.772-773. [ [www](https://www.nature.com/articles/355772a0) ] ( **AL** )
