@@ -1,6 +1,7 @@
 # JGO (Journal of Global Optimization)
 
 * La Cruz, W., 2022. A genetic algorithm with a self-reproduction operator to solve systems of nonlinear equations. Journal of Global Optimization, pp.1-28. [ [www](https://link.springer.com/article/10.1007/s10898-022-01189-1) ] (  **GA** )
+* Ruiz, A.B., Saborido, R., Bermúdez, J.D., Luque, M. and Vercher, E., 2020. Preference-based evolutionary multi-objective optimization for portfolio selection: A new credibilistic model under investor preferences. Journal of Global Optimization, 76(2), pp.295-315. [ [www](https://link.springer.com/article/10.1007/s10898-019-00782-1) ]
 
 ## 2020
 
