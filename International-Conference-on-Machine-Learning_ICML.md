@@ -1,5 +1,6 @@
 # ICML (International Conference on Machine Learning)
 
+* Krawiec, K. and Bhanu, B., 2003, August. Visual learning by evolutionary feature synthesis. In International Conference on Machine Learning (pp. 376-383). [ [www](https://www.aaai.org/Library/ICML/2003/icml03-051.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-051.pdf) ] ( **GP** + **COEA** )
 * Johnson, J., Tsioutsiouliklis, K. and Giles, C.L., 2003. Evolving strategies for focused web crawling. In International Conference on Machine Learning (pp. 298-305). [ [www](https://www.aaai.org/Library/ICML/2003/icml03-041.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-041.pdf) ] ( **GA** )
 * Fan, J., Lau, R. and Miikkulainen, R., 2003. Utilizing domain knowledge in neuroevolution. In International Conference on Machine Learning (pp. 170-177). [ [www](https://www.aaai.org/Library/ICML/2003/icml03-025.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-025.pdf) ] ( **NE** )
 * Moriarty, D.E. and Miikkulainen, R., 1995. Efficient learning from delayed rewards through symbiotic evolution. In International Conference on Machine Learning (pp. 396-404). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603776500566) ] ( **NE** )
