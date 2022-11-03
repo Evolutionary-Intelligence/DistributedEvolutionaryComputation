@@ -1,6 +1,7 @@
 # AAAI (AAAI Conference on Artificial Intelligence)
 
 * Stanley, K.O., Bryant, B.D., Karpov, I. and Miikkulainen, R., 2006, January. Real-time evolution of neural networks in the NERO video game. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1671-1674). [ [www](https://www.aaai.org/Library/AAAI/2006/aaai06-277.php) | [pdf](https://www.aaai.org/Papers/AAAI/2006/AAAI06-277.pdf) ] ( **NE** )
+* Stanley, K.O., Karpov, I., Miikkulainen, R. and Gold, A., 2006, July. Real-time interactive learning in the NERO video game. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1953-1954). [ [www](https://www.aaai.org/Library/AAAI/2006/aaai06-354.php) | [pdf](https://www.aaai.org/Papers/AAAI/2006/AAAI06-354.pdf) ] ( **NE** )
 * Moriarty, D.E. and Miikkulainen, R., 1994, January. Evolving neural networks to focus minimax search. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1371-1377). [ [www](https://www.aaai.org/Library/AAAI/1994/aaai94-211.php) | [pdf](https://www.aaai.org/Papers/AAAI/1994/AAAI94-211.pdf) ] ( **NE** )
 
 ## 2021
