@@ -12,6 +12,7 @@
 * Kimura, H., Yamamura, M. and Kobayashi, S., 1995. Reinforcement learning by stochastic hill climbing on discounted reward. In International Conference on Machine Learning (pp. 295-303). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B978155860377650044X) ] ( **RHC** )
 * Opitz, D.W. and Shavlik, J.W., 1994. Using genetic search to refine knowledge-based neural networks. In International Conference on Machine Learning (pp. 208-216). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603356500337) ] ( **GA** )
 * Baluja, S., 1993, July. The evolution of genetic algorithms: Towards massive parallelism. In International Conference on Machine Learning (pp. 1-8). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603073500071) ] ( **GA** | **Parallel** )
+* De Garis, H., 1990. Genetic programming: Building artificial nervous systems using genetically programmed neural network modules. In International Conference on Machine Learning 1990 (pp. 132-139). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558601413500195) ] (  **GP** )
 * Quinlan, J.R., 1988. An empirical comparison of genetic and decision-tree classifiers. In International Conference on Machine Learning (pp. 135-141). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500190) ] (  **GA** )
 * Robertson, G.G., 1988. Population size in classifier systems. In International Conference on Machine Learning (pp. 142-152). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500207) ] ( **GA** )
 * Caruana, R.A. and Schaffer, J.D., 1988. Representation and hidden bias: Gray vs. binary coding for genetic algorithms. In International Conference on Machine Learning (pp. 153-161). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500219) ] ( **GA** )
@@ -65,12 +66,3 @@ Dai, H., Li, H., Tian, T., Huang, X., Wang, L., Zhu, J. and Song, L., 2018, July
 Real, E., Moore, S., Selle, A., Saxena, S., Suematsu, Y.L., Tan, J., Le, Q.V. and Kurakin, A., 2017, July. Large-scale evolution of image classifiers. In International Conference on Machine Learning (pp. 2902-2911). PMLR. [ [www](http://proceedings.mlr.press/v70/real17a.html) | [pdf](http://proceedings.mlr.press/v70/real17a/real17a.pdf) ]
 
 Heidrich-Meisner, V. and Igel, C., 2009, June. Hoeffding and Bernstein races for selecting policies in evolutionary direct policy search. In Proceedings of International Conference on Machine Learning (pp. 401-408). [ [www](https://dl.acm.org/doi/abs/10.1145/1553374.1553426) ]
-
-## 1990
-
-De Garis, H., 1990. Genetic programming: Building artificial nervous systems using genetically programmed neural network modules. In International Conference on Machine Learning 1990 (pp. 132-139). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558601413500195) ]
-
-## 1988
-
-Caruana, R.A. and Schaffer, J.D., 1988. Representation and hidden bias: Gray vs. binary coding for genetic algorithms. In International Conference on Machine Learning (pp. 153-161). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500219) ]
-
