@@ -1,9 +1,10 @@
 # ICML (International Conference on Machine Learning)
 
-* Strens, M., 2003. Evolutionary MCMC sampling and optimization in discrete spaces. In International Conference on Machine Learning (pp. 736-743). [ [www](https://www.aaai.org/Library/ICML/2003/icml03-096.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-096.pdf) ] ( **GA** )
-* Krawiec, K. and Bhanu, B., 2003, August. Visual learning by evolutionary feature synthesis. In International Conference on Machine Learning (pp. 376-383). [ [www](https://www.aaai.org/Library/ICML/2003/icml03-051.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-051.pdf) ] ( **GP** + **COEA** )
-* Johnson, J., Tsioutsiouliklis, K. and Giles, C.L., 2003. Evolving strategies for focused web crawling. In International Conference on Machine Learning (pp. 298-305). [ [www](https://www.aaai.org/Library/ICML/2003/icml03-041.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-041.pdf) ] ( **GA** )
-* Fan, J., Lau, R. and Miikkulainen, R., 2003. Utilizing domain knowledge in neuroevolution. In International Conference on Machine Learning (pp. 170-177). [ [www](https://www.aaai.org/Library/ICML/2003/icml03-025.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-025.pdf) ] ( **NE** )
+* Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. Stochastic search using the natural gradient. In International Conference on Machine Learning (pp. 1161-1168). ACM. [ [www](https://dl.acm.org/doi/abs/10.1145/1553374.1553522) ] ( **NES** )
+* Strens, M., 2003. Evolutionary MCMC sampling and optimization in discrete spaces. In International Conference on Machine Learning (pp. 736-743). AAAI. [ [www](https://www.aaai.org/Library/ICML/2003/icml03-096.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-096.pdf) ] ( **GA** )
+* Krawiec, K. and Bhanu, B., 2003, August. Visual learning by evolutionary feature synthesis. In International Conference on Machine Learning (pp. 376-383). AAAI. [ [www](https://www.aaai.org/Library/ICML/2003/icml03-051.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-051.pdf) ] ( **GP** + **COEA** )
+* Johnson, J., Tsioutsiouliklis, K. and Giles, C.L., 2003. Evolving strategies for focused web crawling. In International Conference on Machine Learning (pp. 298-305). AAAI. [ [www](https://www.aaai.org/Library/ICML/2003/icml03-041.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-041.pdf) ] ( **GA** )
+* Fan, J., Lau, R. and Miikkulainen, R., 2003. Utilizing domain knowledge in neuroevolution. In International Conference on Machine Learning (pp. 170-177). AAAI. [ [www](https://www.aaai.org/Library/ICML/2003/icml03-025.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-025.pdf) ] ( **NE** )
 * Moriarty, D.E. and Miikkulainen, R., 1995. Efficient learning from delayed rewards through symbiotic evolution. In International Conference on Machine Learning (pp. 396-404). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603776500566) ] ( **NE** )
 * Gambardella, L.M. and Dorigo, M., 1995. Ant-Q: A reinforcement learning approach to the traveling salesman problem. In International Conference on Machine Learning (pp. 252-260). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603776500396) ] ( **ACO** )
 * Baluja, S. and Caruana, R., 1995. Removing the genetics from the standard genetic algorithm. In International Conference on Machine Learning (pp. 38-46). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9781558603776500141) ] ( **EDA** )
@@ -61,10 +62,6 @@ Dai, H., Li, H., Tian, T., Huang, X., Wang, L., Zhu, J. and Song, L., 2018, July
 ## 2017
 
 Real, E., Moore, S., Selle, A., Saxena, S., Suematsu, Y.L., Tan, J., Le, Q.V. and Kurakin, A., 2017, July. Large-scale evolution of image classifiers. In International Conference on Machine Learning (pp. 2902-2911). PMLR. [ [www](http://proceedings.mlr.press/v70/real17a.html) | [pdf](http://proceedings.mlr.press/v70/real17a/real17a.pdf) ]
-
-## 2009
-
-Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. Stochastic search using the natural gradient. In International Conference on Machine Learning (pp. 1161-1168). ACM. [ [www](https://dl.acm.org/doi/abs/10.1145/1553374.1553522) ]
 
 Heidrich-Meisner, V. and Igel, C., 2009, June. Hoeffding and Bernstein races for selecting policies in evolutionary direct policy search. In Proceedings of International Conference on Machine Learning (pp. 401-408). [ [www](https://dl.acm.org/doi/abs/10.1145/1553374.1553426) ]
 
