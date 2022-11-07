@@ -1,6 +1,7 @@
 # ICML (International Conference on Machine Learning)
 
 * Wang, R., Lehman, J., Rawal, A., Zhi, J., Li, Y., Clune, J. and Stanley, K., 2020, November. Enhanced POET: Open-ended reinforcement learning through unbounded invention of learning challenges and their solutions. In International Conference on Machine Learning (pp. 9940-9951). PMLR. [ [www](https://proceedings.mlr.press/v119/wang20l.html) | [pdf](http://proceedings.mlr.press/v119/wang20l/wang20l.pdf) ]
+* Real, E., Moore, S., Selle, A., Saxena, S., Suematsu, Y.L., Tan, J., Le, Q.V. and Kurakin, A., 2017, July. Large-scale evolution of image classifiers. In International Conference on Machine Learning (pp. 2902-2911). PMLR. [ [www](http://proceedings.mlr.press/v70/real17a.html) | [pdf](http://proceedings.mlr.press/v70/real17a/real17a.pdf) ] ( **NE** )
 * Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. Stochastic search using the natural gradient. In International Conference on Machine Learning (pp. 1161-1168). ACM. [ [www](https://dl.acm.org/doi/abs/10.1145/1553374.1553522) ] ( **NES** )
 * Strens, M., 2003. Evolutionary MCMC sampling and optimization in discrete spaces. In International Conference on Machine Learning (pp. 736-743). AAAI. [ [www](https://www.aaai.org/Library/ICML/2003/icml03-096.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-096.pdf) ] ( **GA** )
 * Krawiec, K. and Bhanu, B., 2003, August. Visual learning by evolutionary feature synthesis. In International Conference on Machine Learning (pp. 376-383). AAAI. [ [www](https://www.aaai.org/Library/ICML/2003/icml03-051.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-051.pdf) ] ( **GP** + **COEA** )
@@ -63,7 +64,5 @@ Colas, C., Sigaud, O. and Oudeyer, P.Y., 2018, July. Gep-pg: Decoupling explorat
 Dai, H., Li, H., Tian, T., Huang, X., Wang, L., Zhu, J. and Song, L., 2018, July. Adversarial attack on graph structured data. In International Conference on Machine Learning (pp. 1115-1124). PMLR. [ [www](http://proceedings.mlr.press/v80/dai18b.html) | [pdf](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf) ]
 
 ## 2017
-
-Real, E., Moore, S., Selle, A., Saxena, S., Suematsu, Y.L., Tan, J., Le, Q.V. and Kurakin, A., 2017, July. Large-scale evolution of image classifiers. In International Conference on Machine Learning (pp. 2902-2911). PMLR. [ [www](http://proceedings.mlr.press/v70/real17a.html) | [pdf](http://proceedings.mlr.press/v70/real17a/real17a.pdf) ]
 
 Heidrich-Meisner, V. and Igel, C., 2009, June. Hoeffding and Bernstein races for selecting policies in evolutionary direct policy search. In Proceedings of International Conference on Machine Learning (pp. 401-408). [ [www](https://dl.acm.org/doi/abs/10.1145/1553374.1553426) ]
