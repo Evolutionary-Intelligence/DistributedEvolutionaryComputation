@@ -1,5 +1,6 @@
 # ICML (International Conference on Machine Learning)
 
+* Wang, R., Lehman, J., Rawal, A., Zhi, J., Li, Y., Clune, J. and Stanley, K., 2020, November. Enhanced POET: Open-ended reinforcement learning through unbounded invention of learning challenges and their solutions. In International Conference on Machine Learning (pp. 9940-9951). PMLR. [ [www](https://proceedings.mlr.press/v119/wang20l.html) | [pdf](http://proceedings.mlr.press/v119/wang20l/wang20l.pdf) ]
 * Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. Stochastic search using the natural gradient. In International Conference on Machine Learning (pp. 1161-1168). ACM. [ [www](https://dl.acm.org/doi/abs/10.1145/1553374.1553522) ] ( **NES** )
 * Strens, M., 2003. Evolutionary MCMC sampling and optimization in discrete spaces. In International Conference on Machine Learning (pp. 736-743). AAAI. [ [www](https://www.aaai.org/Library/ICML/2003/icml03-096.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-096.pdf) ] ( **GA** )
 * Krawiec, K. and Bhanu, B., 2003, August. Visual learning by evolutionary feature synthesis. In International Conference on Machine Learning (pp. 376-383). AAAI. [ [www](https://www.aaai.org/Library/ICML/2003/icml03-051.php) | [pdf](https://www.aaai.org/Papers/ICML/2003/ICML03-051.pdf) ] ( **GP** + **COEA** )
