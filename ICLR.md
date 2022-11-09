@@ -1,5 +1,7 @@
 # ICLR (International Conference on Learning Representations)
 
+* Wang, Y., Xue, K. and Qian, C., 2022, September. Evolutionary diversity optimization with clustering-based selection for reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=74x5BXs4bWD) | [pdf](https://openreview.net/pdf?id=74x5BXs4bWD) ]
+
 ## 2021
 
 Co-Reyes, J.D., Miao, Y., Peng, D., Real, E., Levine, S., Le, Q.V., Lee, H. and Faust, A., 2021. Evolving reinforcement learning algorithms. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=0XXpJ4OtjW) | [pdf](https://openreview.net/pdf?id=0XXpJ4OtjW) ]
