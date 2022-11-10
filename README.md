@@ -2,6 +2,8 @@
 
 This is a *growing* paper list for **parallel and distributed** evolutionary computation (PDEC). Currently we are **actively** updating it (at least from 2021 to 2023). Owing to the abundance of the related literature, however, we believe that much interesting work is still missed here. If you find them missed, welcome to contact with us via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) or [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls) to add.
 
+Although our initial goal was to cover only PDEC, now our focus is switched to **Evolutionary Computation (EC)** researches and applications for *most* chosen journals and conferences except EC-specific publications (e.g., ECJ/IEEE-TEVC/ACM-TELO/PPSN/GECCO).
+
 ## Review Scope
 
 | Publication Type  | Publication Name | Search Range | Collection |
