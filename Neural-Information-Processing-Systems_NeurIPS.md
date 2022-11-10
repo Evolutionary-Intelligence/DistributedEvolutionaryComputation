@@ -1,8 +1,8 @@
-# Neural Information Processing Systems (NeurIPS)
+# NeurIPS (Neural Information Processing Systems)
 
-* De Bonet, J., Isbell, C. and Viola, P., 1996. MIMIC: Finding optima by estimating probability densities. In Advances in Neural Information Processing Systems (pp. 424-430). [ [www](https://proceedings.neurips.cc/paper/1996/hash/4c22bd444899d3b6047a10b20a2f26db-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1996/file/4c22bd444899d3b6047a10b20a2f26db-Paper.pdf) ] (  **EDA** )
-
-* Mitchell, M., Holland, J. and Forrest, S., 1993. When will a genetic algorithm outperform hill climbing. In Advances in Neural Information Processing Systems (pp. 51-58). [ [www](https://proceedings.neurips.cc/paper/1993/hash/ab88b15733f543179858600245108dd8-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1993/file/ab88b15733f543179858600245108dd8-Paper.pdf) ] ( **GA** )
+* Parker-Holder, J., Pacchiano, A., Choromanski, K.M. and Roberts, S.J., 2020. Effective diversity in population based reinforcement learning. Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2020/hash/d1dc3a8270a6f9394f88847d7f0050cf-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/d1dc3a8270a6f9394f88847d7f0050cf-Paper.pdf) | [Python](https://github.com/jparkerholder/DvD_ES) ] (  **ES** )
+* De Bonet, J., Isbell, C. and Viola, P., 1996. MIMIC: Finding optima by estimating probability densities. Advances in Neural Information Processing Systems (pp. 424-430). [ [www](https://proceedings.neurips.cc/paper/1996/hash/4c22bd444899d3b6047a10b20a2f26db-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1996/file/4c22bd444899d3b6047a10b20a2f26db-Paper.pdf) ] (  **EDA** )
+* Mitchell, M., Holland, J. and Forrest, S., 1993. When will a genetic algorithm outperform hill climbing. Advances in Neural Information Processing Systems (pp. 51-58). [ [www](https://proceedings.neurips.cc/paper/1993/hash/ab88b15733f543179858600245108dd8-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1993/file/ab88b15733f543179858600245108dd8-Paper.pdf) ] ( **GA** )
 
 ## 2021
 
@@ -11,8 +11,6 @@ Fontaine, M.C. and Nikolaidis, S., 2021. Differentiable quality diversity. In Ad
 Bhatia, J.S., Jackson, H., Tian, Y., Xu, J. and Matusik, W., 2021. Evolution Gym: A large-scale benchmark for evolving soft robots. In Advances in Neural Information Processing Systems (pp. 2201-2214). Curran Associates, Inc. [ [www](https://papers.nips.cc/paper/2021/hash/118921efba23fc329e6560b27861f0c2-Abstract.html) | [pdf](https://papers.nips.cc/paper/2021/file/118921efba23fc329e6560b27861f0c2-Paper.pdf) | [Python](https://github.com/EvolutionGym) | [https://evolutiongym.github.io/](https://evolutiongym.github.io/) ] ( **GA**/**CPPN**/**NEAT** for **ER** )
 
 ## 2020
-
-Parker-Holder, J., Pacchiano, A., Choromanski, K.M. and Roberts, S.J., 2020. Effective diversity in population based reinforcement learning. In Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2020/hash/d1dc3a8270a6f9394f88847d7f0050cf-Abstract.html) | [pdf](https://arxiv.org/pdf/2002.00632.pdf) | [Python](https://github.com/jparkerholder/DvD_ES) ]
 
 Najarro, E. and Risi, S., 2020. Meta-learning through hebbian plasticity in random networks. In Advances in Neural Information Processing Systems. [ [www](https://papers.nips.cc/paper/2020/hash/ee23e7ad9b473ad072d57aaa9b2a5222-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/ee23e7ad9b473ad072d57aaa9b2a5222-Paper.pdf) | [Python](https://github.com/enajx/HebbianMetaLearning) ]
 
