@@ -1,6 +1,7 @@
 # ICLR (International Conference on Learning Representations)
 
 * Wang, Y., Xue, K. and Qian, C., 2022, September. Evolutionary diversity optimization with clustering-based selection for reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=74x5BXs4bWD) | [pdf](https://openreview.net/pdf?id=74x5BXs4bWD) ]
+* Pourchot, A. and Sigaud, O., 2019. CEM-RL: Combining evolutionary and gradient-based methods for policy search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BkeU5j0ctQ) | [pdf](https://openreview.net/pdf?id=BkeU5j0ctQ) ] ( **ES** )
 
 ## 2021
 
