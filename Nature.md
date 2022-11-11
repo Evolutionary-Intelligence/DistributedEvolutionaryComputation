@@ -4,7 +4,12 @@
 * Chen, T., van Gelder, J., van de Ven, B., Amitonov, S.V., de Wilde, B., Euler, H.C.R., Broersma, H., Bobbert, P.A., Zwanenburg, F.A. and van der Wiel, W.G., 2020. Classification with a disordered dopant-atom network in silicon. Nature, 577(7790), pp.341-345. [ [www](https://www.nature.com/articles/s41586-019-1901-0) | [news & views](https://www.nature.com/articles/d41586-020-00002-x) ] ( **GA** )
 * Cully, A., Clune, J., Tarapore, D. and Mouret, J.B., 2015. Robots that can adapt like animals. Nature, 521(7553), pp.503-507. [ [www](https://www.nature.com/articles/nature14422) ] ( **QD** )
   * "An evolutionary algorithm has been developed that allows robots to adapt to unforeseen change. The robots learn behaviours quickly and instinctively by mining the memory of their past achievements." ---[news & views](https://www.nature.com/articles/521426a)
-* Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution of things. Nature, 521(7553), pp.476-482. [ [www](https://www.nature.com/articles/nature14544) ] ( **EC** )
+* **Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution of things. Nature, 521(7553), pp.476-482.** [ [www](https://www.nature.com/articles/nature14544) ] ( **EC** )
+* Rus, D. and Tolley, M.T., 2015. Design, fabrication and control of soft robots. Nature, 521(7553), pp.467-475. [ [www](https://www.nature.com/articles/nature14543) ] ( **ER** )
+  * "Researchers have used design automation algorithms inspired by evolution to design soft robots. Soft-robot designs have been automatically generated using custom finite element analysis software (VoxCAD), which accommodates materials with a large range of moduli, coupled with design optimization using an evolutionary algorithm. In addition, evolutionary algorithms have been used to automatically generate soft-robot designs."
+    * Lipson, H., 2014. Challenges and opportunities for design, simulation, and fabrication of soft robots. Soft Robotics, 1(1), pp.21-27.
+    * Hiller, J. and Lipson, H., 2011. Automatic design and manufacture of soft robots. IEEE Transactions on Robotics, 28(2), pp.457-466.
+    * Rieffel, J., Knox, D., Smith, S. and Trimmer, B., 2014. Growing and evolving soft robots. Artificial Life, 20(1), pp.143-162.
 * Laganowsky, A., Reading, E., Allison, T.M., Ulmschneider, M.B., Degiacomi, M.T., Baldwin, A.J. and Robinson, C.V., 2014. Membrane proteins bind lipids selectively to modulate their structure and function. Nature, 510(7503), pp.172-175. [ [www](https://www.nature.com/articles/nature13419) ] ( **DE** )
   * "The fitting surface was rugged and required a sophisticated minimization procedure to maximize the chance of finding global minimum. First the 3D model was minimized using quasi-Newton method of Broyden, Fletcher, Goldfarb, and Shanno (BFGS) available in Scipy50. This provided the boundaries for bio-inspired algorithms. The 3D model was minimized using the modified differential algorithm (de_1220) available in PyGMO."
     * Izzo, D., Ruciński, M. and Biscani, F., 2012. The generalized island model. In Parallel Architectures and Bioinspired Algorithms (pp. 151-169). Springer, Berlin, Heidelberg.
@@ -17,5 +22,3 @@
 * Brady, R.M., 1985. Optimization strategies gleaned from biological evolution. Nature, 317(6040), pp.804-806. [ [www](https://www.nature.com/articles/317804a0) ] (  **GA** )
 
 Li, S., Batra, R., Brown, D., Chang, H.D., Ranganathan, N., Hoberman, C., Rus, D. and Lipson, H., 2019. Particle robotics based on statistical mechanics of loosely coupled components. Nature, 567(7748), pp.361-365. [ [www](https://www.nature.com/articles/s41586-019-1022-9) ]
-
-Rus, D. and Tolley, M.T., 2015. Design, fabrication and control of soft robots. Nature, 521(7553), pp.467-475. [ [www](https://www.nature.com/articles/nature14543) ] (**ER**)
