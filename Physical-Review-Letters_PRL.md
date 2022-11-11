@@ -1,6 +1,7 @@
 # PRL (Physical Review Letters)
 
 * Whitelam, S. and Tamblyn, I., 2021. Neuroevolutionary learning of particles and protocols for self-assembly. Physical Review Letters, 127(1), p.018003. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.018003) ] ( **NE** )
+* Gagnon, D., Fillion-Gourdeau, F., Dumont, J., Lefebvre, C. and MacLean, S., 2017. Suppression of multiphoton resonances in driven quantum systems via pulse shape optimization. Physical Review Letters, 119(5), p.053203. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.053203) ] ( **DE** | **Parallel** )
 * Las Heras, U., Alvarez-Rodriguez, U., Solano, E. and Sanz, M., 2016. Genetic algorithms for digital quantum simulations. Physical Review Letters, 116(23), p.230504. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.230504) ] ( **GA** )
 * Lovett, N.B., Crosnier, C., Perarnau-Llobet, M. and Sanders, B.C., 2013. Differential evolution for many-particle adaptive quantum metrology. Physical Review Letters, 110(22), p.220501. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.220501) ] ( **DE** )
 * d’Avezac, M., Luo, J.W., Chanier, T. and Zunger, A., 2012. Genetic-algorithm discovery of a direct-gap and optically allowed superstructure from indirect-gap Si and Ge semiconductors. Physical Review Letters, 108(2), p.027401. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.027401) ] ( **GA** )
