@@ -1,8 +1,7 @@
-# Artificial Intelligence Journal (AIJ)
+# AIJ (Artificial Intelligence Journal)
 
-## 2020
-
-Nguyen, P.T.H. and Sudholt, D., 2020. Memetic algorithms outperform evolutionary algorithms in multimodal optimisation. Artificial Intelligence, 287, pp.1-21. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0004370220301016) ]
+* Liu, J., Chen, T., Wang, C., Liang, J., Chen, L., Xiao, Y., Chen, Y. and Jin, K., 2022. VoCSK: Verb-oriented commonsense knowledge mining with taxonomy-guided induction. Artificial Intelligence, 310, p.103744. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370222000844) ] ( **SA** )
+* Nguyen, P.T.H. and Sudholt, D., 2020. Memetic algorithms outperform evolutionary algorithms in multimodal optimisation. Artificial Intelligence, 287, pp.1-21. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0004370220301016) ] ( **MA** )
 
 ## 2019
 
