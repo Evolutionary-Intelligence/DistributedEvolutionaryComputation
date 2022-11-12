@@ -1,13 +1,10 @@
 # AIJ (Artificial Intelligence Journal)
 
+* Lissovoi, A., Oliveto, P.S. and Warwicker, J.A., 2023. When move acceptance selection hyper-heuristics outperform Metropolis and elitist evolutionary algorithms and when not. Artificial Intelligence, 314, p.103804. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370222001448) ] ( **EA** )
 * Liu, J., Chen, T., Wang, C., Liang, J., Chen, L., Xiao, Y., Chen, Y. and Jin, K., 2022. VoCSK: Verb-oriented commonsense knowledge mining with taxonomy-guided induction. Artificial Intelligence, 310, p.103744. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370222000844) ] ( **SA** )
 * Nguyen, P.T.H. and Sudholt, D., 2020. Memetic algorithms outperform evolutionary algorithms in multimodal optimisation. Artificial Intelligence, 287, pp.1-21. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0004370220301016) ] ( **MA** )
-
-## 2019
-
-Corus, D., Oliveto, P.S. and Yazdani, D., 2019. Artificial immune systems can find arbitrarily good approximations for the NP-hard number partitioning problem. Artificial Intelligence, 274, pp.180-196. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S000437021830345X) ]
-
-Qian, C., Yu, Y., Tang, K., Yao, X. and Zhou Z.H., 2019. Maximizing submodular or monotone approximately submodular functions by multi-objective evolutionary algorithms. Artificial Intelligence, 275, pp.279-294. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0004370219301535) ]
+* Corus, D., Oliveto, P.S. and Yazdani, D., 2019. Artificial immune systems can find arbitrarily good approximations for the NP-hard number partitioning problem. Artificial Intelligence, 274, pp.180-196. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S000437021830345X) ]
+* Qian, C., Yu, Y., Tang, K., Yao, X. and Zhou Z.H., 2019. Maximizing submodular or monotone approximately submodular functions by multi-objective evolutionary algorithms. Artificial Intelligence, 275, pp.279-294. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0004370219301535) ]
 
 ## 2015
 
