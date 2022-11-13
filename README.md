@@ -39,6 +39,7 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 | Journals for Control/Robotics | [IEEE-TRO (IEEE Transactions on Robotics)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-TRO.md)
 | Conferences for Control/Robotics | [RSS (Robotics: Science and Systems)](http://www.roboticsproceedings.org/index.html) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/RSS.md)
 | Journals for Operations Research | [OR (Operations Research)](https://pubsonline.informs.org/journal/opre) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Operations-Research_OR.md)
+| Journals for Optimization | [JGO (Journal of Global Optimization)](https://www.springer.com/journal/10898) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Journal-of-Global-Optimization_JGO.md)
 
 ## A (Relatively Big) Family of [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
 
