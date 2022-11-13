@@ -1,5 +1,7 @@
 # JMLR (Journal of Machine Learning Research)
 
+* Bergstra, J. and Bengio, Y., 2012. Random search for hyper-parameter optimization. Journal of Machine Learning Research, 13(10), pp.281-305. [ [www](https://www.jmlr.org/papers/v13/bergstra12a.html) | [pdf](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf) ] ( **RS** )
+
 ## 2020
 
 Probst, M. and Rothlauf, F., 2020. Harmless overfitting: Using denoising autoencoders in estimation of distribution algorithms. Journal of Machine Learning Research, 21(78), pp.1-31. [ [www](https://jmlr.csail.mit.edu/papers/v21/16-543.html) | [pdf](https://www.jmlr.org/papers/volume21/16-543/16-543.pdf) | [Matlab](https://github.com/wohnjayne/eda-suite) ] (**EDA** for **Combinatorial Optimization**)
@@ -29,10 +31,6 @@ Heaton, J., 2015. Encog: Library of interchangeable machine learning models for 
 Valsalam, V.K. and Miikkulainen, R., 2013. Using symmetry and evolutionary search to minimize sorting networks. Journal of Machine Learning Research, 14(Feb), pp.303-331. [ [www](https://www.jmlr.org/papers/v14/valsalam13a.html) | [pdf](https://www.jmlr.org/papers/volume14/valsalam13a/valsalam13a.pdf) ]
 
 Salleb-Aouissi, A., Vrain, C., Nortet, C., Kong, X., Rathod, V. and Cassard, D., 2013. QuantMiner for mining quantitative association rules. Journal of Machine Learning Research, 14(1), pp.3153-3157. [ [www](https://www.jmlr.org/papers/v14/salleb-aouissi13a.html) | [pdf](https://www.jmlr.org/papers/volume14/salleb-aouissi13a/salleb-aouissi13a.pdf) ]
-
-## 2012
-
-Bergstra, J. and Bengio, Y., 2012. Random search for hyper-parameter optimization. Journal of Machine Learning Research, 13(10), pp.281-305. [ [www](https://www.jmlr.org/papers/v13/bergstra12a.html) | [pdf](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf) ]
 
 Ly, D.L. and Lipson, H., 2012. Learning symbolic representations of hybrid dynamical systems. Journal of Machine Learning Research, 13(1), pp.3585-3618. [ [www](https://www.jmlr.org/papers/v13/ly12a.html) | [pdf](https://www.jmlr.org/papers/volume13/ly12a/ly12a.pdf) ]
 
