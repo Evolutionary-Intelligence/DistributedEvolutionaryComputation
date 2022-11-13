@@ -4,12 +4,10 @@
 * Ramanauskas, M., Šešok, D., Žilinskas, J., Starikovičius, V., Kačeniauskas, A. and Belevičius, R., 2020. Global optimization of grillage-type foundations using a distributed genetic algorithm. Journal of Global Optimization, 77, pp.157-173. [ [www](https://link.springer.com/article/10.1007/s10898-019-00838-2) ]
 * Ruiz, A.B., Saborido, R., Bermúdez, J.D., Luque, M. and Vercher, E., 2020. Preference-based evolutionary multi-objective optimization for portfolio selection: A new credibilistic model under investor preferences. Journal of Global Optimization, 76(2), pp.295-315. [ [www](https://link.springer.com/article/10.1007/s10898-019-00782-1) ]
 * Yang, Z., Qiu, H., Gao, L., Jiang, C. and Zhang, J., 2019. Two-layer adaptive surrogate-assisted evolutionary algorithm for high-dimensional computationally expensive problems. Journal of Global Optimization, 74(2), 327-359. [ [www](https://link.springer.com/article/10.1007/s10898-019-00759-0) ]
+* Bradford, E., Schweidtmann, A.M. and Lapkin, A., 2018. Efficient multiobjective optimization employing Gaussian processes, spectral sampling and a genetic algorithm. Journal of Global Optimization, 71(2), 407-438. [ [www](https://link.springer.com/article/10.1007/s10898-018-0609-2) ]
+* Moreno, J.J., Ortega, G., Filatovas, E., Martínez, J.A. and Garzón, E.M., 2018. Improving the performance and energy of non-dominated sorting for evolutionary multiobjective optimization on GPU/CPU platforms. Journal of Global Optimization, 71(3), pp.631-649. [ [www](https://link.springer.com/article/10.1007/s10898-018-0669-3) ]
 * Ruiz, A.B., Saborido, R. and Luque, M., 2015. A preference-based evolutionary algorithm for multiobjective optimization: The weighting achievement scalarizing function genetic algorithm. Journal of Global Optimization, 62(1), pp.101-129. [ [www](https://link.springer.com/article/10.1007/s10898-014-0214-y) ]
 * Yang, C. and Kumar, M., 2015. An information guided framework for simulated annealing. Journal of Global Optimization, 62(1), pp.131-154. [ [www](https://link.springer.com/article/10.1007/s10898-014-0229-4) ] ( **SA** )
-
-## 2018
-
-Moreno, J.J., Ortega, G., Filatovas, E., Martínez, J.A. and Garzón, E.M., 2018. Improving the performance and energy of non-dominated sorting for evolutionary multiobjective optimization on GPU/CPU platforms. Journal of Global Optimization, 71(3), pp.631-649. [ [www](https://link.springer.com/article/10.1007/s10898-018-0669-3) ]
 
 ## 2013
 
