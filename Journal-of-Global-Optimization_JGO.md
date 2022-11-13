@@ -3,6 +3,7 @@
 * La Cruz, W., 2022. A genetic algorithm with a self-reproduction operator to solve systems of nonlinear equations. Journal of Global Optimization, pp.1-28. [ [www](https://link.springer.com/article/10.1007/s10898-022-01189-1) ] (  **GA** )
 * Ruiz, A.B., Saborido, R., Bermúdez, J.D., Luque, M. and Vercher, E., 2020. Preference-based evolutionary multi-objective optimization for portfolio selection: A new credibilistic model under investor preferences. Journal of Global Optimization, 76(2), pp.295-315. [ [www](https://link.springer.com/article/10.1007/s10898-019-00782-1) ]
 * Ruiz, A.B., Saborido, R. and Luque, M., 2015. A preference-based evolutionary algorithm for multiobjective optimization: The weighting achievement scalarizing function genetic algorithm. Journal of Global Optimization, 62(1), pp.101-129. [ [www](https://link.springer.com/article/10.1007/s10898-014-0214-y) ]
+* Yang, C. and Kumar, M., 2015. An information guided framework for simulated annealing. Journal of Global Optimization, 62(1), pp.131-154. [ [www](https://link.springer.com/article/10.1007/s10898-014-0229-4) ] ( **SA** )
 
 ## 2020
 
