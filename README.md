@@ -40,6 +40,7 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 | Conferences for Control/Robotics | [RSS (Robotics: Science and Systems)](http://www.roboticsproceedings.org/index.html) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/RSS.md)
 | Journals for Optimization | [MP (Mathematical Programming)](https://www.springer.com/journal/10107) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Mathematical-Programming_MP.md)
 | Journals for Optimization | [OR (Operations Research)](https://pubsonline.informs.org/journal/opre) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Operations-Research_OR.md)
+| Journals for Optimization | [MOOR (Mathematics of Operations Research)](https://pubsonline.informs.org/journal/moor) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Mathematics-of-Operations-Research_MOOR.md)
 | Journals for Optimization | [JGO (Journal of Global Optimization)](https://www.springer.com/journal/10898) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Journal-of-Global-Optimization_JGO.md)
 
 ## A (Relatively Big) Family of [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
