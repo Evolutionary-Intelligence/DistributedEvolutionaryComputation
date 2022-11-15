@@ -10,10 +10,7 @@
 * Ruiz, A.B., Saborido, R. and Luque, M., 2015. A preference-based evolutionary algorithm for multiobjective optimization: The weighting achievement scalarizing function genetic algorithm. Journal of Global Optimization, 62(1), pp.101-129. [ [www](https://link.springer.com/article/10.1007/s10898-014-0214-y) ]
 * Ferreiro, A.M., García, J.A., López-Salas, J.G. and Vázquez, C., 2013. An efficient implementation of parallel simulated annealing algorithm in GPUs. Journal of Global Optimization, 57(3), pp.863-890. [ [www](https://link.springer.com/article/10.1007/s10898-012-9979-z) ] ( **SA** )
 * Yang, C. and Kumar, M., 2015. An information guided framework for simulated annealing. Journal of Global Optimization, 62(1), pp.131-154. [ [www](https://link.springer.com/article/10.1007/s10898-014-0229-4) ] ( **SA** )
-
-## 2007
-
-Chen, D.J., Lee, C.Y., Park, C.H. and Mendes, P., 2007. Parallelizing simulated annealing algorithms based on high-performance computer. Journal of Global Optimization, 39(2), pp.261-289. [ [www](https://link.springer.com/article/10.1007/s10898-007-9138-0) ]
+* Chen, D.J., Lee, C.Y., Park, C.H. and Mendes, P., 2007. Parallelizing simulated annealing algorithms based on high-performance computer. Journal of Global Optimization, 39(2), pp.261-289. [ [www](https://link.springer.com/article/10.1007/s10898-007-9138-0) ] ( **SA** )
 
 ## 2001
 
