@@ -8,11 +8,8 @@
 * Moreno, J.J., Ortega, G., Filatovas, E., Martínez, J.A. and Garzón, E.M., 2018. Improving the performance and energy of non-dominated sorting for evolutionary multiobjective optimization on GPU/CPU platforms. Journal of Global Optimization, 71(3), pp.631-649. [ [www](https://link.springer.com/article/10.1007/s10898-018-0669-3) ]
 * Gerber, M. and Bornn, L., 2017. Improving simulated annealing through derandomization. Journal of Global Optimization, 68(1), pp.189-217. [ [www](https://link.springer.com/article/10.1007/s10898-016-0461-1) ] ( **SA** )
 * Ruiz, A.B., Saborido, R. and Luque, M., 2015. A preference-based evolutionary algorithm for multiobjective optimization: The weighting achievement scalarizing function genetic algorithm. Journal of Global Optimization, 62(1), pp.101-129. [ [www](https://link.springer.com/article/10.1007/s10898-014-0214-y) ]
+* Ferreiro, A.M., García, J.A., López-Salas, J.G. and Vázquez, C., 2013. An efficient implementation of parallel simulated annealing algorithm in GPUs. Journal of Global Optimization, 57(3), pp.863-890. [ [www](https://link.springer.com/article/10.1007/s10898-012-9979-z) ] ( **SA** )
 * Yang, C. and Kumar, M., 2015. An information guided framework for simulated annealing. Journal of Global Optimization, 62(1), pp.131-154. [ [www](https://link.springer.com/article/10.1007/s10898-014-0229-4) ] ( **SA** )
-
-## 2013
-
-Ferreiro, A.M., García, J.A., López-Salas, J.G. and Vázquez, C., 2013. An efficient implementation of parallel simulated annealing algorithm in GPUs. Journal of Global Optimization, 57(3), pp.863-890. [ [www](https://link.springer.com/article/10.1007/s10898-012-9979-z) | [pdf](https://link.springer.com/content/pdf/10.1007/s10898-012-9979-z.pdf) ]
 
 ## 2007
 
