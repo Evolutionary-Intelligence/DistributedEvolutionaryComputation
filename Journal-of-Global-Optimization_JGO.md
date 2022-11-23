@@ -20,3 +20,4 @@
 * Chen, D.J., Lee, C.Y., Park, C.H. and Mendes, P., 2007. Parallelizing simulated annealing algorithms based on high-performance computer. Journal of Global Optimization, 39(2), pp.261-289. [ [www](https://link.springer.com/article/10.1007/s10898-007-9138-0) ] ( **SA** )
 * Schutte, J.F. and Groenwold, A.A., 2005. A study of global optimization using particle swarms. Journal of Global Optimization, 31(1), pp.93-108. [ [www](https://link.springer.com/article/10.1007/s10898-003-6454-x) ] ( **PSO** )
 * Onbaşoğlu, E. and Özdamar, L., 2001. Parallel simulated annealing algorithms in global optimization. Journal of Global Optimization, 19(1), pp.27-50. [ [www](https://link.springer.com/article/10.1023/A:1008350810199) ] ( **SA** )
+* Gutjahr, W.J. and Pflug, G.C., 1996. Simulated annealing for noisy cost functions. Journal of Global Optimization, 8(1), pp.1-13. [ [www](https://link.springer.com/article/10.1007/BF00229298) ] ( **SA** )
