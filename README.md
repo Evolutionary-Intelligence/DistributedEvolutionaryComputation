@@ -42,6 +42,7 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 | Journals for Optimization | [SIOPT (SIAM Journal on Optimization)](https://epubs.siam.org/journal/sjope8) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/SIAM-Journal-on-Optimization_SIOPT.md)
 | Journals for Optimization | [OR (Operations Research)](https://pubsonline.informs.org/journal/opre) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Operations-Research_OR.md)
 | Journals for Optimization | [MOOR (Mathematics of Operations Research)](https://pubsonline.informs.org/journal/moor) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Mathematics-of-Operations-Research_MOOR.md)
+| Journals for Optimization | [JOTA (Journal of Optimization Theory and Applications)](https://www.springer.com/journal/10957) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Journal-of-Optimization-Theory-and-Applications_JOTA.md)
 | Journals for Optimization | [JGO (Journal of Global Optimization)](https://www.springer.com/journal/10898) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Journal-of-Global-Optimization_JGO.md)
 
 ## A (Relatively Big) Family of [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
