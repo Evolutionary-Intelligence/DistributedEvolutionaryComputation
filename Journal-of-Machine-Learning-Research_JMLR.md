@@ -1,10 +1,7 @@
 # JMLR (Journal of Machine Learning Research)
 
+* Probst, M. and Rothlauf, F., 2020. Harmless overfitting: Using denoising autoencoders in estimation of distribution algorithms. Journal of Machine Learning Research, 21(78), pp.1-31. [ [www](https://jmlr.csail.mit.edu/papers/v21/16-543.html) | [pdf](https://www.jmlr.org/papers/volume21/16-543/16-543.pdf) | [Matlab](https://github.com/wohnjayne/eda-suite) ] ( **EDA** )
 * Bergstra, J. and Bengio, Y., 2012. Random search for hyper-parameter optimization. Journal of Machine Learning Research, 13(10), pp.281-305. [ [www](https://www.jmlr.org/papers/v13/bergstra12a.html) | [pdf](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf) ] ( **RS** )
-
-## 2020
-
-Probst, M. and Rothlauf, F., 2020. Harmless overfitting: Using denoising autoencoders in estimation of distribution algorithms. Journal of Machine Learning Research, 21(78), pp.1-31. [ [www](https://jmlr.csail.mit.edu/papers/v21/16-543.html) | [pdf](https://www.jmlr.org/papers/volume21/16-543/16-543.pdf) | [Matlab](https://github.com/wohnjayne/eda-suite) ] (**EDA** for **Combinatorial Optimization**)
 
 ## 2019
 
