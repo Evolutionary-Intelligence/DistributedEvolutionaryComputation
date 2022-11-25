@@ -1,8 +1,7 @@
 # IEEE-TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)
 
-## 2020
-
-Ye, Q., Amini, A. and Zhou, Q., 2020. Optimizing regularized cholesky score for order-based learning of bayesian networks. IEEE Transactions on Pattern Analysis and Machine Intelligence. [ [www](https://ieeexplore.ieee.org/abstract/document/9079582) ] (**SA**)
+* Ye, Q., Amini, A.A. and Zhou, Q., 2020. Optimizing regularized cholesky score for order-based learning of bayesian networks. IEEE transactions on pattern analysis and machine intelligence, 43(10), pp.3555-3572. [ [www](https://ieeexplore.ieee.org/abstract/document/9079582) ] ( **SA** )
+* Geman, S. and Geman, D., 1984. Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images. IEEE Transactions on Pattern Analysis and Machine Intelligence, (6), pp.721-741. [ [www](https://ieeexplore.ieee.org/abstract/document/4767596) ] ( **SA** )
 
 ## 2019
 
@@ -37,7 +36,3 @@ Oh, I.S., Lee, J.S. and Moon, B.R., 2004. Hybrid genetic algorithms for feature 
 ## 2002
 
 Papaioannou, G., Karabassi, E.A. and Theoharis, T., 2002. Reconstruction of three-dimensional objects through matching of their parts. IEEE Transactions on Pattern Analysis and Machine Intelligence, 24(1), pp.114-124. [ [www](https://ieeexplore.ieee.org/abstract/document/982888) ] (**SA**)
-
-## 1984
-
-Geman, S. and Geman, D., 1984. Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images. IEEE Transactions on Pattern Analysis and Machine Intelligence, (6), pp.721-741. [ [www](https://ieeexplore.ieee.org/abstract/document/4767596) ]
