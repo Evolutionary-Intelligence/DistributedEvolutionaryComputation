@@ -4,6 +4,8 @@ For ACM-TOMS, we systematically searched all the papers regarding Evolutionary C
 
 Here we also listed some recent ACM-TOMS papers for black-box optimization (BBO) from the traditional mathematical optimization community, which could be referred to as baseline/competitive algorithms for EC. 
 
+* Chang, T.H., Watson, L.T., Larson, J., Neveu, N., Thacker, W.I., Deshpande, S. and Lux, T.C., 2022. Algorithm 1028: VTMOP: Solver for blackbox multiobjective optimization problems. ACM Transactions on Mathematical Software, 48(3), pp.1-34. [ [www](https://dl.acm.org/doi/abs/10.1145/3529258) ]
+
 ## 2021
 
 Lakhmiri, D., Digabel, S.L. and Tribes, C., 2021. HyperNOMAD: Hyperparameter optimization of deep neural networks using mesh adaptive direct search. ACM Transactions on Mathematical Software, 47(3), pp.1-27. [ [www](https://dl.acm.org/doi/abs/10.1145/3450975) ]
