@@ -1,5 +1,7 @@
 # TCS (Theoretical Computer Science)
 
+* Dorigo, M. and Blum, C., 2005. Ant colony optimization theory: A survey. Theoretical Computer Science, 344(2-3), pp.243-278. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397505003798) ] ( **ACO** )
+
 ## 2015
 
 Echegoyen, C., Santana, R., Mendiburu, A. and Lozano, J.A., 2015. Comprehensive characterization of the behaviors of estimation of distribution algorithms. Theoretical Computer Science, 598, pp.64-86. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397515003229) ]
