@@ -1,8 +1,7 @@
 # PIEEE (Proceedings of the IEEE)
 
-## 2021
-
-Dorigo, M., Theraulaz, G. and Trianni, V., 2021. Swarm robotics: Past, present, and future [Point of View]. Proceedings of the IEEE, 109(7), pp.1152-1165. [ [www](https://ieeexplore.ieee.org/abstract/document/9460560) ] ( **SR** )
+* Dorigo, M., Theraulaz, G. and Trianni, V., 2021. Swarm robotics: Past, present, and future [Point of View]. Proceedings of the IEEE, 109(7), pp.1152-1165. [ [www](https://ieeexplore.ieee.org/abstract/document/9460560) ] ( **SR** )
+* Groß, R. and Dorigo, M., 2008. Self-assembly at the macroscopic scale. Proceedings of the IEEE, 96(9), pp.1490-1508. [ [www](https://ieeexplore.ieee.org/abstract/document/4618734) ]
 
 ## 2020
 
