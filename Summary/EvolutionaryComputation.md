@@ -277,6 +277,6 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
 
-* Copeland, B.J. ed., 2004. The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma. Oxford University Press.
-
-  * Turing, A., 1948. Intelligent machinery. In The Essential Turing. Oxford University Press.
+* Bremermann, H.J., 1968. Numerical optimization procedures derived from biological evolution processes. Cybernetic Problems in Bionics, pp.597-616.
+* Turing, A., 1948. Intelligent machinery. In The Essential Turing. Oxford University Press.
+  * Copeland, B.J. ed., 2004. The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma. Oxford University Press.
