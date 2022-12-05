@@ -276,7 +276,7 @@ For more details about the **history** and **classification** of EC, you can ref
 * Floreano, D. and Mattiussi, C., 2008. Bio-inspired artificial intelligence: Theories, methods, and technologies. MIT Press.
 
 * Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
-
+* Conrad, M. and Rizki, M.M., 1989. [The artificial worlds approach to emergent evolution](https://www.sciencedirect.com/science/article/abs/pii/0303264789900324). BioSystems, 23(2-3), pp.247-258.
 * Bremermann, H.J., 1968. Numerical optimization procedures derived from biological evolution processes. Cybernetic Problems in Bionics, pp.597-616.
 * Turing, A., 1948. Intelligent machinery. In The Essential Turing. Oxford University Press.
-  * Copeland, B.J. ed., 2004. The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma. Oxford University Press.
+  * Copeland, B.J. ed., 2004. [The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma](https://global.oup.com/academic/product/the-essential-turing-9780198250807). Oxford University Press.
