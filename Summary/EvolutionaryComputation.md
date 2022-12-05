@@ -98,6 +98,7 @@ For more details about the **history** and **classification** of EC, you can ref
 
 ## Evolutionary Programming (EP)
 
+* Fogel, D.B. and Fogel, L.J., 1995, September. [An introduction to evolutionary programming](https://link.springer.com/chapter/10.1007/3-540-61108-8_28). In European Conference on Artificial Evolution (pp. 21-33). Springer, Berlin, Heidelberg.
 * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1966. Artificial intelligence through simulated evolution. John Wiley & Sons Inc.
 
 ## Genetic Programming (GP)
