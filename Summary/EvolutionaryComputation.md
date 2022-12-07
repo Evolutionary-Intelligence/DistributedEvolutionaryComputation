@@ -285,4 +285,5 @@ For more details about the **history** and **classification** of EC, you can ref
 
 ## Applications
 
+* Wang, J., Jiang, C., Zhang, H., Ren, Y., Chen, K.C. and Hanzo, L., 2020. [Thirty years of machine learning: The road to Pareto-optimal wireless networks](https://ieeexplore.ieee.org/abstract/document/8957702). IEEE Communications Surveys & Tutorials, 22(3), pp.1472-1514.
 * Buczak, A.L. and Guven, E., 2016. [A survey of data mining and machine learning methods for cyber security intrusion detection](https://ieeexplore.ieee.org/abstract/document/7307098). IEEE Communications Surveys & Tutorials, 18(2), pp.1153-1176.
