@@ -282,3 +282,7 @@ For more details about the **history** and **classification** of EC, you can ref
 * Bremermann, H.J., 1968. Numerical optimization procedures derived from biological evolution processes. Cybernetic Problems in Bionics, pp.597-616.
 * Turing, A., 1948. Intelligent machinery. In The Essential Turing. Oxford University Press.
   * Copeland, B.J. ed., 2004. [The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma](https://global.oup.com/academic/product/the-essential-turing-9780198250807). Oxford University Press.
+
+## Applications
+
+* Buczak, A.L. and Guven, E., 2016. [A survey of data mining and machine learning methods for cyber security intrusion detection](https://ieeexplore.ieee.org/abstract/document/7307098). IEEE Communications Surveys & Tutorials, 18(2), pp.1153-1176.
