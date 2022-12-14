@@ -37,3 +37,8 @@
 * Liepins, G.E. and Baluja, S., 1992. ApGA: An adaptive parallel genetic algorithm. In Computer Science and Operations Research (pp. 399-409). Pergamon.
 
 * Baluja, S., 1992. A massively distributed parallel genetic algorithm: MdpGA. School of Computer Science, Carnegie Mellon University.
+
+## Darrell Whitley from Colorado State University
+
+* Whitley, D. and Starkweather, T., 1990. Genitor II: A distributed genetic algorithm. Journal of Experimental & Theoretical Artificial Intelligence, 2(3), pp.189-214.
+* Starkweather, T., Whitley, D. and Mathias, K., 1990, October. Optimization using distributed genetic algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 176-185). Springer, Berlin, Heidelberg.
