@@ -43,3 +43,7 @@
 * Whitley, D. and Starkweather, T., 1990. Genitor II: A distributed genetic algorithm. Journal of Experimental & Theoretical Artificial Intelligence, 2(3), pp.189-214.
 * Starkweather, T., Whitley, D. and Mathias, K., 1990, October. Optimization using distributed genetic algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 176-185). Springer, Berlin, Heidelberg.
 * Gordon, V.S. and Whitley, D., 1993. Serial and parallel genetic algorithms as function optimizers. In International Conference on Genetic Algorithms (pp. 177-183).
+
+## Jim Cohoon from University of Virginia
+
+* Cohoon, J.P., Hegde, S.U., Martin, W.N. and Richards, D., 1987. Punctuated equilibria: A parallel genetic algorithm. In International Conference on Genetic Algorithms (pp. 28-31).
