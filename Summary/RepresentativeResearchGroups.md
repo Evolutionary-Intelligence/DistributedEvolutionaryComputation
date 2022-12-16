@@ -46,4 +46,5 @@
 
 ## Jim Cohoon from University of Virginia
 
-* Cohoon, J.P., Hegde, S.U., Martin, W.N. and Richards, D., 1987. Punctuated equilibria: A parallel genetic algorithm. In International Conference on Genetic Algorithms (pp. 28-31).
+* Cohoon, J.P., Hegde, S.U., Martin, W.N. and Richards, D.S., 1991. Distributed genetic algorithms for the floorplan design problem. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 10(4), pp.483-492.
+* Cohoon, J.P., Hegde, S.U., Martin, W.N. and Richards, D.S., 1987. Punctuated equilibria: A parallel genetic algorithm. In International Conference on Genetic Algorithms (pp. 28-31).
