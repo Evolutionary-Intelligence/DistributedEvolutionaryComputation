@@ -181,7 +181,7 @@ For more details about the **history** and **classification** of EC, you can ref
 
 * Salimans, T., Ho, J., Chen, X., Sidor, S. and Sutskever, I., 2017. Evolution strategies as a scalable alternative to reinforcement learning. arXiv preprint arXiv:1703.03864.
 * Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. [Natural evolution strategies](https://jmlr.org/papers/v15/wierstra14a.html). Journal of Machine Learning Research, 15(1), pp.949-980.
-* Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. Stochastic search using the natural gradient. In Proceedings of International Conference on Machine Learning (pp. 1161-1168).
+* Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. [Stochastic search using the natural gradient](https://dl.acm.org/doi/10.1145/1553374.1553522). In Proceedings of International Conference on Machine Learning (pp. 1161-1168).
 
 ## Quality Diversity (QD)
 
