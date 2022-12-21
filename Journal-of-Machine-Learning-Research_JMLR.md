@@ -1,6 +1,7 @@
 # JMLR (Journal of Machine Learning Research)
 
 * Probst, M. and Rothlauf, F., 2020. Harmless overfitting: Using denoising autoencoders in estimation of distribution algorithms. Journal of Machine Learning Research, 21(78), pp.1-31. [ [www](https://jmlr.csail.mit.edu/papers/v21/16-543.html) | [pdf](https://www.jmlr.org/papers/volume21/16-543/16-543.pdf) | [Matlab](https://github.com/wohnjayne/eda-suite) ] ( **EDA** | **Combinatorial Optimization** )
+* Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. Natural evolution strategies. Journal of Machine Learning Research, 15(27), pp.949-980. [ [www](https://jmlr.org/papers/v15/wierstra14a.html) | [pdf](https://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf) | [Python - PyBrain](https://github.com/pybrain/pybrain) | [source code](http://schaul.site44.com/nes.html) ] ( **NES** | **Continuous Optimization** )
 * Igel, C., Heidrich-Meisner, V. and Glasmachers, T., 2008. Shark. Journal of Machine Learning Research, 9(33), pp.993-996. [ [www](https://jmlr.org/papers/v9/igel08a.html) | [pdf](https://jmlr.org/papers/volume9/igel08a/igel08a.pdf) | [C++](https://github.com/Shark-ML/Shark) ] ( **ES** | **Continuous Optimization** )
 * Bergstra, J. and Bengio, Y., 2012. Random search for hyper-parameter optimization. Journal of Machine Learning Research, 13(10), pp.281-305. [ [www](https://www.jmlr.org/papers/v13/bergstra12a.html) | [pdf](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf) ] ( **RS** )
 
@@ -21,8 +22,6 @@ Silva, C.P., Dias, D.M., Bentes, C., Pacheco, M.A.C. and Cupertino, L.F., 2015. 
 Cano, A., Luna, J.M., Zafra, A. and Ventura, S., 2015. A classification module for genetic programming algorithms in JCLEC. Journal of Machine Learning Research, 16, pp.491-494. [ [www](https://www.jmlr.org/papers/v16/cano15a.html) | [pdf](https://jmlr.org/papers/volume16/cano15a/cano15a.pdf) ]
 
 Heaton, J., 2015. Encog: Library of interchangeable machine learning models for Java and C#. Journal of Machine Learning Research, 16, pp.1243-1247. [ [www](https://www.jmlr.org/papers/v16/heaton15a.html) | [pdf](https://www.jmlr.org/papers/volume16/heaton15a/heaton15a.pdf) ]
-
-* Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. Natural evolution strategies. Journal of Machine Learning Research, 15(27), pp.949-980. [ [www](https://jmlr.org/papers/v15/wierstra14a.html) | [pdf](https://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf) | [Python - PyBrain](https://github.com/pybrain/pybrain) | [source code](http://schaul.site44.com/nes.html) ] ( **NES** | **CO** / **ER** )
 
 ## 2013
 
