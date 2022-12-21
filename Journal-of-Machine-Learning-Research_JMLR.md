@@ -1,6 +1,7 @@
 # JMLR (Journal of Machine Learning Research)
 
-* Probst, M. and Rothlauf, F., 2020. Harmless overfitting: Using denoising autoencoders in estimation of distribution algorithms. Journal of Machine Learning Research, 21(78), pp.1-31. [ [www](https://jmlr.csail.mit.edu/papers/v21/16-543.html) | [pdf](https://www.jmlr.org/papers/volume21/16-543/16-543.pdf) | [Matlab](https://github.com/wohnjayne/eda-suite) ] ( **EDA** )
+* Probst, M. and Rothlauf, F., 2020. Harmless overfitting: Using denoising autoencoders in estimation of distribution algorithms. Journal of Machine Learning Research, 21(78), pp.1-31. [ [www](https://jmlr.csail.mit.edu/papers/v21/16-543.html) | [pdf](https://www.jmlr.org/papers/volume21/16-543/16-543.pdf) | [Matlab](https://github.com/wohnjayne/eda-suite) ] ( **EDA** | **Combinatorial Optimization** )
+* Igel, C., Heidrich-Meisner, V. and Glasmachers, T., 2008. Shark. Journal of Machine Learning Research, 9(33), pp.993-996. [ [www](https://jmlr.org/papers/v9/igel08a.html) | [pdf](https://jmlr.org/papers/volume9/igel08a/igel08a.pdf) | [C++](https://github.com/Shark-ML/Shark) ] ( **ES** | **Continuous Optimization** )
 * Bergstra, J. and Bengio, Y., 2012. Random search for hyper-parameter optimization. Journal of Machine Learning Research, 13(10), pp.281-305. [ [www](https://www.jmlr.org/papers/v13/bergstra12a.html) | [pdf](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf) ] ( **RS** )
 
 ## 2019
@@ -48,8 +49,6 @@ Escalante, H.J., Montes, M. and Sucar, L.E., 2009. Particle swarm model selectio
 Gomez, F., Schmidhuber, J. and Miikkulainen, R., 2008. Accelerated neural evolution through cooperatively coevolved synapses. Journal of Machine Learning Research, 9(31), pp.937-965. [ [www](https://jmlr.org/papers/v9/gomez08a.html) | [pdf](https://www.jmlr.org/papers/volume9/gomez08a/gomez08a.pdf) | [C++](http://nn.cs.utexas.edu/downloads/software/CoSyNE-1.2.tar) ]
 
 Panait, L., Tuyls, K. and Luke, S., 2008. Theoretical advantages of lenient learners: An evolutionary game theoretic perspective. Journal of Machine Learning Research, 9(13), pp.423-457. [ [www](https://www.jmlr.org/papers/v9/panait08a.html) | [pdf](https://www.jmlr.org/papers/volume9/panait08a/panait08a.pdf) ]
-
-Igel, C., Heidrich-Meisner, V. and Glasmachers, T., 2008. Shark. Journal of Machine Learning Research, 9(33), pp.993-996. [ [www](https://jmlr.org/papers/v9/igel08a.html) | [pdf](https://jmlr.org/papers/volume9/igel08a/igel08a.pdf) | [C++](https://github.com/Shark-ML/Shark) ]
 
 ## 2006
 
