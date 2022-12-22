@@ -22,11 +22,9 @@
 
 * Izzo, D., Rucinski, M. and Ampatzis, C., 2009, May. Parallel global optimisation meta-heuristics using an asynchronous island-model. In IEEE Congress on Evolutionary Computation (pp. 2301-2308). IEEE.
 
-## Enrique Alba from University of Málaga
+## Enrique Alba from University of Málaga [http://www.lcc.uma.es/~eat/]
 
-* http://www.lcc.uma.es/~eat/
-
-* Alba, E., 2005. Parallel metaheuristics: a new class of algorithms (Vol. 47). John Wiley & Sons.
+* Alba, E., 2005. Parallel metaheuristics: A new class of algorithms. John Wiley & Sons.
 
 ## Shumeet Baluja from Camegie Mellon University
 
@@ -40,6 +38,7 @@
 
 ## Darrell Whitley from Colorado State University
 
+* Whitley, D., Rana, S. and Heckendorn, R.B., 1999. The island model genetic algorithm: On separability, population size and convergence. Journal of Computing and Information Technology, 7(1), pp.33-47.
 * Whitley, D. and Starkweather, T., 1990. Genitor II: A distributed genetic algorithm. Journal of Experimental & Theoretical Artificial Intelligence, 2(3), pp.189-214.
 * Starkweather, T., Whitley, D. and Mathias, K., 1990, October. Optimization using distributed genetic algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 176-185). Springer, Berlin, Heidelberg.
 * Gordon, V.S. and Whitley, D., 1993. Serial and parallel genetic algorithms as function optimizers. In International Conference on Genetic Algorithms (pp. 177-183).
