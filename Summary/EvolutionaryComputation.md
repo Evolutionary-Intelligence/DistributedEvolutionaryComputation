@@ -29,31 +29,19 @@ For more details about the **history** and **classification** of EC, you can ref
 ## Genetic Algorithm (GA)
 
 * Whitley, D., 2019. Next generation genetic algorithms: A user’s guide and tutorial. In Handbook of Metaheuristics (pp. 245-274). Springer, Cham.
-
+  * Whitley, D., 1994. [A genetic algorithm tutorial](https://link.springer.com/article/10.1007/BF00175354). Statistics and Computing, 4(2), pp.65-85.
 * Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
-
 * Levine, D., 1997. Commentary—Genetic algorithms: A practitioner's view. INFORMS Journal on Computing, 9(3), pp.256-259.
-
 * Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878.
-
   * Forrest, S., 1996. Genetic algorithms. ACM Computing Surveys, 28(1), pp.77-80.
-
 * Goldberg, D.E. and Holland, J.H., 1988. Genetic algorithms and machine learning. Machine Learning, 3(2), pp.95-99.
-
   * Goldberg, D.E., 1994. Genetic and evolutionary algorithms come of age. Communications of the ACM, 37(3), pp.113-120.
-
 * De Jong, K.A., 1975. An analysis of the behavior of a class of genetic adaptive systems. Doctoral Dissertation, University of Michigan.
-
   * De Jong, K.A., 1992. Are genetic algorithms funcion optimizer?. Parallel Problem Solving from Nature, pp.3-13.
-
 * Holland, J.H., 1962. Outline for a logical theory of adaptive systems. Journal of the ACM, 9(3), pp.297-314.
-
   * Holland, J.H., 1992. Genetic algorithms. Scientific American, 267(1), pp.66-73.
-
   * Holland, J.H., 1992. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. MIT Press.
-
   * Holland, J.H., 1975. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. University of Michigan Press.
-
   * Holland, J.H., 1973. Genetic algorithms and the optimal allocation of trials. SIAM Journal on Computing, 2(2), pp.88-105.
 
 ## Evolution Strategies (ES)
