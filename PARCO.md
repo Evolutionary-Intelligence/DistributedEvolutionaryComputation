@@ -1,5 +1,7 @@
 # PARCO (Parallel Computing)
 
+* Whitley, D., Starkweather, T. and Bogart, C., 1990. Genetic algorithms and neural networks: Optimizing connections and connectivity. Parallel Computing, 14(3), pp.347-361. [ [www](https://www.sciencedirect.com/science/article/abs/pii/016781919090086O) ]
+
 ## 2021
 
 Ohira, R., Islam, M.S. and Kayesh, H., 2021. Speedup vs. quality: Asynchronous and cluster-based distributed adaptive genetic algorithms for ordered problems. Parallel Computing, 103, p.102755. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0167819121000156) ]
