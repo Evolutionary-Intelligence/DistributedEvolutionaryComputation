@@ -39,6 +39,7 @@
 ## Darrell Whitley from Colorado State University
 
 * Whitley, D., Rana, S. and Heckendorn, R.B., 1999. The island model genetic algorithm: On separability, population size and convergence. Journal of Computing and Information Technology, 7(1), pp.33-47.
+* Gordon, V.S., Whitley, D. and Bohm, A., 1992. Dataflow parallelism in genetic algorithms. In International Conference on Parallel Problem Solving from Nature 2, pp.533-542.
 * Whitley, D. and Starkweather, T., 1990. Genitor II: A distributed genetic algorithm. Journal of Experimental & Theoretical Artificial Intelligence, 2(3), pp.189-214.
 * Starkweather, T., Whitley, D. and Mathias, K., 1990, October. Optimization using distributed genetic algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 176-185). Springer, Berlin, Heidelberg.
 * Gordon, V.S. and Whitley, D., 1993. Serial and parallel genetic algorithms as function optimizers. In International Conference on Genetic Algorithms (pp. 177-183).
