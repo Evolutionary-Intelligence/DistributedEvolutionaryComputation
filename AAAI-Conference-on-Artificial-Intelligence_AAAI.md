@@ -4,6 +4,7 @@
 * Bryant, B.D. and Miikkulainen, R., 2007, July. Acquiring visibly intelligent behavior with example-guided neuroevolution. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 801-808). [ [www](https://www.aaai.org/Library/AAAI/2007/aaai07-127.php) | [pdf](https://www.aaai.org/Papers/AAAI/2007/AAAI07-127.pdf) ] ( **NE** )
 * Stanley, K.O., Bryant, B.D., Karpov, I. and Miikkulainen, R., 2006, January. Real-time evolution of neural networks in the NERO video game. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1671-1674). [ [www](https://www.aaai.org/Library/AAAI/2006/aaai06-277.php) | [pdf](https://www.aaai.org/Papers/AAAI/2006/AAAI06-277.pdf) ] ( **NE** )
 * Stanley, K.O., Karpov, I., Miikkulainen, R. and Gold, A., 2006, July. Real-time interactive learning in the NERO video game. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1953-1954). [ [www](https://www.aaai.org/Library/AAAI/2006/aaai06-354.php) | [pdf](https://www.aaai.org/Papers/AAAI/2006/AAAI06-354.pdf) ] ( **NE** )
+* Rana, S., Heckendorn, R.B. and Whitley, D., 1998, January. A tractable Walsh analysis of SAT and its implications for genetic algorithms. In AAAI/IAAI (pp. 392-397).
 * Moriarty, D.E. and Miikkulainen, R., 1994, January. Evolving neural networks to focus minimax search. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1371-1377). [ [www](https://www.aaai.org/Library/AAAI/1994/aaai94-211.php) | [pdf](https://www.aaai.org/Papers/AAAI/1994/AAAI94-211.pdf) ] ( **NE** )
 
 ## 2021
