@@ -21,6 +21,8 @@
   * "Most instances of most problems are not readily 'linearly' decomposable into building blocks."
 * Lipson, H. and Pollack, J.B., 2000. Automatic design and manufacture of robotic lifeforms. Nature, 406(6799), pp.974-978. [ [www](https://www.nature.com/articles/35023115) | [news & views](https://www.nature.com/articles/35023200) | [Golem](http://demo.cs.brandeis.edu/golem/) ] ( **ES/EP** | **Parallel** | **Distributed** )
 * Lenski, R.E., Ofria, C., Collier, T.C. and Adami, C., 1999. Genome complexity, robustness and genetic interactions in digital organisms. Nature, 400(6745), pp.661-664. [ [www](https://www.nature.com/articles/23245) ] ( **AL** )
+  * Holland, J.H., 1992. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. MIT Press.
+  * Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection. MIT Press.
 * Smith, J.M., 1992. Byte-sized evolution. Nature, 355(6363), pp.772-773. [ [www](https://www.nature.com/articles/355772a0) ] ( **AL** )
   * Holland John, H., 1975. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. Ann Arbor: University of Michigan Press.
 * Brady, R.M., 1985. Optimization strategies gleaned from biological evolution. Nature, 317(6040), pp.804-806. [ [www](https://www.nature.com/articles/317804a0) ] (  **GA** )
