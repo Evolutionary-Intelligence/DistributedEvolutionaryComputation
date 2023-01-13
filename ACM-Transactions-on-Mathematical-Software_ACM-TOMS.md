@@ -2,6 +2,9 @@
 
 For ACM-TOMS, we systematically searched all the papers regarding Evolutionary Computation (EC). There have, however, been a very limited number of EC papers until now (i.e., [Irurozki et al., 2018] and [Mei et al., 2016]) and also of Simulated Annealing (often seen as EC's partner) papers (i.e., [Siarry et al., 1997] and [Corana et al., 1987]).
 
+* Mei, Y., Omidvar, M.N., Li, X. and Yao, X., 2016. A competitive divide-and-conquer algorithm for unconstrained large-scale black-box optimization. ACM Transactions on Mathematical Software, 42(2), pp.1-24. [ [www](https://dl.acm.org/doi/10.1145/2791291) ]
+  * Only test on artificiallly-designed benchmark functions and not test on real-world black-box optimization problems.
+
 Here we also listed some recent ACM-TOMS papers for black-box optimization (BBO) from the traditional mathematical optimization community, which could be referred to as baseline/competitive algorithms for EC. 
 
 * Audet, C., Le Digabel, S., Montplaisir, V.R. and Tribes, C., 2022. Algorithm 1027: NOMAD version 4: nonlinear optimization with the MADS algorithm. ACM Transactions on Mathematical Software, 48(3), pp.1-22. [ [www](https://dl.acm.org/doi/abs/10.1145/3544489) ]
@@ -28,8 +31,6 @@ Porcelli, M. and Toint, P.L., 2017. BFO, A trainable derivative-free brute force
 ## 2016
 
 Gould, N. and Scott, J., 2016. A note on performance profiles for benchmarking software. ACM Transactions on Mathematical Software, 43(2), pp.1-5. [ [www](https://dl.acm.org/doi/10.1145/2950048) ]
-
-Mei, Y., Omidvar, M.N., Li, X. and Yao, X., 2016. A competitive divide-and-conquer algorithm for unconstrained large-scale black-box optimization. ACM Transactions on Mathematical Software, 42(2), pp.1-24. [ [www](https://dl.acm.org/doi/10.1145/2791291) ]
 
 ## 1997
 
