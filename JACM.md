@@ -1,6 +1,7 @@
 # JACM (Journal of the ACM)
 
 * Valiant, L.G., 2009. Evolvability. Journal of the ACM, 56(1), pp.1-21. [ [www](https://dl.acm.org/doi/abs/10.1145/1462153.1462156) ] ( **EC** )
+* Holland, J.H., 1962. Outline for a logical theory of adaptive systems. Journal of the ACM, 9(3), pp.297-314. [ [www](https://dl.acm.org/doi/abs/10.1145/321127.321128) ] (  **GA** )
 
 ## 2021
 
@@ -17,10 +18,6 @@ Feldman, V., Grigorescu, E., Reyzin, L., Vempala, S.S. and Xiao, Y., 2017. Stati
 ## 1988
 
 Sasaki, G.H. and Hajek, B., 1988. The time complexity of maximum matching by simulated annealing. Journal of the ACM, 35(2), pp.387-403. [ [www](https://dl.acm.org/doi/abs/10.1145/42282.46160) ]
-
-## 1962
-
-Holland, J.H., 1962. Outline for a logical theory of adaptive systems. Journal of the ACM, 9(3), pp.297-314. [ [www](https://dl.acm.org/doi/abs/10.1145/321127.321128) ]
 
 ## 1961
 
