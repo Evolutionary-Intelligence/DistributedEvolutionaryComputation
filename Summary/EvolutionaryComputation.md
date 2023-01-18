@@ -65,6 +65,7 @@ For more details about the **history** and **classification** of EC, you can ref
   * Schwefel, H.P., 1988. Collective intelligence in evolving systems. In Ecodynamics (pp. 95-100). Springer, Berlin, Heidelberg.
   * Schwefel, H.P., 1981. Numerical optimization of computer models. John Wiley & Sons, Inc..
 * Rechenberg, I., 1989. Evolution strategy: Nature’s way of optimization. In Optimization: Methods and Applications, Possibilities and Limitations (pp. 106-126). Springer, Berlin, Heidelberg.
+  * Rechenberg, I., 1984. The evolution strategy. A mathematical model of darwinian evolution. In Synergetics—from Microscopic to Macroscopic Order (pp. 122-132). Springer, Berlin, Heidelberg.
   * Rechenberg, I., 1973. Evolutionsstrategie: Optimierung technischer systeme nach prinzipien der biologischen evolution. Frommann-Holzboog Verlag, Stuttgart. [NOTE that this seminal dissertation was not read directly by us since originally written in German. But here we still add it owing to its historically significant contributions to EC/ES.]
 
 ## Evolutionary Programming (EP)
