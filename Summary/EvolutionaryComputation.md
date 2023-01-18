@@ -66,6 +66,7 @@ For more details about the **history** and **classification** of EC, you can ref
   * Schwefel, H.P., 1981. Numerical optimization of computer models. John Wiley & Sons, Inc..
 * Rechenberg, I., 1989. Evolution strategy: Nature’s way of optimization. In Optimization: Methods and Applications, Possibilities and Limitations (pp. 106-126). Springer, Berlin, Heidelberg.
   * Auger, A., Hansen, N., López-Ibáñez, M. and Rudolph, G., 2022. Tributes to Ingo Rechenberg (1934--2021). ACM SIGEVOlution, 14(4), pp.1-4.
+  * Streckenbach, J., Koref, I.S., Rechenberg, I. and Uhlmann, E., 2020. Optimization with the evolution strategy by example of electrical-discharge drilling. Neurocomputing, 391, pp.318-324.
   * Rechenberg, I., 2019, July. Evolution, robotics and the somersaulting spider. In Proceedings of Genetic and Evolutionary Computation Conference (pp. 1-1).
   * Rechenberg, I., 2000. Case studies in evolutionary experimentation and computation. Computer Methods in Applied Mechanics and Engineering, 186(2-4), pp.125-140.
   * Rechenberg, I., 1984. The evolution strategy. A mathematical model of darwinian evolution. In Synergetics—from Microscopic to Macroscopic Order (pp. 122-132). Springer, Berlin, Heidelberg.
