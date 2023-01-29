@@ -155,6 +155,7 @@ For more details about the **history** and **classification** of EC, you can ref
 
 ## Natural Evolution Strategies (NES)
 
+* Moritz, P., Nishihara, R., Wang, S., Tumanov, A., Liaw, R., Liang, E., Elibol, M., Yang, Z., Paul, W., Jordan, M.I. and Stoica, I., 2018. [Ray: A distributed framework for emerging AI applications](https://www.usenix.org/conference/osdi18/presentation/moritz). In USENIX Symposium on Operating Systems Design and Implementation (pp. 561-577).
 * Salimans, T., Ho, J., Chen, X., Sidor, S. and Sutskever, I., 2017. Evolution strategies as a scalable alternative to reinforcement learning. arXiv preprint arXiv:1703.03864.
 * Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. [Natural evolution strategies](https://jmlr.org/papers/v15/wierstra14a.html). Journal of Machine Learning Research, 15(1), pp.949-980.
 * Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. [Stochastic search using the natural gradient](https://dl.acm.org/doi/10.1145/1553374.1553522). In Proceedings of International Conference on Machine Learning (pp. 1161-1168).
@@ -174,15 +175,10 @@ For more details about the **history** and **classification** of EC, you can ref
 ## NeuroEvolution (aka Evolving Neural Networks)
 
 * Stanley, K.O., Clune, J., Lehman, J. and Miikkulainen, R., 2019. Designing neural networks through neuroevolution. Nature Machine Intelligence, 1(1), pp.24-35.
-
 * Jaderberg, M., Czarnecki, W.M., Dunning, I., Marris, L., Lever, G., Castaneda, A.G., Beattie, C., Rabinowitz, N.C., Morcos, A.S., Ruderman, A. and Sonnerat, N., 2019. Human-level performance in 3D multiplayer games with population-based reinforcement learning. Science, 364(6443), pp.859-865.
-
 * Moritz, P., Nishihara, R., Wang, S., Tumanov, A., Liaw, R., Liang, E., Elibol, M., Yang, Z., Paul, W., Jordan, M.I. and Stoica, I., 2018. Ray: A distributed framework for emerging AI applications. In USENIX Symposium on Operating Systems Design and Implementation (pp. 561-577).
-
 * Floreano, D., Dürr, P. and Mattiussi, C., 2008. Neuroevolution: From architectures to learning. Evolutionary Intelligence, 1(1), pp.47-62.
-
 * Stanley, K.O. and Miikkulainen, R., 2002. Evolving neural networks through augmenting topologies. Evolutionary Computation, 10(2), pp.99-127.
-
 * Yao, X., 1999. Evolving artificial neural networks. Proceedings of the IEEE, 87(9), pp.1423-1447.
 
 ## Evolutionary/Swarm Robotics
