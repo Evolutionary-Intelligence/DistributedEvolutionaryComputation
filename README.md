@@ -107,6 +107,10 @@ Here, we consider a *relatively big* family of evolutionary algorithms (and also
   
   * Simulated Annealing (SA)
 
+For **MetaHeuristics**, the following papers are **highly recommended**:
+* Kudela, J., 2022. A critical problem in benchmarking and analysis of evolutionary computation methods. Nature Machine Intelligence, 4(12), pp.1238-1245.
+* Aranha, C., Camacho Villalón, C.L., Campelo, F., Dorigo, M., Ruiz, R., Sevaux, M., Sörensen, K. and Stützle, T., 2022. Metaphor-based metaheuristics, a call for action: The elephant in the room. Swarm Intelligence, 16(1), pp.1-6.
+
 ## Research Support
 
 This *ongoing* paper list for PDEC is now supported by **Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597** (￥2,000,000), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China), and actively maintained/updated (from 2021 to 2023) by his group members (e.g., **Qiqi Duan**, *Chang Shao*, *Guocheng Zhou*, Mingyang Feng, Minghan Zhang, Youkui Zhang, and Qi Zhao).
