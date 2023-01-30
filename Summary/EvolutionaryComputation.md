@@ -7,23 +7,16 @@ Note that how to select from very huge works is a **non-trivial** work, dependin
 ## Popular Nature/Science Reviews  
 
 * Miikkulainen, R. and Forrest, S., 2021. A biological perspective on evolutionary computation. Nature Machine Intelligence, 3(1), pp.9-15.
-
 * Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution of things. Nature, 521(7553), pp.476-482.
-
 * Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878.
 
-For more details about the **history** and **classification** of EC, you can refer to the following wonderful books and papers:
+For more details about the **history** and **classification** of EC, refer to the following wonderful books and papers, just to name a few:
 
 * Schoenauer, M., 2015. Chapter 28: Evolutionary algorithms. Handbook of Evolutionary Thinking in the Sciences. Springer.
-
 * De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
-
 * Fogel, D.B., 1998. Evolutionary computation: The fossil record. IEEE Press.
-
 * Back, T., Hammel, U. and Schwefel, H.P., 1997. Evolutionary computation: Comments on the history and current state. IEEE Transactions on Evolutionary Computation, 1(1), pp.3-17.
-
 * De Jong, K.A., Fogel, D.B. and Schwefel, H.P., 1997. Chapter A2.3: A history of evolutionary computation. Handbook of Evolutionary Computation. Oxford University Press.
-
 * Back, T., 1996. Evolutionary algorithms in theory and practice: Evolution strategies, evolutionary programming, genetic algorithms. Oxford University Press.
 
 ## Genetic Algorithm (GA)
@@ -237,8 +230,8 @@ For more details about the **history** and **classification** of EC, you can ref
 
   * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
 
+* Stulp, F. and Sigaud, O., 2012, June. [Path integral policy improvement with covariance matrix adaptation](https://icml.cc/2012/papers/171.pdf). In International Coference on International Conference on Machine Learning (pp. 1547-1554).
 * Floreano, D. and Mattiussi, C., 2008. Bio-inspired artificial intelligence: Theories, methods, and technologies. MIT Press.
-
 * Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
 * Conrad, M. and Rizki, M.M., 1989. [The artificial worlds approach to emergent evolution](https://www.sciencedirect.com/science/article/abs/pii/0303264789900324). BioSystems, 23(2-3), pp.247-258.
 * Bremermann, H.J., 1968. Numerical optimization procedures derived from biological evolution processes. Cybernetic Problems in Bionics, pp.597-616.
