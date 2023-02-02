@@ -43,6 +43,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Nesterov, Y. and Spokoiny, V., 2017. Random gradient-free minimization of convex functions. Foundations of Computational Mathematics, 17(2), pp.527-566.
 * Ollivier, Y., Arnold, L., Auger, A. and Hansen, N., 2017. Information-geometric optimization algorithms: A unifying picture via invariance principles. Journal of Machine Learning Research, 18(18), pp.1-65.
   * Hansen, N., Arnold, D.V. and Auger, A., 2015. Evolution strategies. In Springer Handbook of Computational Intelligence (pp. 871-898). Springer, Berlin, Heidelberg.
+  * Hansen, N. and Auger, A., 2014. Principled design of continuous stochastic search: From theory to practice. Theory and Principled Methods for the Design of Metaheuristics, pp.145-180.
   * Hansen, N., Müller, S.D. and Koumoutsakos, P., 2003. Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES). Evolutionary Computation, 11(1), pp.1-18.
   * Hansen, N. and Ostermeier, A., 2001. Completely derandomized self-adaptation in evolution strategies. Evolutionary Computation, 9(2), pp.159-195.
   * Hansen, N. and Ostermeier, A., 1996, May. Adapting arbitrary normal mutation distributions in evolution strategies: The covariance matrix adaptation. In Proceedings of IEEE International Conference on Evolutionary Computation (pp. 312-317). IEEE.
