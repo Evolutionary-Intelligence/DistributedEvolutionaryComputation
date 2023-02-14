@@ -64,27 +64,18 @@ Here, we consider a *relatively big* family of evolutionary algorithms (and also
   * [Particle Swarm Optimization (PSO)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#particle-swarm-optimization-pso)
 
 * Two Representative Multi-Objective Optimization (MOO) Evolutionary Frameworks
-
   * [Non-dominated Sorting Genetic Algorithm II (NSGA-II)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#non-dominated-sorting-genetic-algorithm-ii-nsga-ii)
-  
   * [Multi-Objective Evolutionary Algorithm based on Decomposition (MOEA/D)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#multi-objective-evolutionary-algorithm-based-on-decomposition-moead)
 
 * Several Relatively New Extensions/Improvements/Variants
-
   * Co-Evolutionary Algorithms (CEA)
     * [CoOperative co-Evolutionary Algorithms (COEA)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#cooperative-coevolutionary-algorithms-coea)
     * [CoMpetitive co-Evolutionary Algorithms (CMEA)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#competitive-co-evolutionary-algorithms-cmea)
-  
   * Differential Evolution (DE)
-  
   * Memetic Algorithms (MA)
-  
   * [Estimation of Distribution Algorithms (EDA)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#estimation-of-distribution-algorithms-edas)
-  
   * [Natural Evolution Strategies (NES)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#natural-evolution-strategies-nes)
-  
   * [Quality-Diversity (QD)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#quality-diversity-qd)
-  
     * Multidimensional Archive of Phenotypic Elites (MAP-Elites)
 
 * [NeuroEvolution (aka Evolving Neural Networks)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#neuroevolution-aka-evolving-neural-networks)
