@@ -64,16 +64,15 @@ Boyan, J. and Moore, A.W., 2000. Learning evaluation functions to improve optimi
 
 ******* *** *******
 
-* Moriarty, D.E. and Mikkulainen, R., 1996. Efficient reinforcement learning through symbiotic evolution. Machine Learning, 22(1), pp.11-32. [ [www](https://link.springer.com/article/10.1023/A:1018004120707) ] (  **COEA** )
+* Moriarty, D.E. and Mikkulainen, R., 1996. Efficient reinforcement learning through symbiotic evolution. Machine Learning, 22(1), pp.11-32. [ [www](https://link.springer.com/article/10.1023/A:1018004120707) ] (  **COEA** | **Continuous Optimization** )
 * Grefenstette, J.J., Ramsey, C.L. and Schultz, A.C., 1990. Learning sequential decision rules using simulation models and competition. Machine Learning, 5(4), pp.355-381. [ [www](https://link.springer.com/article/10.1007/BF00116876) ] ( **GA** )
 * Grefenstette, J.J., 1988. Credit assignment in rule discovery systems based on genetic algorithms. Machine Learning, 3(2), pp.225-245. [ [www](https://link.springer.com/article/10.1023/A:1022614421909) ] ( **GA** )
+* De Jong, K., 1988. Learning with genetic algorithms: An overview. Machine Learning, 3(2-3), pp.121-138. [ [www](https://link.springer.com/article/10.1007/BF00113894) ] ( **GA** )
 
 Pollack, J.B. and Blair, A.D., 1998. Co-evolution in the successful learning of backgammon strategy. Machine Learning, 32(3), pp.225-240. [ [www](https://link.springer.com/article/10.1023/A:1007417214905) | [pdf](https://link.springer.com/content/pdf/10.1023/A:1007417214905.pdf) ]
 
 Forrest, S. and Mitchell, M., 1993. What makes a problem hard for a genetic algorithm? Some anomalous results and their explanation. Machine Learning, 13(2-3), pp.285-319. [ [www](https://link.springer.com/article/10.1007/BF00993046) | [pdf](https://link.springer.com/content/pdf/10.1007/BF00993046.pdf) ]
 
 Goldberg, D.E. and Holland, J.H., 1988. Genetic algorithms and machine learning. Machine Learning, 3(2), pp.95-99. [ [www](https://link.springer.com/article/10.1023/A:1022602019183) | [www](https://link.springer.com/article/10.1007/BF00113892) | [pdf](https://link.springer.com/content/pdf/10.1023/A:1022602019183.pdf) ] (**GA**)
-
-De Jong, K., 1988. Learning with genetic algorithms: An overview. Machine Learning, 3(2-3), pp.121-138. [ [www](https://link.springer.com/article/10.1007/BF00113894) | [pdf](https://link.springer.com/content/pdf/10.1007/BF00113894.pdf) ]
 
 Robertson, G.G. and Riolo, R.L., 1988. A tale of two classifier systems. Machine Learning, 3(2), pp.139-159. [ [www](https://link.springer.com/article/10.1007/BF00113895) | [pdf](https://link.springer.com/content/pdf/10.1007/BF00113895.pdf) ]
