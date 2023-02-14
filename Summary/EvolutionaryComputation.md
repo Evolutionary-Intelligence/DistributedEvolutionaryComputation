@@ -132,6 +132,15 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## CoOperative coEvolutionary Algorithms (COEA)
 
+* Gomez, F., Schmidhuber, J. and Miikkulainen, R., 2008. Accelerated neural evolution through cooperatively coevolved synapses. Journal of Machine Learning Research, 9(31), pp.937-965.
+* Panait, L., Tuyls, K. and Luke, S., 2008. Theoretical advantages of lenient learners: An evolutionary game theoretic perspective. Journal of Machine Learning Research, 9, pp.423-457.
+* Schmidhuber, J., Wierstra, D., Gagliolo, M. and Gomez, F., 2007. Training recurrent networks by evolino. Neural Computation, 19(3), pp.757-779.
+* Gomez, F.J. and Schmidhuber, J., 2005, June. Co-evolving recurrent neurons learn deep memory POMDPs. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 491-498). ACM.
+* Fan, J., Lau, R. and Miikkulainen, R., 2003. Utilizing domain knowledge in neuroevolution. In International Conference on Machine Learning (pp. 170-177).
+* Potter, M.A. and De Jong, K.A., 2000. Cooperative coevolution: An architecture for evolving coadapted subcomponents. Evolutionary Computation, 8(1), pp.1-29.
+* Gomez, F.J. and Miikkulainen, R., 1999, July. Solving non-Markovian control tasks with neuroevolution. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 1356-1361).
+* Moriarty, D.E. and Mikkulainen, R., 1996. Efficient reinforcement learning through symbiotic evolution. Machine Learning, 22(1), pp.11-32.
+* Moriarty, D.E. and Miikkulainen, R., 1995. Efficient learning from delayed rewards through symbiotic evolution. In International Conference on Machine Learning (pp. 396-404). Morgan Kaufmann.
 * Potter, M.A. and De Jong, K.A., 1994, October. A cooperative coevolutionary approach to function optimization. In International Conference on Parallel Problem Solving from Nature (pp. 249-257). Springer, Berlin, Heidelberg.
 * Hillis, W.D., 1990. Co-evolving parasites improve simulated evolution as an optimization procedure. Physica D: Nonlinear Phenomena, 42(1-3), pp.228-234.
 
@@ -142,9 +151,7 @@ For more details about the **history** and **classification** of EC, refer to th
 ## Differential Evolution (DE)
 
 * Das, S. and Suganthan, P.N., 2010. Differential evolution: A survey of the state-of-the-art. IEEE Transactions on Evolutionary Computation, 15(1), pp.4-31.
-
 * Storn, R., 1999. System design by constraint adaptation and differential evolution. IEEE Transactions on Evolutionary Computation, 3(1), pp.22-34.
-
 * Storn, R. and Price, K., 1997. Differential evolution–A simple and efficient heuristic for global optimization over continuous spaces. Journal of Global Optimization, 11(4), pp.341-359.
 
 ## Estimation of Distribution Algorithms (EDAs)
@@ -182,31 +189,18 @@ For more details about the **history** and **classification** of EC, refer to th
 ## Evolutionary/Swarm Robotics
 
 * Floreano, D. and Lipson, H., 2021. From individual robots to robot societies. Science Robotics, 6(56).
-
 * Dorigo, M., Theraulaz, G. and Trianni, V., 2021. Swarm robotics: Past, present, and future. Proceedings of the IEEE, 109(7), pp.1152-1165.
-
 * Kriegman, S., Blackiston, D., Levin, M. and Bongard, J., 2020. A scalable pipeline for designing reconfigurable organisms. Proceedings of the National Academy of Sciences, 117(4), pp.1853-1859.
-
 * Dorigo, M., Theraulaz, G. and Trianni, V., 2020. Reflections on the future of swarm robotics. Science Robotics, 5(49).
-
 * Howard, D., Eiben, A.E., Kennedy, D.F., Mouret, J.B., Valencia, P. and Winkler, D., 2019. Evolving embodied intelligence from materials to machines. Nature Machine Intelligence, 1(1), pp.12-19.
-
 * Doncieux, S., Bredeche, N., Mouret, J.B. and Eiben, A.E.G., 2015. Evolutionary robotics: What, why, and where to. Frontiers in Robotics and AI, 2, p.4.
-
 * Bongard, J. and Lipson, H., 2014. Evolved machines shed light on robustness and resilience. Proceedings of the IEEE, 102(5), pp.899-914.
-
 * Bongard, J.C., 2013. Evolutionary robotics. Communications of the ACM, 56(8), pp.74-83.
-
 * Pfeifer, R. and Bongard, J., 2007. How the body shapes the way we think: A new view of intelligence. MIT Press.
-
 * Nolfi, S. and Floreano, D., 2000. Evolutionary robotics: The biology, intelligence, and technology of self-organizing machines. MIT Press.
-
 * Lipson, H. and Pollack, J.B., 2000. Automatic design and manufacture of robotic lifeforms. Nature, 406(6799), pp.974-978.
-
 * Sims, K., 1995. Evolving 3D morphology and behavior by competition. Artificial Life, 1(4), pp.353-372.
-
 * Sims, K., 1994, July. Evolving virtual creatures. In Proceedings of Annual Conference on Computer Graphics and Interactive Techniques (pp. 15-22).
-
 * Reynolds, C.W., 1987, August. Flocks, herds and schools: A distributed behavioral model. In Proceedings of Annual Conference on Computer Graphics and Interactive Techniques (pp. 25-34).
 
 ## Recent Reviews/Surveys/Books
