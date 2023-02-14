@@ -211,33 +211,24 @@ For more details about the **history** and **classification** of EC, refer to th
 ## Recent Reviews/Surveys/Books
 
 * Aranha, C., Camacho Villalón, C.L., Campelo, F., Dorigo, M., Ruiz, R., Sevaux, M., Sörensen, K. and Stützle, T., 2022. Metaphor-based metaheuristics, a call for action: The elephant in the room. Swarm Intelligence, 16(1), pp.1-6.
-
 * Vie, A., 2021. Qualities, challenges and future of genetic algorithms: A literature review. arXiv preprint arXiv:2011.05277.
-
 * Corne, D.W. and Lones, M.A., 2018. Evolutionary algorithms. arXiv preprint arXiv:1805.11014.
-
 * Eiben, A.E. and Smith, J.E., 2016. Towards the evolution of things. ACM SIGEVOlution, 8(3), pp.3-6.
 
 ## Broader Viewpoints From CS/AI/ML/Optimization
 
 * Millhouse, T., Moses, M. and Mitchell, M., 2021. Foundations of intelligence in natural and artificial systems: A workshop report. arXiv preprint arXiv:2105.02198.
-
 * [https://www.quantamagazine.org/computers-evolve-a-new-path-toward-human-intelligence-20191106/](https://www.quantamagazine.org/computers-evolve-a-new-path-toward-human-intelligence-20191106/)
-
 * Clune, J., 2019. AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence. arXiv preprint arXiv:1905.10985.
-
 * Kerschke, P., Hoos, H.H., Neumann, F. and Trautmann, H., 2019. Automated algorithm selection: Survey and perspectives. Evolutionary Computation, 27(1), pp.3-45.
-
 * Forrest, S. and Mitchell, M., 2016. Adaptive computation: The multidisciplinary legacy of John H. Holland. Communications of the ACM, 59(8), pp.58-63.
-
 * Domingos, P., 2015. The master algorithm: How the quest for the ultimate learning machine will remake our world. Basic Books.
-
   * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
-
 * Stulp, F. and Sigaud, O., 2012, June. [Path integral policy improvement with covariance matrix adaptation](https://icml.cc/2012/papers/171.pdf). In International Coference on International Conference on Machine Learning (pp. 1547-1554).
 * Floreano, D. and Mattiussi, C., 2008. Bio-inspired artificial intelligence: Theories, methods, and technologies. MIT Press.
 * Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
 * Conrad, M. and Rizki, M.M., 1989. [The artificial worlds approach to emergent evolution](https://www.sciencedirect.com/science/article/abs/pii/0303264789900324). BioSystems, 23(2-3), pp.247-258.
+* Axelrod, R., 1987. The evolution of strategies in the iterated prisoner’s dilemma. Genetic Algorithms and Simulated Annealing.
 * Bremermann, H.J., 1968. Numerical optimization procedures derived from biological evolution processes. Cybernetic Problems in Bionics, pp.597-616.
 * Turing, A., 1948. Intelligent machinery. In The Essential Turing. Oxford University Press.
   * Copeland, B.J. ed., 2004. [The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma](https://global.oup.com/academic/product/the-essential-turing-9780198250807). Oxford University Press.
