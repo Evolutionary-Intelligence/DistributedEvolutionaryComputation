@@ -133,6 +133,7 @@ For more details about the **history** and **classification** of EC, refer to th
 ## CoOperative coEvolutionary Algorithms (COEA)
 
 * Potter, M.A. and De Jong, K.A., 1994, October. A cooperative coevolutionary approach to function optimization. In International Conference on Parallel Problem Solving from Nature (pp. 249-257). Springer, Berlin, Heidelberg.
+* Hillis, W.D., 1990. Co-evolving parasites improve simulated evolution as an optimization procedure. Physica D: Nonlinear Phenomena, 42(1-3), pp.228-234.
 
 ## CoMpetitive co-Evolutionary Algorithms (CMEA)
 
