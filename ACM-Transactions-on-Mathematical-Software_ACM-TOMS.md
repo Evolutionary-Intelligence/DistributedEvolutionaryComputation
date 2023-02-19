@@ -2,6 +2,7 @@
 
 For ACM-TOMS, we systematically searched all the papers regarding Evolutionary Computation (EC). There have, however, been a very limited number of EC papers until now (i.e., [Irurozki et al., 2018] and [Mei et al., 2016]) and also of Simulated Annealing (often seen as EC's partner) papers (i.e., [Siarry et al., 1997] and [Corana et al., 1987]).
 
+* Irurozki, E., Ceberio, J., Santamaria, J., Santana, R. and Mendiburu, A., 2018. Algorithm 989: Perm_mateda: A matlab toolbox of estimation of distribution algorithms for permutation-based combinatorial optimization problems. ACM Transactions on Mathematical Software, 44(4), pp.1-13. [ [www](https://dl.acm.org/doi/10.1145/3206429) ] ( **EDA** )
 * Mei, Y., Omidvar, M.N., Li, X. and Yao, X., 2016. A competitive divide-and-conquer algorithm for unconstrained large-scale black-box optimization. ACM Transactions on Mathematical Software, 42(2), pp.1-24. [ [www](https://dl.acm.org/doi/10.1145/2791291) ]
   * Only test on artificiallly-designed benchmark functions and not test on real-world black-box optimization problems.
 * Siarry, P., Berthiau, G., Durdin, F. and Haussy, J., 1997. Enhanced simulated annealing for globally minimizing functions of many-continuous variables. ACM Transactions on Mathematical Software, 23(2), pp.209-228. [ [www](https://dl.acm.org/doi/abs/10.1145/264029.264043) ] ( **SA** | **Continuous Optimization** )
@@ -24,7 +25,3 @@ Lakhmiri, D., Digabel, S.L. and Tribes, C., 2021. HyperNOMAD: Hyperparameter opt
 Porcelli, M. and Toint, P.L., 2019. A note on using performance and data profiles for training algorithms. ACM Transactions on Mathematical Software, 45(2), pp.1-10. [ [www](https://dl.acm.org/doi/10.1145/3310362) ]
 
 Cartis, C., Fiala, J., Marteau, B. and Roberts, L., 2019. Improving the flexibility and robustness of model-based derivative-free optimization solvers. ACM Transactions on Mathematical Software, 45(3), pp.1-41. [ [www](https://dl.acm.org/doi/abs/10.1145/3338517) ]
-
-## 2018
-
-Irurozki, E., Ceberio, J., Santamaria, J., Santana, R. and Mendiburu, A., 2018. Algorithm 989: Perm_mateda: A matlab toolbox of estimation of distribution algorithms for permutation-based combinatorial optimization problems. ACM Transactions on Mathematical Software, 44(4), pp.1-13. [ [www](https://dl.acm.org/doi/10.1145/3206429) ]
