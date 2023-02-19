@@ -11,6 +11,7 @@ Here we also listed some recent ACM-TOMS papers for black-box optimization (BBO)
 
 * Audet, C., Le Digabel, S., Montplaisir, V.R. and Tribes, C., 2022. Algorithm 1027: NOMAD version 4: nonlinear optimization with the MADS algorithm. ACM Transactions on Mathematical Software, 48(3), pp.1-22. [ [www](https://dl.acm.org/doi/abs/10.1145/3544489) ]
 * Chang, T.H., Watson, L.T., Larson, J., Neveu, N., Thacker, W.I., Deshpande, S. and Lux, T.C., 2022. Algorithm 1028: VTMOP: Solver for blackbox multiobjective optimization problems. ACM Transactions on Mathematical Software, 48(3), pp.1-34. [ [www](https://dl.acm.org/doi/abs/10.1145/3529258) ]
+* Gould, N. and Scott, J., 2016. A note on performance profiles for benchmarking software. ACM Transactions on Mathematical Software, 43(2), pp.1-5. [ [www](https://dl.acm.org/doi/10.1145/2950048) ]
 
 ## 2021
 
@@ -29,7 +30,3 @@ Irurozki, E., Ceberio, J., Santamaria, J., Santana, R. and Mendiburu, A., 2018. 
 ## 2017
 
 Porcelli, M. and Toint, P.L., 2017. BFO, A trainable derivative-free brute force optimizer for nonlinear bound-constrained optimization and equilibrium computations with continuous and discrete variables. ACM Transactions on Mathematical Software, 44(1), pp.1-25. [ [www](https://dl.acm.org/doi/abs/10.1145/3085592) ]
-
-## 2016
-
-Gould, N. and Scott, J., 2016. A note on performance profiles for benchmarking software. ACM Transactions on Mathematical Software, 43(2), pp.1-5. [ [www](https://dl.acm.org/doi/10.1145/2950048) ]
