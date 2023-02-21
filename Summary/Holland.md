@@ -1,4 +1,5 @@
 * Biswas, S., Chen, F., Chen, Z., Lu, C.T. and Ramakrishnan, N., 2023. Memetic algorithms for spatial partitioning problems. ACM Transactions on Spatial Algorithms and Systems, 9(1), pp.1-31.
+* Kaiser, T.K. and Hamann, H., 2022. Innate motivation for robot swarms by minimizing surprise: From simple simulations to real-world experiments. IEEE Transactions on Robotics, 38(6), pp.3582-3601.
 * Koçak, Ö., Levinthal, D.A. and Puranam, P., 2022. The dual challenge of search and coordination for organizational adaptation: How structures of influence matter. Organization Science.
 * Schlag, S., Heuer, T., Gottesbüren, L., Akhremtsev, Y., Schulz, C. and Sanders, P., 2022. High-quality hypergraph partitioning. ACM Journal of Experimental Algorithms.
 * Mallipeddi, R.R., Kumar, S., Sriskandarajah, C. and Zhu, Y., 2022. A framework for analyzing influencer marketing in social networks: Selection and scheduling of influencers. Management Science, 68(1), pp.75-104.
