@@ -7,4 +7,5 @@
 * Csaszar, F.A. and Steinberger, T., 2022. Organizations as artificial intelligences: The use of artificial intelligence analogies in organization theory. Academy of Management Annals, 16(1), pp.1-37.
 * Mueller, C.M. and Schatz, G.C., 2022. An algorithmic approach based on data trees and genetic algorithms to understanding charged and neutral metal nanocluster growth. Journal of Physical Chemistry A, 126(34), pp.5864-5872.
 * Hart, E. and Le Goff, L.K., 2022. Artificial evolution of robot bodies and control: On the interaction between evolution, learning and culture. Philosophical Transactions of the Royal Society B, 377(1843), p.20210117.
+* Tandeitnik, D. and Guerreiro, T., 2022. Evolving quantum circuits. arXiv preprint arXiv:2210.05058.
 * Fornasier, M., Huang, H., Pareschi, L. and Sünnen, P., 2021. Consensus-based optimization on the sphere: Convergence to global minimizers and machine learning. Journal of Machine Learning Research, 22(1), pp.10722-10776.
