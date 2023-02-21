@@ -1,5 +1,6 @@
 * Biswas, S., Chen, F., Chen, Z., Lu, C.T. and Ramakrishnan, N., 2023. Memetic algorithms for spatial partitioning problems. ACM Transactions on Spatial Algorithms and Systems, 9(1), pp.1-31.
 * Koçak, Ö., Levinthal, D.A. and Puranam, P., 2022. The dual challenge of search and coordination for organizational adaptation: How structures of influence matter. Organization Science.
+* Mallipeddi, R.R., Kumar, S., Sriskandarajah, C. and Zhu, Y., 2022. A framework for analyzing influencer marketing in social networks: Selection and scheduling of influencers. Management Science, 68(1), pp.75-104.
 * Schmidhuber, J., 2022. Annotated history of modern AI and deep learning. arXiv preprint arXiv:2212.11279.
 * Stripinis, L. and Paulavičius, R., 2022. DIRECTGO: A new DIRECT-type MATLAB toolbox for derivative-free global optimization. ACM Transactions on Mathematical Software, 48(4), pp.1-46.
 * Albert, D. and Siggelkow, N., 2022. Architectural search and innovation. Organization Science, 33(1), pp.275-292.
