@@ -18,6 +18,7 @@
 * Wu, Z., Sun, J., Zhang, Y., Wei, Z. and Chanussot, J., 2021. Recent developments in parallel and distributed computing for remotely sensed big data processing. Proceedings of the IEEE, 109(8), pp.1282-1305.
 * Perez-Nieves, N., Yang, Y., Slumbers, O., Mguni, D.H., Wen, Y. and Wang, J., 2021, July. Modelling behavioural diversity for learning in open-ended games. In International Conference on Machine Learning (pp. 8514-8524). PMLR.
 * Miikkulainen, R. and Forrest, S., 2021. A biological perspective on evolutionary computation. Nature Machine Intelligence, 3(1), pp.9-15.
+* Bowskill, D.H., Sugden, I.J., Konstantinopoulos, S., Adjiman, C.S. and Pantelides, C.C., 2021. Crystal structure prediction methods for organic molecules: State of the art. Annual Review of Chemical and Biomolecular Engineering, 12, pp.593-623.
 * Wang, Y., Xue, P., Cao, M., Yu, T., Lane, S.T. and Zhao, H., 2021. Directed evolution: Methodologies and applications. Chemical Reviews, 121(20), pp.12384-12444.
 * Brunton, S.L., Noack, B.R. and Koumoutsakos, P., 2020. Machine learning for fluid mechanics. Annual Review of Fluid Mechanics, 52, pp.477-508.
 * Hegde, K., Tsai, P.A., Huang, S., Chandra, V., Parashar, A. and Fletcher, C.W., 2021, April. Mind mappings: enabling efficient algorithm-accelerator mapping space search. In Proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (pp. 943-958).
@@ -30,4 +31,3 @@
 * Huang, C.C., Jin, G. and Li, J., 2020, March. Swapadvisor: Pushing deep learning beyond the gpu memory limit via smart swapping. In Proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (pp. 1341-1355).
 * Wang, J., Clark, S.C., Liu, E. and Frazier, P.I., 2020. Parallel Bayesian global optimization of expensive functions. Operations Research, 68(6), pp.1850-1865.
 * Domingos, P., 2020. Every model learned by gradient descent is approximately a kernel machine. arXiv preprint arXiv:2012.00152.
-
