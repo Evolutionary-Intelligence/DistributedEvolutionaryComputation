@@ -18,11 +18,12 @@
 * Miikkulainen, R. and Forrest, S., 2021. A biological perspective on evolutionary computation. Nature Machine Intelligence, 3(1), pp.9-15.
 * Wang, Y., Xue, P., Cao, M., Yu, T., Lane, S.T. and Zhao, H., 2021. Directed evolution: Methodologies and applications. Chemical Reviews, 121(20), pp.12384-12444.
 * Brunton, S.L., Noack, B.R. and Koumoutsakos, P., 2020. Machine learning for fluid mechanics. Annual Review of Fluid Mechanics, 52, pp.477-508.
+* Hegde, K., Tsai, P.A., Huang, S., Chandra, V., Parashar, A. and Fletcher, C.W., 2021, April. Mind mappings: enabling efficient algorithm-accelerator mapping space search. In Proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (pp. 943-958).
 * Real, E., Liang, C., So, D. and Le, Q., 2020, November. Automl-zero: Evolving machine learning algorithms from scratch. In International Conference on Machine Learning (pp. 8007-8019). PMLR.
 * Hasson, U., Nastase, S.A. and Goldstein, A., 2020. Direct fit to nature: An evolutionary perspective on biological and artificial neural networks. Neuron, 105(3), pp.416-434.
 * Li, S., Ke, L., Pratama, K., Tai, Y.W., Tang, C.K. and Cheng, K.T., 2020. Cascaded deep monocular 3d human pose estimation with evolutionary training data. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6173-6183).
 * Cesca, S., Letort, J., Razafindrakoto, H.N., Heimann, S., Rivalta, E., Isken, M.P., Nikkhoo, M., Passarelli, L., Petersen, G.M., Cotton, F. and Dahm, T., 2020. Drainage of a deep magma reservoir near Mayotte inferred from seismicity and deformation. Nature Geoscience, 13(1), pp.87-93.
 * Bernhardt, J.R., O'Connor, M.I., Sunday, J.M. and Gonzalez, A., 2020. Life in fluctuating environments. Philosophical Transactions of the Royal Society B, 375(1814), p.20190454.
 * Gussow, A.B., Park, A.E., Borges, A.L., Shmakov, S.A., Makarova, K.S., Wolf, Y.I., Bondy-Denomy, J. and Koonin, E.V., 2020. Machine-learning approach expands the repertoire of anti-CRISPR protein families. Nature Communications, 11(1), p.3784.
-* Huang, C.C., Jin, G. and Li, J., 2020, March. Swapadvisor: Pushing deep learning beyond the gpu memory limit via smart swapping. In Proceedings of International Conference on Architectural Support for Programming Languages and Operating Systems (pp. 1341-1355).
+* Huang, C.C., Jin, G. and Li, J., 2020, March. Swapadvisor: Pushing deep learning beyond the gpu memory limit via smart swapping. In Proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (pp. 1341-1355).
 
