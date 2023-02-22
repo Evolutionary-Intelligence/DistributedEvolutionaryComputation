@@ -15,3 +15,4 @@
 * Fornasier, M., Huang, H., Pareschi, L. and Sünnen, P., 2021. Consensus-based optimization on the sphere: Convergence to global minimizers and machine learning. Journal of Machine Learning Research, 22(1), pp.10722-10776.
 * Wang, Y., Xue, P., Cao, M., Yu, T., Lane, S.T. and Zhao, H., 2021. Directed evolution: Methodologies and applications. Chemical Reviews, 121(20), pp.12384-12444.
 * Brunton, S.L., Noack, B.R. and Koumoutsakos, P., 2020. Machine learning for fluid mechanics. Annual Review of Fluid Mechanics, 52, pp.477-508.
+* Real, E., Liang, C., So, D. and Le, Q., 2020, November. Automl-zero: Evolving machine learning algorithms from scratch. In International Conference on Machine Learning (pp. 8007-8019). PMLR.
