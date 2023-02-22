@@ -15,6 +15,7 @@
 * Fornasier, M., Huang, H., Pareschi, L. and Sünnen, P., 2021. Consensus-based optimization on the sphere: Convergence to global minimizers and machine learning. Journal of Machine Learning Research, 22(1), pp.10722-10776.
 * Dijkstra, M. and Luijten, E., 2021. From predictive modelling to machine learning and reverse engineering of colloidal self-assembly. Nature Materials, 20(6), pp.762-773.
 * Wu, Z., Sun, J., Zhang, Y., Wei, Z. and Chanussot, J., 2021. Recent developments in parallel and distributed computing for remotely sensed big data processing. Proceedings of the IEEE, 109(8), pp.1282-1305.
+* Perez-Nieves, N., Yang, Y., Slumbers, O., Mguni, D.H., Wen, Y. and Wang, J., 2021, July. Modelling behavioural diversity for learning in open-ended games. In International Conference on Machine Learning (pp. 8514-8524). PMLR.
 * Miikkulainen, R. and Forrest, S., 2021. A biological perspective on evolutionary computation. Nature Machine Intelligence, 3(1), pp.9-15.
 * Wang, Y., Xue, P., Cao, M., Yu, T., Lane, S.T. and Zhao, H., 2021. Directed evolution: Methodologies and applications. Chemical Reviews, 121(20), pp.12384-12444.
 * Brunton, S.L., Noack, B.R. and Koumoutsakos, P., 2020. Machine learning for fluid mechanics. Annual Review of Fluid Mechanics, 52, pp.477-508.
@@ -26,4 +27,3 @@
 * Bernhardt, J.R., O'Connor, M.I., Sunday, J.M. and Gonzalez, A., 2020. Life in fluctuating environments. Philosophical Transactions of the Royal Society B, 375(1814), p.20190454.
 * Gussow, A.B., Park, A.E., Borges, A.L., Shmakov, S.A., Makarova, K.S., Wolf, Y.I., Bondy-Denomy, J. and Koonin, E.V., 2020. Machine-learning approach expands the repertoire of anti-CRISPR protein families. Nature Communications, 11(1), p.3784.
 * Huang, C.C., Jin, G. and Li, J., 2020, March. Swapadvisor: Pushing deep learning beyond the gpu memory limit via smart swapping. In Proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (pp. 1341-1355).
-
