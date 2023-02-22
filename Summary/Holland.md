@@ -29,4 +29,5 @@
 * Gussow, A.B., Park, A.E., Borges, A.L., Shmakov, S.A., Makarova, K.S., Wolf, Y.I., Bondy-Denomy, J. and Koonin, E.V., 2020. Machine-learning approach expands the repertoire of anti-CRISPR protein families. Nature Communications, 11(1), p.3784.
 * Huang, C.C., Jin, G. and Li, J., 2020, March. Swapadvisor: Pushing deep learning beyond the gpu memory limit via smart swapping. In Proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (pp. 1341-1355).
 * Wang, J., Clark, S.C., Liu, E. and Frazier, P.I., 2020. Parallel Bayesian global optimization of expensive functions. Operations Research, 68(6), pp.1850-1865.
+* Domingos, P., 2020. Every model learned by gradient descent is approximately a kernel machine. arXiv preprint arXiv:2012.00152.
 
