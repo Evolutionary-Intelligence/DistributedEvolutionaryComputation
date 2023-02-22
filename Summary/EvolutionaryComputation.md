@@ -146,6 +146,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## CoMpetitive co-Evolutionary Algorithms (CMEA)
 
+* Ficici, S.G. and Pollack, J.B., 2000. A game-theoretic approach to the simple coevolutionary algorithm. In Parallel Problem Solving from Nature (pp. 467-476). Springer Berlin Heidelberg.
 * Ficici, S.G. and Pollack, J.B., 1998, June. Challenges in coevolutionary learning: Arms-race dynamics, open-endedness, and mediocre stable states. In Proceedings of International Conference on Artificial Life (pp. 238-247). Cambridge, MA: MIT Press.
 * Rosin, C.D. and Belew, R.K., 1997. New methods for competitive coevolution. Evolutionary Computation, 5(1), pp.1-29.
 
