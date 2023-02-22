@@ -19,3 +19,4 @@
 * Real, E., Liang, C., So, D. and Le, Q., 2020, November. Automl-zero: Evolving machine learning algorithms from scratch. In International Conference on Machine Learning (pp. 8007-8019). PMLR.
 * Hasson, U., Nastase, S.A. and Goldstein, A., 2020. Direct fit to nature: An evolutionary perspective on biological and artificial neural networks. Neuron, 105(3), pp.416-434.
 * Li, S., Ke, L., Pratama, K., Tai, Y.W., Tang, C.K. and Cheng, K.T., 2020. Cascaded deep monocular 3d human pose estimation with evolutionary training data. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6173-6183).
+* Cesca, S., Letort, J., Razafindrakoto, H.N., Heimann, S., Rivalta, E., Isken, M.P., Nikkhoo, M., Passarelli, L., Petersen, G.M., Cotton, F. and Dahm, T., 2020. Drainage of a deep magma reservoir near Mayotte inferred from seismicity and deformation. Nature Geoscience, 13(1), pp.87-93.
