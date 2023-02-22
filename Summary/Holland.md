@@ -20,6 +20,7 @@
 * Miikkulainen, R. and Forrest, S., 2021. A biological perspective on evolutionary computation. Nature Machine Intelligence, 3(1), pp.9-15.
 * Bowskill, D.H., Sugden, I.J., Konstantinopoulos, S., Adjiman, C.S. and Pantelides, C.C., 2021. Crystal structure prediction methods for organic molecules: State of the art. Annual Review of Chemical and Biomolecular Engineering, 12, pp.593-623.
 * Zhang, J. and Glezakou, V.A., 2021. Global optimization of chemical cluster structures: Methods, applications, and challenges. International Journal of Quantum Chemistry, 121(7), p.e26553.
+* Wang, J.C., Ding, D., Wang, H., Christensen, C., Wang, Z., Chen, H. and Li, J., 2021, July. Polyjuice: High-performance transactions via learned concurrency control. In OSDI (pp. 198-216).
 * Wang, Y., Xue, P., Cao, M., Yu, T., Lane, S.T. and Zhao, H., 2021. Directed evolution: Methodologies and applications. Chemical Reviews, 121(20), pp.12384-12444.
 * Brunton, S.L., Noack, B.R. and Koumoutsakos, P., 2020. Machine learning for fluid mechanics. Annual Review of Fluid Mechanics, 52, pp.477-508.
 * Hegde, K., Tsai, P.A., Huang, S., Chandra, V., Parashar, A. and Fletcher, C.W., 2021, April. Mind mappings: enabling efficient algorithm-accelerator mapping space search. In Proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (pp. 943-958).
@@ -34,3 +35,4 @@
 * Wang, J., Clark, S.C., Liu, E. and Frazier, P.I., 2020. Parallel Bayesian global optimization of expensive functions. Operations Research, 68(6), pp.1850-1865.
 * Domingos, P., 2020. Every model learned by gradient descent is approximately a kernel machine. arXiv preprint arXiv:2012.00152.
 * Iliadis, C. and Coc, A., 2020. Thermonuclear reaction rates and primordial nucleosynthesis. Astrophysical Journal, 901(2), p.127.
+
