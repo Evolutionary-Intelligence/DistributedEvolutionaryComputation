@@ -33,3 +33,4 @@
 * Sheil, B.B., Suryasentana, S.K., Mooney, M.A. and Zhu, H., 2020. Machine learning to inform tunnelling operations: Recent advances and future trends. Proceedings of Institution of Civil Engineers-Smart Infrastructure and Construction, 173(4), pp.74-95.
 * Wang, J., Clark, S.C., Liu, E. and Frazier, P.I., 2020. Parallel Bayesian global optimization of expensive functions. Operations Research, 68(6), pp.1850-1865.
 * Domingos, P., 2020. Every model learned by gradient descent is approximately a kernel machine. arXiv preprint arXiv:2012.00152.
+* Iliadis, C. and Coc, A., 2020. Thermonuclear reaction rates and primordial nucleosynthesis. Astrophysical Journal, 901(2), p.127.
