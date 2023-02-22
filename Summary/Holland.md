@@ -14,6 +14,7 @@
 * Duan, J.C., Li, S. and Xu, Y., 2022. Sequential Monte Carlo optimization and statistical inference. Wiley Interdisciplinary Reviews: Computational Statistics, p.e1598.
 * Fornasier, M., Huang, H., Pareschi, L. and Sünnen, P., 2021. Consensus-based optimization on the sphere: Convergence to global minimizers and machine learning. Journal of Machine Learning Research, 22(1), pp.10722-10776.
 * Dijkstra, M. and Luijten, E., 2021. From predictive modelling to machine learning and reverse engineering of colloidal self-assembly. Nature Materials, 20(6), pp.762-773.
+* Singh, R., Sharma, A., Singh, P., Balasubramanian, G. and Johnson, D.D., 2021. Accelerating computational modeling and design of high-entropy alloys. Nature Computational Science, 1(1), pp.54-61.
 * Wu, Z., Sun, J., Zhang, Y., Wei, Z. and Chanussot, J., 2021. Recent developments in parallel and distributed computing for remotely sensed big data processing. Proceedings of the IEEE, 109(8), pp.1282-1305.
 * Perez-Nieves, N., Yang, Y., Slumbers, O., Mguni, D.H., Wen, Y. and Wang, J., 2021, July. Modelling behavioural diversity for learning in open-ended games. In International Conference on Machine Learning (pp. 8514-8524). PMLR.
 * Miikkulainen, R. and Forrest, S., 2021. A biological perspective on evolutionary computation. Nature Machine Intelligence, 3(1), pp.9-15.
