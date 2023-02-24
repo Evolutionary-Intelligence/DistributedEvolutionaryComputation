@@ -16,6 +16,7 @@
 * Dijkstra, M. and Luijten, E., 2021. From predictive modelling to machine learning and reverse engineering of colloidal self-assembly. Nature Materials, 20(6), pp.762-773.
 * Demo, N., Tezzele, M. and Rozza, G., 2021. A supervised learning approach involving active subspaces for an efficient genetic algorithm in high-dimensional optimization problems. SIAM Journal on Scientific Computing, 43(3), pp.B831-B853.
 * Singh, R., Sharma, A., Singh, P., Balasubramanian, G. and Johnson, D.D., 2021. Accelerating computational modeling and design of high-entropy alloys. Nature Computational Science, 1(1), pp.54-61.
+* Aligholipour, R., Baharloo, M., Farzaneh, B., Abdollahi, M. and Khonsari, A., 2021. TAMA: Turn-aware mapping and architecture–a power-efficient network-on-chip approach. ACM Transactions on Embedded Computing Systems, 20(5), pp.1-24.
 * Wu, Z., Sun, J., Zhang, Y., Wei, Z. and Chanussot, J., 2021. Recent developments in parallel and distributed computing for remotely sensed big data processing. Proceedings of the IEEE, 109(8), pp.1282-1305.
 * Perez-Nieves, N., Yang, Y., Slumbers, O., Mguni, D.H., Wen, Y. and Wang, J., 2021, July. Modelling behavioural diversity for learning in open-ended games. In International Conference on Machine Learning (pp. 8514-8524). PMLR.
 * Miikkulainen, R. and Forrest, S., 2021. A biological perspective on evolutionary computation. Nature Machine Intelligence, 3(1), pp.9-15.
