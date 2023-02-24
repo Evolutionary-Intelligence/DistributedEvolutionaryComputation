@@ -14,7 +14,6 @@
 * Duan, J.C., Li, S. and Xu, Y., 2022. Sequential Monte Carlo optimization and statistical inference. Wiley Interdisciplinary Reviews: Computational Statistics, p.e1598.
 * Fornasier, M., Huang, H., Pareschi, L. and Sünnen, P., 2021. Consensus-based optimization on the sphere: Convergence to global minimizers and machine learning. Journal of Machine Learning Research, 22(1), pp.10722-10776.
 * Dijkstra, M. and Luijten, E., 2021. From predictive modelling to machine learning and reverse engineering of colloidal self-assembly. Nature Materials, 20(6), pp.762-773.
-* Yuan, S. and Jing, W., 2021. Optimal shape adjustment of large high-precision cable network structures. AIAA Journal, 59(4), pp.1441-1456.
 * Demo, N., Tezzele, M. and Rozza, G., 2021. A supervised learning approach involving active subspaces for an efficient genetic algorithm in high-dimensional optimization problems. SIAM Journal on Scientific Computing, 43(3), pp.B831-B853.
 * Singh, R., Sharma, A., Singh, P., Balasubramanian, G. and Johnson, D.D., 2021. Accelerating computational modeling and design of high-entropy alloys. Nature Computational Science, 1(1), pp.54-61.
 * Wu, Z., Sun, J., Zhang, Y., Wei, Z. and Chanussot, J., 2021. Recent developments in parallel and distributed computing for remotely sensed big data processing. Proceedings of the IEEE, 109(8), pp.1282-1305.
@@ -23,6 +22,7 @@
 * Bowskill, D.H., Sugden, I.J., Konstantinopoulos, S., Adjiman, C.S. and Pantelides, C.C., 2021. Crystal structure prediction methods for organic molecules: State of the art. Annual Review of Chemical and Biomolecular Engineering, 12, pp.593-623.
 * Zhang, J. and Glezakou, V.A., 2021. Global optimization of chemical cluster structures: Methods, applications, and challenges. International Journal of Quantum Chemistry, 121(7), p.e26553.
 * Wang, J.C., Ding, D., Wang, H., Christensen, C., Wang, Z., Chen, H. and Li, J., 2021, July. Polyjuice: High-performance transactions via learned concurrency control. In OSDI (pp. 198-216).
+* Yuan, S. and Jing, W., 2021. Optimal shape adjustment of large high-precision cable network structures. AIAA Journal, 59(4), pp.1441-1456.
 * Wang, Y., Xue, P., Cao, M., Yu, T., Lane, S.T. and Zhao, H., 2021. Directed evolution: Methodologies and applications. Chemical Reviews, 121(20), pp.12384-12444.
 * Brunton, S.L., Noack, B.R. and Koumoutsakos, P., 2020. Machine learning for fluid mechanics. Annual Review of Fluid Mechanics, 52, pp.477-508.
 * Hegde, K., Tsai, P.A., Huang, S., Chandra, V., Parashar, A. and Fletcher, C.W., 2021, April. Mind mappings: enabling efficient algorithm-accelerator mapping space search. In Proceedings of ACM International Conference on Architectural Support for Programming Languages and Operating Systems (pp. 943-958).
