@@ -38,4 +38,5 @@
 * Wang, J., Clark, S.C., Liu, E. and Frazier, P.I., 2020. Parallel Bayesian global optimization of expensive functions. Operations Research, 68(6), pp.1850-1865.
 * Domingos, P., 2020. Every model learned by gradient descent is approximately a kernel machine. arXiv preprint arXiv:2012.00152.
 * Iliadis, C. and Coc, A., 2020. Thermonuclear reaction rates and primordial nucleosynthesis. Astrophysical Journal, 901(2), p.127.
+* Hassanzadeh, T., Essam, D. and Sarker, R., 2020. 2D to 3D evolutionary deep convolutional neural networks for medical image segmentation. IEEE Transactions on Medical Imaging, 40(2), pp.712-721.
 
