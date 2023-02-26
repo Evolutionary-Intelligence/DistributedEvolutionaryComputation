@@ -100,7 +100,7 @@ For **MetaHeuristics**, the following papers are **highly recommended**:
 * Kudela, J., 2022. A critical problem in benchmarking and analysis of evolutionary computation methods. Nature Machine Intelligence, 4(12), pp.1238-1245.
 * Aranha, C., Camacho Villalón, C.L., Campelo, F., Dorigo, M., Ruiz, R., Sevaux, M., Sörensen, K. and Stützle, T., 2022. Metaphor-based metaheuristics, a call for action: The elephant in the room. Swarm Intelligence, 16(1), pp.1-6.
 
-For more discussions of metaphor-based metaheuristics, see e.g., [Villalón et al., 2021](https://iridia.ulb.ac.be/IridiaTrSeries/rev/IridiaTr2021-006r001.pdf).
+For more discussions of metaphor-based metaheuristics, see e.g., [Camacho-Villalón, et al., 2022, ITOR](https://onlinelibrary.wiley.com/doi/abs/10.1111/itor.13176); [Villalón et al., 2021](https://iridia.ulb.ac.be/IridiaTrSeries/rev/IridiaTr2021-006r001.pdf).
 
 ## Research Support
 
