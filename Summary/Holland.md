@@ -23,6 +23,7 @@
 * Bowskill, D.H., Sugden, I.J., Konstantinopoulos, S., Adjiman, C.S. and Pantelides, C.C., 2021. Crystal structure prediction methods for organic molecules: State of the art. Annual Review of Chemical and Biomolecular Engineering, 12, pp.593-623.
 * Zhang, J. and Glezakou, V.A., 2021. Global optimization of chemical cluster structures: Methods, applications, and challenges. International Journal of Quantum Chemistry, 121(7), p.e26553.
 * Wang, J.C., Ding, D., Wang, H., Christensen, C., Wang, Z., Chen, H. and Li, J., 2021, July. Polyjuice: High-performance transactions via learned concurrency control. In OSDI (pp. 198-216).
+* Li, M., Sutter, T. and Kuhn, D., 2021, July. Distributionally robust optimization with Markovian data. In International Conference on Machine Learning (pp. 6493-6503). PMLR.
 * Yuan, S. and Jing, W., 2021. Optimal shape adjustment of large high-precision cable network structures. AIAA Journal, 59(4), pp.1441-1456.
 * Wang, Y., Xue, P., Cao, M., Yu, T., Lane, S.T. and Zhao, H., 2021. Directed evolution: Methodologies and applications. Chemical Reviews, 121(20), pp.12384-12444.
 * Brunton, S.L., Noack, B.R. and Koumoutsakos, P., 2020. Machine learning for fluid mechanics. Annual Review of Fluid Mechanics, 52, pp.477-508.
