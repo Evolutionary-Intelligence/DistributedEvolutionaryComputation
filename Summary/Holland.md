@@ -47,3 +47,4 @@
 * Schmidhuber, J., 2019. Reinforcement learning upside down: Don't predict rewards--Just map them to actions. arXiv preprint arXiv:1912.02875.
 * De Moraes, R.S. and De Freitas, E.P., 2019. Multi-UAV based crowd monitoring system. IEEE Transactions on Aerospace and Electronic Systems, 56(2), pp.1332-1345.
 * Berahas, A.S., Byrd, R.H. and Nocedal, J., 2019. Derivative-free optimization of noisy functions via quasi-Newton methods. SIAM Journal on Optimization, 29(2), pp.965-993.
+* Freeman, D., Ha, D. and Metz, L., 2019. Learning to predict without looking ahead: World models without forward prediction. Advances in Neural Information Processing Systems, 32.
