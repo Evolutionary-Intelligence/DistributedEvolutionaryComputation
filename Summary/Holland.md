@@ -42,3 +42,4 @@
 * Hassanzadeh, T., Essam, D. and Sarker, R., 2020. 2D to 3D evolutionary deep convolutional neural networks for medical image segmentation. IEEE Transactions on Medical Imaging, 40(2), pp.712-721.
 * O’Neill, M. and Spector, L., 2020. Automatic programming: The open issue?. Genetic Programming and Evolvable Machines, 21, pp.251-262.
 * Cole, A., Schachner, A. and Shiu, G., 2019. Searching the landscape of flux vacua with genetic algorithms. Journal of High Energy Physics, 2019(11), pp.1-39.
+* Berto, P., Philippet, L., Osmond, J., Liu, C.F., Afridi, A., Montagut Marques, M., Molero Agudo, B., Tessier, G. and Quidant, R., 2019. Tunable and free-form planar optics. Nature Photonics, 13(9), pp.649-656.
