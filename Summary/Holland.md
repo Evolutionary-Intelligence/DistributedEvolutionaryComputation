@@ -44,3 +44,4 @@
 * Cole, A., Schachner, A. and Shiu, G., 2019. Searching the landscape of flux vacua with genetic algorithms. Journal of High Energy Physics, 2019(11), pp.1-39.
 * Berto, P., Philippet, L., Osmond, J., Liu, C.F., Afridi, A., Montagut Marques, M., Molero Agudo, B., Tessier, G. and Quidant, R., 2019. Tunable and free-form planar optics. Nature Photonics, 13(9), pp.649-656.
 * Elkelesh, A., Ebada, M., Cammerer, S. and Ten Brink, S., 2019. Decoder-tailored polar code design using the genetic algorithm. IEEE Transactions on Communications, 67(7), pp.4521-4534.
+* Schmidhuber, J., 2019. Reinforcement learning upside down: Don't predict rewards--Just map them to actions. arXiv preprint arXiv:1912.02875.
