@@ -14,6 +14,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 * Schoenauer, M., 2015. Chapter 28: Evolutionary algorithms. Handbook of Evolutionary Thinking in the Sciences. Springer.
 * De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
+* Fogel, D.B., 1998. Unearthing a fossil from the history of evolutionary computation. Fundamenta Informaticae, 35(1-4), pp.1-16.
 * Fogel, D.B., 1998. Evolutionary computation: The fossil record. IEEE Press.
 * Back, T., Hammel, U. and Schwefel, H.P., 1997. Evolutionary computation: Comments on the history and current state. IEEE Transactions on Evolutionary Computation, 1(1), pp.3-17.
 * De Jong, K.A., Fogel, D.B. and Schwefel, H.P., 1997. Chapter A2.3: A history of evolutionary computation. Handbook of Evolutionary Computation. Oxford University Press.
@@ -101,25 +102,17 @@ For more details about the **history** and **classification** of EC, refer to th
 ## Ant Colony Optimization (ACO)
 
 * https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/    (This is the official homepage of ACO's inventor Marco Dorigo, which includes much information about ACO.)
-
 * Dorigo, M. and Stützle, T., 2019. Ant colony optimization: Overview and recent advances. Handbook of Metaheuristics, pp.311-351.
-
 * Dorigo, M., Birattari, M. and Stutzle, T., 2006. Ant colony optimization. IEEE Computational Intelligence Magazine, 1(4), pp.28-39.
-
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 2000. Inspiration for optimization from social insect behaviour. Nature, 406(6791), pp.39-42.
-
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: From natural to artificial systems. Oxford University Press.
-
 * Dorigo, M. and Gambardella, L.M., 1997. Ant colony system: A cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1(1), pp.53-66.
-
 * Dorigo, M., Maniezzo, V. and Colorni, A., 1996. Ant system: Optimization by a colony of cooperating agents. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 26(1), pp.29-41.
-
 * Gambardella, L.M. and Dorigo, M., 1995. Ant-Q: A reinforcement learning approach to the traveling salesman problem. In International Conference on Machine Learning (pp. 252-260). Morgan Kaufmann.
 
 ## Particle Swarm Optimization (PSO)
 
 * Eberhart, R.C., Shi, Y. and Kennedy, J., 2001. Swarm intelligence. Elsevier.
-
 * Kennedy, J. and Eberhart, R., 1995, November. Particle swarm optimization. In Proceedings of International Conference on Neural Networks (Vol. 4, pp. 1942-1948). IEEE.
 
 ## Non-dominated Sorting Genetic Algorithm II (NSGA-II)
