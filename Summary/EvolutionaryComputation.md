@@ -10,7 +10,7 @@ Note that how to select from very huge works is a **non-trivial** work, dependin
 * Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution of things. Nature, 521(7553), pp.476-482.
 * Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878.
 
-For more details about the **history** and **classification** of EC, refer to the following wonderful books and papers, just to name a few:
+For more details about the **history** and **classification** of EC, refer to the following wonderful books and papers, to name a few:
 
 * Schoenauer, M., 2015. Chapter 28: Evolutionary algorithms. Handbook of Evolutionary Thinking in the Sciences. Springer.
 * De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
