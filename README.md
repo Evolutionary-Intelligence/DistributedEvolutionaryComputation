@@ -51,6 +51,10 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 
 ## A (Relatively Big) Family of [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
 
+*******
+**"Frequently nonadditive interaction (i.e., "epistasis" or "nonlinearity") makes it impossible to determine the performance of a structure from a study of its isolated parts. While these difficulties pose a real problem for the analyst, we know that they are routinely handled by biological adaptive processes, qua processes."**---[[John H. Holland, Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence, 1992]](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
+*******
+
 Here, we consider a *relatively big* family of evolutionary algorithms (and also several closely related techniques, e.g., *random search* and *simulated annealing*), as presented below. Since here we focus primarily on their parallel/distributed versions and variants, we also provide a [ reference list](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md) for their original / seminal / landmark / survey / review papers, in order to help better understand them (especially for newcomers). We strongly suggest to see e.g. [2015's Review paper in **Nature** or 1993's Review paper in **Science**](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#popular-naturescience-reviews) for more details.
 
 * Four Conventional EAs
@@ -83,17 +87,12 @@ Here, we consider a *relatively big* family of evolutionary algorithms (and also
 * [Evolutionary/Swarm Robotics (ER/SR)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#evolutionaryswarm-robotics)
 
 * [Artificial Life (AL)](https://direct.mit.edu/artl)
-
   * Open-Ended Evolution
 
 * Common Individual-based Counterparts/Baselines/Competitors (especially for their *stochastic* versions)
-
   * Random Search (RS)
-  
   * Local Search (LS)
-    
     * Hill Climbers (HC)
-  
   * Simulated Annealing (SA)
 
 For **MetaHeuristics**, the following papers are **highly recommended**:
