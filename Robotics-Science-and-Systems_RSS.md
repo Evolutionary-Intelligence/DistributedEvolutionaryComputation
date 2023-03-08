@@ -13,3 +13,15 @@ Fontaine, M. and Nikolaidis, S., 2021, July. A quality diversity approach to aut
 ## 2019
 
 Kriegman, S., Walker, S., Shah, D., Levin, M., Kramer-Bottiglio, R. and Bongard, J., 2019, June. Automated shapeshifting for function recovery in damaged robots. In Proceedings of Robotics: Science and Systems (Vol. 15). [ [www](http://www.roboticsproceedings.org/rss15/p28.html) | [pdf](http://www.roboticsproceedings.org/rss15/p28.pdf) ]
+
+## 2009
+
+E. G. Jones, M. B. Dias, A. Stentz, 2009, July. Time-extended multi-robot coordination for domains with intra-path constraints. In Proceedings of Robotics: Science and Systems (Vol. 5). [ [www](http://www.roboticsproceedings.org/rss05/p35.html) | [pdf](http://www.roboticsproceedings.org/rss05/p35.pdf) ]
+
+## 2008
+
+Lael Odhner, Harry Asada, 2008, July. Stochastic Recruitment: A Limited-Feedback Control Policy for Large Ensemble Systems. In Proceedings of Robotics: Science and Systems (Vol. 4). [ [www](http://www.roboticsproceedings.org/rss04/p7.html) | [pdf](http://www.roboticsproceedings.org/rss04/p7.pdf) ]
+
+## 2007
+
+Abubakr Muhammad, Ali Jadbabaie, 2007, July. Dynamic Coverage Verification in Mobile Sensor Networks via Switched Higher Order Laplacians. In Proceedings of Robotics: Science and Systems (Vol. 3). [ [www](http://www.roboticsproceedings.org/rss03/p39.html) | [pdf](http://www.roboticsproceedings.org/rss03/p39.pdf) ]
