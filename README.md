@@ -10,12 +10,12 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 
 | Publication Type  | Publication Name | Search Range | Collection |
 | :---: | :---: | :---: | :---: |
-| Multidisciplinary Journals | [Nature](https://www.nature.com/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature.md)
-| Multidisciplinary Journals | [Science](https://science.sciencemag.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Science.md)
-| Multidisciplinary Journals | [PRL (Physical Review Letters)](https://journals.aps.org/prl/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Physical-Review-Letters_PRL.md)
-| Multidisciplinary Journals | [PNAS (Proceedings of the National Academy of Sciences)](https://www.pnas.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Proceedings-of-the-National-Academy-of-Sciences_PNAS.md)
-| Multidisciplinary Journals | [PIEEE (Proceedings of the IEEE)](http://proceedingsoftheieee.ieee.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/PIEEE.md)
-| Multidisciplinary Journals | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Machine-Intelligence.md)
+| Multidiscipline | [Nature](https://www.nature.com/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature.md)
+| Multidiscipline | [Science](https://science.sciencemag.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Science.md)
+| Multidiscipline | [PRL (Physical Review Letters)](https://journals.aps.org/prl/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Physical-Review-Letters_PRL.md)
+| Multidiscipline | [PNAS (Proceedings of the National Academy of Sciences)](https://www.pnas.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Proceedings-of-the-National-Academy-of-Sciences_PNAS.md)
+| Multidiscipline | [PIEEE (Proceedings of the IEEE)](http://proceedingsoftheieee.ieee.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/PIEEE.md)
+| Multidiscipline | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Machine-Intelligence.md)
 | CS | [JACM (Journal of the ACM)](https://dl.acm.org/journal/jacm) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/JACM.md)
 | CS | [CACM (Communications of the ACM)](https://dl.acm.org/magazine/cacm) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/CACM.md)
 | CS | [IEEE-TIT (IEEE Transactions on Information Theory)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-Transactions-on-Information-Theory_IEEE-TIT.md)
