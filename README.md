@@ -48,7 +48,8 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 | Optimization | [MOOR (Mathematics of Operations Research)](https://pubsonline.informs.org/journal/moor) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Mathematics-of-Operations-Research_MOOR.md)
 | Optimization | [JOTA (Journal of Optimization Theory and Applications)](https://www.springer.com/journal/10957) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Journal-of-Optimization-Theory-and-Applications_JOTA.md)
 | Optimization | [JGO (Journal of Global Optimization)](https://www.springer.com/journal/10898) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Journal-of-Global-Optimization_JGO.md)
-| Computer Vision | [CVPR (IEEE/CVF Conference on Computer Vision and Pattern Recognition)](https://www.thecvf.com/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-CVF-Conference-on-Computer-Vision-and-Pattern-Recognition_CVPR.md) 
+| Computer Vision | [CVPR (IEEE/CVF Conference on Computer Vision and Pattern Recognition)](https://www.thecvf.com/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-CVF-Conference-on-Computer-Vision-and-Pattern-Recognition_CVPR.md)
+| Computer Vision | [ICCV (IEEE/CVF International Conference on Computer Vision)](https://www.thecvf.com/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-CVF-International-Conference-on-Computer-Vision_ICCV.md)
 
 ## A (Relatively Big) Family of [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
 
