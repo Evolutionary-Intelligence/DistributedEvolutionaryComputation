@@ -10,4 +10,5 @@
 * Liebelt, J. and Schertler, K., 2007, June. Precise registration of 3D models to images by swarming particles. In IEEE Conference on Computer Vision and Pattern Recognition (pp. 1-8). IEEE. [ [www](https://ieeexplore.ieee.org/document/4270192) ] ( **PSO** | **Continuous Optimization** )
 
 ******* *** *******
+* Thida, M., Remagnino, P. and Eng, H.L., 2009, September. A particle swarm optimization approach for multi-objects tracking in crowded scene. In IEEE International Conference on Computer Vision Workshops (pp. 1209-1215). IEEE. [ [www](https://ieeexplore.ieee.org/abstract/document/5457471) ] ( **PSO** | **Continuous Optimization** )
 * Owechko, Y., Medasani, S. and Srinivasa, N., 2004, June. Classifier swarms for human detection in infrared imagery. In IEEE Conference on Computer Vision and Pattern Recognition Workshop (pp. 121-121). IEEE. [ [www](https://ieeexplore.ieee.org/abstract/document/1384917/) ] ( **PSO** | **Continuous Optimization** )
