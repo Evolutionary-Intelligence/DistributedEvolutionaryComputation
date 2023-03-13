@@ -4,6 +4,21 @@
 * Pourchot, A. and Sigaud, O., 2019. CEM-RL: Combining evolutionary and gradient-based methods for policy search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BkeU5j0ctQ) | [pdf](https://openreview.net/pdf?id=BkeU5j0ctQ) ] ( **ES** )
 
 
+## 2023
+Hao et al., 2023. ERL-Re^2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=FYZCHEtt6H0) | [pdf](https://openreview.net/pdf?id=FYZCHEtt6H0) ]
+
+Lange et al., 2023. Discovering Evolution Strategies via Meta-Black-Box Optimization. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=mFDU0fP3EQH) | [pdf](https://openreview.net/pdf?id=mFDU0fP3EQH) ]
+
+Ohsawa, 20223. Truthful Self-Play. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=WVRb98rwbv9) | [pdf](https://openreview.net/pdf?id=WVRb98rwbv9) ]
+
+Boelrijk, Ensing and Forré, 2023. Multi-objective optimization via equivariant deep hypervolume approximation. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=fSa5IjNMmmi) | [pdf](https://openreview.net/pdf?id=fSa5IjNMmmi)]
+
+Fong, Wongso and Motani, 2023. Rethinking Symbolic Regression: Morphology and Adaptability in the Context of Evolutionary Algorithms. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=OPGy07PojsZ) | [pdf](https://openreview.net/pdf?id=OPGy07PojsZ)]
+
+Maile, George Wilson and Forré, 2023. Equivariance-aware Architectural Optimization of Neural Networks. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=a6rCdfABJXg) | [pdf](https://openreview.net/pdf?id=a6rCdfABJXg)]
+
+Wang et al., 2023. Maximizing Spatio-Temporal Entropy of Deep 3D CNNs for Efficient Video Recognition. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=lj1Eb1OPeNw) | [pdf](https://openreview.net/pdf?id=lj1Eb1OPeNw) ]
+
 ## 2022
 Wang, Y., Xue, K. and Qian, C., 2022. Evolutionary Diversity Optimization with Clustering-based Selection for Reinforcement Learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=74x5BXs4bWD) | [pdf](https://openreview.net/pdf?id=74x5BXs4bWD) ]
 
