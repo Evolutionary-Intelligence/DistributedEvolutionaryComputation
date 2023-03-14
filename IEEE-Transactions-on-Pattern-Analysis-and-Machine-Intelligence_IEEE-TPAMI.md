@@ -2,6 +2,7 @@
 
 * Ye, Q., Amini, A.A. and Zhou, Q., 2020. Optimizing regularized cholesky score for order-based learning of bayesian networks. IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(10), pp.3555-3572. [ [www](https://ieeexplore.ieee.org/abstract/document/9079582) ] ( **SA** )
 * Geman, S. and Geman, D., 1984. Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 6(6), pp.721-741. [ [www](https://ieeexplore.ieee.org/abstract/document/4767596) ] ( **SA** | **Convergence Analysis** )
+* Taneja, A., Ballan, L. and Pollefeys, M., 2015. Geometric change detection in urban environments using images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(11), pp.2193-2206. [ [www]() ] ( **PSO** | **Continuous Optimization** )
 * Attanasi, A., Cavagna, A., Del Castello, L., Giardina, I., Jelić, A., Melillo, S., Parisi, L., Pellacini, F., Shen, E., Silvestri, E. and Viale, M., 2015. GReTA-A novel global and recursive tracking algorithm in three dimensions. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(12), pp.2451-2463. [ [www](https://ieeexplore.ieee.org/abstract/document/7062911) ] (  **SI** )
 * Zou, D. and Tan, P., 2012. Coslam: Collaborative visual slam in dynamic environments. IEEE Transactions on Pattern Analysis and Machine Intelligence, 35(2), pp.354-366. [ [www](https://ieeexplore.ieee.org/abstract/document/6193110) ] (  **SI** )
 
