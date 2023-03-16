@@ -4,6 +4,7 @@
 * Geman, S. and Geman, D., 1984. Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 6(6), pp.721-741. [ [www](https://ieeexplore.ieee.org/abstract/document/4767596) ] ( **SA** | **Convergence Analysis** )
 * Taneja, A., Ballan, L. and Pollefeys, M., 2015. Geometric change detection in urban environments using images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(11), pp.2193-2206. [ [www]() ] ( **PSO** | **Continuous Optimization** )
 * Attanasi, A., Cavagna, A., Del Castello, L., Giardina, I., Jelić, A., Melillo, S., Parisi, L., Pellacini, F., Shen, E., Silvestri, E. and Viale, M., 2015. GReTA-A novel global and recursive tracking algorithm in three dimensions. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(12), pp.2451-2463. [ [www](https://ieeexplore.ieee.org/abstract/document/7062911) ] (  **SI** )
+* Li, Y.H. and Savvides, M., 2013. An automatic iris occlusion estimation method based on high-dimensional density estimation. IEEE transactions on pattern analysis and machine intelligence, 35(4), pp.784-796. [ [www](https://ieeexplore.ieee.org/abstract/document/6261319)] ( **SA** )
 * Zou, D. and Tan, P., 2012. Coslam: Collaborative visual slam in dynamic environments. IEEE Transactions on Pattern Analysis and Machine Intelligence, 35(2), pp.354-366. [ [www](https://ieeexplore.ieee.org/abstract/document/6193110) ] (  **SI** )
 
 ## 2019
