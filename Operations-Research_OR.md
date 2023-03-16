@@ -1,8 +1,8 @@
 # OR (Operations Research)
 
+* Hu, J., Fu, M.C. and Marcus, S.I., 2007. A model reference adaptive search method for global optimization. Operations Research, 55(3), pp.549-568. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/opre.1060.0367) ] ( **EDA** | **CEM** | **Continuous Optimization** | **Combinatorial Optimization** )
 * Pu, S. and Garcia, A., 2018. A flocking-based approach for distributed stochastic optimization. Operations Research, 66(1), pp.267-281. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/opre.2017.1666) ]
 * Vidal, T., Crainic, T.G., Gendreau, M., Lahrichi, N. and Rei, W., 2012. A hybrid genetic algorithm for multidepot and periodic vehicle routing problems. Operations Research, 60(3), pp.611-624. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/opre.1120.1048) ] ( **GA** )
-* Hu, J., Fu, M.C. and Marcus, S.I., 2007. A model reference adaptive search method for global optimization. Operations Research, 55(3), pp.549-568. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/opre.1060.0367) ] ( **EDA** | **CEM** | **Continuous Optimization** | **Combinatorial Optimization** )
 * Debels, D. and Vanhoucke, M., 2007. A decomposition-based genetic algorithm for the resource-constrained project-scheduling problem. Operations Research, 55(3), pp.457-469. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/opre.1060.0358) ] ( **GA** | **Combinatorial Optimization** )
 * Ben Hadj-Alouane, A. and Bean, J.C., 1997. A genetic algorithm for the multiple-choice integer program. Operations Research, 45(1), pp.92-101. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/opre.45.1.92) ] ( **GA** )
 * Aggarwal, C.C., Orlin, J.B. and Tai, R.P., 1997. Optimized crossover for the independent set problem. Operations Research, 45(2), pp.226-234. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/opre.45.2.226) ] ( **GA** )
