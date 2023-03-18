@@ -80,23 +80,14 @@ For more details about the **history** and **classification** of EC, refer to th
 ## Genetic Programming (GP)
 
 * [http://gpbib.cs.ucl.ac.uk/](http://gpbib.cs.ucl.ac.uk/)
-
 * Langdon, W.B., 2020. Genetic programming and evolvable machines at 20. Genetic Programming and Evolvable Machines, 21(1), pp.205-217.
-
 * Langdon, W.B. and Poli, R., 2013. Foundations of genetic programming. Springer Science & Business Media.
-
 * Schmidt, M. and Lipson, H., 2009. Distilling free-form natural laws from experimental data. Science, 324(5923), pp.81-85.
-
 * Banzhaf, W., Nordin, P., Keller, R.E. and Francone, F.D., 1998. Genetic programming: An introduction on the automatic evolution of computer programs and its applications. Morgan Kaufmann Publishers Inc..
-
 * Koza, J.R., 1994. Genetic programming as a means for programming computers by natural selection. Statistics and Computing, 4(2), pp.87-112.
-
   * Koza, J.R., Bennet, F.H., Andre, D. and Keane, M.A., 1999. Genetic programming III: Automatic synthesis of analog circuits. MIT Press.
-
   * Koza, J.R., 1994. Genetic programming II: Automatic discovery of reusable programs. MIT Press.
-
   * Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection. MIT Press.
-
   * Koza, J.R., 1989, August. Hierarchical genetic algorithms operating on populations of computer programs. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 768-774).
 
 ## Ant Colony Optimization (ACO)
@@ -183,7 +174,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Evolutionary/Swarm Robotics
 
-* Floreano, D. and Lipson, H., 2021. From individual robots to robot societies. Science Robotics, 6(56).
+* Floreano, D. and Lipson, H., 2021. [From individual robots to robot societies](https://www.science.org/doi/full/10.1126/scirobotics.abk2787). Science Robotics, 6(56).
 * Dorigo, M., Theraulaz, G. and Trianni, V., 2021. Swarm robotics: Past, present, and future. Proceedings of the IEEE, 109(7), pp.1152-1165.
 * Kriegman, S., Blackiston, D., Levin, M. and Bongard, J., 2020. A scalable pipeline for designing reconfigurable organisms. Proceedings of the National Academy of Sciences, 117(4), pp.1853-1859.
 * Dorigo, M., Theraulaz, G. and Trianni, V., 2020. Reflections on the future of swarm robotics. Science Robotics, 5(49).
@@ -225,6 +216,3 @@ For more details about the **history** and **classification** of EC, refer to th
   * Copeland, B.J. ed., 2004. [The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma](https://global.oup.com/academic/product/the-essential-turing-9780198250807). Oxford University Press.
 
 ## Applications
-
-* Wang, J., Jiang, C., Zhang, H., Ren, Y., Chen, K.C. and Hanzo, L., 2020. [Thirty years of machine learning: The road to Pareto-optimal wireless networks](https://ieeexplore.ieee.org/abstract/document/8957702). IEEE Communications Surveys & Tutorials, 22(3), pp.1472-1514.
-* Buczak, A.L. and Guven, E., 2016. [A survey of data mining and machine learning methods for cyber security intrusion detection](https://ieeexplore.ieee.org/abstract/document/7307098). IEEE Communications Surveys & Tutorials, 18(2), pp.1153-1176.
