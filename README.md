@@ -51,6 +51,7 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 | Computer Vision | [CVPR (IEEE/CVF Conference on Computer Vision and Pattern Recognition)](https://www.thecvf.com/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-CVF-Conference-on-Computer-Vision-and-Pattern-Recognition_CVPR.md)
 | Computer Vision | [ICCV (IEEE/CVF International Conference on Computer Vision)](https://www.thecvf.com/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-CVF-International-Conference-on-Computer-Vision_ICCV.md)
 | Computer Graphics | [ACM-TOG (ACM Transactions on Graphics)](https://dl.acm.org/journal/tog) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/ACM-Transactions-on-Graphics_ACM-TOG.md)
+| Computer Graphics | [IEEE-TVCG (IEEE Transactions on Visualization and Computer Graphics)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-Transactions-on-Visualization-and-Computer-Graphics_TVCG.md)
 
 ## A (Relatively Big) Family of [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
 
