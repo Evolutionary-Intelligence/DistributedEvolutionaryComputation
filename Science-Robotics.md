@@ -10,6 +10,8 @@ Blackiston, D., Lederer, E., Kriegman, S., Garnier, S., Bongard, J. and Levin, M
 
 Xie, H., Sun, M., Fan, X., Lin, Z., Chen, W., Wang, L., Dong, L., & He, Q. (2019). Reconfigurable magnetic microrobot swarm: Multimode transformation, locomotion, and manipulation. Science robotics, 4(28), eaav8006. [ [pdf](https://www.science.org/doi/epdf/10.1126/scirobotics.aav8006) ]
 
+McGuire, K. N., De Wagter, C., Tuyls, K., Kappen, H. J., & de Croon, G. C. H. E. (2019). Minimal navigation solution for a swarm of tiny flying robots to explore an unknown environment. Science robotics, 4(35), eaaw9710. [ [pdf](https://www.science.org/doi/epdf/10.1126/scirobotics.aaw9710) ]
+
 
 ## 2018
 
