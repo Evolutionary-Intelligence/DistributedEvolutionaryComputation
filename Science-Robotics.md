@@ -6,6 +6,10 @@
 
 Blackiston, D., Lederer, E., Kriegman, S., Garnier, S., Bongard, J. and Levin, M., 2021. A cellular platform for the development of synthetic living machines. Science Robotics, 6(52).
 
+## 2019
+
+Xie, H., Sun, M., Fan, X., Lin, Z., Chen, W., Wang, L., Dong, L., & He, Q. (2019). Reconfigurable magnetic microrobot swarm: Multimode transformation, locomotion, and manipulation. Science robotics, 4(28), eaav8006. [ [pdf](https://www.science.org/doi/epdf/10.1126/scirobotics.aav8006) ]
+
 
 ## 2018
 
@@ -15,6 +19,19 @@ Yang, G. Z., Bellingham, J., Dupont, P. E., Fischer, P., Floridi, L., Full, R., 
 
 Mirzae, Y., Dubrovski, O., Kenneth, O., Morozov, K. I., & Leshansky, A. M. (2018). Geometric constraints and optimization in externally driven propulsion. Science robotics, 3(17), eaas8713. 
 [ [pdf](https://www.science.org/doi/epdf/10.1126/scirobotics.aas8713) ]
+
+
+Vásárhelyi, G., Virágh, C., Somorjai, G., Nepusz, T., Eiben, A. E., & Vicsek, T. (2018). Optimized flocking of autonomous drones in confined environments. Science robotics, 3(20), eaat3536. 
+[ [pdf](https://www.science.org/doi/epdf/10.1126/scirobotics.aat3536) ]
+
+
+
+Garattoni, L., & Birattari, M. (2018). Autonomous task sequencing in a robot swarm. Science robotics, 3(20), eaat0430. [ [pdf](https://www.science.org/doi/epdf/10.1126/scirobotics.aat0430) ]
+
+
+
+Slavkov, I., Carrillo-Zapata, D., Carranza, N., Diego, X., Jansson, F., Kaandorp, J., Hauert, S., & Sharpe, J. (2018). Morphogenesis in robot swarms. Science robotics, 3(25), eaau9178. [ [pdf](https://www.science.org/doi/epdf/10.1126/scirobotics.aau9178) ]
+
 
 
 ## 2017
