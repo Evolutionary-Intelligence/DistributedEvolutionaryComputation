@@ -6,6 +6,11 @@
 
 Blackiston, D., Lederer, E., Kriegman, S., Garnier, S., Bongard, J. and Levin, M., 2021. A cellular platform for the development of synthetic living machines. Science Robotics, 6(52).
 
+
+## 2020
+
+Dorigo, M., Theraulaz, G., & Trianni, V. (2020). Reflections on the future of swarm robotics. Science robotics, 5(49), eabe4385. [ [pdf](https://www.science.org/doi/epdf/10.1126/scirobotics.abe4385) ]
+
 ## 2019
 
 Xie, H., Sun, M., Fan, X., Lin, Z., Chen, W., Wang, L., Dong, L., & He, Q. (2019). Reconfigurable magnetic microrobot swarm: Multimode transformation, locomotion, and manipulation. Science robotics, 4(28), eaav8006. [ [pdf](https://www.science.org/doi/epdf/10.1126/scirobotics.aav8006) ]
