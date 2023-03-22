@@ -102,7 +102,7 @@ Here, we consider a *relatively big* family of evolutionary algorithms (and also
 For **MetaHeuristics**, the following papers are **highly recommended**:
   * Kudela, J., 2022. A critical problem in benchmarking and analysis of evolutionary computation methods. Nature Machine Intelligence, 4(12), pp.1238-1245.
   * Swan, J., Adriaensen, S., Brownlee, A.E., Hammond, K., Johnson, C.G., Kheiri, A., Krawiec, F., Merelo, J.J., Minku, L.L., Özcan, E., Pappa, G.L., et al., 2022. Metaheuristics “in the large”. European Journal of Operational Research, 297(2), pp.393-406.
-  * Aranha, C., Camacho Villalón, C.L., Campelo, F., Dorigo, M., Ruiz, R., Sevaux, M., Sörensen, K. and Stützle, T., 2022. Metaphor-based metaheuristics, a call for action: The elephant in the room. Swarm Intelligence, 16(1), pp.1-6.
+  * Aranha, C., Camacho Villalón, C.L., Campelo, F., Dorigo, M., Ruiz, R., Sevaux, M., Sörensen, K. and Stützle, T., 2022. [Metaphor-based metaheuristics, a call for action: The elephant in the room](https://link.springer.com/article/10.1007/s11721-021-00202-9). Swarm Intelligence, 16(1), pp.1-6.
   * de Armas, J., Lalla-Ruiz, E., Tilahun, S.L. and Voß, S., 2022. [Similarity in metaheuristics: A gentle step towards a comparison methodology](https://link.springer.com/article/10.1007/s11047-020-09837-9). Natural Computing, 21(2), pp.265-287.
   * Sörensen, K., Sevaux, M. and Glover, F., 2018. [A history of metaheuristics](https://link.springer.com/referenceworkentry/10.1007/978-3-319-07124-4_4). In Handbook of Heuristics (pp. 791-808). Springer, Cham.
   * Sörensen, K., 2015. [Metaheuristics—the metaphor exposed](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12001). International Transactions in Operational Research, 22(1), pp.3-18.
