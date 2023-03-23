@@ -16,7 +16,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Fogel, D.B., 1998. Evolutionary computation: The fossil record. IEEE Press.
 * Back, T., Hammel, U. and Schwefel, H.P., 1997. Evolutionary computation: Comments on the history and current state. IEEE Transactions on Evolutionary Computation, 1(1), pp.3-17.
 * De Jong, K.A., Fogel, D.B. and Schwefel, H.P., 1997. Chapter A2.3: A history of evolutionary computation. Handbook of Evolutionary Computation. Oxford University Press.
-* Back, T., 1996. Evolutionary algorithms in theory and practice: Evolution strategies, evolutionary programming, genetic algorithms. Oxford University Press.
+* Back, T., 1996. [Evolutionary algorithms in theory and practice: Evolution strategies, evolutionary programming, genetic algorithms](https://academic.oup.com/book/40791). Oxford University Press.
 
 ## Genetic Algorithm (GA)
 
