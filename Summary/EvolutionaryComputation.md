@@ -196,6 +196,8 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Broader Viewpoints From CS/AI/ML/Optimization
 
+* Zador, A., Escola, S., Richards, B., Ölveczky, B., Bengio, Y., Boahen, K., Botvinick, M., Chklovskii, D., Churchland, A., Clopath, C. and DiCarlo, J., 2023. [Catalyzing next-generation Artificial Intelligence through NeuroAI](https://www.nature.com/articles/s41467-023-37180-x). Nature Communications, 14(1), p.1597.
+
 * Millhouse, T., Moses, M. and Mitchell, M., 2021. Foundations of intelligence in natural and artificial systems: A workshop report. arXiv preprint arXiv:2105.02198.
 * [https://www.quantamagazine.org/computers-evolve-a-new-path-toward-human-intelligence-20191106/](https://www.quantamagazine.org/computers-evolve-a-new-path-toward-human-intelligence-20191106/)
 * Clune, J., 2019. AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence. arXiv preprint arXiv:1905.10985.
@@ -212,5 +214,3 @@ For more details about the **history** and **classification** of EC, refer to th
 * Fogel, D.B., 2006. Nils barricelli-artificial life, coevolution, self-adaptation. IEEE Computational Intelligence Magazine, 1(1), pp.41-45.
 * Turing, A., 1948. Intelligent machinery. In The Essential Turing. Oxford University Press.
   * Copeland, B.J. ed., 2004. [The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma](https://global.oup.com/academic/product/the-essential-turing-9780198250807). Oxford University Press.
-
-## Applications
