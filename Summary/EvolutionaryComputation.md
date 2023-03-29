@@ -87,6 +87,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Koza, J.R., 1994. Genetic programming II: Automatic discovery of reusable programs. MIT Press.
   * Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection. MIT Press.
   * Koza, J.R., 1989, August. Hierarchical genetic algorithms operating on populations of computer programs. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 768-774).
+* Cramer, N.L., 1985, July. [A representation for the adaptive generation of simple sequential programs](https://dl.acm.org/doi/10.5555/645511.657085). In Proceedings of International Conference on Genetic Algorithms (pp. 183-187).
 
 ## Ant Colony Optimization (ACO)
 
