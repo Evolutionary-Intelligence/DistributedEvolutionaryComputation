@@ -197,7 +197,9 @@ For more details about the **history** and **classification** of EC, refer to th
 ## Broader Viewpoints From CS/AI/ML/Optimization
 
 * Zador, A., Escola, S., Richards, B., Ölveczky, B., Bengio, Y., Boahen, K., Botvinick, M., Chklovskii, D., Churchland, A., Clopath, C. and DiCarlo, J., 2023. [Catalyzing next-generation Artificial Intelligence through NeuroAI](https://www.nature.com/articles/s41467-023-37180-x). Nature Communications, 14(1), p.1597.
-
+  * "Put another way, we can greatly accelerate our search for general-purpose circuits for realworld interaction by taking advantage of the optimization process that evolution has already engaged in."
+    * Stanley, K. O., Clune, J., Lehman, J. & Miikkulainen, R. Designing neural networks through neuroevolution. Nat. Mach. Intell. 1, 24–35 (2019).
+    * Gupta, A., Savarese, S., Ganguli, S. & Fei-Fei, L. Embodied intelligence via learning and evolution. Nat. Commun. 12, 5721 (2021).
 * Millhouse, T., Moses, M. and Mitchell, M., 2021. Foundations of intelligence in natural and artificial systems: A workshop report. arXiv preprint arXiv:2105.02198.
 * [https://www.quantamagazine.org/computers-evolve-a-new-path-toward-human-intelligence-20191106/](https://www.quantamagazine.org/computers-evolve-a-new-path-toward-human-intelligence-20191106/)
 * Clune, J., 2019. AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence. arXiv preprint arXiv:1905.10985.
