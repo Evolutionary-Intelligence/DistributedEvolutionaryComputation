@@ -188,12 +188,9 @@ For more details about the **history** and **classification** of EC, refer to th
 * Sims, K., 1994, July. Evolving virtual creatures. In Proceedings of Annual Conference on Computer Graphics and Interactive Techniques (pp. 15-22).
 * Reynolds, C.W., 1987, August. Flocks, herds and schools: A distributed behavioral model. In Proceedings of Annual Conference on Computer Graphics and Interactive Techniques (pp. 25-34).
 
-## Recent Reviews/Surveys/Books
+## Evolutionary Design
 
-* Aranha, C., Camacho Villalón, C.L., Campelo, F., Dorigo, M., Ruiz, R., Sevaux, M., Sörensen, K. and Stützle, T., 2022. Metaphor-based metaheuristics, a call for action: The elephant in the room. Swarm Intelligence, 16(1), pp.1-6.
-* Vie, A., 2021. Qualities, challenges and future of genetic algorithms: A literature review. arXiv preprint arXiv:2011.05277.
-* Corne, D.W. and Lones, M.A., 2018. Evolutionary algorithms. arXiv preprint arXiv:1805.11014.
-* Eiben, A.E. and Smith, J.E., 2016. Towards the evolution of things. ACM SIGEVOlution, 8(3), pp.3-6.
+* Bentley, P., 1999. [Evolutionary design by computers](https://www.amazon.com/Evolutionary-Design-Computers-Peter-Bentley/dp/155860605X). Morgan Kaufmann.
 
 ## Broader Viewpoints From CS/AI/ML/Optimization
 
