@@ -1,13 +1,15 @@
 # ICLR (International Conference on Learning Representations)
 
+* Lange, R.T., Schaul, T., Chen, Y., Zahavy, T., Dallibard, V., Lu, C., Singh, S. and Flennerhag, S., 2023. Discovering evolution strategies via meta-black-box optimization. International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=mFDU0fP3EQH) | [pdf](https://openreview.net/pdf?id=mFDU0fP3EQH) ] ( **ES** )
+
+******* *** *******
+
 <!-- * Wang, Y., Xue, K. and Qian, C., 2022, September. Evolutionary diversity optimization with clustering-based selection for reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=74x5BXs4bWD) | [pdf](https://openreview.net/pdf?id=74x5BXs4bWD) ] -->
 * Pourchot, A. and Sigaud, O., 2019. CEM-RL: Combining evolutionary and gradient-based methods for policy search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BkeU5j0ctQ) | [pdf](https://openreview.net/pdf?id=BkeU5j0ctQ) ] ( **ES** )
 
 
 ## 2023
 Hao et al., 2023. ERL-Re^2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=FYZCHEtt6H0) | [pdf](https://openreview.net/pdf?id=FYZCHEtt6H0) ]
-
-Lange et al., 2023. Discovering Evolution Strategies via Meta-Black-Box Optimization. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=mFDU0fP3EQH) | [pdf](https://openreview.net/pdf?id=mFDU0fP3EQH) ]
 
 Ohsawa, 20223. Truthful Self-Play. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=WVRb98rwbv9) | [pdf](https://openreview.net/pdf?id=WVRb98rwbv9) ]
 
