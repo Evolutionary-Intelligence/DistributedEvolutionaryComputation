@@ -10,7 +10,7 @@ In this page, we try our best to maintain a (very) short reference list for the 
 
 For more details about the **history** and **classification** of EC, refer to the following wonderful books and papers, to name a few:
 
-* Schoenauer, M., 2015. Chapter 28: Evolutionary algorithms. Handbook of Evolutionary Thinking in the Sciences. Springer.
+* Schoenauer, M., 2015. [Evolutionary algorithms](https://link.springer.com/chapter/10.1007/978-94-017-9014-7_28). Handbook of Evolutionary Thinking in the Sciences. Springer.
 * De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
 * Fogel, D.B., 1998. Unearthing a fossil from the history of evolutionary computation. Fundamenta Informaticae, 35(1-4), pp.1-16.
 * Fogel, D.B., 1998. Evolutionary computation: The fossil record. IEEE Press.
