@@ -12,8 +12,8 @@ For more details about the **history** and **classification** of EC, refer to th
 
 * Schoenauer, M., 2015. [Evolutionary algorithms](https://link.springer.com/chapter/10.1007/978-94-017-9014-7_28). Handbook of Evolutionary Thinking in the Sciences. Springer.
 * De Jong, K.A., 2006. [Evolutionary computation: A unified approach](https://ieeexplore.ieee.org/book/6267245). MIT Press.
-* Fogel, D.B., 1998. Unearthing a fossil from the history of evolutionary computation. Fundamenta Informaticae, 35(1-4), pp.1-16.
-* Fogel, D.B., 1998. Evolutionary computation: The fossil record. IEEE Press.
+* Fogel, D.B., 1998. [Evolutionary computation: The fossil record](https://ieeexplore.ieee.org/book/5263042). IEEE Press.
+  * Fogel, D.B., 1998. [Unearthing a fossil from the history of evolutionary computation](https://dl.acm.org/doi/10.5555/2379195.2379196). Fundamenta Informaticae, 35(1-4), pp.1-16.
 * Back, T., Hammel, U. and Schwefel, H.P., 1997. Evolutionary computation: Comments on the history and current state. IEEE Transactions on Evolutionary Computation, 1(1), pp.3-17.
 * De Jong, K.A., Fogel, D.B. and Schwefel, H.P., 1997. Chapter A2.3: A history of evolutionary computation. Handbook of Evolutionary Computation. Oxford University Press.
 * Back, T., 1996. [Evolutionary algorithms in theory and practice: Evolution strategies, evolutionary programming, genetic algorithms](https://academic.oup.com/book/40791). Oxford University Press.
