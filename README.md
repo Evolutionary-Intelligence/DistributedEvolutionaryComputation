@@ -108,8 +108,8 @@ For **MetaHeuristics**, the following papers are **highly recommended**:
   * Sörensen, K., 2015. [Metaheuristics—the metaphor exposed](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12001). International Transactions in Operational Research, 22(1), pp.3-18.
   * For more discussions of metaphor-based metaheuristics, see e.g., [Villalón et al., 2022, ITOR](https://onlinelibrary.wiley.com/doi/abs/10.1111/itor.13176); [Villalón et al., 2021](https://iridia.ulb.ac.be/IridiaTrSeries/rev/IridiaTr2021-006r001.pdf); [Villalón et al., 2020, ANTS](https://link.springer.com/chapter/10.1007/978-3-030-60376-2_10); [Sörensen et al., 2019, ITOR](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12443); [Weyland, 2015](https://www.sciencedirect.com/science/article/pii/S221471601500010X); [Weyland, 2010](https://www.igi-global.com/article/rigorous-analysis-harmony-search-algorithm/44954).
 
-## Research Support
+## Support
 
-This *ongoing* paper list for PDEC is now supported by **Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597** (￥2,000,000), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China), and actively maintained/updated (from 2021 to 2023) by some of his group members (e.g., **Qiqi Duan**, *Chang Shao*, *Guocheng Zhou*, and Qi Zhao).
+This *ongoing* paper list for EC (PDEC) is now supported by **Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597** (￥2,000,000), granted to **Prof. Yuhui Shi** (CSE, SUSTech @ Shenzhen, China), and actively maintained/updated (from 2021 to 2023) by some of his group members (e.g., **Qiqi Duan**, *Chang Shao*, *Guocheng Zhou*, and Qi Zhao).
 
 We also acknowledge the additional contributions from [Vincent A. Cicirello](https://github.com/cicirello). We welcome the recent (from 2022) contributions from Jian Zeng (focusing on data mining).
