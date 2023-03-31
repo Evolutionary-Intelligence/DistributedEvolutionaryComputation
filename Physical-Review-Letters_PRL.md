@@ -6,7 +6,6 @@
     * Y. Shi and R. Eberhart, A modified particle swarm optimizer, in Proceedings of the IEEE International Conference on Evolutionary Computation (IEEE, Anchorage, 1998), p. 69.
 * Guan, P.W., Sun, Y., Hemley, R.J., Liu, H., Ma, Y. and Viswanathan, V., 2022. Low-pressure electrochemical synthesis of complex high-pressure superconducting superhydrides. Physical Review Letters, 128(18), p.186001. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.186001) ] ( **PSO** | **Continuous Optimization** )
   * "The crystal structures were identified by the particle swarm optimization using the CALYPSO code, with part of them already obtained in a previous Letter and additional structures reported here."
-    * The particle swarm optimization is employed for structure search, using the CALYPSO code.
     * Y. Sun, J. Lv, Y. Xie, H. Liu, and Y. Ma, Phys. Rev. Lett. 123, 097001 (2019).
 * Singh, N. and van Hecke, M., 2021. Design of pseudo-mechanisms and multistable units for mechanical metamaterials. Physical Review Letters, 126(24), p.248002. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.248002) ] ( **PSO** | **Continuous Optimization** )
   * "Evolutionary algorithms are eminently suited for this, and we choose here to use particle swarm optimization (PSO) due to its simplicity and ease of tuning."
@@ -14,6 +13,9 @@
     * J. Kennedy and R. Eberhart, Proc. IEEE Int. Conf. Neural Networks 4, 1942 (1995).
     * R. Poli, J. Kennedy, and T. Blackwell, Swarm Intell. 1, 33 (2007).
     * R. C. Eberhart and Y. H. Shi, IEEE Trans. Evol. Comput. 8, 201 (2004).
+* Wintermantel, T.M., Wang, Y., Lochead, G., Shevate, S., Brennen, G.K. and Whitlock, S., 2020. Unitary and nonunitary quantum cellular automata with Rydberg arrays. Physical Review Letters, 124(7), p.070503. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.070503) ] ( **PSO** | **Continuous Optimization** )
+  * "We maximize ... using the particle swarm optimization (PSO) algorithm."
+  * J. Kennedy, Particle swarm optimization, in Encyclopedia of Machine Learning, edited by C. Sammut and G. I. Webb (Springer, Boston, 2010).
 * Whitelam, S. and Tamblyn, I., 2021. Neuroevolutionary learning of particles and protocols for self-assembly. Physical Review Letters, 127(1), p.018003. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.018003) ] ( **NE** )
 * Gagnon, D., Fillion-Gourdeau, F., Dumont, J., Lefebvre, C. and MacLean, S., 2017. Suppression of multiphoton resonances in driven quantum systems via pulse shape optimization. Physical Review Letters, 119(5), p.053203. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.053203) ] ( **DE** | **Parallel** )
 * Las Heras, U., Alvarez-Rodriguez, U., Solano, E. and Sanz, M., 2016. Genetic algorithms for digital quantum simulations. Physical Review Letters, 116(23), p.230504. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.230504) ] ( **GA** )
