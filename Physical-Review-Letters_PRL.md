@@ -1,5 +1,9 @@
 # PRL (Physical Review Letters)
 
+* Yang, X., Li, J., Ding, Y., Xu, M., Zhu, X.F. and Zhu, J., 2022. Observation of transient parity-time symmetry in electronic systems. Physical Review Letters, 128(6), p.065701. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.065701) | Editors' Suggestion ] ( **PSO** | **Continuous Optimization** )
+  * "The advanced particle swarm optimization (PSO) algorithm is used to accurately fit measured results of the free oscillating currents in the primary oscillator to yield the loss rates and the frequencies, which is difficult to be observed directly from the raw experimental results. The indicators identified by PSO are beneficial to reveal and reflect the characteristic of transient PT symmetry."
+    *  J. Kennedy and R. Eberhart, Particle swarm optimization, in Proceedings of the IEEE International Conference on Neural Networks (IEEE, Perth, 1995), p. 1942.
+    * Y. Shi and R. Eberhart, A modified particle swarm optimizer, in Proceedings of the IEEE International Conference on Evolutionary Computation (IEEE, Anchorage, 1998), p. 69.
 * Whitelam, S. and Tamblyn, I., 2021. Neuroevolutionary learning of particles and protocols for self-assembly. Physical Review Letters, 127(1), p.018003. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.018003) ] ( **NE** )
 * Gagnon, D., Fillion-Gourdeau, F., Dumont, J., Lefebvre, C. and MacLean, S., 2017. Suppression of multiphoton resonances in driven quantum systems via pulse shape optimization. Physical Review Letters, 119(5), p.053203. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.053203) ] ( **DE** | **Parallel** )
 * Las Heras, U., Alvarez-Rodriguez, U., Solano, E. and Sanz, M., 2016. Genetic algorithms for digital quantum simulations. Physical Review Letters, 116(23), p.230504. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.230504) ] ( **GA** )
