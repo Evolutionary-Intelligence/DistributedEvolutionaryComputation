@@ -1,5 +1,9 @@
 # Nature Communications
 
+* Ke, F., Yan, J., Niu, S., Wen, J., Yin, K., Yang, H., Wolf, N.R., Tzeng, Y.K., Karunadasa, H.I., Lee, Y.S. and Mao, W.L., 2022. Cesium-mediated electron redistribution and electron-electron interaction in high-pressure metallic CsPbI3. Nature Communications, 13(1), p.7067. [ [www](https://www.nature.com/articles/s41467-022-34786-5) ] ( **PSO** | **Continuous Optimization** )
+  * "Structure prediction of CsPbI3 at high pressure was performed via a global minimum search of the free energy surface by the swam intelligence-based CALYPSO method."
+    * Wang, Y., Lv, J., Zhu, L. & Ma, Y. Crystal structure prediction via particle-swarm optimization. Phys. Rev. B 82, 094116 (2010).
+    * Wang, Y. et al. Materials discovery via CALYPSO methodology. J. Phys. Condens. Matter 27, 203203 (2015).
 * Fang, H. and Jena, P., 2022. Argyrodite-type advanced lithium conductors and transport mechanisms beyond paddle-wheel effect. Nature Communications, 13(1), p.2078. [ [www](https://www.nature.com/articles/s41467-022-29769-5) ] ( **PSO** | **Continuous Optimization** )
   * "The cluster-based structures are searched using Particle Swarm Optimization (PSO) algorithm (based on the PSO library of CALYPSO47) and density functional theory."
     * Wang, Y., Lv, J., Zhu, L. & Ma, Y. Crystal structure prediction via particle swarm optimization. Phys. Rev. B 82, 094116 (2010).
