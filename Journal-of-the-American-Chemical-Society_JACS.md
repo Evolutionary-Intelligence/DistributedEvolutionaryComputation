@@ -1,5 +1,8 @@
 # JACS (Journal of the American Chemical Society)
 
+* Tang, C., Zhang, L., Sanvito, S. and Du, A., 2023. Enabling room-temperature triferroic coupling in dual transition-metal dichalcogenide monolayers Via electronic asymmetry. Journal of the American Chemical Society. [ [www](https://pubs.acs.org/doi/abs/10.1021/jacs.2c11862) ] ( **PSO** | **Continuous Optimization** )
+  * "We investigate the phase and mechanical stability of the 1T′-CrCoS4 monolayer, a stability that is comprehensively validated by using a particle-swarm optimization method."
+  * "A global structural search was performed with CALYPSO code."
 * Qu, X., Yang, L., Lv, J., Xie, Y., Yang, J., Zhang, Y., Wang, Y., Zhao, J., Chen, Z. and Ma, Y., 2022. Particle swarm predictions of a SrB8 monolayer with 12-fold metal coordination. Journal of the American Chemical Society, 144(25), pp.11120-11128. [ [www](https://pubs.acs.org/doi/abs/10.1021/jacs.1c13654) ] ( **PSO** | **Continuous Optimization** )
   * "The swarm-intelligence-based CALYPSO method and code were employed for searching low-energy 2D Sr−B monolayers. Its validity has been manifested by successful identification of the ground-state structures for a large number of systems."
 * Tsuji, Y., Dasari, P.L., Elatresh, S.F., Hoffmann, R. and Ashcroft, N.W., 2016. Structural diversity and electron confinement in Li4N: potential for 0-D, 2-D, and 3-D electrides. Journal of the American Chemical Society, 138(42), pp.14108-14120. [ [www](https://pubs.acs.org/doi/full/10.1021/jacs.6b09067) ] ( **PSO** | **Continuous Optimization** )
