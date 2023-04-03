@@ -26,7 +26,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Mitchell, M. and Taylor, C.E., 1999. [Evolutionary computation: An overview](https://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.30.1.593). Annual Review of Ecology and Systematics, 30(1), pp.593-616.
 * Levine, D., 1997. [Commentary—Genetic algorithms: A practitioner's view](https://pubsonline.informs.org/doi/10.1287/ijoc.9.3.256). INFORMS Journal on Computing, 9(3), pp.256-259.
 * Forrest, S., 1993. [Genetic algorithms: Principles of natural selection applied to computation](https://www.science.org/doi/10.1126/science.8346439). Science, 261(5123), pp.872-878.
-  * Forrest, S., 1996. Genetic algorithms. ACM Computing Surveys, 28(1), pp.77-80.
+  * Forrest, S., 1996. [Genetic algorithms](https://dl.acm.org/doi/pdf/10.1145/234313.234350). ACM Computing Surveys, 28(1), pp.77-80.
 * Goldberg, D.E. and Holland, J.H., 1988. Genetic algorithms and machine learning. Machine Learning, 3(2), pp.95-99.
   * Goldberg, D.E., 1994. Genetic and evolutionary algorithms come of age. Communications of the ACM, 37(3), pp.113-120.
 * De Jong, K.A., 1975. An analysis of the behavior of a class of genetic adaptive systems. Doctoral Dissertation, University of Michigan.
