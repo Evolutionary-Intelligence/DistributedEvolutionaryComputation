@@ -54,6 +54,7 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 | Computer Graphics | [TVCG (IEEE Transactions on Visualization and Computer Graphics)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-Transactions-on-Visualization-and-Computer-Graphics_TVCG.md)
 | Physics | [npjqi (npj Quantum Information)](https://www.nature.com/npjqi/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/npj-Quantum-Information_npjqi.md)
 | Chemistry | [JACS (Journal of the American Chemical Society)](https://pubs.acs.org/journal/jacsat) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Journal-of-the-American-Chemical-Society_JACS.md)
+| Multidiscipline | [Nature Communications](https://www.nature.com/ncomms/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Communications.md)
 
 ## A (Relatively Big) Family of [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
 
