@@ -24,10 +24,12 @@ For more details about the **history** and **classification** of EC, refer to th
   * Whitley, D., 1994. [A genetic algorithm tutorial](https://link.springer.com/article/10.1007/BF00175354). Statistics and Computing, 4(2), pp.65-85.
 * Mitchell, M., 1998. [An introduction to genetic algorithms](https://direct.mit.edu/books/book/4675/An-Introduction-to-Genetic-Algorithms). MIT Press.
   * Mitchell, M. and Taylor, C.E., 1999. [Evolutionary computation: An overview](https://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.30.1.593). Annual Review of Ecology and Systematics, 30(1), pp.593-616.
+  * Mitchell, M., Holland, J. and Forrest, S., 1993. [When will a genetic algorithm outperform hill climbing](https://proceedings.neurips.cc/paper/1993/hash/ab88b15733f543179858600245108dd8-Abstract.html). Advances in Neural Information Processing Systems (pp. 51-58).
 * Levine, D., 1997. [Commentary—Genetic algorithms: A practitioner's view](https://pubsonline.informs.org/doi/10.1287/ijoc.9.3.256). INFORMS Journal on Computing, 9(3), pp.256-259.
 * Forrest, S., 1993. [Genetic algorithms: Principles of natural selection applied to computation](https://www.science.org/doi/10.1126/science.8346439). Science, 261(5123), pp.872-878.
   * Forrest, S., 1996. [Genetic algorithms](https://dl.acm.org/doi/pdf/10.1145/234313.234350). ACM Computing Surveys, 28(1), pp.77-80.
-* Goldberg, D.E. and Holland, J.H., 1988. [Genetic algorithms and machine learning](https://link.springer.com/article/10.1023/A:1022602019183). Machine Learning, 3(2), pp.95-99.
+* Goldberg, D.E., 1989. [Genetic algorithms in search, optimization and machine learning](https://www.goodreads.com/en/book/show/142613). Reading: Addison-Wesley.
+  * Goldberg, D.E. and Holland, J.H., 1988. [Genetic algorithms and machine learning](https://link.springer.com/article/10.1023/A:1022602019183). Machine Learning, 3(2), pp.95-99.
   * Goldberg, D.E., 1994. [Genetic and evolutionary algorithms come of age](https://dl.acm.org/doi/10.1145/175247.175259). Communications of the ACM, 37(3), pp.113-120.
 * De Jong, K.A., 1975. [An analysis of the behavior of a class of genetic adaptive systems](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/4507/bab6360.0001.001.pdf). Doctoral Dissertation, University of Michigan.
   * De Jong, K.A., 1992. [Are genetic algorithms funcion optimizer?](https://www.mli.gmu.edu/papers/91-95/92-20.pdf). Parallel Problem Solving from Nature, pp.3-13.
