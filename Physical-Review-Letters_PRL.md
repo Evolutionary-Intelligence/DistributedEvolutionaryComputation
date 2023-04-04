@@ -17,6 +17,8 @@
     * J. Kennedy and R. Eberhart, Proc. IEEE Int. Conf. Neural Networks 4, 1942 (1995).
     * R. Poli, J. Kennedy, and T. Blackwell, Swarm Intell. 1, 33 (2007).
     * R. C. Eberhart and Y. H. Shi, IEEE Trans. Evol. Comput. 8, 201 (2004).
+* Liu, Z., Zhuang, Q., Tian, F., Duan, D., Song, H., Zhang, Z., Li, F., Li, H., Li, D. and Cui, T., 2021. Proposed superconducting electride Li6C by sp-hybridized cage states at moderate pressures. Physical Review Letters, 127(15), p.157002. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.157002) ] ( **PSO** | **Continuous Optimization** )
+  * "We predict a new energy-preferred anti-CdCl2-II phase after a bidirectional structure search via the swarm intelligence-based methodology (CALYPSO) and the evolutionary algorithm (USPEX)."
 * Wintermantel, T.M., Wang, Y., Lochead, G., Shevate, S., Brennen, G.K. and Whitlock, S., 2020. Unitary and nonunitary quantum cellular automata with Rydberg arrays. Physical Review Letters, 124(7), p.070503. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.070503) ] ( **PSO** | **Continuous Optimization** )
   * "We maximize ... using the particle swarm optimization (PSO) algorithm."
   * J. Kennedy, Particle swarm optimization, in Encyclopedia of Machine Learning, edited by C. Sammut and G. I. Webb (Springer, Boston, 2010).
