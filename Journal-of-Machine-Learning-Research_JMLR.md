@@ -61,7 +61,8 @@ Boyan, J. and Moore, A.W., 2000. Learning evaluation functions to improve optimi
 
 ******* *** *******
 
-* Moriarty, D.E. and Mikkulainen, R., 1996. Efficient reinforcement learning through symbiotic evolution. Machine Learning, 22(1), pp.11-32. [ [www](https://link.springer.com/article/10.1023/A:1018004120707) ] (  **COEA** | **Continuous Optimization** )
+* Moriarty, D.E. and Mikkulainen, R., 1996. Efficient reinforcement learning through symbiotic evolution. Machine Learning, 22(1), pp.11-32. [ [www](https://link.springer.com/article/10.1023/A:1018004120707) ] ( **COEA** | **Continuous Optimization** )
+* Whitley, D., Dominic, S., Das, R. and Anderson, C.W., 1993. Genetic reinforcement learning for neurocontrol problems. Machine Learning, 13, pp.259-284. [ [www](https://link.springer.com/article/10.1023/A:1022674030396) ] ( **GA** | **Continuous Optimization** )
 * Grefenstette, J.J., Ramsey, C.L. and Schultz, A.C., 1990. Learning sequential decision rules using simulation models and competition. Machine Learning, 5(4), pp.355-381. [ [www](https://link.springer.com/article/10.1007/BF00116876) ] ( **GA** )
 * Grefenstette, J.J., 1988. Credit assignment in rule discovery systems based on genetic algorithms. Machine Learning, 3(2), pp.225-245. [ [www](https://link.springer.com/article/10.1023/A:1022614421909) ] ( **GA** )
 * De Jong, K., 1988. Learning with genetic algorithms: An overview. Machine Learning, 3(2-3), pp.121-138. [ [www](https://link.springer.com/article/10.1007/BF00113894) ] ( **GA** )
