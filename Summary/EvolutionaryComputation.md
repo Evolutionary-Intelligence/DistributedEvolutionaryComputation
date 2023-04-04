@@ -32,7 +32,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * De Jong, K.A., 1975. [An analysis of the behavior of a class of genetic adaptive systems](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/4507/bab6360.0001.001.pdf). Doctoral Dissertation, University of Michigan.
   * De Jong, K.A., 1992. [Are genetic algorithms funcion optimizer?](https://www.mli.gmu.edu/papers/91-95/92-20.pdf). Parallel Problem Solving from Nature, pp.3-13.
   * De Jong, K., 1988. [Learning with genetic algorithms: An overview](https://link.springer.com/article/10.1007/BF00113894). Machine Learning, 3, pp.121-138.
-* Holland, J.H., 1962. Outline for a logical theory of adaptive systems. Journal of the ACM, 9(3), pp.297-314.
+* Holland, J.H., 1962. [Outline for a logical theory of adaptive systems](https://dl.acm.org/doi/10.1145/321127.321128). Journal of the ACM, 9(3), pp.297-314.
   * Holland, J.H., 1992. Genetic algorithms. Scientific American, 267(1), pp.66-73.
   * Holland, J.H., 1992. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. MIT Press.
   * Holland, J.H., 1975. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. University of Michigan Press.
