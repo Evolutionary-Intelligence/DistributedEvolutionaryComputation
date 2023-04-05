@@ -43,7 +43,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Evolution Strategies (ES)
 
-* Vicol, P., Metz, L. and Sohl-Dickstein, J., 2021, July. Unbiased gradient estimation in unrolled computation graphs with persistent evolution strategies. In International Conference on Machine Learning (pp. 10553-10563). PMLR.
+* Vicol, P., Metz, L. and Sohl-Dickstein, J., 2021, July. [Unbiased gradient estimation in unrolled computation graphs with persistent evolution strategies](http://proceedings.mlr.press/v139/vicol21a.html). In International Conference on Machine Learning (pp. 10553-10563). PMLR.
 * Nesterov, Y. and Spokoiny, V., 2017. Random gradient-free minimization of convex functions. Foundations of Computational Mathematics, 17(2), pp.527-566.
 * Ollivier, Y., Arnold, L., Auger, A. and Hansen, N., 2017. Information-geometric optimization algorithms: A unifying picture via invariance principles. Journal of Machine Learning Research, 18(18), pp.1-65.
   * Akimoto, Y. and Hansen, N., 2020. Diagonal acceleration for covariance matrix adaptation evolution strategies. Evolutionary Computation, 28(3), pp.405-435.
