@@ -18,7 +18,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Back, T., Hammel, U. and Schwefel, H.P., 1997. [Evolutionary computation: Comments on the history and current state](https://ieeexplore.ieee.org/document/585888). IEEE Transactions on Evolutionary Computation, 1(1), pp.3-17.
   * Back, T., 1996. [Evolutionary algorithms in theory and practice: Evolution strategies, evolutionary programming, genetic algorithms](https://academic.oup.com/book/40791). Oxford University Press.
 
-## Genetic Algorithm (GA) [ [Interview](https://users.sussex.ac.uk/~philh/pubs/HollandINTV.pdf) ]
+## Genetic Algorithm (GA) [ [Interview](https://users.sussex.ac.uk/~philh/pubs/HollandINTV.pdf) | [CACM](https://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/abstract) ]
 
 * Whitley, D., 2019. [Next generation genetic algorithms: A user’s guide and tutorial](https://link.springer.com/chapter/10.1007/978-3-319-91086-4_8). In Handbook of Metaheuristics (pp. 245-274). Springer, Cham.
   * Whitley, D., 1994. [A genetic algorithm tutorial](https://link.springer.com/article/10.1007/BF00175354). Statistics and Computing, 4(2), pp.65-85.
