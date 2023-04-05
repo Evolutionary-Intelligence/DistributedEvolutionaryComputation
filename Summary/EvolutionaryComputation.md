@@ -37,9 +37,9 @@ For more details about the **history** and **classification** of EC, refer to th
   * De Jong, K., 1988. [Learning with genetic algorithms: An overview](https://link.springer.com/article/10.1007/BF00113894). Machine Learning, 3, pp.121-138.
 * Holland, J.H., 1962. [Outline for a logical theory of adaptive systems](https://dl.acm.org/doi/10.1145/321127.321128). Journal of the ACM, 9(3), pp.297-314.
   * Holland, J.H., 1992. [Genetic algorithms](https://www.scientificamerican.com/article/genetic-algorithms/). Scientific American, 267(1), pp.66-73.
-  * Holland, J.H., 1992. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. MIT Press.
-  * Holland, J.H., 1975. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. University of Michigan Press.
-  * Holland, J.H., 1973. Genetic algorithms and the optimal allocation of trials. SIAM Journal on Computing, 2(2), pp.88-105.
+  * Holland, J.H., 1992. [Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence](https://direct.mit.edu/books/book/2574/Adaptation-in-Natural-and-Artificial-SystemsAn). MIT Press.
+  * Holland, J.H., 1975. [Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence](https://direct.mit.edu/books/book/2574/Adaptation-in-Natural-and-Artificial-SystemsAn). University of Michigan Press.
+  * Holland, J.H., 1973. [Genetic algorithms and the optimal allocation of trials](https://epubs.siam.org/doi/10.1137/0202009). SIAM Journal on Computing, 2(2), pp.88-105.
 
 ## Evolution Strategies (ES)
 
