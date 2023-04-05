@@ -66,7 +66,7 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 Here, we consider a *relatively big* family of evolutionary algorithms (and also several closely related techniques, e.g., *random search* and *simulated annealing*), as presented below. Since here we focus primarily on their parallel/distributed versions and variants, we also provide a [ reference list](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md) for their original / seminal / landmark / survey / review papers, in order to help better understand them (especially for newcomers). We strongly suggest to see e.g. [2015's Review paper in **Nature** or 1993's Review paper in **Science**](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#popular-naturescience-reviews) for more details.
 
 * Four Conventional EAs
-  * [Genetic Algorithms (GA)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#genetic-algorithm-ga)  
+  * [Genetic Algorithms (GA)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)  
   * [Evolution Strategies (ES)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#evolution-strategies-es)
     * Covariance Matrix Adaptation ES (CMA-ES)
   * [Evolutionary Programming (EP)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#evolutionary-programming-ep)
