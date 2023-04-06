@@ -56,7 +56,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Bäck, T. and Hoffmeister, F., 1994. [Basic aspects of evolution strategies](https://link.springer.com/article/10.1007/BF00175353). Statistics and Computing, 4, pp.51-63.
   * Bäck, T., Hoffmeister, F. and Schwefel, H.P., 1991. [A survey of evolution strategies](https://www.universiteitleiden.nl/en/staffmembers/thomas-back). In Proceedings of International Conference on Genetic Algorithms.
 * Beyer, H.G. and Schwefel, H.P., 2002. [Evolution strategies–A comprehensive introduction](https://link.springer.com/article/10.1023/A:1015059928466). Natural Computing, 1(1), pp.3-52.
-  * Beyer, H.G., 2001. The theory of evolution strategies. Springer Science & Business Media.
+  * Beyer, H.G., 2001. [The theory of evolution strategies](https://link.springer.com/book/10.1007/978-3-662-04378-3). Springer Science & Business Media.
   * Beyer, H.G., 1995. Toward a theory of evolution strategies: On the benefits of sex—The (μ/μ, λ) theory. Evolutionary Computation, 3(1), pp.81-111.
 * Schwefel, H.P., 1984. Evolution strategies: A family of non-linear optimization techniques based on imitating some principles of organic evolution. Annals of Operations Research, 1(2), pp.165-167.
   * Schwefel, H.P., 2012. Ubiquity symposium: Evolutionary computation and the processes of life: Life lessons taught by simulated evolution. Ubiquity, 2012(September), pp.1-9.
