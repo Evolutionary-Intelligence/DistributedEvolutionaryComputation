@@ -43,13 +43,13 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Evolution Strategies (ES)
 
-* Vicol, P., Metz, L. and Sohl-Dickstein, J., 2021, July. [Unbiased gradient estimation in unrolled computation graphs with persistent evolution strategies](http://proceedings.mlr.press/v139/vicol21a.html). In International Conference on Machine Learning (pp. 10553-10563). PMLR.
+* Vicol, P., Metz, L. and Sohl-Dickstein, J., 2021, July. [Unbiased gradient estimation in unrolled computation graphs with persistent evolution strategies](http://proceedings.mlr.press/v139/vicol21a.html). In International Conference on Machine Learning (pp. 10553-10563). PMLR. [ [Outstanding Paper](https://icml.cc/virtual/2021/oral/10176) ]
 * Nesterov, Y. and Spokoiny, V., 2017. [Random gradient-free minimization of convex functions](https://link.springer.com/article/10.1007/s10208-015-9296-2). Foundations of Computational Mathematics, 17(2), pp.527-566.
 * Ollivier, Y., Arnold, L., Auger, A. and Hansen, N., 2017. [Information-geometric optimization algorithms: A unifying picture via invariance principles](https://www.jmlr.org/papers/v18/14-467.html). Journal of Machine Learning Research, 18(18), pp.1-65.
   * Akimoto, Y. and Hansen, N., 2020. [Diagonal acceleration for covariance matrix adaptation evolution strategies](https://direct.mit.edu/evco/article/28/3/405/94999/Diagonal-Acceleration-for-Covariance-Matrix). Evolutionary Computation, 28(3), pp.405-435.
   * Hansen, N., Arnold, D.V. and Auger, A., 2015. [Evolution strategies](https://link.springer.com/chapter/10.1007/978-3-662-43505-2_44). In Springer Handbook of Computational Intelligence (pp. 871-898). Springer, Berlin, Heidelberg.
-  * Hansen, N. and Auger, A., 2014. Principled design of continuous stochastic search: From theory to practice. Theory and Principled Methods for the Design of Metaheuristics, pp.145-180.
-  * Hansen, N., Müller, S.D. and Koumoutsakos, P., 2003. Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES). Evolutionary Computation, 11(1), pp.1-18.
+  * Hansen, N. and Auger, A., 2014. [Principled design of continuous stochastic search: From theory to practice](https://link.springer.com/chapter/10.1007/978-3-642-33206-7_8). Theory and Principled Methods for the Design of Metaheuristics, pp.145-180.
+  * Hansen, N., Müller, S.D. and Koumoutsakos, P., 2003. [Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES)](https://ieeexplore.ieee.org/abstract/document/6790790). Evolutionary Computation, 11(1), pp.1-18.
   * Hansen, N. and Ostermeier, A., 2001. Completely derandomized self-adaptation in evolution strategies. Evolutionary Computation, 9(2), pp.159-195.
   * Hansen, N. and Ostermeier, A., 1996, May. Adapting arbitrary normal mutation distributions in evolution strategies: The covariance matrix adaptation. In Proceedings of IEEE International Conference on Evolutionary Computation (pp. 312-317). IEEE.
 * Bäck, T., Foussette, C. and Krause, P., 2013. Contemporary evolution strategies (Vol. 86). Berlin: Springer.
