@@ -50,7 +50,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Hansen, N., Arnold, D.V. and Auger, A., 2015. [Evolution strategies](https://link.springer.com/chapter/10.1007/978-3-662-43505-2_44). In Springer Handbook of Computational Intelligence (pp. 871-898). Springer, Berlin, Heidelberg.
   * Hansen, N. and Auger, A., 2014. [Principled design of continuous stochastic search: From theory to practice](https://link.springer.com/chapter/10.1007/978-3-642-33206-7_8). Theory and Principled Methods for the Design of Metaheuristics, pp.145-180.
   * Hansen, N., Müller, S.D. and Koumoutsakos, P., 2003. [Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES)](https://ieeexplore.ieee.org/abstract/document/6790790). Evolutionary Computation, 11(1), pp.1-18.
-  * Hansen, N. and Ostermeier, A., 2001. Completely derandomized self-adaptation in evolution strategies. Evolutionary Computation, 9(2), pp.159-195.
+  * Hansen, N. and Ostermeier, A., 2001. [Completely derandomized self-adaptation in evolution strategies](https://direct.mit.edu/evco/article-abstract/9/2/159/892/Completely-Derandomized-Self-Adaptation-in). Evolutionary Computation, 9(2), pp.159-195.
   * Hansen, N. and Ostermeier, A., 1996, May. Adapting arbitrary normal mutation distributions in evolution strategies: The covariance matrix adaptation. In Proceedings of IEEE International Conference on Evolutionary Computation (pp. 312-317). IEEE.
 * Bäck, T., Foussette, C. and Krause, P., 2013. Contemporary evolution strategies (Vol. 86). Berlin: Springer.
   * Bäck, T., Hoffmeister, F. and Schwefel, H.P., 1991. A survey of evolution strategies. In Proceedings of International Conference on Genetic Algorithms.
