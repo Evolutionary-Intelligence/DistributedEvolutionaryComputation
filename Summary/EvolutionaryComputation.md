@@ -63,7 +63,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Schwefel, H.P.P., 1993. [Evolution and optimum seeking: The sixth generation](https://www.amazon.co.uk/Evolution-Optimum-Generation-Computer-Technologies/dp/0471571482). John Wiley & Sons, Inc..
   * Schwefel, H.P., 1988. [Evolutionary learning optimum-seeking on parallel computer architectures](https://link.springer.com/chapter/10.1007/978-1-4684-6389-7_46). In Systems Analysis and Simulation I (pp. 217-225). Springer, New York, NY.
   * Schwefel, H.P., 1988. [Collective intelligence in evolving systems](https://link.springer.com/chapter/10.1007/978-3-642-73953-8_8). In Ecodynamics (pp. 95-100). Springer, Berlin, Heidelberg.
-  * Schwefel, H.P., 1981. Numerical optimization of computer models. John Wiley & Sons, Inc..
+  * Schwefel, H.P., 1981. [Numerical optimization of computer models](https://www.amazon.com/Numerical-optimization-computer-Hans-Paul-Schwefel/dp/0471099880). John Wiley & Sons, Inc..
 * Rechenberg, I., 1989. Evolution strategy: Nature’s way of optimization. In Optimization: Methods and Applications, Possibilities and Limitations (pp. 106-126). Springer, Berlin, Heidelberg.
   * Auger, A., Hansen, N., López-Ibáñez, M. and Rudolph, G., 2022. Tributes to Ingo Rechenberg (1934--2021). ACM SIGEVOlution, 14(4), pp.1-4.
   * Streckenbach, J., Koref, I.S., Rechenberg, I. and Uhlmann, E., 2020. Optimization with the evolution strategy by example of electrical-discharge drilling. Neurocomputing, 391, pp.318-324.
