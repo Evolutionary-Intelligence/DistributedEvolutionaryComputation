@@ -59,7 +59,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Beyer, H.G., 2001. [The theory of evolution strategies](https://link.springer.com/book/10.1007/978-3-662-04378-3). Springer Science & Business Media.
   * Beyer, H.G., 1995. [Toward a theory of evolution strategies: On the benefits of sex—The (μ/μ, λ) theory](https://direct.mit.edu/evco/article-abstract/3/1/81/738/Toward-a-Theory-of-Evolution-Strategies-On-the). Evolutionary Computation, 3(1), pp.81-111.
 * Schwefel, H.P., 1984. [Evolution strategies: A family of non-linear optimization techniques based on imitating some principles of organic evolution](https://link.springer.com/article/10.1007/BF01876146). Annals of Operations Research, 1(2), pp.165-167.
-  * Schwefel, H.P., 2012. Ubiquity symposium: Evolutionary computation and the processes of life: Life lessons taught by simulated evolution. Ubiquity, 2012(September), pp.1-9.
+  * Schwefel, H.P., 2012. [Ubiquity symposium: Evolutionary computation and the processes of life: Life lessons taught by simulated evolution](https://dl.acm.org/doi/10.1145/2369296.2369297). Ubiquity, 2012(September), pp.1-9.
   * Schwefel, H.P. and de Brito Mendes, M.A., 2010. 45 years of evolution strategies: Hans-Paul Schwefel interviewed for the genetic argonaut blog. ACM SIGEVOlution, 4(2), pp.2-8.
   * Schwefel, H.P., 2008. An interview with Hans-Paul Schwefel: With an introduction by Günter Rudolph. ACM SIGEVOlution, 3(4), pp.2-5.
   * Schwefel, H.P.P., 1993. Evolution and optimum seeking: The sixth generation. John Wiley & Sons, Inc..
