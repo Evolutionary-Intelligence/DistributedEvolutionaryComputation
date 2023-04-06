@@ -61,7 +61,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Schwefel, H.P., 1984. [Evolution strategies: A family of non-linear optimization techniques based on imitating some principles of organic evolution](https://link.springer.com/article/10.1007/BF01876146). Annals of Operations Research, 1(2), pp.165-167.
   * Schwefel, H.P., 2012. [Ubiquity symposium: Evolutionary computation and the processes of life: Life lessons taught by simulated evolution](https://dl.acm.org/doi/10.1145/2369296.2369297). Ubiquity, 2012(September), pp.1-9.
   * Schwefel, H.P.P., 1993. [Evolution and optimum seeking: The sixth generation](https://www.amazon.co.uk/Evolution-Optimum-Generation-Computer-Technologies/dp/0471571482). John Wiley & Sons, Inc..
-  * Schwefel, H.P., 1988. Evolutionary learning optimum-seeking on parallel computer architectures. In Systems Analysis and Simulation I (pp. 217-225). Springer, New York, NY.
+  * Schwefel, H.P., 1988. [Evolutionary learning optimum-seeking on parallel computer architectures](https://link.springer.com/chapter/10.1007/978-1-4684-6389-7_46). In Systems Analysis and Simulation I (pp. 217-225). Springer, New York, NY.
   * Schwefel, H.P., 1988. Collective intelligence in evolving systems. In Ecodynamics (pp. 95-100). Springer, Berlin, Heidelberg.
   * Schwefel, H.P., 1981. Numerical optimization of computer models. John Wiley & Sons, Inc..
 * Rechenberg, I., 1989. Evolution strategy: Nature’s way of optimization. In Optimization: Methods and Applications, Possibilities and Limitations (pp. 106-126). Springer, Berlin, Heidelberg.
