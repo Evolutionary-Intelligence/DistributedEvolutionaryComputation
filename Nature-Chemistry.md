@@ -1,6 +1,8 @@
 # Nature Chemistry
 
-* Zhu, L., Liu, H., Pickard, C.J., Zou, G. and Ma, Y., 2014. Reactions of xenon with iron and nickel are predicted in the Earth's inner core. Nature Chemistry, 6(7), pp.644-648. [ [www](https://www.nature.com/articles/nchem.1925) ] (  **PSO** | **Continuous Optimization** )
+* Walker, D.R., Hulgan, S.A., Peterson, C.M., Li, I.C., Gonzalez, K.J. and Hartgerink, J.D., 2021. Predicting the stability of homotrimeric and heterotrimeric collagen helices. Nature Chemistry, 13(3), pp.260-269. [ [www](https://www.nature.com/articles/s41557-020-00626-6) ] ( **GA** | **Continuous Optimization** )
+  * "The parameters of SCEPTTr were then optimized by a genetic algorithm. Due to the high number of potential variables in SCEPTTr and the comparatively low population of each cycle and the number of cycles, the genetic algorithm cannot quite find the most optimal function; for this reason, we found it useful to run the genetic algorithm many times and use the results of the best iteration."
+* Zhu, L., Liu, H., Pickard, C.J., Zou, G. and Ma, Y., 2014. Reactions of xenon with iron and nickel are predicted in the Earth's inner core. Nature Chemistry, 6(7), pp.644-648. [ [www](https://www.nature.com/articles/nchem.1925) ] ( **PSO** | **Continuous Optimization** )
   * "Our structure-searching simulations were performed using the CALYPSO structure prediction method based on a particle swarm optimization algorithm via a global minimization of free-energy surfaces, combined with ab initio total-energy calculations as implemented in the CALYPSO code, which is not biased by any previously known structure information."
     * Wang, Y., Lv, J., Zhu, L. & Ma, Y. Crystal structure prediction via particle-swarm optimization. Phys. Rev. B 82, 094116 (2010).
     * Wang, Y., Lv, J., Zhu, L. & Ma, Y. CALYPSO: a method for crystal structure prediction. Comput. Phys. Commun. 183, 2063–2070 (2012).
