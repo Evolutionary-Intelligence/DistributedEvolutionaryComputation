@@ -219,3 +219,9 @@ For more details about the **history** and **classification** of EC, refer to th
 * Fogel, D.B., 2006. Nils barricelli-artificial life, coevolution, self-adaptation. IEEE Computational Intelligence Magazine, 1(1), pp.41-45.
 * Turing, A., 1948. Intelligent machinery. In The Essential Turing. Oxford University Press.
   * Copeland, B.J. ed., 2004. [The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma](https://global.oup.com/academic/product/the-essential-turing-9780198250807). Oxford University Press.
+
+# Some Interesting Applications
+
+ * [AirBus](https://www.airbus.com/en/newsroom/news/2016-03-pioneering-bionic-3d-printing)
+   * [AutoDesk](https://www.autodesk.com/research/projects/bionic-partition-project) [ [paper](https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/pdf/naturebased-hybrid-computational-geometry.pdf) ]
+
