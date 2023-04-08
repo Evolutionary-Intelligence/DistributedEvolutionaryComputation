@@ -1,5 +1,7 @@
 # Nature Chemistry
 
+* Nikitin, M.P., 2023. Non-complementary strand commutation as a fundamental alternative for information processing by DNA and gene regulation. Nature Chemistry, pp.1-13. [ [www](https://www.nature.com/articles/s41557-022-01111-y) ] ( **EC** | **Continuous Optimization** )
+  * "An evolutionary algorithm is developed here that finds the set of ssDNAs that generates the best fit to the algebraic equations."
 * Walker, D.R., Hulgan, S.A., Peterson, C.M., Li, I.C., Gonzalez, K.J. and Hartgerink, J.D., 2021. Predicting the stability of homotrimeric and heterotrimeric collagen helices. Nature Chemistry, 13(3), pp.260-269. [ [www](https://www.nature.com/articles/s41557-020-00626-6) ] ( **GA** | **Continuous Optimization** )
   * "The parameters of SCEPTTr were then optimized by a genetic algorithm. Due to the high number of potential variables in SCEPTTr and the comparatively low population of each cycle and the number of cycles, the genetic algorithm cannot quite find the most optimal function; for this reason, we found it useful to run the genetic algorithm many times and use the results of the best iteration."
 * Zhu, L., Liu, H., Pickard, C.J., Zou, G. and Ma, Y., 2014. Reactions of xenon with iron and nickel are predicted in the Earth's inner core. Nature Chemistry, 6(7), pp.644-648. [ [www](https://www.nature.com/articles/nchem.1925) ] ( **PSO** | **Continuous Optimization** )
