@@ -67,7 +67,7 @@ Here, we consider a *relatively big* family of evolutionary algorithms (and also
 
 * Four Conventional EAs
   * [Genetic Algorithms (GA)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)  
-  * [Evolution Strategies (ES)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#evolution-strategies-es)
+  * [Evolution Strategies (ES)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
     * Covariance Matrix Adaptation ES (CMA-ES)
   * [Evolutionary Programming (EP)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#evolutionary-programming-ep)
   * [Genetic Programming (GP)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#genetic-programming-gp)
