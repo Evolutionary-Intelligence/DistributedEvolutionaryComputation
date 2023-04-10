@@ -18,6 +18,8 @@ For more details about the **history** and **classification** of EC, refer to th
 * Back, T., Hammel, U. and Schwefel, H.P., 1997. [Evolutionary computation: Comments on the history and current state](https://ieeexplore.ieee.org/document/585888). IEEE Transactions on Evolutionary Computation, 1(1), pp.3-17.
   * Back, T., 1996. [Evolutionary algorithms in theory and practice: Evolution strategies, evolutionary programming, genetic algorithms](https://academic.oup.com/book/40791). Oxford University Press.
 
+* Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
+
 ## Genetic Algorithm (GA) [ [Interview](https://users.sussex.ac.uk/~philh/pubs/HollandINTV.pdf) | [CACM](https://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/abstract) ]
 
 * Whitley, D., 2019. [Next generation genetic algorithms: A user’s guide and tutorial](https://link.springer.com/chapter/10.1007/978-3-319-91086-4_8). In Handbook of Metaheuristics (pp. 245-274). Springer, Cham.
@@ -26,7 +28,6 @@ For more details about the **history** and **classification** of EC, refer to th
 * Mitchell, M., 1998. [An introduction to genetic algorithms](https://direct.mit.edu/books/book/4675/An-Introduction-to-Genetic-Algorithms). MIT Press.
   * Mitchell, M. and Taylor, C.E., 1999. [Evolutionary computation: An overview](https://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.30.1.593). Annual Review of Ecology and Systematics, 30(1), pp.593-616.
   * Mitchell, M., Holland, J. and Forrest, S., 1993. [When will a genetic algorithm outperform hill climbing](https://proceedings.neurips.cc/paper/1993/hash/ab88b15733f543179858600245108dd8-Abstract.html). Advances in Neural Information Processing Systems (pp. 51-58).
-* Levine, D., 1997. [Commentary—Genetic algorithms: A practitioner's view](https://pubsonline.informs.org/doi/10.1287/ijoc.9.3.256). INFORMS Journal on Computing, 9(3), pp.256-259.
 * Forrest, S., 1993. [Genetic algorithms: Principles of natural selection applied to computation](https://www.science.org/doi/10.1126/science.8346439). Science, 261(5123), pp.872-878.
   * Forrest, S., 1996. [Genetic algorithms](https://dl.acm.org/doi/pdf/10.1145/234313.234350). ACM Computing Surveys, 28(1), pp.77-80.
 * Goldberg, D.E., 1989. [Genetic algorithms in search, optimization and machine learning](https://www.goodreads.com/en/book/show/142613). Reading: Addison-Wesley.
@@ -196,7 +197,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 * Bentley, P., 1999. [Evolutionary design by computers](https://www.amazon.com/Evolutionary-Design-Computers-Peter-Bentley/dp/155860605X). Morgan Kaufmann.
 
-## Broader Viewpoints From CS/AI/ML/Optimization
+## Broader Viewpoints From CS/AI/ML/Optimization/OR
 
 * Zador, A., Escola, S., Richards, B., Ölveczky, B., Bengio, Y., Boahen, K., Botvinick, M., Chklovskii, D., Churchland, A., Clopath, C. and DiCarlo, J., 2023. [Catalyzing next-generation Artificial Intelligence through NeuroAI](https://www.nature.com/articles/s41467-023-37180-x). Nature Communications, 14(1), p.1597.
   * "Put another way, we can greatly accelerate our search for general-purpose circuits for realworld interaction by taking advantage of the optimization process that evolution has already engaged in."
@@ -212,7 +213,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Domingos, P., 2015. [The five tribes of machine learning and what you can take from each](https://learning.acm.org/techtalks/machinelearning). ACM Learning Center. [ [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
 * Stulp, F. and Sigaud, O., 2012, June. [Path integral policy improvement with covariance matrix adaptation](https://icml.cc/2012/papers/171.pdf). In International Coference on International Conference on Machine Learning (pp. 1547-1554).
 * Floreano, D. and Mattiussi, C., 2008. Bio-inspired artificial intelligence: Theories, methods, and technologies. MIT Press.
-* Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
+* Levine, D., 1997. [Commentary—Genetic algorithms: A practitioner's view](https://pubsonline.informs.org/doi/10.1287/ijoc.9.3.256). INFORMS Journal on Computing, 9(3), pp.256-259.
 * Conrad, M. and Rizki, M.M., 1989. [The artificial worlds approach to emergent evolution](https://www.sciencedirect.com/science/article/abs/pii/0303264789900324). BioSystems, 23(2-3), pp.247-258.
 * Axelrod, R., 1987. The evolution of strategies in the iterated prisoner’s dilemma. Genetic Algorithms and Simulated Annealing.
 * Bremermann, H.J., 1968. Numerical optimization procedures derived from biological evolution processes. Cybernetic Problems in Bionics, pp.597-616.
