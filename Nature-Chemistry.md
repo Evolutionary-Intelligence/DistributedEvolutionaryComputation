@@ -10,3 +10,5 @@
   * "Our structure-searching simulations were performed using the CALYPSO structure prediction method based on a particle swarm optimization algorithm via a global minimization of free-energy surfaces, combined with ab initio total-energy calculations as implemented in the CALYPSO code, which is not biased by any previously known structure information."
     * Wang, Y., Lv, J., Zhu, L. & Ma, Y. Crystal structure prediction via particle-swarm optimization. Phys. Rev. B 82, 094116 (2010).
     * Wang, Y., Lv, J., Zhu, L. & Ma, Y. CALYPSO: a method for crystal structure prediction. Comput. Phys. Commun. 183, 2063–2070 (2012).
+* Miao, M.S., 2013. Caesium in high oxidation states and as ap-block element. Nature Chemistry, 5(10), pp.846-852. [ [www](https://www.nature.com/articles/nchem.1754) ] ( **PSO** | **Continuous Optimization** )
+  * "A non-biased automatic structure search method based on the particle swarm optimization algorithm is used to search for stable CsFn structures under pressure, across the entire potential energy surface derived from density functional theory (DFT) calculations."
