@@ -209,7 +209,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Kerschke, P., Hoos, H.H., Neumann, F. and Trautmann, H., 2019. Automated algorithm selection: Survey and perspectives. Evolutionary Computation, 27(1), pp.3-45.
 * Forrest, S. and Mitchell, M., 2016. Adaptive computation: The multidisciplinary legacy of John H. Holland. Communications of the ACM, 59(8), pp.58-63.
 * Domingos, P., 2015. The master algorithm: How the quest for the ultimate learning machine will remake our world. Basic Books.
-  * Domingos, P., 2015. The five tribes of machine learning and what you can take from each. ACM Learning Center. [ [www](https://learning.acm.org/techtalks/machinelearning) | [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
+  * Domingos, P., 2015. [The five tribes of machine learning and what you can take from each](https://learning.acm.org/techtalks/machinelearning). ACM Learning Center. [ [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
 * Stulp, F. and Sigaud, O., 2012, June. [Path integral policy improvement with covariance matrix adaptation](https://icml.cc/2012/papers/171.pdf). In International Coference on International Conference on Machine Learning (pp. 1547-1554).
 * Floreano, D. and Mattiussi, C., 2008. Bio-inspired artificial intelligence: Theories, methods, and technologies. MIT Press.
 * Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
@@ -224,4 +224,3 @@ For more details about the **history** and **classification** of EC, refer to th
 
  * [AirBus](https://www.airbus.com/en/newsroom/news/2016-03-pioneering-bionic-3d-printing)
    * [AutoDesk](https://www.autodesk.com/research/projects/bionic-partition-project) [ [paper](https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/pdf/naturebased-hybrid-computational-geometry.pdf) ]
-
