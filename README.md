@@ -14,7 +14,7 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 | Multidiscipline | [Science](https://science.sciencemag.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Science.md)
 | Multidiscipline | [PRL (Physical Review Letters)](https://journals.aps.org/prl/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Physical-Review-Letters_PRL.md)
 | Multidiscipline | [PNAS (Proceedings of the National Academy of Sciences)](https://www.pnas.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Proceedings-of-the-National-Academy-of-Sciences_PNAS.md)
-| Multidiscipline | [PIEEE (Proceedings of the IEEE)](http://proceedingsoftheieee.ieee.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/PIEEE.md)
+| Multidiscipline | [PIEEE (Proceedings of the IEEE)](http://proceedingsoftheieee.ieee.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Proceedings-of-the-IEEE_PIEEE.md)
 | Multidiscipline | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Machine-Intelligence.md)
 | CS | [JACM (Journal of the ACM)](https://dl.acm.org/journal/jacm) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/JACM.md)
 | CS | [CACM (Communications of the ACM)](https://dl.acm.org/magazine/cacm) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/CACM.md)
