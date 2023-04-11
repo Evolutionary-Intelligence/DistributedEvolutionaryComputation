@@ -76,8 +76,8 @@ For more details about the **history** and **classification** of EC, refer to th
 ## Evolutionary Programming (EP)
 
 * Fogel, D.B., 1999. [An overview of evolutionary programming](https://link.springer.com/chapter/10.1007/978-1-4612-1542-4_5). In Evolutionary Algorithms (pp. 89-109). Springer, New York, NY.
-* Fogel, D.B., Fogel, L.J. and Atmar, J.W., 1991, January. [Meta-evolutionary programming](https://ieeexplore.ieee.org/document/186507). In Conference Record of Asilomar Conference on Signals, Systems & Computers (pp. 540-541). IEEE Computer Society.
 * Fogel, D.B. and Fogel, L.J., 1995, September. [An introduction to evolutionary programming](https://link.springer.com/chapter/10.1007/3-540-61108-8_28). In European Conference on Artificial Evolution (pp. 21-33). Springer, Berlin, Heidelberg.
+* Fogel, D.B., Fogel, L.J. and Atmar, J.W., 1991, January. [Meta-evolutionary programming](https://ieeexplore.ieee.org/document/186507). In Conference Record of Asilomar Conference on Signals, Systems & Computers (pp. 540-541). IEEE Computer Society.
 * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1966. [Artificial intelligence through simulated evolution](https://www.amazon.com.au/Artificial-Intelligence-Through-Simulated-Evolution/dp/0471265160). John Wiley & Sons Inc.
 
 ## Genetic Programming (GP)
