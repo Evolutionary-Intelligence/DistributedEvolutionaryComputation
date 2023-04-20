@@ -1,5 +1,6 @@
 # PPSN (Parallel Problem Solving from Nature)
 
+* Badkobeh, G., Lehre, P.K. and Sudholt, D., 2014. Unbiased black-box complexity of parallel search. In Parallel Problem Solving from Nature (pp. 892-901). Springer International Publishing. [ [www](https://link.springer.com/chapter/10.1007/978-3-319-10762-2_88) ]
 * Rudolph, G., 1990, October. Global optimization by means of distributed evolution strategies. In International Conference on Parallel Problem Solving from Nature (pp. 209-213). Springer, Berlin, Heidelberg. [ [www](https://link.springer.com/chapter/10.1007/BFb0029754) ] ( **ES** | **Distributed** )
 
 ## 2002
