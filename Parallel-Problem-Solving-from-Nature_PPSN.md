@@ -1,17 +1,8 @@
 # PPSN (Parallel Problem Solving from Nature)
 
-* Badkobeh, G., Lehre, P.K. and Sudholt, D., 2014. Unbiased black-box complexity of parallel search. In Parallel Problem Solving from Nature (pp. 892-901). Springer International Publishing. [ [www](https://link.springer.com/chapter/10.1007/978-3-319-10762-2_88) ]
-* Mambrini, A., Sudholt, D. and Yao, X., 2012. Homogeneous and heterogeneous island models for the set cover problem. In Parallel Problem Solving from Nature (pp. 11-20). Springer Berlin Heidelberg. [ [www](https://link.springer.com/chapter/10.1007/978-3-642-32937-1_2) ]
+* Badkobeh, G., Lehre, P.K. and Sudholt, D., 2014. Unbiased black-box complexity of parallel search. In International Conference on Parallel Problem Solving from Nature (pp. 892-901). Springer International Publishing. [ [www](https://link.springer.com/chapter/10.1007/978-3-319-10762-2_88) ]
+* Mambrini, A., Sudholt, D. and Yao, X., 2012. Homogeneous and heterogeneous island models for the set cover problem. In International Conference on Parallel Problem Solving from Nature (pp. 11-20). Springer Berlin Heidelberg. [ [www](https://link.springer.com/chapter/10.1007/978-3-642-32937-1_2) ]
+* Müller, S.D., Hansen, N. and Koumoutsakos, P., 2002, September. Increasing the serial and the parallel performance of the CMA-evolution strategy with large populations. In International Conference on Parallel Problem Solving from Nature (pp. 422-431). Springer, Berlin, Heidelberg. [ [www](https://link.springer.com/chapter/10.1007/3-540-45712-7_41) ] ( **ES** | **Parallel/Distributed** | **Abstract Model** )
+* Chen, H. and Flann, N.S., 1994, October. Parallel simulated annealing and genetic algorithms: A space of hybrid methods. In International Conference on Parallel Problem Solving from Nature (pp. 428-438). Springer, Berlin, Heidelberg.
+* Schleuter, M.G., 1992. Comparison of local mating strategies in massively parallel genetic algorithms. In International Conference on Parallel Problem Solving from Nature (pp.553-561).
 * Rudolph, G., 1990, October. Global optimization by means of distributed evolution strategies. In International Conference on Parallel Problem Solving from Nature (pp. 209-213). Springer, Berlin, Heidelberg. [ [www](https://link.springer.com/chapter/10.1007/BFb0029754) ] ( **ES** | **Distributed** )
-
-## 2002
-
-Müller, S.D., Hansen, N. and Koumoutsakos, P., 2002, September. Increasing the serial and the parallel performance of the CMA-evolution strategy with large populations. In International Conference on Parallel Problem Solving from Nature (pp. 422-431). Springer, Berlin, Heidelberg. [ [www](https://link.springer.com/chapter/10.1007/3-540-45712-7_41) ] ( **Parallel/Distributed ES**  | **Abstract Model** )
-
-## 1994
-
-Chen, H. and Flann, N.S., 1994, October. Parallel simulated annealing and genetic algorithms: A space of hybrid methods. In International Conference on Parallel Problem Solving from Nature (pp. 428-438). Springer, Berlin, Heidelberg.
-
-## 1992
-
-Schleuter, M.G., 1992. Comparison of local mating strategies in massively parallel genetic algorithms. In International Conference on Parallel Problem Solving from Nature (pp.553-561).
