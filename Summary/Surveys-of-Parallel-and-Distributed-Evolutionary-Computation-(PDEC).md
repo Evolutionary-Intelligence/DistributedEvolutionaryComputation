@@ -1,5 +1,6 @@
 # Surveys of Parallel and Distributed Evolutionary Computation (PDEC)
 
+* Luque, G. and Alba, E., 2011. Parallel genetic algorithms: Theory and real world applications. Springer.
 * Alba, E., Luque, G. and Nesmachnow, S., 2013. [Parallel metaheuristics: Recent advances and new trends](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-3995.2012.00862.x). International Transactions in Operational Research, 20(1), pp.1-48.
 * Alba, E., Talbi, E.G., Luque, G. and Melab, N., 2005. Parallel metaheuristics: A new class of algorithms. Wiley.
 * Cahon, S., Melab, N. and Talbi, E.G., 2004. [Paradiseo: A framework for the reusable design of parallel and distributed metaheuristics](https://link.springer.com/article/10.1023/B:HEUR.0000026900.92269.ec). Journal of Heuristics, 10(3), pp.357-380.
