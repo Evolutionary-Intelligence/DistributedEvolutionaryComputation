@@ -1,6 +1,7 @@
 # PPSN (Parallel Problem Solving from Nature)
 
 * Badkobeh, G., Lehre, P.K. and Sudholt, D., 2014. Unbiased black-box complexity of parallel search. In Parallel Problem Solving from Nature (pp. 892-901). Springer International Publishing. [ [www](https://link.springer.com/chapter/10.1007/978-3-319-10762-2_88) ]
+* Mambrini, A., Sudholt, D. and Yao, X., 2012. Homogeneous and heterogeneous island models for the set cover problem. In Parallel Problem Solving from Nature (pp. 11-20). Springer Berlin Heidelberg. [ [www](https://link.springer.com/chapter/10.1007/978-3-642-32937-1_2) ]
 * Rudolph, G., 1990, October. Global optimization by means of distributed evolution strategies. In International Conference on Parallel Problem Solving from Nature (pp. 209-213). Springer, Berlin, Heidelberg. [ [www](https://link.springer.com/chapter/10.1007/BFb0029754) ] ( **ES** | **Distributed** )
 
 ## 2002
