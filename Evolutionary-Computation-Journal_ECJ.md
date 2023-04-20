@@ -1,5 +1,7 @@
 # ECJ (Evolutionary Computation Journal)
 
+* Lässig, J. and Sudholt, D., 2014. [General upper bounds on the runtime of parallel evolutionary algorithms](https://direct.mit.edu/evco/article-abstract/22/3/405/981/General-Upper-Bounds-on-the-Runtime-of-Parallel). Evolutionary Computation, 22(3), pp.405-437.
+
 ## 2018
 
 Ferrucci, F., Salza, P. and Sarro, F., 2018. Using hadoop MapReduce for parallel genetic algorithms: A comparison of the global, grid and island models. Evolutionary Computation, 26(4), pp.535-567. [ [www](https://direct.mit.edu/evco/article/26/4/535/1074/Using-Hadoop-MapReduce-for-Parallel-Genetic) ]
