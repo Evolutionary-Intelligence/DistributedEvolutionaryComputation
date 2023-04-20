@@ -1,5 +1,6 @@
 # PNAS (Proceedings of the National Academy of Sciences)
 
+* Garg, S., Shiragur, K., Gordon, D.M. and Charikar, M., 2023. Distributed algorithms from arboreal ants for the shortest path problem. Proceedings of the National Academy of Sciences, 120(6), p.e2207959120. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2207959120) ] ( **SI** | **Distributed** )
 * Wang, G., Phan, T.V., Li, S., Wang, J., Peng, Y., Chen, G., Qu, J., Goldman, D.I., Levin, S.A., Pienta, K. and Amend, S., 2022. Robots as models of evolving systems. Proceedings of the National Academy of Sciences, 119(12), p.e2120019119. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2120019119) | [pdf](https://www.pnas.org/doi/pdf/10.1073/pnas.2120019119) ] ( **ER** | **SR** )
 * Zhou, J., Wang, T., Chen, L., Liao, L., Wang, Y., Xi, S., Chen, B., Lin, T., Zhang, Q., Ye, C. and Zhou, X., 2022. Boosting the reaction kinetics in aprotic lithium-carbon dioxide batteries with unconventional phase metal nanomaterials. Proceedings of the National Academy of Sciences, 119(40), p.e2204666119. [ [www](https://www.pnas.org/doi/full/10.1073/pnas.2204666119) | [pdf](https://www.pnas.org/doi/pdf/10.1073/pnas.2204666119) ] ( **PSO** | **Continuous Optimization** )
   * "In the first place, phonon spectra were simulated to verify the dynamic stability of the 4H Ir crystal obtained by the CALYPSO."
