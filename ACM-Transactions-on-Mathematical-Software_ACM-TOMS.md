@@ -13,15 +13,9 @@ Here we also listed some recent ACM-TOMS papers for black-box optimization (BBO)
 * Porcelli, M. and Toint, P.L., 2022. Exploiting problem structure in derivative free optimization. ACM Transactions on Mathematical Software, 48(1), pp.1-25. [ [www](https://dl.acm.org/doi/10.1145/3474054) ]
 * Audet, C., Le Digabel, S., Montplaisir, V.R. and Tribes, C., 2022. Algorithm 1027: NOMAD version 4: nonlinear optimization with the MADS algorithm. ACM Transactions on Mathematical Software, 48(3), pp.1-22. [ [www](https://dl.acm.org/doi/abs/10.1145/3544489) ]
 * Chang, T.H., Watson, L.T., Larson, J., Neveu, N., Thacker, W.I., Deshpande, S. and Lux, T.C., 2022. Algorithm 1028: VTMOP: Solver for blackbox multiobjective optimization problems. ACM Transactions on Mathematical Software, 48(3), pp.1-34. [ [www](https://dl.acm.org/doi/abs/10.1145/3529258) ]
+* Lakhmiri, D., Digabel, S.L. and Tribes, C., 2021. HyperNOMAD: Hyperparameter optimization of deep neural networks using mesh adaptive direct search. ACM Transactions on Mathematical Software, 47(3), pp.1-27. [ [www](https://dl.acm.org/doi/abs/10.1145/3450975) ]
+* Porcelli, M. and Toint, P.L., 2019. A note on using performance and data profiles for training algorithms. ACM Transactions on Mathematical Software, 45(2), pp.1-10. [ [www](https://dl.acm.org/doi/10.1145/3310362) ]
+* Cartis, C., Fiala, J., Marteau, B. and Roberts, L., 2019. Improving the flexibility and robustness of model-based derivative-free optimization solvers. ACM Transactions on Mathematical Software, 45(3), pp.1-41. [ [www](https://dl.acm.org/doi/abs/10.1145/3338517) ]
 * Porcelli, M. and Toint, P.L., 2017. BFO, A trainable derivative-free brute force optimizer for nonlinear bound-constrained optimization and equilibrium computations with continuous and discrete variables. ACM Transactions on Mathematical Software, 44(1), pp.1-25. [ [www](https://dl.acm.org/doi/abs/10.1145/3085592) ]
 * Gould, N. and Scott, J., 2016. A note on performance profiles for benchmarking software. ACM Transactions on Mathematical Software, 43(2), pp.1-5. [ [www](https://dl.acm.org/doi/10.1145/2950048) ]
-
-## 2021
-
-Lakhmiri, D., Digabel, S.L. and Tribes, C., 2021. HyperNOMAD: Hyperparameter optimization of deep neural networks using mesh adaptive direct search. ACM Transactions on Mathematical Software, 47(3), pp.1-27. [ [www](https://dl.acm.org/doi/abs/10.1145/3450975) ]
-
-## 2019
-
-Porcelli, M. and Toint, P.L., 2019. A note on using performance and data profiles for training algorithms. ACM Transactions on Mathematical Software, 45(2), pp.1-10. [ [www](https://dl.acm.org/doi/10.1145/3310362) ]
-
-Cartis, C., Fiala, J., Marteau, B. and Roberts, L., 2019. Improving the flexibility and robustness of model-based derivative-free optimization solvers. ACM Transactions on Mathematical Software, 45(3), pp.1-41. [ [www](https://dl.acm.org/doi/abs/10.1145/3338517) ]
+* Le Digabel, S., 2011. Algorithm 909: NOMAD: Nonlinear optimization with the MADS algorithm. ACM Transactions on Mathematical Software (TOMS), 37(4), pp.1-15. [ [www](https://dl.acm.org/doi/10.1145/1916461.1916468) ]
