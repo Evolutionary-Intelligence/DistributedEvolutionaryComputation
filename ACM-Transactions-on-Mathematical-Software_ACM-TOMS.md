@@ -8,7 +8,7 @@ For ACM-TOMS, we systematically searched all the papers regarding Evolutionary C
 * Siarry, P., Berthiau, G., Durdin, F. and Haussy, J., 1997. Enhanced simulated annealing for globally minimizing functions of many-continuous variables. ACM Transactions on Mathematical Software, 23(2), pp.209-228. [ [www](https://dl.acm.org/doi/abs/10.1145/264029.264043) ] ( **SA** | **Continuous Optimization** )
 * Corana, A., Marchesi, M., Martini, C. and Ridella, S., 1987. Minimizing multimodal functions of continuous variables with the “simulated annealing” algorithm. ACM Transactions on Mathematical Software, 13(3), pp.262-280. [ [www](https://dl.acm.org/doi/abs/10.1145/29380.29864) | [Corrigenda](https://dl.acm.org/doi/10.1145/66888.356281) ] ( **SA** | **Continuous Optimization** )
 
-Here we also listed some recent ACM-TOMS papers for black-box optimization (BBO) from the traditional mathematical optimization community, which could be referred to as baseline/competitive algorithms for EC. 
+Here we also listed ACM-TOMS papers for black-box optimization (BBO) from the traditional mathematical optimization community, which could be referred to as competitive algorithms for EC/SI. 
 
 * Porcelli, M. and Toint, P.L., 2022. Exploiting problem structure in derivative free optimization. ACM Transactions on Mathematical Software, 48(1), pp.1-25. [ [www](https://dl.acm.org/doi/10.1145/3474054) ]
 * Audet, C., Le Digabel, S., Montplaisir, V.R. and Tribes, C., 2022. Algorithm 1027: NOMAD version 4: nonlinear optimization with the MADS algorithm. ACM Transactions on Mathematical Software, 48(3), pp.1-22. [ [www](https://dl.acm.org/doi/abs/10.1145/3544489) ]
