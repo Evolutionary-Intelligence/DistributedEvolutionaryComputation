@@ -1,7 +1,8 @@
-# Applications of Evolution Stratgies (ES)
+# Applications of Evolution Stratgies (AppES)
 
 * Bujny, M., Aulig, N., Olhofer, M. and Duddeck, F., 2018. [Identification of optimal topologies for crashworthiness with the evolutionary level set method](https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1331493). International Journal of Crashworthiness, 23(4), pp.395-416. [ [TUM Ph.D. Dissertation](https://mediatum.ub.tum.de/doc/1540709/document.pdf) ]
 * Gazzola, M., Vasilyev, O.V. and Koumoutsakos, P., 2011. [Shape optimization for drag reduction in linked bodies using evolution strategies](https://www.sciencedirect.com/science/article/abs/pii/S0045794910002154). Computers & structures, 89(11-12), pp.1224-1231.
+* Jostins, L. and Jaeger, J., 2010. [Reverse engineering a gene network using an asynchronous parallel evolution strategy](https://link.springer.com/article/10.1186/1752-0509-4-17). BMC Systems Biology, 4, pp.1-16.
 * Koumoutsakos, P. and Müller, S.D., 2006. [Flow optimization using stochastic algorithms](https://link.springer.com/chapter/10.1007/978-3-540-36085-8_10). Control of Fluid Flow, pp.213-229.
 * Sbalzarini, I.F., Müller, S.D., Koumoutsakos, P.D. and Cottet, G.H., 2001, July. Evolution strategies for computational and experimental fluid dynamic applications. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1064-1071).
 * Bäck, T., Hammel, U., Schütz, M., Schwefel, H.P. and Sprave, J., 1996. Applications of evolutionary algorithms at the center for applied systems analysis. In Computational Methods in Applied Sciences (pp. 243-250).
