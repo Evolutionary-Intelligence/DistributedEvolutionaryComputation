@@ -5,6 +5,7 @@
 * Jostins, L. and Jaeger, J., 2010. [Reverse engineering a gene network using an asynchronous parallel evolution strategy](https://link.springer.com/article/10.1186/1752-0509-4-17). BMC Systems Biology, 4, pp.1-16.
 * Fomekong-Nanfack, Y., Kaandorp, J.A. and Blom, J., 2007. [Efficient parameter estimation for spatio-temporal models of pattern formation: Case study of Drosophila melanogaster](https://academic.oup.com/bioinformatics/article/23/24/3356/262640). Bioinformatics, 23(24), pp.3356-3363.
 * Koumoutsakos, P. and Müller, S.D., 2006. [Flow optimization using stochastic algorithms](https://link.springer.com/chapter/10.1007/978-3-540-36085-8_10). Control of Fluid Flow, pp.213-229.
+* Zi, Z. and Klipp, E., 2006. [SBML-PET: A systems biology markup language-based parameter estimation tool](https://academic.oup.com/bioinformatics/article/22/21/2704/250924). Bioinformatics, 22(21), pp.2704-2705.
 * Sbalzarini, I.F., Müller, S.D., Koumoutsakos, P.D. and Cottet, G.H., 2001, July. Evolution strategies for computational and experimental fluid dynamic applications. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1064-1071).
 * Bäck, T., Hammel, U., Schütz, M., Schwefel, H.P. and Sprave, J., 1996. Applications of evolutionary algorithms at the center for applied systems analysis. In Computational Methods in Applied Sciences (pp. 243-250).
 * Heckler, R. and Schwefel, H.P., 1978. Superimposing direct search methods for parameter optimization onto dynamic simulation models. Institute of Electrical and Electronics Engineers. IEEE.
