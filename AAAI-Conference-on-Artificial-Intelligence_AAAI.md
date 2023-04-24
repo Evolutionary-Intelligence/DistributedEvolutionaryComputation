@@ -6,6 +6,7 @@
 * Stanley, K.O., Karpov, I., Miikkulainen, R. and Gold, A., 2006, July. Real-time interactive learning in the NERO video game. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1953-1954). [ [www](https://www.aaai.org/Library/AAAI/2006/aaai06-354.php) | [pdf](https://www.aaai.org/Papers/AAAI/2006/AAAI06-354.pdf) ] ( **NE** )
 * Rana, S., Heckendorn, R.B. and Whitley, D., 1998, January. A tractable Walsh analysis of SAT and its implications for genetic algorithms. In AAAI/IAAI (pp. 392-397).
 * Moriarty, D.E. and Miikkulainen, R., 1994, January. Evolving neural networks to focus minimax search. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1371-1377). [ [www](https://www.aaai.org/Library/AAAI/1994/aaai94-211.php) | [pdf](https://www.aaai.org/Papers/AAAI/1994/AAAI94-211.pdf) ] ( **NE** )
+* Nakakuki, Y. and Sadeh, N., 1994, September. Increasing the efficiency of simulated annealing search by learning to recognize (un) promising runs. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1316-1322).
 
 ## 2021
 
