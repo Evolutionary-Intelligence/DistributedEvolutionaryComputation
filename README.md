@@ -6,7 +6,7 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 
 ## Review Scope
 
-**WARNING**: In this paper repository, we do **NOT** judge the scientific/engineering value of each paper, since such a value judgement is often a non-trival task, depending on knowledge background and viewpoint. Instead, we **ONLY** provide a widely-accessible platform to collect papers regarding EC on some (rather all) *top-tier* and also *related EC-focused* journals as much as possible. Since *only* PDEC are covered for EC-focused publications, this paper collection may be **somewhat biased**, which should be noted.
+**WARNING**: In this paper repository, we do **NOT** judge the scientific(theoretical)/engineering(practical) value of each paper, since such a value judgement is often a non-trival task. Instead, we **ONLY** provide a widely-accessible platform to collect papers regarding EC on some (rather all) *top-tier* and also *related EC-focused* journals as much as possible. Since *only* PDEC are covered for EC-focused publications, this paper collection may be **somewhat biased**, which should be noticed.
 
 | Publication Type  | Publication Name | Search Range | Collection |
 | :---: | :---: | :---: | :---: |
