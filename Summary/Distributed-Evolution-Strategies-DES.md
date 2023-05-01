@@ -1,5 +1,6 @@
 # Distributed Evolution Strategies (DES)
 
+* Kucharavy, A., Monti, M., Guerraoui, R. and Dolamic, L., 2023. [Byzantine-resilient learning beyond gradients: Distributing evolutionary search](https://arxiv.org/abs/2304.13540). arXiv preprint arXiv:2304.13540.
 * Cuccu, G., Rolshoven, L., Vorpe, F., Cudré-Mauroux, P. and Glasmachers, T., 2022, July. [DiBB: Distributing black-box optimization](https://dl.acm.org/doi/abs/10.1145/3512290.3528764). In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 341-349). ACM.
 * Wilson, D., Veeramachaneni, K. and O’Reilly, U.M., 2013. [Cloud scale distributed evolutionary strategies for high dimensional problems](https://link.springer.com/chapter/10.1007/978-3-642-37192-9_52). In Applications of Evolutionary Computation (pp. 519-528). Springer Berlin Heidelberg.
 * Jostins, L. and Jaeger, J., 2010. [Reverse engineering a gene network using an asynchronous parallel evolution strategy](https://link.springer.com/article/10.1186/1752-0509-4-17). BMC Systems Biology, 4, pp.1-16.
