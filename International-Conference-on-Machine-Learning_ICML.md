@@ -1,5 +1,6 @@
 # ICML (International Conference on Machine Learning)
 
+* Real, E., Liang, C., So, D. and Le, Q., 2020, November. AutoML-zero: Evolving machine learning algorithms from scratch. In International Conference on Machine Learning (pp. 8007-8019). PMLR. [ [www](http://proceedings.mlr.press/v119/real20a.html) | [pdf](http://proceedings.mlr.press/v119/real20a/real20a.pdf) | [C++](https://github.com/google-research/google-research/tree/master/automl_zero) ]
 * Wang, R., Lehman, J., Rawal, A., Zhi, J., Li, Y., Clune, J. and Stanley, K., 2020, November. Enhanced POET: Open-ended reinforcement learning through unbounded invention of learning challenges and their solutions. In International Conference on Machine Learning (pp. 9940-9951). PMLR. [ [www](https://proceedings.mlr.press/v119/wang20l.html) | [pdf](http://proceedings.mlr.press/v119/wang20l/wang20l.pdf) ] ( **ERL** )
 * Majumdar, S., Khadka, S., Miret, S., Mcaleer, S. and Tumer, K., 2020, November. Evolutionary reinforcement learning for sample-efficient multiagent coordination. In International Conference on Machine Learning (pp. 6651-6660). PMLR. [ [www](http://proceedings.mlr.press/v119/majumdar20a.html) | [pdf](http://proceedings.mlr.press/v119/majumdar20a/majumdar20a.pdf) | [Python](https://anonymous.4open.science/repository/1590ffb0-aa6b-4838-9d59-ae20cdd8df11/README.md) ] ( **ERL** )
 * Khadka, S., Majumdar, S., Nassar, T., Dwiel, Z., Tumer, E., Miret, S., Liu, Y. and Tumer, K., 2019, May. Collaborative evolutionary reinforcement learning. In International Conference on Machine Learning (pp. 3341-3350). PMLR. [ [www](http://proceedings.mlr.press/v97/khadka19a.html) | [pdf](http://proceedings.mlr.press/v97/khadka19a/khadka19a.pdf) | [Python](https://github.com/IntelAI/cerl) ] ( **ERL** )
@@ -26,8 +27,6 @@
 * Caruana, R.A. and Schaffer, J.D., 1988. Representation and hidden bias: Gray vs. binary coding for genetic algorithms. In International Conference on Machine Learning (pp. 153-161). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500219) ] ( **GA** )
 
 ## 2020
-
-Real, E., Liang, C., So, D. and Le, Q., 2020, November. AutoML-zero: Evolving machine learning algorithms from scratch. In International Conference on Machine Learning (pp. 8007-8019). PMLR. [ [www](http://proceedings.mlr.press/v119/real20a.html) | [pdf](http://proceedings.mlr.press/v119/real20a/real20a.pdf) | [C++](https://github.com/google-research/google-research/tree/master/automl_zero) ]
 
 Angermueller, C., Belanger, D., Gane, A., Mariet, Z., Dohan, D., Murphy, K., Colwell, L. and Sculley, D., 2020, November. Population-based black-box optimization for biological sequence design. In International Conference on Machine Learning (pp. 324-334). PMLR. [ [www](http://proceedings.mlr.press/v119/angermueller20a.html) | [pdf](http://proceedings.mlr.press/v119/angermueller20a/angermueller20a.pdf) ] (**Ensemble**)
 
