@@ -7,4 +7,5 @@
 
 ******* *** *******
 
+* Boender, C.G.E. and Rinnooy Kan, A.H.G., 1987. Bayesian stopping rules for multistart global optimization methods. Mathematical Programming, 37, pp.59-80.
 * Boender, C.G.E., Rinnooy Kan, A.H.G., Timmer, G.T. and Stougie, L., 1982. A stochastic method for global optimization. Mathematical Programming, 22, pp.125-140.
