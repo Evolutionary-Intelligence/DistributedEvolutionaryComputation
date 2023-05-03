@@ -2,6 +2,7 @@
 
 * Kucharavy, A., Monti, M., Guerraoui, R. and Dolamic, L., 2023. Byzantine-resilient learning beyond gradients: Distributing evolutionary search. arXiv preprint arXiv:2304.13540. [ [arxiv](https://arxiv.org/abs/2304.13540) ] ( **ES** | **Distributed** )
 * Sastry, K., Goldberg, D.E. and Llorà, X., 2007, July. Towards billion-bit optimization via a parallel estimation of distribution algorithm. In Proceedings of Genetic and Evolutionary Computation Conference (pp. 577-584). [ [www](https://dl.acm.org/doi/abs/10.1145/1276958.1277077) ] ( **EDA** | **Parallel** )
+* Spiessens, P., 1991. A massively parallel genetic algorithm implementation and first analysis. In Proceedings of International Conference on Genetic Algorithms (pp. 279-286).
 
 ## 2020
 
