@@ -159,7 +159,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 * https://quality-diversity.github.io/    (Now it is actively updated by Antoine Cully, Jean-Baptiste Mouret, and Stephane Doncieux.)
 * Fontaine, M.C. and Nikolaidis, S., 2021. Differentiable quality diversity. Advances in Neural Information Processing Systems.
-* Ecoffet, A., Huizinga, J., Lehman, J., Stanley, K.O. and Clune, J., 2021. First return, then explore. Nature, 590(7847), pp.580-586.
+* Ecoffet, A., Huizinga, J., Lehman, J., Stanley, K.O. and Clune, J., 2021. [First return, then explore](https://www.nature.com/articles/s41586-020-03157-9). Nature, 590(7847), pp.580-586.
 * Chatzilygeroudis, K., Cully, A., Vassiliades, V. and Mouret, J.B., 2021. Quality-diversity optimization: A novel branch of stochastic optimization. In Black Box Optimization, Machine Learning, and No-Free Lunch Theorems (pp. 109-135). Springer, Cham.
 * Cully, A. and Demiris, Y., 2018. Quality and diversity optimization: A unifying modular framework. IEEE Transactions on Evolutionary Computation, 22(2), pp.245-259.
 * Pugh, J.K., Soros, L.B. and Stanley, K.O., 2016. Quality diversity: A new frontier for evolutionary computation. Frontiers in Robotics and AI, 3, pp.1-17.
