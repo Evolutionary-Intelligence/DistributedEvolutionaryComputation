@@ -1,5 +1,6 @@
 # Surveys of Parallel and Distributed Evolutionary Computation (PDEC)
 
+* Harada, T. and Alba, E., 2020. [Parallel genetic algorithms: A useful survey](https://dl.acm.org/doi/abs/10.1145/3400031). ACM Computing Surveys, 53(4), pp.1-39.
 * Wang, R. and Zhi, J., 2020, July. [A hands-on guide to distributed computing paradigms for evolutionary computation](https://dl.acm.org/doi/abs/10.1145/3377929.3389880). In Proceedings of Genetic and Evolutionary Computation Conference Companion (pp. 1055-1074). ACM.
 * Alba, E., Luque, G. and Nesmachnow, S., 2013. [Parallel metaheuristics: Recent advances and new trends](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-3995.2012.00862.x). International Transactions in Operational Research, 20(1), pp.1-48.
 * Luque, G. and Alba, E., 2011. Parallel genetic algorithms: Theory and real world applications. Springer.
