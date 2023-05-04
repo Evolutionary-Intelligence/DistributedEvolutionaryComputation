@@ -2,6 +2,7 @@
 
 * Bossek, J. and Sudholt, D., 2023. Do additional target points speed up evolutionary algorithms?. Theoretical Computer Science, 950, p.113757. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0304397523000701) ]
 * Doerr, B. and Rajabi, A., 2023. Stagnation detection meets fast mutation. Theoretical Computer Science, 946, p.113670. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397522007526) ]
+* Hellwig, M. and Beyer, H.G., 2020. On the steady state analysis of covariance matrix self-adaptation evolution strategies on the noisy ellipsoid model. Theoretical Computer Science, 832, pp.98-122. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0304397518303360) ]
 * Akimoto, Y., Auger, A. and Hansen, N., 2020. Quality gain analysis of the weighted recombination evolution strategy on general convex quadratic functions. Theoretical Computer Science, 832, pp.42-67. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0304397518303359) ] ( **ES** )
 * Shir, O.M. and Yehudayoff, A., 2020. On the covariance-hessian relation in evolution strategies. Theoretical Computer Science, 801, pp.157-174. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0304397519305468) ] ( **ES** )
 * Echegoyen, C., Santana, R., Mendiburu, A. and Lozano, J.A., 2015. Comprehensive characterization of the behaviors of estimation of distribution algorithms. Theoretical Computer Science, 598, pp.64-86. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397515003229) ]
