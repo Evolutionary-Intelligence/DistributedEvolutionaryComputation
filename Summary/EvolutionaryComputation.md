@@ -17,7 +17,6 @@ For more details about the **history** and **classification** of EC, refer to th
   * Fogel, D.B., 1998. [Unearthing a fossil from the history of evolutionary computation](https://dl.acm.org/doi/10.5555/2379195.2379196). Fundamenta Informaticae, 35(1-4), pp.1-16.
 * Back, T., Hammel, U. and Schwefel, H.P., 1997. [Evolutionary computation: Comments on the history and current state](https://ieeexplore.ieee.org/document/585888). IEEE Transactions on Evolutionary Computation, 1(1), pp.3-17.
   * Back, T., 1996. [Evolutionary algorithms in theory and practice: Evolution strategies, evolutionary programming, genetic algorithms](https://academic.oup.com/book/40791). Oxford University Press.
-
 * Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
 
 ## Genetic Algorithm (GA) [ [Interview](https://users.sussex.ac.uk/~philh/pubs/HollandINTV.pdf) | [CACM](https://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/abstract) ]
@@ -57,7 +56,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Bäck, T., Foussette, C. and Krause, P., 2013. [Contemporary evolution strategies](https://link.springer.com/book/10.1007/978-3-642-40137-4). Berlin: Springer.
   * Bäck, T. and Hoffmeister, F., 1994. [Basic aspects of evolution strategies](https://link.springer.com/article/10.1007/BF00175353). Statistics and Computing, 4, pp.51-63.
   * Bäck, T., Hoffmeister, F. and Schwefel, H.P., 1991. [A survey of evolution strategies](https://www.universiteitleiden.nl/en/staffmembers/thomas-back). In Proceedings of International Conference on Genetic Algorithms.
-* Beyer, H.G. and Schwefel, H.P., 2002. [Evolution strategies–A comprehensive introduction](https://link.springer.com/article/10.1023/A:1015059928466). Natural Computing, 1(1), pp.3-52.
+* Beyer, H.G. and Schwefel, H.P., 2002. [Evolution strategies–A comprehensive introduction](https://link.springer.com/article/10.1023/A:1015059928466). Natural Computing, 1(1), pp.3-52. [ [MA-ES](https://ieeexplore.ieee.org/abstract/document/7875115) ]
   * Arnold, D.V. and Beyer, H.G., 2004. [Performance analysis of evolutionary optimization with cumulative step length adaptation](https://ieeexplore.ieee.org/abstract/document/1284729). IEEE Transactions on Automatic Control, 49(4), pp.617-622.
   * Beyer, H.G., 2001. [The theory of evolution strategies](https://link.springer.com/book/10.1007/978-3-662-04378-3). Springer Science & Business Media.
   * Beyer, H.G., 1995. [Toward a theory of evolution strategies: On the benefits of sex—The (μ/μ, λ) theory](https://direct.mit.edu/evco/article-abstract/3/1/81/738/Toward-a-Theory-of-Evolution-Strategies-On-the). Evolutionary Computation, 3(1), pp.81-111.
