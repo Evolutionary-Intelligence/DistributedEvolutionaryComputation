@@ -28,9 +28,6 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 | AI/ML | [NeurIPS (Neural Information Processing Systems)](https://neurips.cc/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Neural-Information-Processing-Systems_NeurIPS.md)
 | AI/ML | [ICML (International Conference on Machine Learning)](https://icml.cc/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/International-Conference-on-Machine-Learning_ICML.md)
 | AI/ML | [COLT (Conference on Learning Theory)](https://learningtheory.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Conference-on-Learning-Theory_COLT.md)
-| EC | [ECJ (Evolutionary Computation Journal)](https://direct.mit.edu/evco) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Evolutionary-Computation-Journal_ECJ.md)
-| EC | [TELO (ACM Transactions on Evolutionary Learning and Optimization)](https://dl.acm.org/journal/telo) | PDEC | [www](https://dl.acm.org/journal/telo)
-| EC | [TEVC (IEEE Transactions on Evolutionary Computation)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)  | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-Transactions-on-Evolutionary-Computation_TEVC.md)
 | Neural Networks | [NECO (Neural Computation)](https://direct.mit.edu/neco) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Neural-Computation_NECO.md)
 | Neural Networks | [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Neural-Networks.md)
 | Neural Networks | [TNNLS (IEEE Transactions on Neural Networks and Learning Systems)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-Transactions-on-Neural-Networks-and-Learning-Systems_IEEE-TNNLS.md)
@@ -56,6 +53,10 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 | Chemistry | [JACS (Journal of the American Chemical Society)](https://pubs.acs.org/journal/jacsat) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Journal-of-the-American-Chemical-Society_JACS.md)
 | Chemistry | [Nature Chemistry](https://www.nature.com/nchem/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Chemistry.md)
 | Multidiscipline | [Nature Communications](https://www.nature.com/ncomms/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Communications.md)
+| EC | [ECJ (Evolutionary Computation Journal)](https://direct.mit.edu/evco) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Evolutionary-Computation-Journal_ECJ.md)
+| EC | [TELO (ACM Transactions on Evolutionary Learning and Optimization)](https://dl.acm.org/journal/telo) | PDEC | [www](https://dl.acm.org/journal/telo)
+| EC | [TEVC (IEEE Transactions on Evolutionary Computation)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)  | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-Transactions-on-Evolutionary-Computation_TEVC.md)
+| EC | [PPSN (Parallel Problem Solving from Nature)](https://link.springer.com/conference/ppsn) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Parallel-Problem-Solving-from-Nature_PPSN.md)
 
 ## A (Relatively Big) Family of [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
 
