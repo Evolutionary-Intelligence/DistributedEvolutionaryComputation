@@ -80,7 +80,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Fogel, D.B., Fogel, L.J. and Atmar, J.W., 1991, January. [Meta-evolutionary programming](https://ieeexplore.ieee.org/document/186507). In Conference Record of Asilomar Conference on Signals, Systems & Computers (pp. 540-541). IEEE Computer Society.
 * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1966. [Artificial intelligence through simulated evolution](https://www.amazon.com.au/Artificial-Intelligence-Through-Simulated-Evolution/dp/0471265160). John Wiley & Sons Inc.
 
-## Genetic Programming (GP)
+## Genetic Programming (GP) [ [PySR](https://arxiv.org/pdf/2305.01582.pdf) ]
 
 * [http://gpbib.cs.ucl.ac.uk/](http://gpbib.cs.ucl.ac.uk/)
 * Langdon, W.B., 2020. Genetic programming and evolvable machines at 20. Genetic Programming and Evolvable Machines, 21(1), pp.205-217.
