@@ -11,7 +11,7 @@
 * Arnold, D.V. and Castellarin, A.S., 2009, July. A novel approach to adaptive isolation in evolution strategies. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 491-498).
 * Beyer, H.G., Dobler, M., Hämmerle, C. and Masser, P., 2009, July. On strategy parameter control by meta-ES. In Proceedings of ACM Genetic and Evolutionary Computation Conference (pp. 499-506). ACM.
 * Arnold, D.V. and MacLeod, A., 2008. Step length adaptation on ridge functions. Evolutionary Computation, 16(2), pp.151-184.
-* Arnold, D.V. and MacLeod, A., 2006, July. Hierarchically organised evolution strategies on the parabolic ridge. In Proceedings of ACM Genetic and Evolutionary Computation Conference (pp. 437-444). ACM.
+* Arnold, D.V. and MacLeod, A., 2006, July. [Hierarchically organised evolution strategies on the parabolic ridge](https://dl.acm.org/doi/abs/10.1145/1143997.1144080). In Proceedings of ACM Genetic and Evolutionary Computation Conference (pp. 437-444). ACM.
 * Rechenberg, I., 1994. Evolutionsstrategie’94, Volume 1 of Werkstatt Bionik und Evolutionstechnik. Frommann Holzboog, Stuttgart.
 * Herdy, M., 1993. The number of offspring as strategy parameter in hierarchically organized evolution strategies. ACM SIGBIO Newsletter, 13(2), pp.2-9.
 * Herdy, M., 1992. Reproductive isolation as strategy parameter in hierarichally organized evolution strategies, Parallel Problem Solving from Nature, Vol. 2.
