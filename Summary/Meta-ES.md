@@ -1,5 +1,6 @@
 # Meta-ES
 
+* Shir, O.M., Xing, X. and Rabitz, H., 2021. Multi-level evolution strategies for high-resolution black-box control. Journal of Heuristics, 27, pp.1021-1055.
 * Spettel, P., Beyer, H.G. and Hellwig, M., 2019, August. Steady state analysis of a multi-recombinative meta-ES on a conically constrained problem with comparison to σSA and CSA. In Proceedings of ACM/SIGEVO Conference on Foundations of Genetic Algorithms (pp. 43-57). ACM.
 * Hellwig, M. and Beyer, H.G., 2019, July. Analysis of a meta-ES on a conically constrained problem. In Proceedings of ACM Genetic and Evolutionary Computation Conference (pp. 673-681). ACM.
 * Hellwig, M., 2017. Analysis of mutation strength adaptation within evolution strategies on the ellipsoid model and methods for the treatment of fitness noise (Doctoral dissertation, Universität Ulm).
