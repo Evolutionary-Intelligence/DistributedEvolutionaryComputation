@@ -9,6 +9,7 @@
 * Beyer, H.G. and Hellwig, M., 2012, July. Mutation strength control by Meta-ES on the sharp ridge. In Proceedings of ACM Genetic and Evolutionary Computation Conference (pp. 305-312). ACM.
 * Li, W., 2010. Intelligent joint channel parameter estimation techniques for mobile wireless positioning applications (Doctoral dissertation, Brunel University School of Engineering and Design).
 * Beyer, H.G., Dobler, M., Hämmerle, C. and Masser, P., 2009, July. On strategy parameter control by meta-ES. In Proceedings of ACM Genetic and Evolutionary Computation Conference (pp. 499-506). ACM.
+* Arnold, D.V. and MacLeod, A., 2008. Step length adaptation on ridge functions. Evolutionary Computation, 16(2), pp.151-184.
 * Arnold, D.V. and MacLeod, A., 2006, July. Hierarchically organised evolution strategies on the parabolic ridge. In Proceedings of ACM Genetic and Evolutionary Computation Conference (pp. 437-444). ACM.
 * Rechenberg, I., 1994. Evolutionsstrategie’94, Volume 1 of Werkstatt Bionik und Evolutionstechnik. Frommann Holzboog, Stuttgart.
 * Herdy, M., 1993. The number of offspring as strategy parameter in hierarchically organized evolution strategies. ACM SIGBIO Newsletter, 13(2), pp.2-9.
