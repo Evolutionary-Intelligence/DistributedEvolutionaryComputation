@@ -7,3 +7,4 @@
 * Beyer, H.G. and Hellwig, M., 2012, July. Mutation strength control by Meta-ES on the sharp ridge. In Proceedings of ACM Genetic and Evolutionary Computation Conference (pp. 305-312). ACM.
 * Beyer, H.G., Dobler, M., Hämmerle, C. and Masser, P., 2009, July. On strategy parameter control by meta-ES. In Proceedings of ACM Genetic and Evolutionary Computation Conference (pp. 499-506). ACM.
 * Arnold, D.V. and MacLeod, A., 2006, July. Hierarchically organised evolution strategies on the parabolic ridge. In Proceedings of ACM Genetic and Evolutionary Computation Conference (pp. 437-444). ACM.
+* Rechenberg, I., 1978. Evolutionsstrategien. In Simulationsmethoden in der Medizin und Biologie: Workshop, Hannover, 29. Sept.–1. Okt. 1977 (pp. 83-114). Springer Berlin Heidelberg.
