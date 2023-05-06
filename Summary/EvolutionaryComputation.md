@@ -227,4 +227,4 @@ For more details about the **history** and **classification** of EC, refer to th
 * [BMW Group](https://dl.acm.org/doi/abs/10.1145/3512290.3528712)
 * Google
   * [Multitask Learning](https://arxiv.org/pdf/2205.12755.pdf) | [Multitask Systems](https://arxiv.org/pdf/2205.10937.pdf)
-* [OpenAI](https://openai.com/research/evolution-strategies)
+* [OpenAI](https://openai.com/research/evolution-strategies) | [open-source code](https://github.com/openai/evolution-strategies-starter)
