@@ -226,4 +226,4 @@ For more details about the **history** and **classification** of EC, refer to th
    * [AutoDesk](https://www.autodesk.com/research/projects/bionic-partition-project) [ [paper](https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/pdf/naturebased-hybrid-computational-geometry.pdf) ]
 * [BMW Group](https://dl.acm.org/doi/abs/10.1145/3512290.3528712)
 * Google
-  * [Multitask learning](https://arxiv.org/pdf/2205.12755.pdf)
+  * [Multitask Learning](https://arxiv.org/pdf/2205.12755.pdf) | [Multitask Systems](https://arxiv.org/pdf/2205.10937.pdf)
