@@ -16,7 +16,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * [Fogel, D.B.](http://www.davidfogel.com/), 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://ieeexplore.ieee.org/book/5237910). John Wiley & Sons.
   * Fogel, D.B., 1998. [Evolutionary computation: The fossil record](https://ieeexplore.ieee.org/book/5263042). IEEE Press.
   * Fogel, D.B., 1998. [Unearthing a fossil from the history of evolutionary computation](https://dl.acm.org/doi/10.5555/2379195.2379196). Fundamenta Informaticae, 35(1-4), pp.1-16.
-* Back, T., Hammel, U. and Schwefel, H.P., 1997. [Evolutionary computation: Comments on the history and current state](https://ieeexplore.ieee.org/document/585888). IEEE Transactions on Evolutionary Computation, 1(1), pp.3-17.
+* [Back, T.](https://www.universiteitleiden.nl/en/staffmembers/thomas-back), Hammel, U. and [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1997. [Evolutionary computation: Comments on the history and current state](https://ieeexplore.ieee.org/document/585888). IEEE Transactions on Evolutionary Computation, 1(1), pp.3-17.
   * Back, T., 1996. [Evolutionary algorithms in theory and practice: Evolution strategies, evolutionary programming, genetic algorithms](https://academic.oup.com/book/40791). Oxford University Press.
 * Wolpert, D.H. and Macready, W.G., 1997. No free lunch theorems for optimization. IEEE Transactions on Evolutionary Computation, 1(1), pp.67-82.
 
