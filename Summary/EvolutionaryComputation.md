@@ -221,7 +221,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Axelrod, R., 1987. The evolution of strategies in the iterated prisoner’s dilemma. Genetic Algorithms and Simulated Annealing.
 * Bremermann, H.J., 1968. Numerical optimization procedures derived from biological evolution processes. Cybernetic Problems in Bionics, pp.597-616.
 * Fogel, D.B., 2006. [Nils barricelli-artificial life, coevolution, self-adaptation](https://ieeexplore.ieee.org/abstract/document/1597062). IEEE Computational Intelligence Magazine, 1(1), pp.41-45.
-* Turing, A., 1948. [Intelligent machinery](https://weightagnostic.github.io/papers/turing1948.pdf). In The Essential Turing. Oxford University Press.
+* [Turing, A.](https://en.wikipedia.org/wiki/Alan_Turing), 1948. [Intelligent machinery](https://weightagnostic.github.io/papers/turing1948.pdf). In The Essential Turing. Oxford University Press.
   * Copeland, B.J. ed., 2004. [The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma](https://global.oup.com/academic/product/the-essential-turing-9780198250807). Oxford University Press.
 
 # Some Interesting Applications
