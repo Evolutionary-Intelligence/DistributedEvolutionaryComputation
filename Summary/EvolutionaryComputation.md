@@ -22,9 +22,10 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Genetic Algorithm (GA) [ [Interview](https://users.sussex.ac.uk/~philh/pubs/HollandINTV.pdf) | [CACM](https://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/abstract) ]
 
-* Whitley, D., 2019. [Next generation genetic algorithms: A user’s guide and tutorial](https://link.springer.com/chapter/10.1007/978-3-319-91086-4_8). In Handbook of Metaheuristics (pp. 245-274). Springer, Cham.
-  * Whitley, D., 1994. [A genetic algorithm tutorial](https://link.springer.com/article/10.1007/BF00175354). Statistics and Computing, 4(2), pp.65-85.
-  * Whitley, D., Dominic, S., Das, R. and Anderson, C.W., 1993. [Genetic reinforcement learning for neurocontrol problems](https://link.springer.com/article/10.1023/A:1022674030396). Machine Learning, 13, pp.259-284.
+* [Whitley, D.](https://www.cs.colostate.edu/~whitley/), 2019. [Next generation genetic algorithms: A user’s guide and tutorial](https://link.springer.com/chapter/10.1007/978-3-319-91086-4_8). In Handbook of Metaheuristics (pp. 245-274). Springer, Cham.
+  * [Whitley, D.](https://www.cs.colostate.edu/~whitley/), Rana, S., Dzubera, J. and Mathias, K.E., 1996. [Evaluating evolutionary algorithms](https://www.sciencedirect.com/science/article/pii/0004370295001247). Artificial Intelligence, 85(1-2), pp.245-276.
+  * [Whitley, D.](https://www.cs.colostate.edu/~whitley/), 1994. [A genetic algorithm tutorial](https://link.springer.com/article/10.1007/BF00175354). Statistics and Computing, 4(2), pp.65-85.
+  * [Whitley, D.](https://www.cs.colostate.edu/~whitley/), Dominic, S., Das, R. and Anderson, C.W., 1993. [Genetic reinforcement learning for neurocontrol problems](https://link.springer.com/article/10.1023/A:1022674030396). Machine Learning, 13, pp.259-284.
 * Mitchell, M., 1998. [An introduction to genetic algorithms](https://direct.mit.edu/books/book/4675/An-Introduction-to-Genetic-Algorithms). MIT Press.
   * Mitchell, M. and Taylor, C.E., 1999. [Evolutionary computation: An overview](https://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.30.1.593). Annual Review of Ecology and Systematics, 30(1), pp.593-616.
   * Mitchell, M., Holland, J. and Forrest, S., 1993. [When will a genetic algorithm outperform hill climbing](https://proceedings.neurips.cc/paper/1993/hash/ab88b15733f543179858600245108dd8-Abstract.html). Advances in Neural Information Processing Systems (pp. 51-58).
