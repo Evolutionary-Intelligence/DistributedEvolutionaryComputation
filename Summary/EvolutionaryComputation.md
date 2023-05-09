@@ -13,7 +13,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Schoenauer, M., 2015. [Evolutionary algorithms](https://link.springer.com/chapter/10.1007/978-94-017-9014-7_28). Handbook of Evolutionary Thinking in the Sciences. Springer.
 * De Jong, K.A., 2006. [Evolutionary computation: A unified approach](https://ieeexplore.ieee.org/book/6267245). MIT Press.
   * De Jong, K.A., Fogel, D.B. and Schwefel, H.P., 1997. [A history of evolutionary computation](https://www.taylorfrancis.com/chapters/edit/10.1201/9781482268713-13/history-evolutionary-computation). Handbook of Evolutionary Computation. Oxford University Press.
-* Fogel, D.B., 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://ieeexplore.ieee.org/book/5237910). John Wiley & Sons.
+* [Fogel, D.B.](http://www.davidfogel.com/), 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://ieeexplore.ieee.org/book/5237910). John Wiley & Sons.
   * Fogel, D.B., 1998. [Evolutionary computation: The fossil record](https://ieeexplore.ieee.org/book/5263042). IEEE Press.
   * Fogel, D.B., 1998. [Unearthing a fossil from the history of evolutionary computation](https://dl.acm.org/doi/10.5555/2379195.2379196). Fundamenta Informaticae, 35(1-4), pp.1-16.
 * Back, T., Hammel, U. and Schwefel, H.P., 1997. [Evolutionary computation: Comments on the history and current state](https://ieeexplore.ieee.org/document/585888). IEEE Transactions on Evolutionary Computation, 1(1), pp.3-17.
