@@ -1,6 +1,7 @@
 # Distributed Evolution Strategies (DES)
 
 * Kucharavy, A., Monti, M., Guerraoui, R. and Dolamic, L., 2023. [Byzantine-resilient learning beyond gradients: Distributing evolutionary search](https://arxiv.org/abs/2304.13540). arXiv preprint arXiv:2304.13540. [ **EPFL** ]
+* Rehbach, F., Zaefferer, M., Fischbach, A., Rudolph, G. and Bartz-Beielstein, T., 2022. [Benchmark-driven configuration of a parallel model-based optimization algorithm](https://ieeexplore.ieee.org/abstract/document/9745560). IEEE Transactions on Evolutionary Computation, 26(6), pp.1365-1379.
 * Cuccu, G., Rolshoven, L., Vorpe, F., Cudré-Mauroux, P. and Glasmachers, T., 2022, July. [DiBB: Distributing black-box optimization](https://dl.acm.org/doi/abs/10.1145/3512290.3528764). In Proceedings of Genetic and Evolutionary Computation Conference (pp. 341-349). ACM.
 * Wang, R. and Zhi, J., 2020, July. [A hands-on guide to distributed computing paradigms for evolutionary computation](https://dl.acm.org/doi/abs/10.1145/3377929.3389880). In Proceedings of Genetic and Evolutionary Computation Conference Companion (pp. 1055-1074). ACM. [ **Uber AI** ]
 * Glasmachers, T., 2013, July. [A natural evolution strategy with asynchronous strategy updates](https://dl.acm.org/doi/abs/10.1145/2463372.2463424). In Proceedings of Genetic and Evolutionary Computation Conference (pp. 431-438).
