@@ -5,6 +5,7 @@
 * Moore, G.E., 2006. Cramming more components onto integrated circuits, Reprinted from Electronics, volume 38, number 8, April 19, 1965, pp. 114 ff. IEEE Solid-State Circuits Society Newsletter, 11(3), pp.33-35. [ **Intel** ]
 * Moore, G.E., 1998. Cramming more components onto integrated circuits. Proceedings of the IEEE, 86(1), pp.82-85. [ **Intel** ]
 * Macready, W.G., Siapas, A.G. and Kauffman, S.A., 1996. Criticality and parallelism in combinatorial optimization. Science, 271(5245), pp.56-59. [ **Santa Fe Institute + Massachusetts Institute of Technology** ]
+* Hill, M.D., 1990. [What is scalability?](https://dl.acm.org/doi/abs/10.1145/121973.121975). ACM SIGARCH Computer Architecture News, 18(4), pp.18-21.
 * Gustafson, J.L., Montry, G.R. and Benner, R.E., 1988. [Development of parallel methods for a 1024-processor hypercube](https://epubs.siam.org/doi/abs/10.1137/0909041). SIAM Journal on Scientific and Statistical Computing, 9(4), pp.609-638. [ **Sandia National Laboratories** ]
 * Fisher, D.C., 1988. Your favorite parallel algorithms might not be as fast as you think. IEEE Transactions on Computers, 37(02), pp.211-213.
 * Flynn, M.J., 1966. Very high-speed computing systems. Proceedings of the IEEE, 54(12), pp.1901-1909. [ **Argonne National Laboratory** ]
