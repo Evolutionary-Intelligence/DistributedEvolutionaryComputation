@@ -8,4 +8,4 @@
 * Hill, M.D., 1990. [What is scalability?](https://dl.acm.org/doi/abs/10.1145/121973.121975). ACM SIGARCH Computer Architecture News, 18(4), pp.18-21.
 * Gustafson, J.L., Montry, G.R. and Benner, R.E., 1988. [Development of parallel methods for a 1024-processor hypercube](https://epubs.siam.org/doi/abs/10.1137/0909041). SIAM Journal on Scientific and Statistical Computing, 9(4), pp.609-638. [ **Sandia National Laboratories** ]
 * Fisher, D.C., 1988. Your favorite parallel algorithms might not be as fast as you think. IEEE Transactions on Computers, 37(02), pp.211-213.
-* Flynn, M.J., 1966. Very high-speed computing systems. Proceedings of the IEEE, 54(12), pp.1901-1909. [ **Argonne National Laboratory** ]
+* Flynn, M.J., 1966. [Very high-speed computing systems](https://ieeexplore.ieee.org/abstract/document/1447203). Proceedings of the IEEE, 54(12), pp.1901-1909. [ **Argonne National Laboratory** ]
