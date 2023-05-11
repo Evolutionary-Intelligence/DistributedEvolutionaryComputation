@@ -1,5 +1,6 @@
 # Applications of Evolution Stratgies (AppES)
 
+* Thamm, M. and Rosenow, B., 2023. [Machine learning optimization of Majorana hybrid nanowires](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.116202). Physical Review Letters, 130(11), p.116202.
 * Li, A.C., Macridin, A., Mrenna, S. and Spentzouris, P., 2023. [Simulating scalar field theories on quantum computers with limited resources](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.032603). Physical Review A, 107(3), p.032603. [ **Fermi National Accelerator Laboratory** ]
 * Betz, J., Betz, T., Fent, F., Geisslinger, M., Heilmeier, A., Hermansdorfer, L., Herrmann, T., Huch, S., Karle, P., Lienkamp, M. and Lohmann, B., 2022. [TUM autonomous motorsport: An autonomous racing software for the Indy Autonomous Challenge](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22153). Journal of Field Robotics. [ **TUM** ]
 * Bujny, M., Aulig, N., Olhofer, M. and Duddeck, F., 2018. [Identification of optimal topologies for crashworthiness with the evolutionary level set method](https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1331493). International Journal of Crashworthiness, 23(4), pp.395-416. [ [TUM Ph.D. Dissertation](https://mediatum.ub.tum.de/doc/1540709/document.pdf) ]
