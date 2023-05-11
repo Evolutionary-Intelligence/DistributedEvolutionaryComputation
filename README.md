@@ -68,8 +68,8 @@ Here, we consider a *relatively big* family of evolutionary algorithms (and also
 
 * Four Conventional EAs
   * [Genetic Algorithms (GA)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)  
-  * [Evolution Strategies (ES)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
-    * Covariance Matrix Adaptation ES (CMA-ES)
+  * [Evolution Strategies (ES)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md) [ [applications](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/Applications-of-Evolution-Stratgies-ES.md) ]
+    * Covariance Matrix Adaptation ES (CMA-ES) 
   * [Evolutionary Programming (EP)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#evolutionary-programming-ep)
   * [Genetic Programming (GP)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#genetic-programming-gp)
 * Two [Swarm Intelligence (SI)](https://www.springer.com/journal/11721) Siblings
