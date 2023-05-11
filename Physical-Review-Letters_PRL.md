@@ -1,5 +1,6 @@
 # PRL (Physical Review Letters)
 
+* Thamm, M. and Rosenow, B., 2023. Machine learning optimization of Majorana hybrid nanowires. Physical Review Letters, 130(11), p.116202. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.116202) ] ( **CMA-ES** )
 * Yang, X., Li, J., Ding, Y., Xu, M., Zhu, X.F. and Zhu, J., 2022. Observation of transient parity-time symmetry in electronic systems. Physical Review Letters, 128(6), p.065701. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.065701) | Editors' Suggestion ] ( **PSO** | **Continuous Optimization** )
   * "The advanced particle swarm optimization (PSO) algorithm is used to accurately fit measured results of the free oscillating currents in the primary oscillator to yield the loss rates and the frequencies, which is difficult to be observed directly from the raw experimental results. The indicators identified by PSO are beneficial to reveal and reflect the characteristic of transient PT symmetry."
     *  J. Kennedy and R. Eberhart, Particle swarm optimization, in Proceedings of the IEEE International Conference on Neural Networks (IEEE, Perth, 1995), p. 1942.
