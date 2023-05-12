@@ -5,6 +5,7 @@
 
 ******* *** *******
 
+* Vicente, L.N. and Custódio, A.L., 2012. Analysis of direct searches for discontinuous functions. Mathematical Programming, 133, pp.299-325.
 * Byrd, R.H., Dert, C.L., Rinnooy Kan, A.H. and Schnabel, R.B., 1990. Concurrent stochastic methods for global optimization. Mathematical Programming, 46(1-3), pp.1-29.
 * Rinnooy Kan, A.H.G. and Timmer, G.T., 1987. [Stochastic global optimization methods part II: Multi level methods](https://link.springer.com/article/10.1007/BF02592071). Mathematical Programming, 39, pp.57-78.
 * Rinnooy Kan, A.H.G. and Timmer, G.T., 1987. Stochastic global optimization methods part I: Clustering methods. Mathematical Programming, 39, pp.27-56.
