@@ -174,7 +174,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Mouret, J.B. and Clune, J., 2015. Illuminating search spaces by mapping elites. arXiv preprint arXiv:1504.04909.
 * Lehman, J. and Stanley, K.O., 2011, July. Evolving a diversity of virtual creatures through novelty search and local competition. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 211-218).
 
-## NeuroEvolution (aka Evolving Neural Networks)
+## NeuroEvolution (aka Evolving Neural Networks) [ [wired](https://www.wired.com/story/the-pursuit-of-creativity-can-make-algorithms-much-smarter/) ]
 
 * Stanley, K.O., Clune, J., Lehman, J. and Miikkulainen, R., 2019. Designing neural networks through neuroevolution. Nature Machine Intelligence, 1(1), pp.24-35.
 * Jaderberg, M., Czarnecki, W.M., Dunning, I., Marris, L., Lever, G., Castaneda, A.G., Beattie, C., Rabinowitz, N.C., Morcos, A.S., Ruderman, A. and Sonnerat, N., 2019. Human-level performance in 3D multiplayer games with population-based reinforcement learning. Science, 364(6443), pp.859-865.
