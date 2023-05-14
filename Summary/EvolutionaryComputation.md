@@ -236,6 +236,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * [BMW Group](https://dl.acm.org/doi/abs/10.1145/3512290.3528712)
 * Google
   * [Multitask Learning](https://arxiv.org/pdf/2205.12755.pdf) | [Multitask Systems](https://arxiv.org/pdf/2205.10937.pdf)
+  * [Symbolic Functional Evolutionary Search (SyFES)](https://www.science.org/doi/full/10.1126/sciadv.abq0279)
 * [Honda](https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1331493)
 * IBM
   * [JPMorgan Chase & Co.](https://arxiv.org/abs/1910.09694)
