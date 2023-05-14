@@ -15,6 +15,7 @@
 * Arnold, D.V., 2006. Weighted multirecombination evolution strategies. Theoretical Computer Science, 361(1), pp.18-37. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397506003008) ] ( **ES** | **Continuous Optimization** )
 * Jägersküpper, J., 2006. How the (1+1) ES using isotropic mutations minimizes positive definite quadratic forms. Theoretical Computer Science, 361(1), pp.38-56. [ [www](https://www.sciencedirect.com/science/article/pii/S030439750600301X) ] ( **ES** | **Continuous Optimization** )
   * Jägersküpper, J., 2003, June. Analysis of a simple evolutionary algorithm for minimization in Euclidean spaces. In ICALP (pp. 1068-1079).
+* Auger, A., 2005. Convergence results for the (1, λ)-SA-ES using the theory of ϕ-irreducible Markov chains. Theoretical Computer Science, 334(1-3), pp.35-69. [ [www](https://www.sciencedirect.com/science/article/pii/S030439750400814X) ]
 * Dorigo, M. and Blum, C., 2005. Ant colony optimization theory: A survey. Theoretical Computer Science, 344(2-3), pp.243-278. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397505003798) ] ( **ACO** )
 * Fischer, S. and Wegener, I., 2005. The one-dimensional Ising model: Mutation versus recombination. Theoretical Computer Science, 344(2-3), pp.208-225. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397505002380) ]
 * Beyer, H.G., Schwefel, H.P. and Wegener, I., 2002. How to analyse evolutionary algorithms. Theoretical Computer Science, 287(1), pp.101-130. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397502001378) ]
