@@ -59,7 +59,7 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 | EC | [TEVC (IEEE Transactions on Evolutionary Computation)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)  | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-Transactions-on-Evolutionary-Computation_TEVC.md)
 | EC | [PPSN (Parallel Problem Solving from Nature)](https://link.springer.com/conference/ppsn) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Parallel-Problem-Solving-from-Nature_PPSN.md)
 
-## A (Relatively Big) Family of [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
+## [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md)
 
 *******
 **"Frequently nonadditive interaction (i.e., "epistasis" or "nonlinearity") makes it impossible to determine the performance of a structure from a study of its isolated parts. While these difficulties pose a real problem for the analyst, we know that they are routinely handled by biological adaptive processes, qua processes."**---[[John H. Holland, Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence, 1992]](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
