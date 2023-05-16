@@ -1,7 +1,8 @@
 # Science Robotics
 
 * Lee, R.H., Mulder, E.A. and Hopkins, J.B., 2022. Mechanical neural networks: Architected materials that learn behaviors. Science Robotics, 7(71), p.eabq7278. [ [www](https://www.science.org/doi/10.1126/scirobotics.abq7278) ] ( **GA** | **PS** )
-* Vásárhelyi, G., Virágh, C., Somorjai, G., Nepusz, T., Eiben, A.E. and Vicsek, T., 2018. Optimized flocking of autonomous drones in confined environments. Science Robotics, 3(20), p.eaat3536. [ [www](https://www.science.org/doi/epdf/10.1126/scirobotics.aat3536) ]
+* Witte, K.A., Fiers, P., Sheets-Singer, A.L. and Collins, S.H., 2020. Improving the energy economy of human running with powered and unpowered ankle exoskeleton assistance. Science Robotics, 5(40), p.eaay9108. [ [www]() ] ( **CMA-ES** )
+* Vásárhelyi, G., Virágh, C., Somorjai, G., Nepusz, T., Eiben, A.E. and Vicsek, T., 2018. Optimized flocking of autonomous drones in confined environments. Science Robotics, 3(20), p.eaat3536. [ [www](https://www.science.org/doi/epdf/10.1126/scirobotics.aat3536) ] ( **CMA-ES** )
 
 Blackiston, D., Lederer, E., Kriegman, S., Garnier, S., Bongard, J. and Levin, M., 2021. A cellular platform for the development of synthetic living machines. Science Robotics, 6(52).
 
