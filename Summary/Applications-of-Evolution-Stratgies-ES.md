@@ -22,7 +22,8 @@
 * Koumoutsakos, P. and Müller, S.D., 2006. [Flow optimization using stochastic algorithms](https://link.springer.com/chapter/10.1007/978-3-540-36085-8_10). Control of Fluid Flow, pp.213-229.
 * Zi, Z. and Klipp, E., 2006. [SBML-PET: A systems biology markup language-based parameter estimation tool](https://academic.oup.com/bioinformatics/article/22/21/2704/250924). Bioinformatics, 22(21), pp.2704-2705.
 * Sbalzarini, I.F., Müller, S.D., Koumoutsakos, P.D. and Cottet, G.H., 2001, July. [Evolution strategies for computational and experimental fluid dynamic applications](https://dl.acm.org/doi/abs/10.5555/2955239.2955430). In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1064-1071). ACM.
+* **Rechenberg, I.**, 2000. [Case studies in evolutionary experimentation and computation](https://www.sciencedirect.com/science/article/abs/pii/S0045782599003813). Computer Methods in Applied Mechanics and Engineering, 186(2-4), pp.125-140.
 * Lutz, T. and Wagner, S., 1998. [Drag reduction and shape optimization of airship bodies](https://arc.aiaa.org/doi/abs/10.2514/2.2313?journalCode=ja). Journal of Aircraft, 35(3), pp.345-351.
-* Bäck, T., Hammel, U., Schütz, M., Schwefel, H.P. and Sprave, J., 1996. Applications of evolutionary algorithms at the center for applied systems analysis. In Computational Methods in Applied Sciences (pp. 243-250).
-* Heckler, R. and Schwefel, H.P., 1978. Superimposing direct search methods for parameter optimization onto dynamic simulation models. Institute of Electrical and Electronics Engineers. IEEE.
-* Klockgether, J. and Schwefel, H.P., 1970. Two-phase nozzle and hollow core jet experiments. In Engineering Aspects of Magnetohydrodynamics.
+* Bäck, T., Hammel, U., Schütz, M., **Schwefel, H.P.** and Sprave, J., 1996. Applications of evolutionary algorithms at the center for applied systems analysis. In Computational Methods in Applied Sciences (pp. 243-250).
+* Heckler, R. and **Schwefel, H.P.**, 1978. Superimposing direct search methods for parameter optimization onto dynamic simulation models. Institute of Electrical and Electronics Engineers. IEEE.
+* Klockgether, J. and **Schwefel, H.P.**, 1970. Two-phase nozzle and hollow core jet experiments. In Engineering Aspects of Magnetohydrodynamics.
