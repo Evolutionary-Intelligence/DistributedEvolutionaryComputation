@@ -31,6 +31,9 @@
   * "The expansion coefficients of the four different cluster expansions have been obtained by fitting to density functional theory input calculations, employing an evolutionary approach using genetic algorithms."
     * Blum, V., Hart, G. L. W., Walorski, M. J. & Zunger, A. Using genetic algorithms to map first-principles results to model Hamiltonians: application to the generalized Ising model for alloys. Phys. Rev. B 72, 165113 (2005).
     * Hart, G. L. W., Blum, V., Walorski, M. J. & Zunger, A. Evolutionary approach for determining first-principles hamiltonians. Nature Mater. 4, 391–394 (2005).
+* Stayrook, S., Jaru-Ampornpan, P., Ni, J., Hochschild, A. and Lewis, M., 2008. Crystal structure of the λ repressor and a model for pairwise cooperative operator binding. Nature, 452(7190), pp.1022-1025.
+  * "Previously determined structures of CTD (1F39) and NTD (1LMB) were fitted to the density using a genetic algorithm."
+    * Chang, G. & Lewis, M. Molecular replacement using genetic algorithms. Acta Crystallogr. D 53, 279–289 (1997).
 * Juhás, P., Cherba, D.M., Duxbury, P.M., Punch, W.F. and Billinge, S.J.L., 2006. Ab initio determination of solid-state nanostructure. Nature, 440(7084), pp.655-658. [ [www](https://www.nature.com/articles/nature04556) ] ( **GA** )
   * "Genetic or evolutionary algorithms have been very successful in finding the ground state of many types of clusters using theoretical interatomic potentials."
 * Lenski, R.E., Ofria, C., Pennock, R.T. and Adami, C., 2003. The evolutionary origin of complex features. Nature, 423(6936), pp.139-144. [ [www](https://www.nature.com/articles/nature01568) ] (  **AL** )
