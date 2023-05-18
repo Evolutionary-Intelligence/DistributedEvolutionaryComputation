@@ -53,6 +53,8 @@
   * "Genetic or evolutionary algorithms have been very successful in finding the ground state of many types of clusters using theoretical interatomic potentials."
 * Lenski, R.E., Ofria, C., Pennock, R.T. and Adami, C., 2003. The evolutionary origin of complex features. Nature, 423(6936), pp.139-144. [ [www](https://www.nature.com/articles/nature01568) ] (  **AL** )
 * Yedid, G. and Bell, G., 2002. Macroevolution simulated with autonomously replicating computer programs. Nature, 420(6917), pp.810-812. [ [www](https://www.nature.com/articles/nature01151) ] (  **AL** )
+* Peterson, A.T., Ortega-Huerta, M.A., Bartley, J., Sánchez-Cordero, V., Soberón, J., Buddemeier, R.H. and Stockwell, D.R., 2002. Future projections for Mexican faunas under global climate change scenarios. Nature, 416(6881), pp.626-629. [ [www](https://www.nature.com/articles/416626a) ] ( **GA** )
+  * "Here, using a genetic algorithm and museum specimen occurrence data, we develop ecological niche models for 1,870 species occurring in Mexico and project them onto two climate surfaces modelled for 2055."
 * Wilke, C.O., Wang, J.L., Ofria, C., Lenski, R.E. and Adami, C., 2001. Evolution of digital organisms at high mutation rates leads to survival of the flattest. Nature, 412(6844), pp.331-333. [ [www](https://www.nature.com/articles/35085569) ] (  **AL** )
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 2000. Inspiration for optimization from social insect behaviour. Nature, 406(6791), pp.39-42. [ [www](https://www.nature.com/articles/35017500) ] ( **SI** | **ACO** )
   * "Most instances of most problems are not readily 'linearly' decomposable into building blocks."
