@@ -7,6 +7,7 @@ In this page, we try our best to maintain a (very) short reference list for the 
 * Miikkulainen, R. and Forrest, S., 2021. [A biological perspective on evolutionary computation](https://www.nature.com/articles/s42256-020-00278-8). Nature Machine Intelligence, 3(1), pp.9-15.
 * Eiben, A.E. and Smith, J., 2015. [From evolutionary computation to the evolution of things](https://www.nature.com/articles/nature14544). Nature, 521(7553), pp.476-482.
 * Forrest, S., 1993. [Genetic algorithms: Principles of natural selection applied to computation](https://www.science.org/doi/10.1126/science.8346439). Science, 261(5123), pp.872-878.
+* Bounds, D.G., 1987. [New optimization methods from physics and biology](https://www.nature.com/articles/329215a0). Nature, 329(6136), pp.215-219.
 
 For more details about the **history** and **classification** of EC, refer to the following wonderful books and papers, to name a few:
 
