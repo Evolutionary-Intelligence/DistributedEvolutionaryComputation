@@ -68,6 +68,8 @@
 
 # Research Highlights + News & Views
 
+* [Robotics: Enter the evolvabot](https://www.nature.com/articles/484449a)
+  * Darwin's Devices: What Evolving Robots Can Teach Us About the History of Life and the Future of Technology
 * [Exploiting elephants in the room](https://www.nature.com/articles/464839a)
   * "Reporting in the Journal of the American Chemical Society, Kreutz et al.1 describe their use of an 'evolutionary' algorithm, implemented in a microfluidic system, to discover active catalysts."
 * [Astrophysics: Far off fly-by](https://www.nature.com/articles/455005d)
