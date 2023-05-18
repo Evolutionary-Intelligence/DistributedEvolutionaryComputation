@@ -44,7 +44,9 @@
 * Brady, R.M., 1985. Optimization strategies gleaned from biological evolution. Nature, 317(6040), pp.804-806. [ [www](https://www.nature.com/articles/317804a0) ] (  **GA** )
   * Holland John, H., 1975. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. Ann Arbor: University of Michigan Press.
 
-# Research Highlights
+# Research Highlights + News
 
 * [Astrophysics: Far off fly-by](https://www.nature.com/articles/455005d)
   * "Kirsten Howley of the University of California at Santa Cruz and her colleagues have used what is known as a genetic algorithm to determine that NGC 205 is actually swinging around M31."
+* [Google tool identifies linchpin species](https://www.nature.com/articles/news.2008.1010)
+  * "The gold-standard method for dealing with what happens when a prey species is removed from the system is to use a genetic algorithm in which randomly generated possible solutions are assigned a greater or lesser degree of fitness. Fitter solutions are then combined to create a next-generation algorithm that benefits from their superior elements. The idea is to ultimately ‘evolve’ an optimal solution."
