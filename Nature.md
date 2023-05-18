@@ -83,6 +83,9 @@
   * Holland, J.H., 1992. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. MIT Press.
   * Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection. MIT Press.
 * Viswanathan, G.M., Buldyrev, S.V., Havlin, S., Da Luz, M.G.E., Raposo, E.P. and Stanley, H.E., 1999. Optimizing the success of random searches. Nature, 401(6756), pp.911-914. [ [www](https://www.nature.com/articles/44831) ] ( **RS** )
+* Ho, K.M., Shvartsburg, A.A., Pan, B., Lu, Z.Y., Wang, C.Z., Wacker, J.G., Fye, J.L. and Jarrold, M.F., 1998. Structures of medium-sized silicon clusters. Nature, 392(6676), pp.582-585. [ [www](https://www.nature.com/articles/33369) ]
+  * "Here we report geometries calculated for medium-sized silicon clusters using an unbiased global search with a genetic algorithm."
+    * Deaven, D. M. & Ho, K. M. Molecular geometry optimization with a genetic algorithm. Phys. Rev. Lett. 75, 288–291 (1995).
 * Desmet, J., Maeyer, M.D., Hazes, B. and Lasters, I., 1992. The dead-end elimination theorem and its use in protein side-chain positioning. Nature, 356(6369), pp.539-542. [ [www](https://www.nature.com/articles/356539a0) ] ( **GA** )
   * "For larger systems other strategies had to be developped, such as the Monte Carlo Procedure and the genetic algorithm and clustering approach."
 * Smith, J.M., 1992. Byte-sized evolution. Nature, 355(6363), pp.772-773. [ [www](https://www.nature.com/articles/355772a0) ] ( **AL** )
