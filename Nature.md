@@ -66,7 +66,7 @@
 * Brady, R.M., 1985. Optimization strategies gleaned from biological evolution. Nature, 317(6040), pp.804-806. [ [www](https://www.nature.com/articles/317804a0) ] (  **GA** )
   * Holland John, H., 1975. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. Ann Arbor: University of Michigan Press.
 
-# Research Highlights + News & Views
+# Research Highlights + News & Views + Books & Arts
 
 * [Robotics: Enter the evolvabot](https://www.nature.com/articles/484449a)
   * Darwin's Devices: What Evolving Robots Can Teach Us About the History of Life and the Future of Technology
