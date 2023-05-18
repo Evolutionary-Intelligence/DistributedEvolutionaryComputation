@@ -49,6 +49,9 @@
   * "The expansion coefficients of the four different cluster expansions have been obtained by fitting to density functional theory input calculations, employing an evolutionary approach using genetic algorithms."
     * Blum, V., Hart, G. L. W., Walorski, M. J. & Zunger, A. Using genetic algorithms to map first-principles results to model Hamiltonians: application to the generalized Ising model for alloys. Phys. Rev. B 72, 165113 (2005).
     * Hart, G. L. W., Blum, V., Walorski, M. J. & Zunger, A. Evolutionary approach for determining first-principles hamiltonians. Nature Mater. 4, 391–394 (2005).
+* Zinzen, R.P., Girardot, C., Gagneur, J., Braun, M. and Furlong, E.E., 2009. Combinatorial binding predicts spatio-temporal cis-regulatory activity. Nature, 462(7269), pp.65-70. [ [www](https://www.nature.com/articles/nature08531) ] ( **GA** )
+  * "Initial position weight matrices (PWMs) were gathered either from the literature or by de novo motif discovery using the software RSAT and GAPWM."
+    * Li, L., Liang, Y. & Bass, R. L. GAPWM: a genetic algorithm method for optimizing a position weight matrix. Bioinformatics 23, 1188–1194 (2007).
 * Stayrook, S., Jaru-Ampornpan, P., Ni, J., Hochschild, A. and Lewis, M., 2008. Crystal structure of the λ repressor and a model for pairwise cooperative operator binding. Nature, 452(7190), pp.1022-1025.
   * "Previously determined structures of CTD (1F39) and NTD (1LMB) were fitted to the density using a genetic algorithm."
     * Chang, G. & Lewis, M. Molecular replacement using genetic algorithms. Acta Crystallogr. D 53, 279–289 (1997).
