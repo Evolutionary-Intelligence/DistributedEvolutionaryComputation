@@ -48,8 +48,10 @@
 * Brady, R.M., 1985. Optimization strategies gleaned from biological evolution. Nature, 317(6040), pp.804-806. [ [www](https://www.nature.com/articles/317804a0) ] (  **GA** )
   * Holland John, H., 1975. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. Ann Arbor: University of Michigan Press.
 
-# Research Highlights + News
+# Research Highlights + News & Views
 
+* [Exploiting elephants in the room](https://www.nature.com/articles/464839a)
+  * "Reporting in the Journal of the American Chemical Society, Kreutz et al.1 describe their use of an 'evolutionary' algorithm, implemented in a microfluidic system, to discover active catalysts."
 * [Astrophysics: Far off fly-by](https://www.nature.com/articles/455005d)
   * "Kirsten Howley of the University of California at Santa Cruz and her colleagues have used what is known as a genetic algorithm to determine that NGC 205 is actually swinging around M31."
 * [Google tool identifies linchpin species](https://www.nature.com/articles/news.2008.1010)
