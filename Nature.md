@@ -75,6 +75,7 @@
 * Yedid, G. and Bell, G., 2002. Macroevolution simulated with autonomously replicating computer programs. Nature, 420(6917), pp.810-812. [ [www](https://www.nature.com/articles/nature01151) ] (  **AL** )
 * Bond, A.B. and Kamil, A.C., 2002. Visual predators select for crypticity and polymorphism in virtual prey. Nature, 415(6872), pp.609-613. [ [www](https://www.nature.com/articles/415609a) ] ( **GA** )
   * "Moth phenotypes evolved via a genetic algorithm in which individuals detected by the jays were much less likely to reproduce."
+    * Bäck, T. Evolutionary Algorithms in Theory and Practice (Oxford Univ. Press, New York, 1996).
 * Peterson, A.T., Ortega-Huerta, M.A., Bartley, J., Sánchez-Cordero, V., Soberón, J., Buddemeier, R.H. and Stockwell, D.R., 2002. Future projections for Mexican faunas under global climate change scenarios. Nature, 416(6881), pp.626-629. [ [www](https://www.nature.com/articles/416626a) ] ( **GA** )
   * "Here, using a genetic algorithm and museum specimen occurrence data, we develop ecological niche models for 1,870 species occurring in Mexico and project them onto two climate surfaces modelled for 2055."
 * Wilke, C.O., Wang, J.L., Ofria, C., Lenski, R.E. and Adami, C., 2001. Evolution of digital organisms at high mutation rates leads to survival of the flattest. Nature, 412(6844), pp.331-333. [ [www](https://www.nature.com/articles/35085569) ] (  **AL** )
