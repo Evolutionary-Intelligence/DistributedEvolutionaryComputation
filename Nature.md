@@ -86,6 +86,8 @@
 
 # Research Highlights + News & Views + Books & Arts
 
+* [Phase transformations observed at the interfaces between crystalline grains in pure metals](https://www.nature.com/articles/d41586-020-00765-3)
+  * "The authors therefore obtained further proof using a machine-learning approach (an evolutionary algorithm) in atomic computer simulations of a grain boundary that had the same geometry as the experimentally observed boundaries."
 * [Robotics: Enter the evolvabot](https://www.nature.com/articles/484449a)
   * Darwin's Devices: What Evolving Robots Can Teach Us About the History of Life and the Future of Technology
 * [Exploiting elephants in the room](https://www.nature.com/articles/464839a)
