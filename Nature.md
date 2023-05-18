@@ -69,6 +69,8 @@
     * Chang, G. & Lewis, M. Molecular replacement using genetic algorithms. Acta Crystallogr. D 53, 279–289 (1997).
 * Juhás, P., Cherba, D.M., Duxbury, P.M., Punch, W.F. and Billinge, S.J.L., 2006. Ab initio determination of solid-state nanostructure. Nature, 440(7084), pp.655-658. [ [www](https://www.nature.com/articles/nature04556) ] ( **GA** )
   * "Genetic or evolutionary algorithms have been very successful in finding the ground state of many types of clusters using theoretical interatomic potentials."
+* Lovis, C., Mayor, M., Pepe, F., Alibert, Y., Benz, W., Bouchy, F., Correia, A.C., Laskar, J., Mordasini, C., Queloz, D. and Santos, N.C., 2006. An extrasolar planetary system with three Neptune-mass planets. Nature, 441(7091), pp.305-309.
+  * "In our case, the genetic algorithm yields orbital parameters that are undistinguishable from those we have found with the simple least-squares minimization, and confirms that the three-planet solution gives a superior fit compared to the two-planet model."
 * Lenski, R.E., Ofria, C., Pennock, R.T. and Adami, C., 2003. The evolutionary origin of complex features. Nature, 423(6936), pp.139-144. [ [www](https://www.nature.com/articles/nature01568) ] (  **AL** )
 * Yedid, G. and Bell, G., 2002. Macroevolution simulated with autonomously replicating computer programs. Nature, 420(6917), pp.810-812. [ [www](https://www.nature.com/articles/nature01151) ] (  **AL** )
 * Peterson, A.T., Ortega-Huerta, M.A., Bartley, J., Sánchez-Cordero, V., Soberón, J., Buddemeier, R.H. and Stockwell, D.R., 2002. Future projections for Mexican faunas under global climate change scenarios. Nature, 416(6881), pp.626-629. [ [www](https://www.nature.com/articles/416626a) ] ( **GA** )
