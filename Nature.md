@@ -49,6 +49,7 @@
     * Amstrup, B., Toth, G. J., Szabo, G., Rabitz, H. & Loerincz, A. Genetic algorithm with migration on topology conserving maps for optimal control of quantum systems. J. Phys. Chem. 99, 5206–5213 (1995).
     * Lovett, N. B., Crosnier, C., Perarnau-Llobet, M. & Sanders, B. C. Differential evolution for many-particle adaptive quantum metrology. Phys. Rev. Lett. 110, 220501 (2013).
 * Van Saders, J.L., Ceillier, T., Metcalfe, T.S., Aguirre, V.S., Pinsonneault, M.H., García, R.A., Mathur, S. and Davies, G.R., 2016. Weakened magnetic braking as the origin of anomalously rapid rotation in old field stars. Nature, 529(7585), pp.181-184.
+* Lorenzo-Redondo, R., Fryer, H.R., Bedford, T., Kim, E.Y., Archer, J., Kosakovsky Pond, S.L., Chung, Y.S., Penugonda, S., Chipman, J.G., Fletcher, C.V. and Schacker, T.W., 2016. Persistent HIV-1 replication maintains the tissue reservoir during therapy. Nature, 530(7588), pp.51-56.
 * Cully, A., Clune, J., Tarapore, D. and Mouret, J.B., 2015. Robots that can adapt like animals. Nature, 521(7553), pp.503-507. [ [www](https://www.nature.com/articles/nature14422) ] ( **QD** )
   * "An evolutionary algorithm has been developed that allows robots to adapt to unforeseen change. The robots learn behaviours quickly and instinctively by mining the memory of their past achievements." ---[news & views](https://www.nature.com/articles/521426a)
 * **Eiben, A.E. and Smith, J., 2015. From evolutionary computation to the evolution of things. Nature, 521(7553), pp.476-482.** [ [www](https://www.nature.com/articles/nature14544) ] ( **EC** )
