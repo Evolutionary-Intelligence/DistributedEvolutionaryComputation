@@ -1,5 +1,10 @@
 # Science Robotics
 
+* Kim, Y., Yang, Y., Zhang, X., Li, Z., Vázquez-Guardado, A., Park, I., Wang, J., Efimov, A.I., Dou, Z., Wang, Y. and Park, J., 2023. Remote control of muscle-driven miniature robots with battery-free wireless optoelectronics. Science Robotics, 8(74), p.eadd1053. ( **CMA-ES** | **Continuous Optimization** )
+  * "With a computational eBiobot model in hand, we then tackled the problem of optimizing the scaffold to maximize its forward walking speed. To do this, we coupled Elastica with the Covariance Matrix Adaptation Evolution Strategy algorithm (CMA-ES), a method specialized for dealing with nonlinear, nonconvex continuous optimization problems. Coupled with Elastica, CMA-ES was demonstrated as an efficient design tool for a range of engineering and biohybrid applications."
+    * M. Gazzola, L. H. Dudte, A. G. McCormick, L. Mahadevan, Forward and inverse problems in the mechanics of soft filaments. R. Soc. Open Sci. 5, 171528 (2018).
+    * X. Zhang, F. K. Chan, T. Parthasarathy, M. Gazzola, Modeling and simulation of complex dynamic musculoskeletal architectures. Nat. Comm. 10, 4825 (2019).
+    * N. Hansen, “The CMA evolution strategy: A comparing review,” in Towards a New Evolutionary Computation (Springer, Berlin, 2006), pp. 75–102.
 * Lee, R.H., Mulder, E.A. and Hopkins, J.B., 2022. Mechanical neural networks: Architected materials that learn behaviors. Science Robotics, 7(71), p.eabq7278. [ [www](https://www.science.org/doi/10.1126/scirobotics.abq7278) ] ( **GA** | **PS** )
 * Witte, K.A., Fiers, P., Sheets-Singer, A.L. and Collins, S.H., 2020. Improving the energy economy of human running with powered and unpowered ankle exoskeleton assistance. Science Robotics, 5(40), p.eaay9108. [ [www]() ] ( **CMA-ES** )
 * Vásárhelyi, G., Virágh, C., Somorjai, G., Nepusz, T., Eiben, A.E. and Vicsek, T., 2018. Optimized flocking of autonomous drones in confined environments. Science Robotics, 3(20), p.eaat3536. [ [www](https://www.science.org/doi/epdf/10.1126/scirobotics.aat3536) ] ( **CMA-ES** )
