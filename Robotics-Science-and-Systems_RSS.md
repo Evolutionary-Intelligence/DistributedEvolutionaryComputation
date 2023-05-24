@@ -1,8 +1,11 @@
 # RSS (Robotics: Science and Systems)
 
-* Hao, Y., Kim, Y., Xi, Z. and Lien, J.M., 2018, June. Creating foldable polyhedral nets using evolution control. In Robotics: Science and Systems (Vol. 15). [ [www](https://www.roboticsproceedings.org/rss14/p07.pdf) ] ( **CMA-ES** )
+* Hao, Y., Kim, Y., Xi, Z. and Lien, J.M., 2018, June. Creating foldable polyhedral nets using evolution control. In Robotics: Science and Systems. [ [www](https://www.roboticsproceedings.org/rss14/p07.pdf) ] ( **CMA-ES** )
   * "Due to the non-convexity, we use the Covariance Matrix Adaptation Evolution Strategy (CMA-ES) algorithm as an external optimizer to update the policy."
     * N. Hansen, S. D. Muller, and P. Koumoutsakos, “Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (cma-es),” Evolutionary computation, vol. 11, no. 1, pp. 1–18, 2003.
+* Doerr, A., Ratliff, N.D., Bohg, J., Toussaint, M. and Schaal, S., 2015, July. Direct Loss Minimization Inverse Optimal Control. In Robotics: Science and Systems. [ [www](https://roboticsproceedings.org/rss11/p13.pdf) ]
+  * "We use a generic implementation of Covariance Matrix Adaptation (CMA-ES) as our Policy Search blackbox optimizer."
+    * Nikolaus Hansen. The cma evolution strategy: A tutorial. Vule, 29, 2005.
 
 ## 2022
 
