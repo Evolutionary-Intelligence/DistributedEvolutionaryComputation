@@ -1,5 +1,9 @@
 # RSS (Robotics: Science and Systems)
 
+* Hao, Y., Kim, Y., Xi, Z. and Lien, J.M., 2018, June. Creating foldable polyhedral nets using evolution control. In Robotics: Science and Systems (Vol. 15). [ [www](https://www.roboticsproceedings.org/rss14/p07.pdf) ] ( **CMA-ES** )
+  * "Due to the non-convexity, we use the Covariance Matrix Adaptation Evolution Strategy (CMA-ES) algorithm as an external optimizer to update the policy."
+    * N. Hansen, S. D. Muller, and P. Koumoutsakos, “Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (cma-es),” Evolutionary computation, vol. 11, no. 1, pp. 1–18, 2003.
+
 ## 2022
 
 Zhongqiang Ren, Akshaya Kesarimangalam Srinivasan, Howard Coffin, Ian Abraham, Howie Choset, 2022, July. A Local Optimization Framework for Multi-Objective Ergodic Search. In Proceedings of Robotics: Science and Systems (Vol. 18). [ [www](https://roboticsconference.org/program/papers/052/)| [pdf](http://www.roboticsproceedings.org/rss18/p052.pdf) ] (**GA**)
