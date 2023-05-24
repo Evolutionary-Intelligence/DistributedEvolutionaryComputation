@@ -1,5 +1,9 @@
 # IEEE-TRO (IEEE Transactions on Robotics)
 
+* Mastalli, C., Havoutis, I., Focchi, M., Caldwell, D.G. and Semini, C., 2020. Motion planning for quadrupedal locomotion: Coupled planning, terrain mapping, and whole-body control. IEEE Transactions on Robotics, 36(6), pp.1635-1648.
+  * "We solve this trajectory optimization problem using the covariance matrix adaptation evolution strategy (CMA-ES). Covariance Matrix Adaptation Evolution Strategy (CMA-ES) is capable of handling optimization problems that have multiple local minima and discontinuous gradients. An important feature since the terrain cost-map introduces multiple local minima and gradient discontinuity."
+    * N. Hansen, “CMA-ES: A function value free second order optimization method,” in Proc. PGMO COPI, 2014, pp. 479–501.
+
 ## 2021
 
 Favaro, A., Segato, A., Muretti, F. and De Momi, E., 2021. An evolutionary-optimized surgical path planner for a programmable bevel-tip needle. IEEE Transactions on Robotics, 37(4), pp.1039-1050. [ [www](https://ieeexplore.ieee.org/abstract/document/9312206) ]
