@@ -14,6 +14,10 @@
 * Kim, M. and Collins, S.H., 2017. Once-per-step control of ankle push-off work improves balance in a three-dimensional simulation of bipedal walking. IEEE Transactions on Robotics, 33(2), pp.406-418. [ [www](https://ieeexplore.ieee.org/abstract/document/7819532) ] ( **CMA-ES** | **Continuous Optimization** )
   * "We develop new controllers that have been optimized for disturbance tolerance using an evolutionary strategy for each combination of control input, speed and disturbance."
     * N. Hansen, “The CMA evolution strategy: A comparing review,” in Towards a New Evolutionary Computation, J. A. Lozano, Ed. Berlin: Springer, 2006, pp. 75–102.
+* Taylor, Z. and Nieto, J., 2016. Motion-based calibration of multimodal sensor extrinsics and timing offset estimation. IEEE Transactions on Robotics, 32(5), pp.1215-1229. [ [www](https://ieeexplore.ieee.org/abstract/document/7555301/) ] ( **CMA-ES** | **Nelder–Mead** | **Continuous Optimization** )
+  * "To meet these requirements, we make use of the CMA-ES optimization technique."
+  * "From this starting point, a CMA-ES optimizer is first run considering the entire search space. This was done by setting the initial multivariate Gaussian to have a σ that is 50% of the extent of our search space. Once this optimization has been performed, the approach is rerun, this time making use of the variance estimate provided by the motion stage and using this information to initialize CMA-ES’sGaussian distribution."
+    * N. Hansen and A. Ostermeier, “Adapting arbitrary normal mutation distributions in evolution strategies: The covariance matrix adaptation,” in Proc. IEEE Int. Conf. Evol. Comput., 1996, pp. 312–317.
 
 ## 2021
 
