@@ -1,4 +1,4 @@
-# IEEE-TRO (IEEE Transactions on Robotics)
+# TRO (IEEE Transactions on Robotics)
 
 * Song, S., Kim, D. and Choi, S., 2022. View path planning via online multiview stereo for 3-d modeling of large-scale structures. IEEE Transactions on Robotics, 38(1), pp.372-390. [ [www](https://ieeexplore.ieee.org/abstract/document/9450826) ] ( **CMA-ES** | **Continuous Optimization** )
   * "An optimal polynomial trajectory is obtained by the covariance matrix adaptation evolution strategy (CMA-ES). The CMA-ES is based on evolutionary algorithms, which work equally well for both nonlinear and nonconvex problems in continuous space."
