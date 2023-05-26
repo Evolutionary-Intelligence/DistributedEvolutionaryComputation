@@ -107,6 +107,10 @@ Here, we consider a family of evolutionary algorithms (and also several closely-
     * Hill Climbers (HC)
   * Simulated Annealing (SA)
 
+*******
+**"Responsible for adaptation, optimization, and innovation in the living world, evolution executes a simple algorithm of diversifcation and natural selection, an algorithm that works at all levels of complexity from single protein molecules to whole ecosystems."**---[Nobel Lecture, by Frances H. Arnold, California Institute of Technology](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)
+*******
+
 ## Support
 
 This *ongoing* paper list for EC (PDEC) is now supported by **Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597** (￥2,000,000, granted to Prof. Shi from CSE, SUSTech @ Shenzhen, China), and is actively maintained/updated (from 2021 to 2023) by his group members (e.g., **Qiqi Duan** and *Guocheng Zhou*). We also acknowledge the *early* contribution from [Vincent A. Cicirello](https://github.com/cicirello).
