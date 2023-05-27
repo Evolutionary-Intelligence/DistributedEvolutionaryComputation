@@ -1,5 +1,10 @@
 # Nature Materials
 
+* Fernandes, M.C., Aizenberg, J., Weaver, J.C. and Bertoldi, K., 2021. Mechanically robust lattices inspired by deep-sea glass sponges. Nature Materials, 20(2), pp.237-241. [ [www](https://www.nature.com/articles/s41563-020-0798-1) ] ( **CMA-ES** | **Continuous Optimization** )
+  * "We maximized the objective function using finite element simulations coupled to a Python implementation of the Covariance Matrix Adaptation Evolution Strategy algorithm (CMA-ES)."
+  * "We employ an optimization algorithm to identify the beam configuration in a diagonally reinforced square lattice that achieves the highest critical load, revealing—unexpectedly—that the skeletal system of E. aspergillum is very close to this design optimum. Since it is a derivative free algorithm, CMA-ES is well suited for optimization problems of high dimensionality and non-linear parameter topology."
+    * Hansen, N., Akimoto, Y. & Baudis, P. CMA-ES/pycma: r3.0.3. https://doi.org/10.5281/zenodo.2559634 (2019).
+    * Hansen, N., Müller, S. D., and Koumoutsakos, P. (2003). Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (cma-es). Evolutionary Computation, 11(1):1–18.
 * Miskin, M.Z. and Jaeger, H.M., 2013. Adapting granular materials through artificial evolution. Nature Materials, 12(4), pp.326-331. [ [www](https://www.nature.com/articles/nmat3543) ] ( **CMA-ES** | **Continuous Optimization** )
   * "We used an evolutionary algorithm based on the covariance matrix adaptation evolution strategy (CMA-ES)."
     * Eiben, A. E. & Smith, J. E. Introduction to Evolutionary Computing (Springer, 2003).
