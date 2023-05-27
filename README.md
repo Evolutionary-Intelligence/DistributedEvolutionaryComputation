@@ -79,11 +79,9 @@ Here, we consider a family of evolutionary algorithms (and also several closely-
 * Two [Swarm Intelligence (SI)](https://www.springer.com/journal/11721) Siblings
   * [Ant Colony Optimization (ACO)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#ant-colony-optimization-aco)
   * [Particle Swarm Optimization (PSO) / Consensus-based Optimization (CBO)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#particle-swarm-optimization-pso)
-
 * Two Representative Multi-Objective Optimization (MOO) Evolutionary Frameworks
   * [Non-dominated Sorting Genetic Algorithm II (NSGA-II)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#non-dominated-sorting-genetic-algorithm-ii-nsga-ii)
   * [Multi-Objective Evolutionary Algorithm based on Decomposition (MOEA/D)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#multi-objective-evolutionary-algorithm-based-on-decomposition-moead)
-
 * Several Relatively New Extensions/Improvements/Variants
   * Co-Evolutionary Algorithms (CEA)
     * [CoOperative co-Evolutionary Algorithms (COEA)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#cooperative-coevolutionary-algorithms-coea)
@@ -94,19 +92,15 @@ Here, we consider a family of evolutionary algorithms (and also several closely-
   * [Natural Evolution Strategies (NES)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#natural-evolution-strategies-nes)
   * [Quality-Diversity (QD)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#quality-diversity-qd)
     * Multidimensional Archive of Phenotypic Elites (MAP-Elites)
-
 * [NeuroEvolution (aka Evolving Neural Networks)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#neuroevolution-aka-evolving-neural-networks)
-
 * [Evolutionary/Swarm Robotics (ER/SR)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#evolutionaryswarm-robotics)
-
 * [Artificial Life (AL)](https://direct.mit.edu/artl)
   * Open-Ended Evolution
-
 * Common Individual-based Counterparts/Baselines/Competitors (especially for their *stochastic* versions)
   * Random Search (RS)
-  * Local Search (LS)
-    * Hill Climbers (HC)
+  * Local Search (LS) / Hill Climbers (HC)
   * Simulated Annealing (SA)
+  * Tabu Search (TS)
 
 *******
 **"Responsible for adaptation, optimization, and innovation in the living world, evolution executes a simple algorithm of diversifcation and natural selection, an algorithm that works at all levels of complexity from single protein molecules to whole ecosystems."**---[Nobel Lecture, by Frances H. Arnold, California Institute of Technology](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)
