@@ -1,6 +1,6 @@
 # PRL (Physical Review Letters)
 
-* Thamm, M. and Rosenow, B., 2023. Machine learning optimization of Majorana hybrid nanowires. Physical Review Letters, 130(11), p.116202. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.116202) ] ( **CMA-ES** )
+* Thamm, M. and Rosenow, B., 2023. Machine learning optimization of Majorana hybrid nanowires. Physical Review Letters, 130(11), p.116202. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.116202) ] ( **CMA-ES** | **Continuous Optimization** )
 * Yang, X., Li, J., Ding, Y., Xu, M., Zhu, X.F. and Zhu, J., 2022. Observation of transient parity-time symmetry in electronic systems. Physical Review Letters, 128(6), p.065701. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.065701) | Editors' Suggestion ] ( **PSO** | **Continuous Optimization** )
   * "The advanced particle swarm optimization (PSO) algorithm is used to accurately fit measured results of the free oscillating currents in the primary oscillator to yield the loss rates and the frequencies, which is difficult to be observed directly from the raw experimental results. The indicators identified by PSO are beneficial to reveal and reflect the characteristic of transient PT symmetry."
     *  J. Kennedy and R. Eberhart, Particle swarm optimization, in Proceedings of the IEEE International Conference on Neural Networks (IEEE, Perth, 1995), p. 1942.
@@ -20,6 +20,9 @@
     * R. C. Eberhart and Y. H. Shi, IEEE Trans. Evol. Comput. 8, 201 (2004).
 * Liu, Z., Zhuang, Q., Tian, F., Duan, D., Song, H., Zhang, Z., Li, F., Li, H., Li, D. and Cui, T., 2021. Proposed superconducting electride Li6C by sp-hybridized cage states at moderate pressures. Physical Review Letters, 127(15), p.157002. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.157002) ] ( **PSO** | **Continuous Optimization** )
   * "We predict a new energy-preferred anti-CdCl2-II phase after a bidirectional structure search via the swarm intelligence-based methodology (CALYPSO) and the evolutionary algorithm (USPEX)."
+* Vinko, S.M., Vozda, V., Andreasson, J., Bajt, S., Bielecki, J., Burian, T., Chalupsky, J., Ciricosta, O., Desjarlais, M.P., Fleckenstein, H. and Hajdu, J., 2020. Time-resolved XUV opacity measurements of warm dense aluminum. Physical Review Letters, 124(22), p.225002. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.225002) ] ( **CMA-ES** | **Continuous Optimization** )
+  * "We start by finding the best-fit solution using the stochastic CMA-ES optimization algorithm, and use it as a starting point for the ensemble MCMC."
+    * N. Hansen, arXiv:1604.00772.
 * Wintermantel, T.M., Wang, Y., Lochead, G., Shevate, S., Brennen, G.K. and Whitlock, S., 2020. Unitary and nonunitary quantum cellular automata with Rydberg arrays. Physical Review Letters, 124(7), p.070503. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.070503) ] ( **PSO** | **Continuous Optimization** )
   * "We maximize ... using the particle swarm optimization (PSO) algorithm."
   * J. Kennedy, Particle swarm optimization, in Encyclopedia of Machine Learning, edited by C. Sammut and G. I. Webb (Springer, Boston, 2010).
