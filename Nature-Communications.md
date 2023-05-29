@@ -1,6 +1,8 @@
 # Nature Communications
 
 * Sosa-Carrillo, S., Galez, H., Napolitano, S., Bertaux, F. and Batt, G., 2022. Maximizing protein production by keeping cells at optimal secretory stress levels using real-time control approaches. bioRxiv, pp.2022-11.
+ * "Parameter fitting was performed thanks to the CMA-ES algorithm using the pycma package from Hansen and colleagues."
+   * Hansen, N. et al. CMA-ES/pycma: r3.2.2. https://doi.org/10.5281/ZENODO.2559634 (2022).
 * Ke, F., Yan, J., Niu, S., Wen, J., Yin, K., Yang, H., Wolf, N.R., Tzeng, Y.K., Karunadasa, H.I., Lee, Y.S. and Mao, W.L., 2022. Cesium-mediated electron redistribution and electron-electron interaction in high-pressure metallic CsPbI3. Nature Communications, 13(1), p.7067. [ [www](https://www.nature.com/articles/s41467-022-34786-5) ] ( **PSO** | **Continuous Optimization** )
   * "Structure prediction of CsPbI3 at high pressure was performed via a global minimum search of the free energy surface by the swam intelligence-based CALYPSO method."
     * Wang, Y., Lv, J., Zhu, L. & Ma, Y. Crystal structure prediction via particle-swarm optimization. Phys. Rev. B 82, 094116 (2010).
