@@ -1,6 +1,6 @@
 # Nature Communications
 
-* Sosa-Carrillo, S., Galez, H., Napolitano, S., Bertaux, F. and Batt, G., 2022. Maximizing protein production by keeping cells at optimal secretory stress levels using real-time control approaches. bioRxiv, pp.2022-11.
+* Sosa-Carrillo, S., Galez, H., Napolitano, S., Bertaux, F. and Batt, G., 2022. Maximizing protein production by keeping cells at optimal secretory stress levels using real-time control approaches. bioRxiv, pp.2022-11. ( **CMA-ES** | **Continuous Optimization** )
   * "Parameter fitting was performed thanks to the CMA-ES algorithm using the pycma package from Hansen and colleagues."
     * Hansen, N. et al. CMA-ES/pycma: r3.2.2. https://doi.org/10.5281/ZENODO.2559634 (2022).
 * Brea, J., Clayton, N.S. and Gerstner, W., 2023. Computational models of episodic-like memory in food-caching birds. Nature Communications, 14(1), p.2979. [ [www](https://www.nature.com/articles/s41467-023-38570-x) ] ( **CMA-ES** | **Continuous Optimization** )
@@ -16,6 +16,10 @@
 * Liu, Y., Wang, R., Wang, Z., Li, D. and Cui, T., 2022. Formation of twelve-fold iodine coordination at high pressure. Nature Communications, 13(1), p.412. [ [www](https://www.nature.com/articles/s41467-022-28083-4) ] ( **PSO** | **Continuous Optimization** )
   * "Here, based on the particle swarm optimization method and first-principles calculations, we report an exotically icosahedral cage-like hypercoordinated IN6 compound composed of N6 rings and an unusual iodine−nitrogen covalent bond network."
     * Wang, Y., Lv, J., Zhu, L. & Ma, Y. Crystal structure prediction via particle swarm optimization. Phys. Rev. B 82, 094116 (2010).
+* Rose, O., Johnson, J., Wang, B. and Ponce, C.R., 2021. Visual prototypes in the ventral stream are attuned to complexity and gaze behavior. Nature Communications, 12(1), p.6723. [ [www](https://www.nature.com/articles/s41467-021-27027-8) ] ( **CMA-ES** | **Continuous Optimization** )
+  * "Each image was then scored based on the inverse of its distance to the target vector; Covariance Matrix Adaptation Evolutionary Strategy (CMA-ES) was used to identify new candidate vectors for the next generation. The evolution continued until the mean norm of a given generation reached the same norm as that of the target vector."
+    * Loshchilov, I. A computationally efficient limited memory CMA-ES for large scale optimization. in GECCO 2014 - Proceedings of the 2014 Genetic and
+Evolutionary Computation Conference 397–404 (Association for Computing Machinery, 2014). https://doi.org/10.1145/2576768.2598294
 * Gao, Y., Wu, M. and Jena, P., 2021. A family of ionic supersalts with covalent-like directionality and unconventional multiferroicity. Nature Communications, 12(1), p.1331. [ [www](https://www.nature.com/articles/s41467-021-21597-3) ] ( **PSO** | **Continuous Optimization** )
   * "An unbiased swarm-intelligence structural method based on the particle swarm optimization (PSO) technique implemented in the Crystal structure AnaLYsis by Particle Swarm Optimization (CALYPSO) code is employed to search for low-energy structures of supersalts."
 * Hasselmann, K., Ligot, A., Ruddick, J. and Birattari, M., 2021. Empirical assessment and comparison of neuro-evolutionary methods for the automatic off-line design of robot swarms. Nature Communications, 12(1), pp.1-11. [ [www](https://www.nature.com/articles/s41467-021-24642-3) ] (**ER** | **SR**)
