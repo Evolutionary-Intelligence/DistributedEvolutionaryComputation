@@ -204,8 +204,10 @@ For more details about the **history** and **classification** of EC, refer to th
 * Reynolds, C.W., 1987, August. Flocks, herds and schools: A distributed behavioral model. In Proceedings of Annual Conference on Computer Graphics and Interactive Techniques (pp. 25-34).
 
 ## Evolutionary Design
-
 * Bentley, P., 1999. [Evolutionary design by computers](https://www.amazon.com/Evolutionary-Design-Computers-Peter-Bentley/dp/155860605X). Morgan Kaufmann.
+
+## Algorithm Selection and Configuration
+* [Eiben, A.E.](https://www.cs.vu.nl/~gusz/) and Smit, S.K., 2012. [Evolutionary algorithm parameters and methods to tune them](). Autonomous Search, pp.15-36.
 
 ## Broader Viewpoints From CS/AI/ML/Optimization/OR/Biology
 
