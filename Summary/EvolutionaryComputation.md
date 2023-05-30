@@ -224,6 +224,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Stulp, F. and Sigaud, O., 2012, June. [Path integral policy improvement with covariance matrix adaptation](https://icml.cc/2012/papers/171.pdf). In International Coference on International Conference on Machine Learning (pp. 1547-1554).
 * Floreano, D. and Mattiussi, C., 2008. Bio-inspired artificial intelligence: Theories, methods, and technologies. MIT Press.
 * Fogel, D.B., Anderson, R.W., Reynolds, R.G. and Rizki, M.M., 2001. [Memorial tribute to Dr. Michael Conrad](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=910460). IEEE Transactions on Evolutionary Computation, 5(1), pp.1-2.
+  * Conrad, M. and Pattee, H.H., 1970. [Evolution experiments with an artificial ecosystem](https://www.sciencedirect.com/science/article/abs/pii/0022519370900779). Journal of Theoretical Biology, 28(3), pp.393-409.
 * Levine, D., 1997. [Commentary—Genetic algorithms: A practitioner's view](https://pubsonline.informs.org/doi/10.1287/ijoc.9.3.256). INFORMS Journal on Computing, 9(3), pp.256-259.
 * Conrad, M. and Rizki, M.M., 1989. [The artificial worlds approach to emergent evolution](https://www.sciencedirect.com/science/article/abs/pii/0303264789900324). BioSystems, 23(2-3), pp.247-258.
 * Axelrod, R., 1987. The evolution of strategies in the iterated prisoner’s dilemma. Genetic Algorithms and Simulated Annealing.
