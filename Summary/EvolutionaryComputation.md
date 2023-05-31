@@ -206,8 +206,9 @@ For more details about the **history** and **classification** of EC, refer to th
 ## Evolutionary Design
 * Bentley, P., 1999. [Evolutionary design by computers](https://www.amazon.com/Evolutionary-Design-Computers-Peter-Bentley/dp/155860605X). Morgan Kaufmann.
 
-## Algorithm Selection and Configuration
+## Algorithm Selection and Configuration (and Meta-EAs)
 * [Eiben, A.E.](https://www.cs.vu.nl/~gusz/) and Smit, S.K., 2012. [Evolutionary algorithm parameters and methods to tune them](). Autonomous Search, pp.15-36.
+* Grefenstette, J.J., 1986. [Optimization of control parameters for genetic algorithms](https://ieeexplore.ieee.org/abstract/document/4075583). IEEE Transactions on Systems, Man, and Cybernetics, 16(1), pp.122-128.
 
 ## Broader Viewpoints From CS/AI/ML/Optimization/OR/Biology
 
