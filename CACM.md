@@ -1,5 +1,8 @@
 # CACM (Communications of the ACM)
 
+* Edwards, C., 2021. Shrinking artificial intelligence. Communications of the ACM, 65(1), pp.12-14. [ [www](https://dl.acm.org/doi/fullHtml/10.1145/3495562) ]
+  * "In many of the experiments performed so far using distillation, size and structure have a major influence on the ability of smaller student networks to approach the accuracy of the teacher. This observation is helping to drive work on automated neural architecture search, in which machine learning and evolutionary algorithms are used to try to find the best combination of model parameters for a given level of accuracy and computational overhead." 
+
 ## 2020
 
 [Here Come the Swarmbots](https://cacm.acm.org/news/247970-here-come-the-swarmbots/fulltext)
