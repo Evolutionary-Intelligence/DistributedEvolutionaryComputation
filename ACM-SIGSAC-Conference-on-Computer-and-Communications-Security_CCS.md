@@ -6,3 +6,4 @@
 * Chen, Y., Bai, Y., Mitev, R., Wang, K., Sadeghi, A.R. and Xu, W., 2021, November. FakeWake: Understanding and mitigating fake wake-up words of voice assistants. In Proceedings of ACM SIGSAC Conference on Computer and Communications Security (pp. 1861-1883).
 * Choi, H., Kate, S., Aafer, Y., Zhang, X. and Xu, D., 2020, October. Cyber-physical inconsistency vulnerability identification for safety checks in robotic vehicles. In Proceedings of ACM SIGSAC Conference on Computer and Communications Security (pp. 263-278).
 * Bock, K., Hughey, G., Qiang, X. and Levin, D., 2019, November. Geneva: Evolving censorship evasion strategies. In Proceedings of ACM SIGSAC Conference on Computer and Communications Security (pp. 2199-2214).
+* Heelan, S., Melham, T. and Kroening, D., 2019, November. Gollum: Modular and greybox exploit generation for heap overflows in interpreters. In Proceedings of ACM SIGSAC Conference on Computer and Communications Security (pp. 1689-1706).
