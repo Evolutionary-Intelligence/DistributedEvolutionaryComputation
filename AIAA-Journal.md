@@ -13,3 +13,4 @@
   * "In this paper, we use a covariance matrix adaptation evolution strategy (CMA-ES) with 10 restarts to train the GP model for both single kernel and CKL cases."
   * "Using fewer restarts of the CMA-ES is beneficial; however, it might run the risk of missing the global optimum. Studies are then needed on the effective implementation of the CMA-ES or other optimizers for training the GP-CKL model."
     * Hansen, N., Müller, S. D., and Koumoutsakos, P., “Reducing the Time Complexity of the Derandomized Evolution Strategy with Covariance Matrix Adaptation (CMA-ES),” Evolutionary Computation, Vol. 11, No. 1, 2003, pp. 1–18. https://doi.org/10.1162/106365603321828970
+* Muller, S.D., Walther, J.H. and **Koumoutsakos, P.D.**, 2001. Evolution strategies for film cooling optimization. AIAA Journal, 39(3), pp.537-539. [ [www](https://arc.aiaa.org/doi/10.2514/2.1342) ] ( **CMA-ES** )
