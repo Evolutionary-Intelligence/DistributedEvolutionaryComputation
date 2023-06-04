@@ -57,6 +57,7 @@ Although our initial goal was to cover only PDEC, now our focus is switched to *
 | Chemistry | [JACS (Journal of the American Chemical Society)](https://pubs.acs.org/journal/jacsat) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Journal-of-the-American-Chemical-Society_JACS.md)
 | Chemistry | [Nature Chemistry](https://www.nature.com/nchem/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Chemistry.md)
 | Materials | [Nature Materials](https://www.nature.com/nmat/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Materials.md)
+| Astronautics&Aeronautics | [AIAA Journal](https://arc.aiaa.org/journal/aiaaj) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/AIAA-Journal.md)
 | Multidiscipline | [Nature Communications](https://www.nature.com/ncomms/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Communications.md)
 | EC | [ECJ (Evolutionary Computation Journal)](https://direct.mit.edu/evco) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Evolutionary-Computation-Journal_ECJ.md)
 | EC | [TELO (ACM Transactions on Evolutionary Learning and Optimization)](https://dl.acm.org/journal/telo) | PDEC | [www](https://dl.acm.org/journal/telo)
