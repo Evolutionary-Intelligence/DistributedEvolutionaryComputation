@@ -253,6 +253,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 # MetaHeuristics
   * Kudela, J., 2022. [A critical problem in benchmarking and analysis of evolutionary computation methods](https://www.nature.com/articles/s42256-022-00579-0). Nature Machine Intelligence, 4(12), pp.1238-1245.
+  * Lagaros, N.D., Plevris, V. and Kallioras, N.A., 2022. The mosaic of metaheuristic algorithms in structural optimization. Archives of Computational Methods in Engineering, 29(7), pp.5457-5492.
   * Swan, J., Adriaensen, S., Brownlee, A.E., Hammond, K., Johnson, C.G., Kheiri, A., Krawiec, F., Merelo, J.J., Minku, L.L., Özcan, E., Pappa, G.L., et al., 2022. [Metaheuristics “in the large”](https://www.sciencedirect.com/science/article/pii/S0377221721004707). European Journal of Operational Research, 297(2), pp.393-406.
   * Aranha, C., Camacho Villalón, C.L., Campelo, F., Dorigo, M., Ruiz, R., Sevaux, M., Sörensen, K. and Stützle, T., 2022. [Metaphor-based metaheuristics, a call for action: The elephant in the room](https://link.springer.com/article/10.1007/s11721-021-00202-9). Swarm Intelligence, 16(1), pp.1-6.
   * de Armas, J., Lalla-Ruiz, E., Tilahun, S.L. and Voß, S., 2022. [Similarity in metaheuristics: A gentle step towards a comparison methodology](https://link.springer.com/article/10.1007/s11047-020-09837-9). Natural Computing, 21(2), pp.265-287.
