@@ -1,6 +1,7 @@
 # ICRA (IEEE International Conference on Robotics and Automation)
 
 * Song, S., Kim, J. and Yamane, K., 2015, May. Development of a bipedal robot that walks like an animation character. In IEEE International Conference on Robotics and Automation (pp. 3596-3602). IEEE. [ [www]() ] ( **CMA-ES** | **Continuous Optimization** )
+* Gehring, C., Coros, S., Hutter, M., Bloesch, M., Fankhauser, P., Hoepflinger, M.A. and Siegwart, R., 2014, May. Towards automatic discovery of agile gaits for quadrupedal robots. In IEEE International Conference on Robotics and Automation (pp. 4243-4248). IEEE. [ [www]() ] ( **CMA-ES** | **Continuous Optimization** )
 
 ## 2022
 
