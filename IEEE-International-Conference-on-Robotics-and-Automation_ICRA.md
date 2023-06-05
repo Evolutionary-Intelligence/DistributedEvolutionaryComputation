@@ -1,6 +1,6 @@
-# IEEE-ICRA (IEEE International Conference on Robotics and Automation)
+# ICRA (IEEE International Conference on Robotics and Automation)
 
-
+* Song, S., Kim, J. and Yamane, K., 2015, May. Development of a bipedal robot that walks like an animation character. In IEEE International Conference on Robotics and Automation (pp. 3596-3602). IEEE. [ [www]() ] ( **CMA-ES** | **Continuous Optimization** )
 
 ## 2022
 
