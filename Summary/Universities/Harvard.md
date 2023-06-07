@@ -2,6 +2,7 @@
 
 * https://arxiv.org/pdf/2106.16198.pdf
 * Kim, J., 2022. [Soft hip exosuit optimization for improving mobility in healthy young adults and individuals with Parkinson’s disease](https://dash.harvard.edu/handle/1/37372302). Doctoral dissertation, Harvard University Graduate School of Arts and Sciences. [ **CMA-ES** ]
+* Cantero‐Chinchilla, S., Papadimitriou, C., Chiachío, J., Chiachío, M., Koumoutsakos, P., Fabro, A.T. and Chronopoulos, D., 2022. Robust optimal sensor configuration using the value of information. Structural Control and Health Monitoring, 29(12), p.e3143. [ **CMA-ES** ]
 * Vaishnav, E.D., de Boer, C.G., Molinet, J., Yassour, M., Fan, L., Adiconis, X., Thompson, D.A., Levin, J.Z., Cubillos, F.A. and Regev, A., 2022. [The evolution, evolvability and engineering of gene regulatory DNA](https://www.nature.com/articles/s41586-022-04506-6). Nature, 603(7901), pp.455-463. [ **GA** ]
 * Fernandes, M.C., Aizenberg, J., Weaver, J.C. and Bertoldi, K., 2021. [Mechanically robust lattices inspired by deep-sea glass sponges](https://www.nature.com/articles/s41563-020-0798-1). Nature Materials, 20(2), pp.237-241. [ **CMA-ES** ]
 * Barkley, S., 2021. [Applying Bayesian inference to measurements of colloidal dynamics](https://www.proquest.com/openview/79ad764b42eb35742db8739eefbf4242/1?pq-origsite=gscholar&cbl=18750&diss=y). Doctoral dissertation, Harvard University Graduate School of Arts and Sciences. [ **CMA-ES** ]
