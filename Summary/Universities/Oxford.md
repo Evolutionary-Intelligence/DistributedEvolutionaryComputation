@@ -34,4 +34,5 @@ study is the stochastic Covariance Matrix Adaptation Evolution Strategy (CMA-ES)
 * Vié, A., 2020. [Qualities, challenges and future of genetic algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726035). Available at SSRN 3726035. [ **GA** ]
 * Whittaker, D.G., Clerx, M., Lei, C.L., Christini, D.J. and Mirams, G.R., 2020. [Calibration of ionic and cellular cardiac electrophysiology models](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wsbm.1482). Wiley Interdisciplinary Reviews: Systems Biology and Medicine, 12(4), p.e1482. [ **CMA-ES** ]
   * "For this example we used a global optimization algorithm (CMA-ES; Hansen, 2006), but similar results are seen with simpler ones such as a simplex algorithm (Nelder & Mead, 1965)."
+* https://oxford-man.ox.ac.uk/wp-content/uploads/2020/06/One-Shot-Bayes-Opt-with-Probabilistic-Population.pdf [ **PBT** ]
 * Toscano, J., Wu, L.Y., Hejduk, M. and Heazlewood, B.R., 2019. [Evolutionary algorithm optimization of Zeeman deceleration: Is it worthwhile for longer decelerators?](https://pubs.acs.org/doi/full/10.1021/acs.jpca.9b00655). Journal of Physical Chemistry A, 123(25), pp.5388-5394. [ **CMA-ES** ]
