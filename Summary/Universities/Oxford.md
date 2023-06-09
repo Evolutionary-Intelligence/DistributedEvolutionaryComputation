@@ -54,3 +54,5 @@ study is the stochastic Covariance Matrix Adaptation Evolution Strategy (CMA-ES)
   * "When deriving experimental time constants, fits to exponential curves were performed using the Nelder-Mead downhill simplex algorithm implemented in SciPy. All other fits were performed using CMA-ES via the PINTS inference framework."
   * https://github.com/CardiacModelling/FourWaysOfFitting
 * Adjodah, D., Calacci, D., Dubey, A., Goyal, A., Krafft, P.M., Moro, E. and Pentland, A., [Leveraging communication topologies between learning agents in deep reinforcement learning](https://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1738.pdf).
+* Clerx, M., Robinson, M., Lambert, B., Lei, C., Ghosh, S., Mirams, G. and Gavaghan, D., 2019. [Probabilistic inference on noisy time series (PINTS)](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.252). Journal of Open Research Software, 7(1).
+  * "Currently available optimisers include CMA-ES, XNES, SNES, and Particle Swarm Optimisation (PSO)."
