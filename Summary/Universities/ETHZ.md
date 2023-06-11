@@ -1,5 +1,7 @@
 # Eidgenössische Technische Hochschule Zürich / Swiss Federal Institute of Technology in Zürich
 
+* Mahlknecht, F., Alora, J.I., Jain, S., Schmerling, E., Bonalli, R., Haller, G. and Pavone, M., 2022, December. [Using spectral submanifolds for nonlinear periodic Control](https://ieeexplore.ieee.org/abstract/document/9992400). In IEEE Conference on Decision and Control (pp. 6548-6555). IEEE. [ **CMA-ES** ]
+  * "We use the CMAES optimization algorithm implemented in the KORALI framework."
 * Waelchli, D., Weber, P. and Koumoutsakos, P., 2023. [Discovering individual rewards in collective behavior through inverse multi-agent reinforcement learning](https://arxiv.org/pdf/2305.10548.pdf). arXiv preprint arXiv:2305.10548. [ **CMA-ES** ]
   * "In order to ensure that our demonstration data has a high number of desired demonstrations, we maximize the time-averaged rotation by deploying CMA-ES on the three radii of the model."
 * Meier, M. and Bigler, C., 2023. [Process-oriented models of autumn leaf phenology: Ways to sound calibration and implications of uncertain projections](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/596052/3/egusphere-2022-1423.pdf).
