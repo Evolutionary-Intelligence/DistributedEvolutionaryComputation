@@ -252,6 +252,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * [Siemens Healthcare XP Division](https://iopscience.iop.org/article/10.1088/0031-9155/61/8/3009)
 
 # MetaHeuristics
+  * Lagaros, N.D., Kournoutos, M., Kallioras, N.A. and Nordas, A.N., 2023. Constraint handling techniques for metaheuristics: A state-of-the-art review and new variants. Optimization and Engineering, pp.1-48.
   * Kudela, J., 2022. [A critical problem in benchmarking and analysis of evolutionary computation methods](https://www.nature.com/articles/s42256-022-00579-0). Nature Machine Intelligence, 4(12), pp.1238-1245.
   * Lagaros, N.D., Plevris, V. and Kallioras, N.A., 2022. The mosaic of metaheuristic algorithms in structural optimization. Archives of Computational Methods in Engineering, 29(7), pp.5457-5492.
   * Swan, J., Adriaensen, S., Brownlee, A.E., Hammond, K., Johnson, C.G., Kheiri, A., Krawiec, F., Merelo, J.J., Minku, L.L., Özcan, E., Pappa, G.L., et al., 2022. [Metaheuristics “in the large”](https://www.sciencedirect.com/science/article/pii/S0377221721004707). European Journal of Operational Research, 297(2), pp.393-406.
