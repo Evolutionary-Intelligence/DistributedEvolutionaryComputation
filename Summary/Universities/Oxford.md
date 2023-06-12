@@ -1,7 +1,5 @@
 # University of Oxford
 
-* Moustapha, M. and Sudret, B., 2023. [Learning non-stationary and discontinuous functions using clustering, classification and Gaussian process modelling](https://www.sciencedirect.com/science/article/pii/S0045794923000652). Computers & Structures, 281, p.107035.
-  * "They are both estimated in this work by minimizing the span estimate of the leave-one-out error using the covariance-matrix adaptation evolution scheme (CMA-ES)."
 * Rückin, J., Magistri, F., Stachniss, C. and Popović, M., 2023. [An informative path planning framework for active learning in UAV-based semantic mapping](https://arxiv.org/pdf/2302.03347.pdf). arXiv preprint arXiv:2302.03347. [ **CMA-ES** ]
 * Lange, R.T., Schaul, T., Chen, Y., Lu, C., Zahavy, T., Dalibard, V. and Flennerhag, S., 2023. [Discovering attention-based genetic algorithms via meta-black-box optimization](https://arxiv.org/pdf/2304.03995.pdf). arXiv preprint arXiv:2304.03995.
 * Lambert, B., Lei, C.L., Robinson, M., Clerx, M., Creswell, R., Ghosh, S., Tavener, S. and Gavaghan, D.J., 2023. [Autocorrelated measurement processes and inference for ordinary differential equation models of biological systems](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2022.0725). Journal of the Royal Society Interface, 20(199), p.20220725. [ **CMA-ES** ]
