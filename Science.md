@@ -15,6 +15,9 @@
 * Schmidt, M. and Lipson, H., 2009. Distilling free-form natural laws from experimental data. Science, 324(5923), pp.81-85. [ [www](https://science.sciencemag.org/content/324/5923/81.abstract) | [eureqa](https://www.creativemachineslab.com/eureqa.html) ] ( **GP** | **Parallel** )
 * Pfeifer, R., Lungarella, M. and Iida, F., 2007. Self-organization, embodiment, and biologically inspired robotics. Science, 318(5853), pp.1088-1093. [ [www](https://www.science.org/doi/abs/10.1126/science.1145803) ]
 * Bongard, J., Zykov, V. and Lipson, H., 2006. Resilient machines through continuous self-modeling. Science, 314(5802), pp.1118-1121. [ [www](https://science.sciencemag.org/content/314/5802/1118) ] ( **ER** )
+* Assion, A., Baumert, T., Bergt, M., Brixner, T., Kiefer, B., Seyfried, V., Strehle, M. and Gerber, G., 1998. Control of chemical reactions by feedback-optimized phase-shaped femtosecond laser pulses. Science, 282(5390), pp.919-922. [ [www](https://www.science.org/doi/abs/10.1126/science.282.5390.919) ] ( **GA** | **ES** )
+  * D. E. Goldberg, Genetic Algorithms in Search, Optimization, and Machine Learning (Addison-Wesley, Reading, UK, 1993);
+  * H.-P. Schwefel, Evolution and Optimum Seeking (Wiley, New York, 1995).
 * Macready, W.G., Siapas, A.G. and Kauffman, S.A., 1996. Criticality and parallelism in combinatorial optimization. Science, 271(5245), pp.56-59. [ [www](https://science.sciencemag.org/content/271/5245/56) ]
 * Cvijović, D. and Klinowski, J., 1995. Taboo search: An approach to the multiple minima problem. Science, 267(5198), pp.664-666. [ [www](https://www.science.org/doi/abs/10.1126/science.267.5198.664) ] ( **TS** | **Continuous Optimization** )
 * Forrest, S., 1993. Genetic algorithms: Principles of natural selection applied to computation. Science, 261(5123), pp.872-878. [ [www](https://science.sciencemag.org/content/261/5123/872.abstract) ] (  **GA** )
