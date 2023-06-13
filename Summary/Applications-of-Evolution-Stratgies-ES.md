@@ -27,6 +27,11 @@
 * Keidel, D., Fasel, U. and Ermanni, P., 2021. [Concept investigation of a lightweight composite lattice morphing wing](https://arc.aiaa.org/doi/10.2514/1.J059579). AIAA Journal, 59(6), pp.2242-2250. [ **ETHZ** ]
 * https://researchspace.auckland.ac.nz/handle/2292/57559
 * Witte, K.A., Fiers, P., Sheets-Singer, A.L. and Collins, S.H., 2020. [Improving the energy economy of human running with powered and unpowered ankle exoskeleton assistance](https://www.science.org/doi/abs/10.1126/scirobotics.aay9108). Science Robotics, 5(40), p.eaay9108. [ **Carnegie Mellon University + Sport Research Lab, Nike Inc. + Stanford University** ]
+
+# 2019
+* Büche, D., 2019. [Robust compressor optimization by evolutionary algorithms](https://link.springer.com/chapter/10.1007/978-3-319-77767-2_38). Uncertainty Management for Robust Industrial Design in Aeronautics: Findings and Best Practice Collected During UMRIDA, a Collaborative Research Project (2013–2016) Funded by the European Union, pp.629-645. [ **MAN Diesel & Turbo Schweiz AG** ]
+
+# 2018
 * Bujny, M., Aulig, N., Olhofer, M. and Duddeck, F., 2018. [Identification of optimal topologies for crashworthiness with the evolutionary level set method](https://www.tandfonline.com/doi/abs/10.1080/13588265.2017.1331493). International Journal of Crashworthiness, 23(4), pp.395-416. [ [TUM Ph.D. Dissertation](https://mediatum.ub.tum.de/doc/1540709/document.pdf) ]
 * Jȩdrzejewski-Szmek, Z., Abrahao, K.P., Jȩdrzejewska-Szmek, J., Lovinger, D.M. and Blackwell, K.T., 2018. [Parameter optimization using covariance matrix adaptation—evolutionary strategy (CMA-ES), an approach to investigate differences in channel properties between neuron subtypes](https://www.frontiersin.org/articles/10.3389/fninf.2018.00047/full). Frontiers in Neuroinformatics, 12, p.47. [ **National Institutes of Health** ]
 # 2017
