@@ -4,7 +4,7 @@ In this page, we try our best to maintain a (very) short reference list for the 
 
 ## Popular Nature/Science Reviews  
 
-* Miikkulainen, R. and [Forrest, S.](https://www.cs.unm.edu/~forrest/), 2021. [A biological perspective on evolutionary computation](https://www.nature.com/articles/s42256-020-00278-8). Nature Machine Intelligence, 3(1), pp.9-15.
+* [Miikkulainen, R.](https://www.cs.utexas.edu/users/risto/) and [Forrest, S.](https://www.cs.unm.edu/~forrest/), 2021. [A biological perspective on evolutionary computation](https://www.nature.com/articles/s42256-020-00278-8). Nature Machine Intelligence, 3(1), pp.9-15.
 * Eiben, A.E. and Smith, J., 2015. [From evolutionary computation to the evolution of things](https://www.nature.com/articles/nature14544). Nature, 521(7553), pp.476-482.
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 2000. [Inspiration for optimization from social insect behaviour](https://www.nature.com/articles/35017500). Nature, 406(6791), pp.39-42.
 * [Forrest, S.](https://www.cs.unm.edu/~forrest/), 1993. [Genetic algorithms: Principles of natural selection applied to computation](https://www.science.org/doi/10.1126/science.8346439). Science, 261(5123), pp.872-878.
