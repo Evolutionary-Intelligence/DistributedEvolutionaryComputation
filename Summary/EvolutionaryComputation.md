@@ -106,7 +106,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Ant Colony Optimization (ACO)
 
-* https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/    (This is the official homepage of ACO's inventor Marco Dorigo, which includes much information about ACO.)
+* https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/    (This is the official homepage of ACO's inventor **Marco Dorigo**, which includes much information about ACO.) [ [AAAI Fellow](https://aaai.org/about-aaai/aaai-awards/the-aaai-fellows-program/elected-aaai-fellows/) + [IEEE Frank Rosenblatt Award](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/recipients/rosenblatt-rl.pdf) + IEEE Fellow + [IEEE Evolutionary Computation Pioneer Award](https://cis.ieee.org/awards/past-recipients) ]
 * Dorigo, M. and Stützle, T., 2019. Ant colony optimization: Overview and recent advances. Handbook of Metaheuristics, pp.311-351.
 * Dorigo, M., Birattari, M. and Stutzle, T., 2006. Ant colony optimization. IEEE Computational Intelligence Magazine, 1(4), pp.28-39.
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 2000. Inspiration for optimization from social insect behaviour. Nature, 406(6791), pp.39-42.
