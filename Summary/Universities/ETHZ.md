@@ -27,6 +27,8 @@
 # 2021
 * Fasel, U., Tiso, P., Keidel, D. and Ermanni, P., 2021. [Concurrent design and flight mission optimization of morphing airborne wind energy wings](https://arc.aiaa.org/doi/abs/10.2514/1.J059621). AIAA Journal, 59(4), pp.1254-1268.
   * "The optimization is performed using the algorithm CMA-ES, which was previously used to optimize morphing wings, because it satisfies the requirements of being able to treat nonsmooth objective functions and to deal with a large number of design variables. Compared to other genetic algorithms, CMA-ES uses information related to the Hessian of the objective function, adapting the covariance matrix and sampling the search space along a preferential direction, leading to faster convergence."
+* Papadopoulou, E., Megaridis, C.M., Walther, J.H. and Koumoutsakos, P., 2021. [Nanopumps without pressure gradients: Ultrafast transport of water in patterned nanotubes](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c07562). Journal of Physical Chemistry B, 126(3), pp.660-669.
+  * "The optimization was performed with the CMA-ES algorithm."
 
 # 2020
 * Popović, M., Vidal-Calleja, T., Hitz, G., Chung, J.J., Sa, I., Siegwart, R. and Nieto, J., 2020. [An informative path planning framework for UAV-based terrain monitoring](https://link.springer.com/article/10.1007/s10514-020-09903-2). Autonomous Robots, 44, pp.889-911. [ **CMA-ES** ]
