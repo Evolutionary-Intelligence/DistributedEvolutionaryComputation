@@ -122,7 +122,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Non-dominated Sorting Genetic Algorithm II (NSGA-II)
 
-* Deb, K., Pratap, A., Agarwal, S. and Meyarivan, T.A.M.T., 2002. A fast and elitist multiobjective genetic algorithm: NSGA-II. IEEE Transactions on Evolutionary Computation, 6(2), pp.182-197.
+* [Deb, K.](https://www.egr.msu.edu/~kdeb/), Pratap, A., Agarwal, S. and Meyarivan, T.A.M.T., 2002. [A fast and elitist multiobjective genetic algorithm: NSGA-II](https://ieeexplore.ieee.org/document/996017). IEEE Transactions on Evolutionary Computation, 6(2), pp.182-197. [ Kalyanmoy Deb: [ACM Fellow](https://dl.acm.org/doi/abs/10.1145/3594261.3594262) + IEEE Fellow + [IEEE CIS Evolutionary Computation Pioneer Award](https://msutoday.msu.edu/news/2018/kalyanmoy-deb-earns-prestigious-evolutionary-computation-award) ]
 
 ## Multi-Objective Evolutionary Algorithm based on Decomposition (MOEA/D)
 
