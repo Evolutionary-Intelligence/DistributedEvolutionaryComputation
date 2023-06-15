@@ -31,10 +31,14 @@
   * "The optimization was performed with the CMA-ES algorithm."
 
 # 2020
+* Bünning, F., Heer, P., Smith, R.S. and Lygeros, J., 2020. [Improved day ahead heating demand forecasting by online correction methods](https://www.sciencedirect.com/science/article/pii/S0378778819314550). Energy and Buildings, 211, p.109821.
+  * "The models were implemented in the modelling language Modelica and simulated in Dymola. To estimate the parameters, a CMA-ES optimizer was used in Python."
 * Popović, M., Vidal-Calleja, T., Hitz, G., Chung, J.J., Sa, I., Siegwart, R. and Nieto, J., 2020. [An informative path planning framework for UAV-based terrain monitoring](https://link.springer.com/article/10.1007/s10514-020-09903-2). Autonomous Robots, 44, pp.889-911. [ **CMA-ES** ]
   * "With the lowest values, the CMA-ES performs best on all indicators as it searches globally to escape local minima."
 * Bünning, F., Bollinger, A., Heer, P., Smith, R. and Lygeros, J., 2020. [Empirical validation of a data-driven heating demand simulation with error correction methods](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/388096/2/BS2019_Bunning_demand_err_corr_AAM.pdf). In Proceedings of Building Simulation (pp. 1428-1435). International Building Performance Association.
   * "The 5R3C model was implemented in Modelica and simulated in Dymola. To fit the parameters, the model was coupled to Python and optimized with a CMAES (Covariance Matrix Adaption Evolution Strategy) optimizer to minimize the sum of squared errors between the predicted load and the reference load. The optimization budget was fixed at three hours for each model."
+
+# 2019
 * Byeon, W., Domínguez-Rodrigo, M., Arampatzis, G., Baquedano, E., Yravedra, J., Maté-González, M.A. and Koumoutsakos, P., 2019. [Automated identification and deep classification of cut marks on bones and its paleoanthropological implications](https://www.sciencedirect.com/science/article/pii/S1877750318310226). Journal of Computational Science, 32, pp.36-43.
   * "The hyperparameters were optimized using Bayesian optimization and the Covariance Matrix Adaption Evolution Strategy (CMA-ES) algorithm produced similar results."
 * Chen, Q., 2020. [A systematic approach to enabling digital supply chain coordination in construction projects](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/458752/2/A_systematic_approach_final_Chen.pdf). Doctoral dissertation, ETH Zurich.  [ **CMA-ES** ]
