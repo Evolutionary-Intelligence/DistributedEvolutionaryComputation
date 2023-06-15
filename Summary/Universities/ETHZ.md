@@ -46,6 +46,7 @@
 
 # 2019
 * https://www.uqlab.com/
+* https://optrl2019.github.io/assets/accepted_papers/35.pdf
 * Byeon, W., Domínguez-Rodrigo, M., Arampatzis, G., Baquedano, E., Yravedra, J., Maté-González, M.A. and Koumoutsakos, P., 2019. [Automated identification and deep classification of cut marks on bones and its paleoanthropological implications](https://www.sciencedirect.com/science/article/pii/S1877750318310226). Journal of Computational Science, 32, pp.36-43.
   * "The hyperparameters were optimized using Bayesian optimization and the Covariance Matrix Adaption Evolution Strategy (CMA-ES) algorithm produced similar results."
 * Arampatzis, G., Wälchli, D., Weber, P., Rästas, H. and Koumoutsakos, P., 2019, June. [(μ, λ)-CCMA-ES for cnstrained otimization with an aplication in parmacodynamics](https://dl.acm.org/doi/abs/10.1145/3324989.3325725). In Proceedings of latform for Advanced Scientific Computing Conference (pp. 1-9). [ **CMA-ES** ]
