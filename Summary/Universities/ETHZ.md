@@ -31,6 +31,8 @@
   * "The optimization was performed with the CMA-ES algorithm."
 
 # 2020
+* Mastalli, C., Havoutis, I., Focchi, M., Caldwell, D.G. and Semini, C., 2020. [Motion planning for quadrupedal locomotion: Coupled planning, terrain mapping, and whole-body control](https://ieeexplore.ieee.org/abstract/document/9133154/). IEEE Transactions on Robotics, 36(6), pp.1635-1648.
+  * "We solve this trajectory optimization problem using the covariance matrix adaptation evolution strategy (CMA-ES). Covariance Matrix Adaptation Evolution Strategy (CMA-ES) is capable of handling optimization problems that have multiple local minima and discontinuous gradients. An important feature since the terrain cost-map introduces multiple local minima and gradient discontinuity."
 * Bünning, F., Heer, P., Smith, R.S. and Lygeros, J., 2020. [Improved day ahead heating demand forecasting by online correction methods](https://www.sciencedirect.com/science/article/pii/S0378778819314550). Energy and Buildings, 211, p.109821.
   * "The models were implemented in the modelling language Modelica and simulated in Dymola. To estimate the parameters, a CMA-ES optimizer was used in Python."
 * Popović, M., Vidal-Calleja, T., Hitz, G., Chung, J.J., Sa, I., Siegwart, R. and Nieto, J., 2020. [An informative path planning framework for UAV-based terrain monitoring](https://link.springer.com/article/10.1007/s10514-020-09903-2). Autonomous Robots, 44, pp.889-911. [ **CMA-ES** ]
