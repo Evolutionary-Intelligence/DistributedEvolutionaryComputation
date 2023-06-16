@@ -55,10 +55,10 @@
 * Munch, F.D., Khan, A., Tauzin, B., van Driel, M. and Giardini, D., 2020. [Seismological evidence for thermo-chemical heterogeneity in Earth's continental mantle](https://www.sciencedirect.com/science/article/pii/S0012821X20301837). Earth and Planetary Science Letters, 539, p.116240. [ **CMA-ES** ]
   * "We sample the posterior distribution in the model space by combining a Metropolis-Hastings Markov chain Monte Carlo (McMC) method (e.g., Mosegaard and Tarantola, 1995) with a stochastic optimization technique (Hansen et al., 2011). The latter is used to obtain a good initial model for the McMC algorithm. This strategy improves the efficiency of the McMC method by significantly reducing the burn-in period."
 * Meier, F., 2020. [On bio-inspired optimization and learning](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/486149/Graziano_Filippo.pdf?sequence=1). Doctoral dissertation, ETH Zurich.
+  * https://optrl2019.github.io/assets/accepted_papers/35.pdf
 
 # 2019
 * https://www.uqlab.com/
-* https://optrl2019.github.io/assets/accepted_papers/35.pdf
 * Byeon, W., Domínguez-Rodrigo, M., Arampatzis, G., Baquedano, E., Yravedra, J., Maté-González, M.A. and Koumoutsakos, P., 2019. [Automated identification and deep classification of cut marks on bones and its paleoanthropological implications](https://www.sciencedirect.com/science/article/pii/S1877750318310226). Journal of Computational Science, 32, pp.36-43.
   * "The hyperparameters were optimized using Bayesian optimization and the Covariance Matrix Adaption Evolution Strategy (CMA-ES) algorithm produced similar results."
 * Arampatzis, G., Wälchli, D., Weber, P., Rästas, H. and Koumoutsakos, P., 2019, June. [(μ, λ)-CCMA-ES for cnstrained otimization with an aplication in parmacodynamics](https://dl.acm.org/doi/abs/10.1145/3324989.3325725). In Proceedings of latform for Advanced Scientific Computing Conference (pp. 1-9). [ **CMA-ES** ]
