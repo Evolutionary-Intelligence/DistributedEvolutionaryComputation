@@ -60,6 +60,8 @@
 * Moustapha, M. and Sudret, B., 2019. [Surrogate-assisted reliability-based design optimization: A survey and a unified modular framework](https://link.springer.com/article/10.1007/s00158-019-02290-y). Structural and Multidisciplinary Optimization, 60, pp.2157-2176.
   * "Finally, the covariance matrix adaptation-evolution scheme (CMA-ES), a global search algorithm, or sequential quadratic programming (SQP), a local
 gradient-based method, is used in the optimization block."
+* Papachristos, C., Kamel, M., Popović, M., Khattak, S., Bircher, A., Oleynikova, H., Dang, T., Mascarich, F., Alexis, K. and Siegwart, R., 2019. [Autonomous exploration and inspection path planning for aerial robots using the robot operating system](https://link.springer.com/chapter/10.1007/978-3-319-91590-6_3). Robot Operating System, pp.67-111.
+  * "For global optimization, we propose the Covariance Matrix Adaptation Evolution Strategy (CMA-ES). This choice is motivated by the nonlinearity of the objective space as well as previous results in similar applications."
 * Egger, A.W., 2019. [A scaled boundary approach to forward and inverse problems with applications in computational fracture mechanics, damage localization and topology optimization](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/404440/Diss_digital_Adrian-Egger_upload.pdf?sequence=1). Doctoral dissertation, ETH Zurich. [ **CMA-ES** ]
   * "Of the four global optimization algorithms investigated, CMA-ES performs the best, followed by PSO and then GAs. PS is observed to frequently diverge and is thus not recommended for use in damage localization applications."
   * "On the basis of a simplified wing geometry, CMA-ES is shown to correctly and accurately identify the imposed crack location."
