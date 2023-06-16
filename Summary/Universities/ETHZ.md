@@ -25,10 +25,12 @@
   * "The optimization is performed using the algorithm CMA-ES. The constraints are introduced as penalty terms in the objective function. This significantly improves the computational performance of CMA-ES."
 
 # 2021
-* Fasel, U., Tiso, P., Keidel, D. and Ermanni, P., 2021. [Concurrent design and flight mission optimization of morphing airborne wind energy wings](https://arc.aiaa.org/doi/abs/10.2514/1.J059621). AIAA Journal, 59(4), pp.1254-1268.
+* Fasel, U., Tiso, P., Keidel, D. and Ermanni, P., 2021. [Concurrent design and flight mission optimization of morphing airborne wind energy wings](https://arc.aiaa.org/doi/abs/10.2514/1.J059621). AIAA Journal, 59(4), pp.1254-1268. [ **CMA-ES** ]
   * "The optimization is performed using the algorithm CMA-ES, which was previously used to optimize morphing wings, because it satisfies the requirements of being able to treat nonsmooth objective functions and to deal with a large number of design variables. Compared to other genetic algorithms, CMA-ES uses information related to the Hessian of the objective function, adapting the covariance matrix and sampling the search space along a preferential direction, leading to faster convergence."
-* Papadopoulou, E., Megaridis, C.M., Walther, J.H. and Koumoutsakos, P., 2021. [Nanopumps without pressure gradients: Ultrafast transport of water in patterned nanotubes](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c07562). Journal of Physical Chemistry B, 126(3), pp.660-669.
+* Papadopoulou, E., Megaridis, C.M., Walther, J.H. and Koumoutsakos, P., 2021. [Nanopumps without pressure gradients: Ultrafast transport of water in patterned nanotubes](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c07562). Journal of Physical Chemistry B, 126(3), pp.660-669. [ **CMA-ES** ]
   * "The optimization was performed with the CMA-ES algorithm."
+* Zhu, H., Chung, J.J., Lawrance, N.R., Siegwart, R. and Alonso-Mora, J., 2021, May. [Online informative path planning for active information gathering of a 3d surface](https://ieeexplore.ieee.org/abstract/document/9561963). In IEEE International Conference on Robotics and Automation (pp. 1488-1494). IEEE. [ **CMA-ES** ]
+  * "The global optimization algorithm CMA-ES is used in the continuous optimization stage."
 
 # 2020
 * Mastalli, C., Havoutis, I., Focchi, M., Caldwell, D.G. and Semini, C., 2020. [Motion planning for quadrupedal locomotion: Coupled planning, terrain mapping, and whole-body control](https://ieeexplore.ieee.org/abstract/document/9133154/). IEEE Transactions on Robotics, 36(6), pp.1635-1648.
