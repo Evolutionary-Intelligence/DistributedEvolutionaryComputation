@@ -61,8 +61,16 @@ gradient-based method, is used in the optimization block."
 * Egger, A.W., 2019. [A scaled boundary approach to forward and inverse problems with applications in computational fracture mechanics, damage localization and topology optimization](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/404440/Diss_digital_Adrian-Egger_upload.pdf?sequence=1). Doctoral dissertation, ETH Zurich. [ **CMA-ES** ]
   * "Of the four global optimization algorithms investigated, CMA-ES performs the best, followed by PSO and then GAs. PS is observed to frequently diverge and is thus not recommended for use in damage localization applications."
   * "On the basis of a simplified wing geometry, CMA-ES is shown to correctly and accurately identify the imposed crack location."
+
+# 2018
+* Yuan, Y., Zheng, C. and Coros, S., 2018, December. [Computational design of transformables](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13516). In Computer Graphics Forum (Vol. 37, No. 8, pp. 103-113).
+  * "To generate optimized embeddings, we employ the powerful non-linear solver CMA-ES. We note that due to the highly non-convex nature of the embedding task, the optimization landscape features many local minima. However, for our problem domain, this is not necessarily an undesirable attribute. In fact, local minima enrich our design space."
+
+# 2017
 * Hitz, G., Galceran, E., Garneau, M.È., Pomerleau, F. and Siegwart, R., 2017. [Adaptive continuous‐space informative path planning for online environmental monitoring](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21722). Journal of Field Robotics, 34(8), pp.1427-1449. [ **CMA-ES** ]
   * "Because the CMA–ES method is not guaranteed to converge to the global maximum, and given that we cannot formulate lower bounds on the achieved objective value, we evaluate the method empirically in simulations."
   * "First, CMA–ES consistently outperformed BO and more distinctively so at higher numbers of control parameters (i.e., higher dimensional search space). Second, the required computation time was significantly lower for CMA–ES."
+
+#
 * Ulrich, T., 2012. [Exploring structural diversity in evolutionary algorithms](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/56473/eth-6088-02.pdf). ETH Zurich.
 * https://www.research-collection.ethz.ch/handle/20.500.11850/72763
