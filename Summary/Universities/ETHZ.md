@@ -38,8 +38,6 @@ gradient-based method, is used in the optimization block."
     * "gradient-free optimization algorithm, the covariance matrix adaptation evolution strategy (CMA-ES), was chosen. A generation size of 48 individuals was used for the optimization, considerably larger than recommended, to ‘improve the global search properties in exchange for speed’."
 * Papadopoulou, E., Megaridis, C.M., Walther, J.H. and Koumoutsakos, P., 2021. [Nanopumps without pressure gradients: Ultrafast transport of water in patterned nanotubes](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c07562). Journal of Physical Chemistry B, 126(3), pp.660-669. [ **CMA-ES** ]
   * "The optimization was performed with the CMA-ES algorithm."
-* Zhu, H., Chung, J.J., Lawrance, N.R., Siegwart, R. and Alonso-Mora, J., 2021, May. [Online informative path planning for active information gathering of a 3d surface](https://ieeexplore.ieee.org/abstract/document/9561963). In IEEE International Conference on Robotics and Automation (pp. 1488-1494). IEEE. [ **CMA-ES** ]
-  * "The global optimization algorithm CMA-ES is used in the continuous optimization stage."
 
 # 2020
 * Mastalli, C., Havoutis, I., Focchi, M., Caldwell, D.G. and Semini, C., 2020. [Motion planning for quadrupedal locomotion: Coupled planning, terrain mapping, and whole-body control](https://ieeexplore.ieee.org/abstract/document/9133154/). IEEE Transactions on Robotics, 36(6), pp.1635-1648.
@@ -48,6 +46,8 @@ gradient-based method, is used in the optimization block."
   * "The models were implemented in the modelling language Modelica and simulated in Dymola. To estimate the parameters, a CMA-ES optimizer was used in Python."
 * Popović, M., Vidal-Calleja, T., Hitz, G., Chung, J.J., Sa, I., Siegwart, R. and Nieto, J., 2020. [An informative path planning framework for UAV-based terrain monitoring](https://link.springer.com/article/10.1007/s10514-020-09903-2). Autonomous Robots, 44, pp.889-911. [ **CMA-ES** ]
   * "With the lowest values, the CMA-ES performs best on all indicators as it searches globally to escape local minima."
+  * Zhu, H., Chung, J.J., Lawrance, N.R., Siegwart, R. and Alonso-Mora, J., 2021, May. [Online informative path planning for active information gathering of a 3d surface](https://ieeexplore.ieee.org/abstract/document/9561963). In IEEE International Conference on Robotics and Automation (pp. 1488-1494). IEEE. [ **CMA-ES** ]
+    * "The global optimization algorithm CMA-ES is used in the continuous optimization stage."
   * Pretto, A., Aravecchia, S., Burgard, W., Chebrolu, N., Dornhege, C., Falck, T., Fleckenstein, F., Fontenla, A., Imperoli, M., Khanna, R. and Liebisch, F., 2020. [Building an aerial–ground robotics system for precision farming: An adaptable solution](https://ieeexplore.ieee.org/abstract/document/9177181). IEEE Robotics & Automation Magazine, 28(3), pp.29-49.
     * "For replanning, we leverage an evolutionary technique, the Covariance Matrix Adaptation Evolution Strategy (CMA-ES), to optimize initial trajectory solutions obtained by a course 3D grid search in the UAV workspace."
   * Papachristos, C., Kamel, M., Popović, M., Khattak, S., Bircher, A., Oleynikova, H., Dang, T., Mascarich, F., Alexis, K. and Siegwart, R., 2019. [Autonomous exploration and inspection path planning for aerial robots using the robot operating system](https://link.springer.com/chapter/10.1007/978-3-319-91590-6_3). Robot Operating System, pp.67-111. [ **CMA-ES** ]
