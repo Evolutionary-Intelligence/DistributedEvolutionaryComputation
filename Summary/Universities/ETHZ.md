@@ -77,6 +77,8 @@ gradient-based method, is used in the optimization block."
   * "On the basis of a simplified wing geometry, CMA-ES is shown to correctly and accurately identify the imposed crack location."
 
 # 2018
+* Agathos, K., Chatzi, E. and Bordas, S.P., 2018. [Multiple crack detection in 3D using a stable XFEM and global optimization](https://link.springer.com/article/10.1007/s00466-017-1532-y). Computational Mechanics, 62, pp.835-852.
+  * "This XFEM scheme was coupled with a Covariance Matrix Adaptation Evolution Strategy (CMA-ES) in a first attempt to apply XFEM based crack detection to 3D problems. In the present work, the proposed XFEM variant is combined to a multiscale optimization strategy consisting of a discontinuous step utilizing genetic algorithms and a continuous step utilizing the CMA-ES algorithm in order to detect multiple cracks in 3D solids."
 * Yuan, Y., Zheng, C. and Coros, S., 2018, December. [Computational design of transformables](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13516). In Computer Graphics Forum (Vol. 37, No. 8, pp. 103-113).
   * "To generate optimized embeddings, we employ the powerful non-linear solver CMA-ES. We note that due to the highly non-convex nature of the embedding task, the optimization landscape features many local minima. However, for our problem domain, this is not necessarily an undesirable attribute. In fact, local minima enrich our design space."
 
