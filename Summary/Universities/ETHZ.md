@@ -82,6 +82,9 @@ gradient-based method, is used in the optimization block."
 * Samuylov, D.K., Purwar, P., Székely, G. and Paul, G., 2019. [Modeling point spread function in fluorescence microscopy with a sparse gaussian mixture: Tradeoff between accuracy and efficiency](https://ieeexplore.ieee.org/document/8638993). IEEE Transactions on Image Processing, 28(8), pp.3688-3702.
   * "We solve the parametric blind PS deconvolution problem using the covariance matrix adaptation evolutionary strategy (CMA-ES) algorithm. It is a popular and well-tested derivative-free algorithm designed to solve low-to-moderate dimensional non-convex optimisation problems."
   * "We solve the PS localisation problem using CMA-ES for six PSF models."
+  * Samuylov, D.K., Székely, G. and Paul, G., 2018. [A Bayesian framework for the analog reconstruction of kymographs from fluorescence microscopy data](https://ieeexplore.ieee.org/abstract/document/8453642). IEEE Transactions on Image Processing, 28(1), pp.410-425.
+    * "To estimate the parameters, we solve using the covariance matrix adaptation evolutionary strategy (CMA-ES)."
+    * "We minimise the norm of the residuals using the CMA-ES algorithm."
 
 # 2018
 * Agathos, K., Chatzi, E. and Bordas, S.P., 2018. [Multiple crack detection in 3D using a stable XFEM and global optimization](https://link.springer.com/article/10.1007/s00466-017-1532-y). Computational Mechanics, 62, pp.835-852.
