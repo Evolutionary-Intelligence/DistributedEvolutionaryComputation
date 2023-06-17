@@ -102,5 +102,9 @@ gradient-based method, is used in the optimization block."
   * "The optimization is done with the CMA-ES algorithm."
 
 #
+* Cardinale, J.O., 2013. [Unsupervised segmentation and shape posterior estimation under Bayesian image models](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/69873/eth-7233-02.pdf). Doctoral dissertation, ETH Zurich.
+  * "We present a versatile proposal adaption scheme inspired by the covariancematrix-adaptation evolution strategy (CMA-ES). CMA-ES is a competitive
+stochastic optimization method introduced by Hansen and Ostermeier (1996). It uses a Gaussian proposal and adapts its covariance matrix in
+order to robustly search the state space."
 * Ulrich, T., 2012. [Exploring structural diversity in evolutionary algorithms](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/56473/eth-6088-02.pdf). ETH Zurich.
 * https://www.research-collection.ethz.ch/handle/20.500.11850/72763
