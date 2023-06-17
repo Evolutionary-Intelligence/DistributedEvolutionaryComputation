@@ -2,6 +2,9 @@
 
 * Moustapha, M. and Sudret, B., 2023. [Learning non-stationary and discontinuous functions using clustering, classification and Gaussian process modelling](https://www.sciencedirect.com/science/article/pii/S0045794923000652). Computers & Structures, 281, p.107035.
   * "They are both estimated in this work by minimizing the span estimate of the leave-one-out error using the covariance-matrix adaptation evolution scheme (CMA-ES)."
+  * Moustapha, M. and Sudret, B., 2019. [Surrogate-assisted reliability-based design optimization: A survey and a unified modular framework](https://link.springer.com/article/10.1007/s00158-019-02290-y). Structural and Multidisciplinary Optimization, 60, pp.2157-2176.
+    * "Finally, the covariance matrix adaptation-evolution scheme (CMA-ES), a global search algorithm, or sequential quadratic programming (SQP), a local
+gradient-based method, is used in the optimization block."
 * Waelchli, D., Weber, P. and Koumoutsakos, P., 2023. [Discovering individual rewards in collective behavior through inverse multi-agent reinforcement learning](https://arxiv.org/pdf/2305.10548.pdf). arXiv preprint arXiv:2305.10548. [ **CMA-ES** ]
   * "In order to ensure that our demonstration data has a high number of desired demonstrations, we maximize the time-averaged rotation by deploying CMA-ES on the three radii of the model."
 * Meier, M. and Bigler, C., 2023. [Process-oriented models of autumn leaf phenology: Ways to sound calibration and implications of uncertain projections](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/596052/3/egusphere-2022-1423.pdf).
@@ -67,9 +70,6 @@
 * Waibel, C., Wortmann, T., Evins, R. and Carmeliet, J., 2019. [Building energy optimization: An extensive benchmark of global search algorithms](https://www.sciencedirect.com/science/article/pii/S0378778818331682). Energy and Buildings, 187, pp.218-240.
   * "CMA-ES proved to be the best choice amongst the considered optimizers when the evaluation budget is high, as it consistently achieved good or best performance in all metrics. However, it has a slow convergence, and other optimizers perform better at smaller function evaluation budgets."
   * "The only algorithm from our library BB-O that has failed in most instances in this benchmark is the ES, even though it achieved competitive results at mathematical test functions during our tuning process. This suggests that this algorithm was “overtrained” in the tuning process and that it is highly sensitive to its algorithmic settings."
-* Moustapha, M. and Sudret, B., 2019. [Surrogate-assisted reliability-based design optimization: A survey and a unified modular framework](https://link.springer.com/article/10.1007/s00158-019-02290-y). Structural and Multidisciplinary Optimization, 60, pp.2157-2176.
-  * "Finally, the covariance matrix adaptation-evolution scheme (CMA-ES), a global search algorithm, or sequential quadratic programming (SQP), a local
-gradient-based method, is used in the optimization block."
 * Egger, A.W., 2019. [A scaled boundary approach to forward and inverse problems with applications in computational fracture mechanics, damage localization and topology optimization](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/404440/Diss_digital_Adrian-Egger_upload.pdf?sequence=1). Doctoral dissertation, ETH Zurich. [ **CMA-ES** ]
   * "Of the four global optimization algorithms investigated, CMA-ES performs the best, followed by PSO and then GAs. PS is observed to frequently diverge and is thus not recommended for use in damage localization applications."
   * "On the basis of a simplified wing geometry, CMA-ES is shown to correctly and accurately identify the imposed crack location."
