@@ -5,6 +5,8 @@
   * Moustapha, M. and Sudret, B., 2019. [Surrogate-assisted reliability-based design optimization: A survey and a unified modular framework](https://link.springer.com/article/10.1007/s00158-019-02290-y). Structural and Multidisciplinary Optimization, 60, pp.2157-2176.
     * "Finally, the covariance matrix adaptation-evolution scheme (CMA-ES), a global search algorithm, or sequential quadratic programming (SQP), a local
 gradient-based method, is used in the optimization block."
+  * Moustapha, M., Bourinet, J.M., Guillaume, B. and Sudret, B., 2018. [Comparative study of Kriging and support vector regression for structural engineering applications](https://ascelibrary.org/doi/full/10.1061/AJRUA6.0000950). ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering, 4(2), p.04018005.
+    * A derandomized stochastic evolution scheme, namely the covariance matrix adaptation–evolution strategy (CMA-ES) is then considered for a robust and efficient solution to the resulting high-dimensional optimization problem.
 * Waelchli, D., Weber, P. and Koumoutsakos, P., 2023. [Discovering individual rewards in collective behavior through inverse multi-agent reinforcement learning](https://arxiv.org/pdf/2305.10548.pdf). arXiv preprint arXiv:2305.10548. [ **CMA-ES** ]
   * "In order to ensure that our demonstration data has a high number of desired demonstrations, we maximize the time-averaged rotation by deploying CMA-ES on the three radii of the model."
 * Meier, M. and Bigler, C., 2023. [Process-oriented models of autumn leaf phenology: Ways to sound calibration and implications of uncertain projections](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/596052/3/egusphere-2022-1423.pdf).
