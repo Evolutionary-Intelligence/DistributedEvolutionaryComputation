@@ -98,6 +98,8 @@ gradient-based method, is used in the optimization block."
   * "To generate optimized embeddings, we employ the powerful non-linear solver CMA-ES. We note that due to the highly non-convex nature of the embedding task, the optimization landscape features many local minima. However, for our problem domain, this is not necessarily an undesirable attribute. In fact, local minima enrich our design space."
 
 # 2017
+* https://wonmin-byeon.github.io/files/0-17-nature-communication.pdf
+  * "The hyperparameters were optimized using Bayesian optimization and the Covariance Matrix Adaption Evolution Strategy (CMA-ES) algorithm produced similar results."
 * Kulakova, L., 2017. [Bayesian uncertainty quantification for data-driven applications in engineering and life sciences](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/258958/1/main.pdf). Doctoral dissertation, ETH Zurich. [ **CMA-ES** ]
   * "The optimization is done with the CMA-ES algorithm."
 
