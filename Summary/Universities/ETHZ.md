@@ -36,6 +36,7 @@ gradient-based method, is used in the optimization block."
     * "The optimization goals and constraints are combined by weighting each function, since the performance of the CMA-ES algorithm is greatly reduced when introducing additional constraint functions. The weighting factors for the objective and constraint functions are defined to give the individual values a similar impact on the overall objective function."
   * Keidel, D., Molinari, G. and Ermanni, P., 2019. [Aero-structural optimization and analysis of a camber-morphing flying wing: Structural and wind tunnel testing](https://journals.sagepub.com/doi/abs/10.1177/1045389X19828501?journalCode=jima). Journal of Intelligent Material Systems and Structures, 30(6), pp.908-923. [ **CMA-ES** ]
     * "gradient-free optimization algorithm, the covariance matrix adaptation evolution strategy (CMA-ES), was chosen. A generation size of 48 individuals was used for the optimization, considerably larger than recommended, to ‘improve the global search properties in exchange for speed’."
+  * https://doi.org/10.3929/ethz-b-000200398
 * Papadopoulou, E., Megaridis, C.M., Walther, J.H. and Koumoutsakos, P., 2021. [Nanopumps without pressure gradients: Ultrafast transport of water in patterned nanotubes](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c07562). Journal of Physical Chemistry B, 126(3), pp.660-669. [ **CMA-ES** ]
   * "The optimization was performed with the CMA-ES algorithm."
 
