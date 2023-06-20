@@ -23,6 +23,5 @@
 * Shir, O.M., Roslund, J. and Rabitz, H., 2009, July. Evolutionary multi-objective quantum control experiments with the covariance matrix adaptation. In Proceedings of the 11th Annual conference on Genetic and evolutionary computation (pp. 659-666). https://dl.acm.org/doi/10.1145/1569901.1569992
 
 ## 2008
-
 * Shir, O.M., Roslund, J., Bäck, T. and Rabitz, H., 2008, July. Performance analysis of derandomized evolution strategies in quantum control experiments. In Proceedings of the 10th annual conference on Genetic and evolutionary computation (pp. 519-526). http://gpbib.cs.ucl.ac.uk/gecco2008/docs/p519.pdf
 * Shir, O.M., Back, T., Rabitz, H. and Vrakking, M.J., 2008, June. On the evolution of laser pulses under a dynamic quantum control environment. In 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence) (pp. 2127-2134). IEEE. https://ieeexplore.ieee.org/document/4631081
