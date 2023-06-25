@@ -130,7 +130,7 @@
 * [Robotics: Enter the evolvabot](https://www.nature.com/articles/484449a)
   * Darwin's Devices: What Evolving Robots Can Teach Us About the History of Life and the Future of Technology
 * [Exploiting elephants in the room](https://www.nature.com/articles/464839a)
-  * "Reporting in the Journal of the American Chemical Society, Kreutz et al.1 describe their use of an 'evolutionary' algorithm, implemented in a microfluidic system, to discover active catalysts."
+  * "Reporting in the Journal of the American Chemical Society, Kreutz et al. describe their use of an 'evolutionary' algorithm, implemented in a microfluidic system, to discover active catalysts."
 * [Astrophysics: Far off fly-by](https://www.nature.com/articles/455005d)
   * "Kirsten Howley of the University of California at Santa Cruz and her colleagues have used what is known as a genetic algorithm to determine that NGC 205 is actually swinging around M31."
 * [Google tool identifies linchpin species](https://www.nature.com/articles/news.2008.1010)
