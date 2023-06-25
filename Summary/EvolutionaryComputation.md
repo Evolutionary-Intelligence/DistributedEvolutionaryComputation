@@ -252,6 +252,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * [Siemens Healthcare XP Division](https://iopscience.iop.org/article/10.1088/0031-9155/61/8/3009)
 
 # MetaHeuristics
+* [Bäck, T.H.](https://www.universiteitleiden.nl/en/staffmembers/thomas-back), Kononova, A.V., van Stein, B., Wang, H., Antonov, K.A., Kalkreuth, R.T., de Nobel, J., Vermetten, D., de Winter, R. and Ye, F., 2023. [Evolutionary algorithms for parameter optimization—Thirty years later](https://direct.mit.edu/evco/article/31/2/81/115462). Evolutionary Computation, 31(2), pp.81-122.
 * Lagaros, N.D., Kournoutos, M., Kallioras, N.A. and Nordas, A.N., 2023. Constraint handling techniques for metaheuristics: A state-of-the-art review and new variants. Optimization and Engineering, pp.1-48.
 * Hansen, N., Auger, A., Brockhoff, D. and Tušar, T., 2022. [Anytime performance assessment in blackbox optimization benchmarking](https://ieeexplore.ieee.org/abstract/document/9905722). IEEE Transactions on Evolutionary Computation, 26(6), pp.1293-1305.
 * Kudela, J., 2022. [A critical problem in benchmarking and analysis of evolutionary computation methods](https://www.nature.com/articles/s42256-022-00579-0). Nature Machine Intelligence, 4(12), pp.1238-1245.
