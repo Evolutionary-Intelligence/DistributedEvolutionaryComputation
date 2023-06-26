@@ -90,6 +90,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Fogel, D.B., Fogel, L.J. and Atmar, J.W., 1991, January. [Meta-evolutionary programming](https://ieeexplore.ieee.org/document/186507). In Conference Record of Asilomar Conference on Signals, Systems & Computers (pp. 540-541). IEEE Computer Society.
 * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1966. [Artificial intelligence through simulated evolution](https://www.amazon.com.au/Artificial-Intelligence-Through-Simulated-Evolution/dp/0471265160). John Wiley & Sons Inc.
 * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1966. [Intelligent decision making through a simulation of evolution](https://onlinelibrary.wiley.com/doi/abs/10.1002/bs.3830110403). Behavioral Science, 11(4), pp.253-272.
+* Fogel, L.J., Owens, A.J. and Walsh, M.J., 1965. [Intelligent decision-making through a simulation of evolution](https://journals.sagepub.com/doi/abs/10.1177/003754976500500413?journalCode=simb). Simulation, 5(4), pp.267-279. [ [IEEE Transactions on Human Factors in Electronics](https://ieeexplore.ieee.org/document/6591252) ]
 
 ## Genetic Programming (GP) [ [PySR](https://arxiv.org/pdf/2305.01582.pdf) | [USC Ph.D.](http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/public/ftp.io.com/papers/WAT_PHD_DissFull_USC94_Recombination_etc_Genetic_Construction_of_Computer_Programs.pdf) ]
 
