@@ -16,6 +16,7 @@
 * Yuan, S., Garrison, L.H., Hadzhiyska, B., Bose, S. and Eisenstein, D.J., 2022. [ABACUSHOD: A highly efficient extended multitracer HOD framework and its application to BOSS and eBOSS data](https://academic.oup.com/mnras/article/510/3/3301/6446006). Monthly Notices of the Royal Astronomical Society, 510(3), pp.3301-3320. [ **Harvard & Smithsonian** + **Stanford University** ]
 * Tatsis, K.E., Agathos, K., Chatzi, E.N. and Dertimanis, V.K., 2022. [A hierarchical output-only Bayesian approach for online vibration-based crack detection using parametric reduced-order models](https://www.sciencedirect.com/science/article/pii/S0888327021008967). Mechanical Systems and Signal Processing, 167, p.108558. [ **ETHZ** ]
 * Wang, B. and Ponce, C.R., 2022. [Tuning landscapes of the ventral stream](https://www.sciencedirect.com/science/article/pii/S2211124722014607). Cell Reports, 41(6), p.111595. [ **Washington University in St. Louis** + **Harvard Medical School** ]
+
 # 2021
 * Vicol, P., Metz, L. and Sohl-Dickstein, J., 2021, July. [Unbiased gradient estimation in unrolled computation graphs with persistent evolution strategies](). In International Conference on Machine Learning (pp. 10553-10563). PMLR. [ **University of Toronto + Google Brain** ]
 * Fernandes, M.C., Aizenberg, J., Weaver, J.C. and Bertoldi, K., 2021. [Mechanically robust lattices inspired by deep-sea glass sponges](https://www.nature.com/articles/s41563-020-0798-1). Nature Materials, 20(2), pp.237-241. [ **Harvard University** ]
@@ -25,7 +26,10 @@
 * Veit, D., 2021. [Genetic algorithms and evolution strategy in textile engineering](https://www.sciencedirect.com/science/article/abs/pii/B9780128229774000121). In Advances in Modeling and Simulation in Textile Engineering (pp. 99-138). Woodhead Publishing. [ **RWTH Aachen University** ]
 * Fasel, U., Tiso, P., Keidel, D. and Ermanni, P., 2021. [Concurrent design and flight mission optimization of morphing airborne wind energy wings](https://arc.aiaa.org/doi/10.2514/1.J059621). AIAA Journal, 59(4), pp.1254-1268. [ **ETHZ** ]
 * Keidel, D., Fasel, U. and Ermanni, P., 2021. [Concept investigation of a lightweight composite lattice morphing wing](https://arc.aiaa.org/doi/10.2514/1.J059579). AIAA Journal, 59(6), pp.2242-2250. [ **ETHZ** ]
+* Chen, T., 2021. [On the interplay between mechanical and computational intelligence in robot hands](https://academiccommons.columbia.edu/doi/10.7916/d8-4t5w-h837/download). Columbia University.
 * https://researchspace.auckland.ac.nz/handle/2292/57559
+
+# 2020
 * Witte, K.A., Fiers, P., Sheets-Singer, A.L. and Collins, S.H., 2020. [Improving the energy economy of human running with powered and unpowered ankle exoskeleton assistance](https://www.science.org/doi/abs/10.1126/scirobotics.aay9108). Science Robotics, 5(40), p.eaay9108. [ **Carnegie Mellon University + Sport Research Lab, Nike Inc. + Stanford University** ]
 
 # 2019
