@@ -243,6 +243,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
  * [AirBus](https://www.airbus.com/en/newsroom/news/2016-03-pioneering-bionic-3d-printing)
    * [AutoDesk](https://www.autodesk.com/research/projects/bionic-partition-project) [ [paper](https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/pdf/naturebased-hybrid-computational-geometry.pdf) ]
+* [Bank of Canada](https://www.econstor.eu/bitstream/10419/241168/1/swp2020-02.pdf): **CMA-ES**
 * [Beijing National Stadium (Bird's Nest) & Beijing National Aquatics Centre (Water Cube)](https://www.cadalyst.com/cad/building-design/generative-design-is-changing-face-architecture-12948)
 * [BMW Group](https://dl.acm.org/doi/abs/10.1145/3512290.3528712)
 * Google
