@@ -2,7 +2,6 @@
 
 ## 2021
 * Shir, O.M., Xing, X. & Rabitz, H. [Multi-level evolution strategies for high-resolution black-box control](https://doi.org/10.1007/s10732-021-09483-z). J Heuristics 27, 1021–1055 (2021).
-* Ding, Z., 2021. [Not Only Domain Randomization: Universal Policy with Embedding System Identification](https://arxiv.org/pdf/2109.13438.pdf). arXiv preprint arXiv:2109.13438.
 * Sun, X., Xue, T., Rusinkiewicz, S. and Adams, R.P., 2021. [Amortized synthesis of constrained configurations using a differentiable surrogate](https://openreview.net/pdf?id=wdIDt--oLmV). Advances in neural information processing systems, 34, pp.18891-18906.
 
 ## 2020
