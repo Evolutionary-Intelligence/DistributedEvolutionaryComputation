@@ -119,7 +119,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Particle Swarm Optimization (PSO)
 
-* Eberhart, R.C., Shi, Y. and Kennedy, J., 2001. Swarm intelligence. Elsevier.
+* Eberhart, R.C., Shi, Y. and Kennedy, J., 2001. [Swarm intelligence](https://www.sciencedirect.com/book/9781558605954/swarm-intelligence). Elsevier.
 * Kennedy, J. and Eberhart, R., 1995, November. Particle swarm optimization. In Proceedings of International Conference on Neural Networks (Vol. 4, pp. 1942-1948). IEEE.
 
 ## Non-dominated Sorting Genetic Algorithm II (NSGA-II)
