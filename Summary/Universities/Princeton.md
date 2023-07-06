@@ -1,5 +1,10 @@
 # Princeton
 
+## 2023
+
+* Goudreault, F., Scheuble, D., Bijelic, M., Robidoux, N. and Heide, F., 2023. LiDAR-in-the-loop hyperparameter optimization. In Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 13404-13414). [ [pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Goudreault_LiDAR-in-the-Loop_Hyperparameter_Optimization_CVPR_2023_paper.pdf) | [Python](https://github.com/princeton-computational-imaging/LITL-Optimization) ] ( **CMA-ES** )
+  * "We optimize sensing and DSP hyperparameters by solving a Multi-Objective black-box Optimization (MOO) problem with a novel CMA-ES (Covariance Matrix Adaptation-Evolution Strategy) that relies on a maxrank multi-objective scalarization loss to dynamically improve scale matching between different loss components."
+
 ## 2021
 * Shir, O.M., Xing, X. & Rabitz, H. [Multi-level evolution strategies for high-resolution black-box control](https://doi.org/10.1007/s10732-021-09483-z). J Heuristics 27, 1021–1055 (2021).
 * Sun, X., Xue, T., Rusinkiewicz, S. and Adams, R.P., 2021. [Amortized synthesis of constrained configurations using a differentiable surrogate](https://openreview.net/pdf?id=wdIDt--oLmV). Advances in neural information processing systems, 34, pp.18891-18906.
