@@ -3,6 +3,7 @@
 * Dorigo, M., Theraulaz, G. and Trianni, V., 2021. Swarm robotics: Past, present, and future [Point of View]. Proceedings of the IEEE, 109(7), pp.1152-1165. [ [www](https://ieeexplore.ieee.org/abstract/document/9460560) ] ( **SR** )
 * Groß, R. and Dorigo, M., 2008. Self-assembly at the macroscopic scale. Proceedings of the IEEE, 96(9), pp.1490-1508. [ [www](https://ieeexplore.ieee.org/abstract/document/4618734) ]
 * Wilson, S.S., 1991. Teaching network connectivity using simulated annealing on a massively parallel processor. Proceedings of the IEEE, 79(4), pp.559-566. [ [www](https://ieeexplore.ieee.org/abstract/document/92048) ] ( **SA** )
+* Szu, H.H. and Hartley, R.L., 1987. Nonconvex optimization by fast simulated annealing. Proceedings of the IEEE, 75(11), pp.1538-1540. [ [www](https://ieeexplore.ieee.org/abstract/document/1458183) ] ( **SA** )
 
 ## 2020
 
@@ -53,7 +54,3 @@ Rose, K., 1998. Deterministic annealing for clustering, compression, classificat
 ## 1995
 
 Fogel, D.B., 1995. Review of computational intelligence: Imitating life [Book reviews]. Proceedings of the IEEE, 83(11), p.1588. [ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=481636) ]
-
-## 1987
-
-Szu, H.H. and Hartley, R.L., 1987. Nonconvex optimization by fast simulated annealing. Proceedings of the IEEE, 75(11), pp.1538-1540. [ [www](https://ieeexplore.ieee.org/abstract/document/1458183) ]
