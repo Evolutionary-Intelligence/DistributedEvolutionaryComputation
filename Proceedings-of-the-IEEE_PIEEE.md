@@ -2,6 +2,7 @@
 
 * Dorigo, M., Theraulaz, G. and Trianni, V., 2021. Swarm robotics: Past, present, and future [Point of View]. Proceedings of the IEEE, 109(7), pp.1152-1165. [ [www](https://ieeexplore.ieee.org/abstract/document/9460560) ] ( **SR** )
 * Groß, R. and Dorigo, M., 2008. Self-assembly at the macroscopic scale. Proceedings of the IEEE, 96(9), pp.1490-1508. [ [www](https://ieeexplore.ieee.org/abstract/document/4618734) ]
+* Wilson, S.S., 1991. Teaching network connectivity using simulated annealing on a massively parallel processor. Proceedings of the IEEE, 79(4), pp.559-566. [ [www](https://ieeexplore.ieee.org/abstract/document/92048) ] ( **SA** )
 
 ## 2020
 
@@ -44,10 +45,6 @@ Chellapilla, K. and Fogel, D.B., 1999. Evolution, neural networks, games, and in
 Yao, X., 1999. Evolving artificial neural networks. Proceedings of the IEEE, 87(9), pp.1423-1447. [ [www](https://ieeexplore.ieee.org/abstract/document/784219) ]
 
 Fukuda, T. and Kubota, N., 1999. An intelligent robotic system based on a fuzzy approach. Proceedings of the IEEE, 87(9), pp.1448-1470. [ [www](https://ieeexplore.ieee.org/abstract/document/784220) ]
-
-## 1991
-
-Wilson, S.S., 1991. Teaching network connectivity using simulated annealing on a massively parallel processor. Proceedings of the IEEE, 79(4), pp.559-566. [ [www](https://ieeexplore.ieee.org/abstract/document/92048) ]
 
 ## 1998
 
