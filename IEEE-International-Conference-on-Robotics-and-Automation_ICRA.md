@@ -1,5 +1,10 @@
 # ICRA (IEEE International Conference on Robotics and Automation)
 
+* Zhu, X., Lian, W., Yuan, B., Freeman, C.D. and Tomizuka, M., 2023, May. Allowing safe contact in robotic goal-reaching: Planning and tracking in operational and null spaces. In IEEE International Conference on Robotics and Automation (pp. 8120-8126). IEEE. [ [www](https://ieeexplore.ieee.org/abstract/document/10160649) ]
+  * "This paper proposes a hybrid solver that integrates the covariance matrix adaptation evolution strategy (CMA-ES) and the gradient descent method."
+    * N. Hansen, “The CMA evolution strategy: A tutorial,” in arXiv Preprint, 2016.
+    * R. Antonova, J. Yang, K. M. Jatavallabhula, and J. Bohg, “Rethinking optimization with differentiable simulation from a global perspective,” in arXiv Preprint, 2022.
+    * X. Chen, X. Liu, and Y. Jia, “Combining evolution strategy and gradient descent method for discriminative learning of bayesian classifiers,” in 11th Annual Genetic and Evolutionary Computation Conference, GECCO-2009, 01 2009, pp. 507–514.
 * Song, S., Kim, J. and Yamane, K., 2015, May. Development of a bipedal robot that walks like an animation character. In IEEE International Conference on Robotics and Automation (pp. 3596-3602). IEEE. [ [www]() ] ( **CMA-ES** | **Continuous Optimization** )
 * Gehring, C., Coros, S., Hutter, M., Bloesch, M., Fankhauser, P., Hoepflinger, M.A. and Siegwart, R., 2014, May. Towards automatic discovery of agile gaits for quadrupedal robots. In IEEE International Conference on Robotics and Automation (pp. 4243-4248). IEEE. [ [www]() ] ( **CMA-ES** | **Continuous Optimization** )
 * Nogami, R., Noborio, H., Ujibe, F. and Fujii, H., 2004, April. Precise deformation of rheologic object under MSD models with many voxels and calibrating parameters. In IEEE International Conference on Robotics and Automation. 2004 (pp. 1919-1926). IEEE. [ [www](https://ieeexplore.ieee.org/abstract/document/1308104) ] ( **GA** )
