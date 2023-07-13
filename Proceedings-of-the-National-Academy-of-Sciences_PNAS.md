@@ -1,5 +1,9 @@
 # PNAS (Proceedings of the National Academy of Sciences)
 
+* Falk, M.J., Wu, J., Matthews, A., Sachdeva, V., Pashine, N., Gardel, M.L., Nagel, S.R. and Murugan, A., 2023. Learning to learn by using nonequilibrium training protocols for adaptable materials. Proceedings of the National Academy of Sciences, 120(27), p.e2219558120. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120) ] ( **CMA-ES** | **Continuous Optimization** )
+  * "We optimize the yield of a given target structure over the 66 design parameters using the covariance matrix adaptation evolutionary strategy (CMA-ES) that simulates an evolving population of design parameters."
+    * N. Hansen, A. Ostermeier, Adapting arbitrary normal mutation distributions in evolution strategies: The covariance matrix adaptation in Proceedings of IEEE international conference on evolutionary computation. (IEEE), pp. 312–317 (1996).
+    * N. Hansen, The cma evolution strategy: A comparing review. Towards New Evol. Comput. pp.75–102 (2006).
 * Garg, S., Shiragur, K., Gordon, D.M. and Charikar, M., 2023. Distributed algorithms from arboreal ants for the shortest path problem. Proceedings of the National Academy of Sciences, 120(6), p.e2207959120. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2207959120) ] ( **SI** | **Distributed** )
 * Wang, G., Phan, T.V., Li, S., Wang, J., Peng, Y., Chen, G., Qu, J., Goldman, D.I., Levin, S.A., Pienta, K. and Amend, S., 2022. Robots as models of evolving systems. Proceedings of the National Academy of Sciences, 119(12), p.e2120019119. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2120019119) | [pdf](https://www.pnas.org/doi/pdf/10.1073/pnas.2120019119) ] ( **ER** | **SR** )
   * "https://www.pnas.org/doi/10.1073/pnas.2121985119"
