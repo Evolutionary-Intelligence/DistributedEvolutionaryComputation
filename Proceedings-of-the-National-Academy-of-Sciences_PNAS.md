@@ -1,6 +1,6 @@
 # PNAS (Proceedings of the National Academy of Sciences)
 
-* Falk, M.J., Wu, J., Matthews, A., Sachdeva, V., Pashine, N., Gardel, M.L., Nagel, S.R. and Murugan, A., 2023. Learning to learn by using nonequilibrium training protocols for adaptable materials. Proceedings of the National Academy of Sciences, 120(27), p.e2219558120. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120) ] ( **CMA-ES** | **Continuous Optimization** )
+* Falk, M.J., Wu, J., Matthews, A., Sachdeva, V., Pashine, N., Gardel, M.L., Nagel, S.R. and Murugan, A., 2023. Learning to learn by using nonequilibrium training protocols for adaptable materials. Proceedings of the National Academy of Sciences, 120(27), p.e2219558120. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120) ] ( **CMA-ES** | **Continuous Optimization** #)
   * "We optimize the yield of a given target structure over the 66 design parameters using the covariance matrix adaptation evolutionary strategy (CMA-ES) that simulates an evolving population of design parameters."
     * N. Hansen, A. Ostermeier, Adapting arbitrary normal mutation distributions in evolution strategies: The covariance matrix adaptation in Proceedings of IEEE international conference on evolutionary computation. (IEEE), pp. 312–317 (1996).
     * N. Hansen, The cma evolution strategy: A comparing review. Towards New Evol. Comput. pp.75–102 (2006).
