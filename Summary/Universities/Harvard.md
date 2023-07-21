@@ -1,5 +1,6 @@
-# Harvard 
+# Harvard University
 
+* Schälte, Y., Fröhlich, F., Jost, P.J., Vanhoefer, J., Pathirana, D., Stapor, P., Lakrisenko, P., Wang, D., Raimúndez, E., Merkt, S. and Schmiester, L., 2023. [pyPESTO: A modular and scalable tool for parameter estimation for dynamic models](https://arxiv.org/abs/2305.01821). arXiv preprint arXiv:2305.01821. [ **CMA-ES** + **PSO** ]
 * https://arxiv.org/pdf/2106.16198.pdf
 * Baines, R., Patiballa, S.K., Gorissen, B., Bertoldi, K. and Kramer‐Bottiglio, R., 2023. [Programming 3D curves with discretely constrained cylindrical inflatables](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202300535). Advanced Materials, p.2300535. [ **CMA-ES** ]
 * Kim, J., 2022. [Soft hip exosuit optimization for improving mobility in healthy young adults and individuals with Parkinson’s disease](https://dash.harvard.edu/handle/1/37372302). Doctoral dissertation, Harvard University Graduate School of Arts and Sciences. [ **CMA-ES** ]
