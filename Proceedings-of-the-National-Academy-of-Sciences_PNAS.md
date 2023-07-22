@@ -1,5 +1,17 @@
 # PNAS (Proceedings of the National Academy of Sciences)
 
+* Mueller, K.N., Carter, M.C., Kansupada, J.A. and Ponce, C.R., 2023. Macaques recognize features in synthetic images derived from ventral stream neurons. Proceedings of the National Academy of Sciences, 120(10), p.e2213034120. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2213034120) ] ( **EC** + **Continuous Optimization** #)
+  * "We established that generators can
+be functionally linked with in vivo neurons in a closed-loop
+approach—generated images are displayed in the receptive field,
+neuronal responses are collected, and an evolutionary search algorithm
+(30) provides generators with new input codes likely associated with images that will increase neuronal firing rates"
+    * Y. Yamane, E. T. Carlson, K. C. Bowman, Z. Wang, C. E. Connor, A neural code for three-dimensional object shape in macaque inferotemporal cortex. Nat. Neurosci. 11, 1352–1360 (2008).
+    * C. R. Ponce et al., Evolving images for visual neurons using a deep generative network reveals
+coding principles and neuronal preferences. Cell 177, 999–1009.e10 (2019), 10.1016/j.
+cell.2019.04.005.
+    * O. Rose, J. Johnson, B. Wang, C. R. Ponce, Visual prototypes in the ventral stream are attuned to
+complexity and gaze behavior. Nat. Commun. 12, 1–16 (2021).
 * Falk, M.J., Wu, J., Matthews, A., Sachdeva, V., Pashine, N., Gardel, M.L., Nagel, S.R. and Murugan, A., 2023. Learning to learn by using nonequilibrium training protocols for adaptable materials. Proceedings of the National Academy of Sciences, 120(27), p.e2219558120. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120) ] ( **CMA-ES** | **Continuous Optimization** #)
   * "We optimize the yield of a given target structure over the 66 design parameters using the covariance matrix adaptation evolutionary strategy (CMA-ES) that simulates an evolving population of design parameters."
     * N. Hansen, A. Ostermeier, Adapting arbitrary normal mutation distributions in evolution strategies: The covariance matrix adaptation in Proceedings of IEEE international conference on evolutionary computation. (IEEE), pp. 312–317 (1996).
