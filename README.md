@@ -1,4 +1,4 @@
-# (Distributed) Evolutionary Computation (EC)
+# A (Growing) Paper List of Evolutionary Computation (EC) on Top-Tier Publications (e.g., Nature, Science, etc.)
 
 This is a *growing* paper list for [evolutionary computation (EC)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md). Currently we are **actively** updating it (at least from 2021 to 2023). Owing to the abundance of the related literature, however, we believe that much interesting work is still missed here. If you find them missed, welcome to contact with us via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) or [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls) to add.
 
