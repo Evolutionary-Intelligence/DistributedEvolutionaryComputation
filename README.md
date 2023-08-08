@@ -56,6 +56,7 @@ This is a *growing* paper list for [evolutionary computation (EC)](https://githu
 | Physics | [npjqi (npj Quantum Information)](https://www.nature.com/npjqi/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/npj-Quantum-Information_npjqi.md)
 | Chemistry | [JACS (Journal of the American Chemical Society)](https://pubs.acs.org/journal/jacsat) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Journal-of-the-American-Chemical-Society_JACS.md)
 | Chemistry | [Nature Chemistry](https://www.nature.com/nchem/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Chemistry.md)
+| Chemistry | [Journal of Chemical Physics (JCP)](https://pubs.aip.org/aip/jcp) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Journal-of-Chemical-Physics_JCP.md)
 | Materials | [Nature Materials](https://www.nature.com/nmat/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Materials.md)
 | Astronautics&Aeronautics | [AIAA Journal](https://arc.aiaa.org/journal/aiaaj) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/AIAA-Journal.md)
 | Multidiscipline | [Nature Communications](https://www.nature.com/ncomms/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Communications.md)
