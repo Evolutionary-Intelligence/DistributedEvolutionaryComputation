@@ -1,6 +1,6 @@
 # Science
 
-* Yang, Q., Hu, J., Fang, Y.W., Jia, Y., Yang, R., Deng, S., Lu, Y., Dieguez, O., Fan, L., Zheng, D. and Zhang, X., 2023. Ferroelectricity in layered bismuth oxide down to 1 nanometer. Science, 379(6638), pp.1218-1224. [ [www](https://www.science.org/doi/full/10.1126/science.abm5134) ] ( **GA** ) [ [北京科技大学](https://www.nsfc.gov.cn/csc/20340/20343/64563/index.html) ]
+* Yang, Q., Hu, J., Fang, Y.W., Jia, Y., Yang, R., Deng, S., Lu, Y., Dieguez, O., Fan, L., Zheng, D. and Zhang, X., 2023. Ferroelectricity in layered bismuth oxide down to 1 nanometer. Science, 379(6638), pp.1218-1224. [ [www](https://www.science.org/doi/full/10.1126/science.abm5134) ] ( **GA** + **Discrete Optimization** #) [ [北京科技大学](https://www.nsfc.gov.cn/csc/20340/20343/64563/index.html) ]
   * "Hence, we performed genetic-algorithm searches of the arrangements that lead to the lowest possible energy of each set of atoms in these cells of Bi6On (n = 6 to 12) with different oxygen loss."
   * "To further understand the atomic structure, we performed a high-throughput DFT crystal structure prediction within the structure space of Bi6O9 that combined the genetic-algorithm implemented in USPEX (Universal Structure Predictor: Evolutionary Xtallography) with information from the HAADF-STEM structures."
     * C. W. Glass, A. R. Oganov, N. Hansen, USPEX—Evolutionary crystal structure prediction. Comput. Phys. Commun.175, 713–720 (2006).
