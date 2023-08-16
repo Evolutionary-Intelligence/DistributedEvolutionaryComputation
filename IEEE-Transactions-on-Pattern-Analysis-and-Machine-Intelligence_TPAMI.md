@@ -2,6 +2,8 @@
 
 ## 2023
 
+Raymond C., Chen Q., Xue B. and Zhang M. (2023). Learning Symbolic Model-Agnostic Loss Functions via Meta-Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. [ [www](https://doi.org/10.1109/TPAMI.2023.3294394.)] (**EA**)
+
 Yu, H., Wu, S., and Dauwels, J. (2023). Efficient variational bayes learning of graphical models with smooth structural changes. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(1), 475–488. [ [www](https://doi.org/10.1109/TPAMI.2022.3140886) ] (**SA**)
 
 Zhang, Y., Yao, Q., and Kwok, J. T. (2023). Bilinear scoring function search for knowledge graph learning. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(2), 1458–1473. [ [www](https://doi.org/10.1109/TPAMI.2022.3157321) ] (**EA**)
