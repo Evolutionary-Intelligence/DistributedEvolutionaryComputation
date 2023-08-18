@@ -1,16 +1,18 @@
+
+
+
+
 # TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)
 
 ## 2023
 
-Raymond C., Chen Q., Xue B. and Zhang M. (2023). Learning Symbolic Model-Agnostic Loss Functions via Meta-Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. [ [www](https://doi.org/10.1109/TPAMI.2023.3294394.)] (**EA**)
+Raymond C., Chen Q., Xue B. and Zhang M. (2023). Learning Symbolic Model-Agnostic Loss Functions via Meta-Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. [ [www](https://doi.org/10.1109/TPAMI.2023.3294394.) ] (**EA**)
 
 Yu, H., Wu, S., and Dauwels, J. (2023). Efficient variational bayes learning of graphical models with smooth structural changes. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(1), 475–488. [ [www](https://doi.org/10.1109/TPAMI.2022.3140886) ] (**SA**)
 
 Zhang, Y., Yao, Q., and Kwok, J. T. (2023). Bilinear scoring function search for knowledge graph learning. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(2), 1458–1473. [ [www](https://doi.org/10.1109/TPAMI.2022.3157321) ] (**EA**)
 
 Li, Y., Dong, M., Wang, Y., and Xu, C. (2023). Neural architecture search via proxy validation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(6), 7595–7610. [ [www](https://doi.org/10.1109/TPAMI.2022.3217648) ] (**EA**)
-
-Tutsoy, O. (2023). Graph theory based large-scale machine learning with multi-dimensional constrained optimization approaches for exact epidemiological modeling of pandemic diseases. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(8), 9836–9845. [ [www](https://doi.org/10.1109/TPAMI.2023.3256421) ] (**PSO**)
 
 Tutsoy, O. (2023). Graph theory based large-scale machine learning with multi-dimensional constrained optimization approaches for exact epidemiological modeling of pandemic diseases. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(8), 9836–9845. [ [www](https://doi.org/10.1109/TPAMI.2023.3256421) ] (**PSO**)
 
@@ -28,17 +30,29 @@ Celik, B., and Vanschoren, J. (2021). Adaptation strategies for automated machin
 
 Barman, A., and Shah, S. K. (2021). A graph-based approach for making consensus-based decisions in image search and person re-identification. IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(3), 753–765. [[www](https://doi.org/10.1109/TPAMI.2019.2944597)] (**ACO**)
 
+Lu, Z., Sreekumar, G., Goodman, E., Banzhaf, W., Deb, K. and Boddeti, V.N., 2021. Neural architecture transfer. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, *43*(9), pp.2971-2989. [ [www](https://ieeexplore.ieee.org/abstract/document/9328602) ] (**EA**)
+
 ## 2020
 
 * Ye, Q., Amini, A.A. and Zhou, Q., 2020. Optimizing regularized cholesky score for order-based learning of bayesian networks. IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(10), pp.3555-3572. [ [www](https://ieeexplore.ieee.org/abstract/document/9079582) ] ( **SA** )
+
 * Sheng, L., Cai, J., Cham, T.J., Pavlovic, V. and Ngan, K.N., 2019. Visibility constrained generative model for depth-based 3D facial pose tracking. IEEE Transactions on Pattern Analysis and Machine Intelligence, 41(8), pp.1994-2007. [ [www](https://ieeexplore.ieee.org/abstract/document/8502935) ] ( **PSO** | **Continuous Optimization** )
+
 * Pham, T.H., Kyriazis, N., Argyros, A.A. and Kheddar, A., 2018. Hand-object contact force estimation from markerless visual tracking. IEEE Transactions on Pattern Analysis and Machine Intelligence, 40(12), pp.2883-2896. [ [www](https://ieeexplore.ieee.org/abstract/document/8085141) ] ( **PSO** | **Continuous Optimization** )
+
 * Taneja, A., Ballan, L. and Pollefeys, M., 2015. Geometric change detection in urban environments using images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(11), pp.2193-2206. [ [www](https://ieeexplore.ieee.org/document/7045528) ] ( **PSO** | **Continuous Optimization** )
+
 * Attanasi, A., Cavagna, A., Del Castello, L., Giardina, I., Jelić, A., Melillo, S., Parisi, L., Pellacini, F., Shen, E., Silvestri, E. and Viale, M., 2015. GReTA-A novel global and recursive tracking algorithm in three dimensions. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(12), pp.2451-2463. [ [www](https://ieeexplore.ieee.org/abstract/document/7062911) ] (  **SI** )
+
 * Li, Y.H. and Savvides, M., 2013. An automatic iris occlusion estimation method based on high-dimensional density estimation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 35(4), pp.784-796. [ [www](https://ieeexplore.ieee.org/abstract/document/6261319)] ( **SA** )
+
 * Zou, D. and Tan, P., 2012. Coslam: Collaborative visual slam in dynamic environments. IEEE Transactions on Pattern Analysis and Machine Intelligence, 35(2), pp.354-366. [ [www](https://ieeexplore.ieee.org/abstract/document/6193110) ] (  **SI** )
+
 * Sun, Y. and Bhanu, B., 2011. Reflection symmetry-integrated image segmentation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 34(9), pp.1827-1841.
+
 * Geman, S. and Geman, D., 1984. Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 6(6), pp.721-741. [ [www](https://ieeexplore.ieee.org/abstract/document/4767596) ] ( **SA** | **Convergence Analysis** )
+
+  <!--Zhang, X., Huang, Z., Wang, N., Xiang, S. and Pan, C., 2020. You only search once: Single shot neural architecture search via direct sparse optimization. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, *43*(9), pp.2891-2904. [ [www](https://www.computer.org/csdl/journal/tp/2021/09/09181469/1mK3a5ERoTm) ] ( **EC** )-->
 
 ## 2019
 
