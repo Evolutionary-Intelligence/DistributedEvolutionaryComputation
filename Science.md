@@ -1,5 +1,10 @@
 # Science
 
+* Higgins, S.I., Conradi, T., Kruger, L.M., O’Hara, R.B. and Slingsby, J.A., 2023. Limited climatic space for alternative ecosystem states in Africa. Science, 380(6649), pp.1038-1042. [ [www](https://www.science.org/doi/10.1126/science.add5190) ] ( **DE** )
+  * "The plant growth model parameters (18 β parameters listed in equations 13 to 16 and an intercept) are estimated from the distribution data using an inverse approach. For this purpose
+we use a genetic algorithm (DEoptim) that identifies the parameters that maximises the likelihood that the growth model produced the occurrence data. The github repository (https://github.com/pfloek-bt/TTRcodeAESpublic, DOI: 10.5281/zenodo.7854825) provides the R code and a tutorial for fitting the species level growth models."
+    * R. Storn, K. Price, Differential evolution - a simple and efficient heuristic for global optimization over continuous spaces. J. Glob. Optim. 11, 341–359 (1997).  doi:10.1023/A:1008202821328
+    * D. Ardia, K. Boudt, P. Carl, K. M. Mullen, B. G. Peterson, Differential evolution with DEoptim. An application to non-convex portfolio optimization. R J. 3, 27–34 (2011). doi:10.32614/RJ-2011-005
 * Yang, Q., Hu, J., Fang, Y.W., Jia, Y., Yang, R., Deng, S., Lu, Y., Dieguez, O., Fan, L., Zheng, D. and Zhang, X., 2023. Ferroelectricity in layered bismuth oxide down to 1 nanometer. Science, 379(6638), pp.1218-1224. [ [www](https://www.science.org/doi/full/10.1126/science.abm5134) ] ( **GA** + **Discrete Optimization** #) [ [北京科技大学](https://www.nsfc.gov.cn/csc/20340/20343/64563/index.html) ]
   * "Hence, we performed genetic-algorithm searches of the arrangements that lead to the lowest possible energy of each set of atoms in these cells of Bi6On (n = 6 to 12) with different oxygen loss."
   * "To further understand the atomic structure, we performed a high-throughput DFT crystal structure prediction within the structure space of Bi6O9 that combined the genetic-algorithm implemented in USPEX (Universal Structure Predictor: Evolutionary Xtallography) with information from the HAADF-STEM structures."
