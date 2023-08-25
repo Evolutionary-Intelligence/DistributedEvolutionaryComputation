@@ -14,10 +14,6 @@ Akimoto, Y., Auger, A., Glasmachers, T., and Morinaga, D. (2022). Global linear 
 
 Fielding, M. (2000). Simulated annealing with an optimal fixed temperature. SIAM Journal on Optimization, 11(2), 289–307. [ [www](https://doi.org/10.1137/S1052623499363955) ] ( **SA** )
 
-## 2004
-
-Appel, M. J., LaBarre, R., and Radulovic, D. (2004). On accelerated random search. SIAM Journal on Optimization, 14(3), 708–731. [ [www](https://doi.org/10.1137/S105262340240063X) ] ( **SA** )
-
 ## 2002
 
 Naumann, U. (2002). Cheaper jacobians by simulated annealing. SIAM Journal on Optimization, 13(3), 660–674. [ [www](https://doi.org/10.1137/S1052623400368394) ] ( **SA** )
