@@ -1,4 +1,4 @@
-# IEEE-TPDS (IEEE Transactions on Parallel and Distributed Systems)
+# TPDS (IEEE Transactions on Parallel and Distributed Systems)
 
 ## 2023
 
