@@ -1,5 +1,6 @@
 # PNAS (Proceedings of the National Academy of Sciences)
 
+* https://www.pnas.org/doi/10.1073/pnas.2221913120
 * Mueller, K.N., Carter, M.C., Kansupada, J.A. and Ponce, C.R., 2023. Macaques recognize features in synthetic images derived from ventral stream neurons. Proceedings of the National Academy of Sciences, 120(10), p.e2213034120. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2213034120) ] ( **EC** + **Continuous Optimization** #)
   * "We established that generators can
 be functionally linked with in vivo neurons in a closed-loop
