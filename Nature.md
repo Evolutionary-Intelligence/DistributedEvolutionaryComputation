@@ -35,7 +35,10 @@
   * "To identify different components from the transient absorption data, a genetic algorithm analysis was also used to distinguish different spectral species and the corresponding kinetics."
 * Chen, T., van Gelder, J., van de Ven, B., Amitonov, S.V., de Wilde, B., Euler, H.C.R., Broersma, H., Bobbert, P.A., Zwanenburg, F.A. and van der Wiel, W.G., 2020. Classification with a disordered dopant-atom network in silicon. Nature, 577(7790), pp.341-345. [ [www](https://www.nature.com/articles/s41586-019-1901-0) | [news & views](https://www.nature.com/articles/d41586-020-00002-x) ] ( **GA** )
   * "We exploit the nonlinearity of hopping conduction through an electrically tunable network of boron dopant atoms in silicon, reconfiguring the network through artificial evolution to realize different computational functions."
+    * Bose, S. K. et al. Evolution of a designless nanoparticle network into reconfigurable Boolean logic. Nat. Nanotechnol. 10, 1048–1052 (2015).
     * Miller, J. F. & Downing, K. Evolution in materio: looking beyond the silicon box. In Proc. 2002 NASA/DoD Conference on Evolvable Hardware 167–176 (IEEE, 2002).
+    * Harding, S. & Miller, J. F. Evolution in materio: a tone discriminator in liquid crystal. In Proc. 2004 Congress on Evolutionary Computation 1800–1807 (IEEE, 2004).
+    * Mohid, M. & Miller, J. F. Evolving robot controllers using carbon nanotubes. In Proc. 13th European Conference on Artificial Life 106–113 (MIT Press, 2015).
 * Meiners, T., Frolov, T., Rudd, R.E., Dehm, G. and Liebscher, C.H., 2020. Observations of grain-boundary phase transformations in an elemental metal. Nature, 579(7799), pp.375-378. [ [www](https://www.nature.com/articles/s41586-020-2082-6)
   * "The 0 K GB structure search was performed using an evolutionary algorithm based on the USPEX code."
     * Zhu, Q., Samanta, A., Li, B., Rudd, R. E. & Frolov, T. Predicting phase behavior of grain boundaries with evolutionary search and machine learning. Nat. Commun. 9, 467 (2018).
