@@ -39,6 +39,7 @@
     * Miller, J. F. & Downing, K. Evolution in materio: looking beyond the silicon box. In Proc. 2002 NASA/DoD Conference on Evolvable Hardware 167–176 (IEEE, 2002).
     * Harding, S. & Miller, J. F. Evolution in materio: a tone discriminator in liquid crystal. In Proc. 2004 Congress on Evolutionary Computation 1800–1807 (IEEE, 2004).
     * Mohid, M. & Miller, J. F. Evolving robot controllers using carbon nanotubes. In Proc. 13th European Conference on Artificial Life 106–113 (MIT Press, 2015).
+    * Such, F. P. et al. Deep neuroevolution: genetic algorithms are a competitive alternative for training deep neural networks for reinforcement learning. Preprint at http://arxiv.org/abs/1712.06567 (2017).
 * Meiners, T., Frolov, T., Rudd, R.E., Dehm, G. and Liebscher, C.H., 2020. Observations of grain-boundary phase transformations in an elemental metal. Nature, 579(7799), pp.375-378. [ [www](https://www.nature.com/articles/s41586-020-2082-6)
   * "The 0 K GB structure search was performed using an evolutionary algorithm based on the USPEX code."
     * Zhu, Q., Samanta, A., Li, B., Rudd, R. E. & Frolov, T. Predicting phase behavior of grain boundaries with evolutionary search and machine learning. Nat. Commun. 9, 467 (2018).
