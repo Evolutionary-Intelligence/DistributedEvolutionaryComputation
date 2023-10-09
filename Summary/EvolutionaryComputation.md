@@ -202,6 +202,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Pfeifer, R. and Bongard, J., 2007. How the body shapes the way we think: A new view of intelligence. MIT Press.
 * Nolfi, S. and Floreano, D., 2000. Evolutionary robotics: The biology, intelligence, and technology of self-organizing machines. MIT Press.
 * Lipson, H. and Pollack, J.B., 2000. Automatic design and manufacture of robotic lifeforms. Nature, 406(6799), pp.974-978.
+* Jakobi, N., 1997. [Evolutionary robotics and the radical envelope-of-noise hypothesis](https://journals.sagepub.com/doi/abs/10.1177/105971239700600205). Adaptive Behavior, 6(2), pp.325-368.
 * Sims, K., 1995. Evolving 3D morphology and behavior by competition. Artificial Life, 1(4), pp.353-372.
 * Sims, K., 1994, July. Evolving virtual creatures. In Proceedings of Annual Conference on Computer Graphics and Interactive Techniques (pp. 15-22).
 * Reynolds, C.W., 1987, August. Flocks, herds and schools: A distributed behavioral model. In Proceedings of Annual Conference on Computer Graphics and Interactive Techniques (pp. 25-34).
