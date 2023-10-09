@@ -1,5 +1,10 @@
 # ICRA (IEEE International Conference on Robotics and Automation)
 
+* Park, J.S., Xiao, X., Warnell, G., Yedidsion, H. and Stone, P., 2023, May. Learning perceptual hallucination for multi-robot navigation in narrow hallways. In IEEE International Conference on Robotics and Automation (pp. 10033-10039). IEEE. [ [www](https://ieeexplore.ieee.org/abstract/document/10161327) ] ( **CMA-ES** | **Continuous Optimization** #)
+  * "We find θ with Covariance Matrix Adaptation Evolution Strategy (CMA-ES), a population-based, blackbox optimization method. CMA-ES finds the best (lowest cost) sample within a fixed number of generations."
+    * N. Hansen, S. Muller, and P. Koumoutsakos, “Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES).” Evolutionary Computation, vol. 11,
+no. 1, pp. 1–18, 2003.
+    * N. Hansen, “The cma evolution strategy: A tutorial,” arXiv preprint arXiv:1604.00772, 2016.
 * Zhu, X., Lian, W., Yuan, B., Freeman, C.D. and Tomizuka, M., 2023, May. Allowing safe contact in robotic goal-reaching: Planning and tracking in operational and null spaces. In IEEE International Conference on Robotics and Automation (pp. 8120-8126). IEEE. [ [www](https://ieeexplore.ieee.org/abstract/document/10160649) ]
   * "This paper proposes a hybrid solver that integrates the covariance matrix adaptation evolution strategy (CMA-ES) and the gradient descent method."
     * N. Hansen, “The CMA evolution strategy: A tutorial,” in arXiv Preprint, 2016.
