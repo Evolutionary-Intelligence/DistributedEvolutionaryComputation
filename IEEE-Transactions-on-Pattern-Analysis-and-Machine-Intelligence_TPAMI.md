@@ -1,20 +1,12 @@
-
-
-
-
 # TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)
 
-## 2023
-
-Raymond C., Chen Q., Xue B. and Zhang M. (2023). Learning Symbolic Model-Agnostic Loss Functions via Meta-Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. [ [www](https://doi.org/10.1109/TPAMI.2023.3294394.) ] (**EA**)
+* Raymond C., Chen Q., Xue B. and Zhang M. (2023). Learning symbolic model-agnostic loss functions via meta-learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. [ [www](https://doi.org/10.1109/TPAMI.2023.3294394.) ] ( **GP** )
 
 Yu, H., Wu, S., and Dauwels, J. (2023). Efficient variational bayes learning of graphical models with smooth structural changes. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(1), 475–488. [ [www](https://doi.org/10.1109/TPAMI.2022.3140886) ] (**SA**)
 
 Zhang, Y., Yao, Q., and Kwok, J. T. (2023). Bilinear scoring function search for knowledge graph learning. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(2), 1458–1473. [ [www](https://doi.org/10.1109/TPAMI.2022.3157321) ] (**EA**)
 
 Li, Y., Dong, M., Wang, Y., and Xu, C. (2023). Neural architecture search via proxy validation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(6), 7595–7610. [ [www](https://doi.org/10.1109/TPAMI.2022.3217648) ] (**EA**)
-
-Tutsoy, O. (2023). Graph theory based large-scale machine learning with multi-dimensional constrained optimization approaches for exact epidemiological modeling of pandemic diseases. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(8), 9836–9845. [ [www](https://doi.org/10.1109/TPAMI.2023.3256421) ] (**PSO**)
 
 Wei, X., Guo, Y., and Yu, J. (2023). Adversarial sticker: A stealthy attack method in the physical world. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(3), 2711–2725. [ [www](https://doi.org/10.1109/TPAMI.2022.3176760) ] (**DE**)
 
