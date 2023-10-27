@@ -1,5 +1,9 @@
 # PRL (Physical Review Letters)
 
+* Myint, P.C., Sterbentz, D.M., Brown, J.L., Stoltzfus, B.S., Delplanque, J.P.R. and Belof, J.L., 2023. [Scaling law for the onset of solidification at extreme undercooling](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.106101). Physical Review Letters, 131(10), p.106101.
+  * "We utilize particle swarm optimization (PSO), which is a now widely used stochastic method."
+    * Kennedy, J. & Eberhart, R. Particle swarm optimization. In IEEE International Conference on Neural Networks, 1942–1948 (Perth, Australia, 1995).
+    * Myint, P. C., Benedict, L. X., Wu, C. J. & Belof, J. L. Minimization of Gibbs energy in high-pressure multiphase, multicomponent mixtures through particle swarm optimization. ACS Omega 6, 13341–13364 (2021).
 * Thamm, M. and Rosenow, B., 2023. Machine learning optimization of Majorana hybrid nanowires. Physical Review Letters, 130(11), p.116202. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.116202) ] ( **CMA-ES** | **Continuous Optimization** )
 * Yang, X., Li, J., Ding, Y., Xu, M., Zhu, X.F. and Zhu, J., 2022. Observation of transient parity-time symmetry in electronic systems. Physical Review Letters, 128(6), p.065701. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.065701) | Editors' Suggestion ] ( **PSO** | **Continuous Optimization** )
   * "The advanced particle swarm optimization (PSO) algorithm is used to accurately fit measured results of the free oscillating currents in the primary oscillator to yield the loss rates and the frequencies, which is difficult to be observed directly from the raw experimental results. The indicators identified by PSO are beneficial to reveal and reflect the characteristic of transient PT symmetry."
