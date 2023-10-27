@@ -77,3 +77,13 @@ generating the remaining 40% structures randomly within the symmetry constraint.
 * Prügel-Bennett, A. and Shapiro, J.L., 1994. Analysis of genetic algorithms using statistical mechanics. Physical Review Letters, 72(9), p.1305. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.72.1305) ] ( **GA** )
 * Judson, R.S. and Rabitz, H., 1992. Teaching lasers to control molecules. Physical Review Letters, 68(10), p.1500. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.68.1500) ] ( **GA** )
 * Grest, G.S., Soukoulis, C.M. and Levin, K., 1986. Cooling-rate dependence for the spin-glass ground-state energy: Implications for optimization by simulated annealing. Physical Review Letters, 56(11), p.1148. [ [www](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.56.1148) ] ( **SA** )
+* Zhao, X., Nguyen, M. C., Zhang, W. Y., Wang, C. Z., Kramer, M. J., Sellmyer, D. J., ... & Ho, K. M. (2014). Exploring the structural complexity of intermetallic compounds by an adaptive genetic algorithm. Physical review letters, 112(4), 045502. ( **GA** )
+* Vilhelmsen, L. B., & Hammer, B. (2012). Systematic study of Au 6 to Au 12 gold clusters on MgO (100) F centers using density-functional theory. Physical review letters, 108(12), 126101. ( **GA** )
+* Hensley, C. J., Yang, J., & Centurion, M. (2012). Imaging of isolated molecules with ultrafast electron pulses. Physical review letters, 109(13), 133202. ( **GA** )
+* Bhattacharya, S., Levchenko, S. V., Ghiringhelli, L. M., & Scheffler, M. (2013). Stability and metastability of clusters in a reactive atmosphere: theoretical evidence for unexpected stoichiometries of Mg M O x. Physical review letters, 111(13), 135501.
+* Fux, G. E., Butler, E. P., Eastham, P. R., Lovett, B. W., & Keeling, J. (2021). Efficient exploration of Hamiltonian parameter space for optimal control of non-Markovian open quantum systems. Physical Review Letters, 126(20), 200401. ( **DE** )
+* Feichtner, T., Selig, O., Kiunke, M., & Hecht, B. (2012). Evolutionary optimization of optical antennas. Physical review letters, 109(12), 127701. ( **EA** )
+* Pacheco, J. M., Traulsen, A., & Nowak, M. A. (2006). Coevolution of strategy and structure in complex networks with dynamical linking. Physical review letters, 97(25), 258103. ( **ES** )
+* Campos, P. R., De Oliveira, V. M., Giro, R., & Galvao, D. S. (2004). Emergence of prime numbers as the result of evolutionary strategy. Physical review letters, 93(9), 098107. ( **ES** )
+* Melnikov, A. A., Sekatski, P., & Sangouard, N. (2020). Setting up experimental bell tests with reinforcement learning. Physical review letters, 125(16), 160401. ( **SA** )
+* 
