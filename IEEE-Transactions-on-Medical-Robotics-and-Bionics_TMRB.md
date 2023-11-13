@@ -1,5 +1,6 @@
 # TMRB (IEEE Transactions on Medical Robotics and Bionics)
 
+* Koginov, G., Bergmann, L., Xiloyannis, M., Rohner, N., Ngo, C., Duarte, J.E., Leonhardt, S. and Riener, R., 2023. Human-in-the-Loop Personalization of a Bi-Articular Wearable Robot’s Assistance for Downhill Walking. IEEE Transactions on Medical Robotics and Bionics.
 * Bakhtiarinejad, M., Gao, C., Farvardin, A., Zhu, G., Wang, Y., Oni, J.K., Taylor, R.H. and Armand, M., 2023. A Surgical Robotic System for Osteoporotic Hip Augmentation: System Development and Experimental Evaluation. IEEE Transactions on Medical Robotics and Bionics, 5(1), pp.18-29. ( **CMA-ES** | **Continuous Optimization** )
   * "The optimized cement distribution profile that increases the predicted yield load of the specimen to twice of its original value is then determined using modified Bi-directional Evolutionary Optimization (BESO)."
     * E. Basafa and M. Armand, “Subject-specific planning of femoroplasty: A combined evolutionary optimization and particle diffusion model approach,” J. Biomechan., vol. 47, no. 10, pp. 2237–2243, 2014.
