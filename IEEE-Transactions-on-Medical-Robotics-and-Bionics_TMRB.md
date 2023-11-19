@@ -1,5 +1,4 @@
 # TMRB (IEEE Transactions on Medical Robotics and Bionics)
-
 * Koginov, G., Bergmann, L., Xiloyannis, M., Rohner, N., Ngo, C., Duarte, J.E., Leonhardt, S. and Riener, R., 2023. Human-in-the-loop personalization of a bi-articular wearable robot’s assistance for downhill walking. IEEE Transactions on Medical Robotics and Bionics.
   * "We use a human-in-theloop method with candidate profiles of 15-steps which aims to minimize knee extensor muscle activity, utilizing the covariance matrix adaptation evolution strategy algorithm (CMA-ES) and a cost function based on normalized RMS of surface EMG signals. By utilizing CMA-ES, we vary the magnitude and timing of Myosuit’s support to find the most appropriate assistance profiles."
     * N. Hansen, “The CMA Evolution Strategy: A Comparing Review,” in Towards a New Evolutionary Computation. Berlin/Heidelberg: Springer-Verlag, 2006, vol. 192, no. 2006, pp. 75–102.
@@ -9,9 +8,17 @@
     * E. Basafa and M. Armand, “Subject-specific planning of femoroplasty: A combined evolutionary optimization and particle diffusion model approach,” J. Biomechan., vol. 47, no. 10, pp. 2237–2243, 2014.
   * "The optimization strategy is selected as 'Covariance Matrix Adaptation: Evolutionary Search' (CMA-ES) due to its robustness to local minima."
     * N. Hansen and A. Ostermeier, “Completely derandomized selfadaptation in evolution strategies,” Evol. Comput., vol. 9, no. 2, pp. 159–195, 2001.
+   
+* Shahkoo, A.A. and Abin, A.A., 2023. Autonomous Tissue Manipulation via Surgical Robot Using Deep Reinforcement Learning and Evolutionary Algorithm. *IEEE Transactions on Medical Robotics and Bionics*, *5*(1), pp.30-41. [ [www](https://ieeexplore.ieee.org/abstract/document/10019785) ]( **EA** )
+
+* Bian, G.B., Wang, S., Li, Z., Zhang, M.Y., Wang, J., Wu, W.Q., Guo, C. and Li, S.Q., 2023. Design and Nonlinear Error Compensation of a Multi-segment Soft Continuum Robot for Pulmonary Intervention. *IEEE Transactions on Medical Robotics and Bionics*. [ [www](https://ieeexplore.ieee.org/abstract/document/10234593) ] ( **PSO** )
+
 * Gao, C., Phalen, H., Margalit, A., Ma, J.H., Ku, P.C., Unberath, M., Taylor, R.H., Jain, A. and Armand, M., 2022. Fluoroscopy-guided robotic system for transforaminal lumbar epidural injections. IEEE Transactions on Medical Robotics and Bionics, 4(4), pp.901-909. [ [www](https://ieeexplore.ieee.org/abstract/document/9850411) ] ( **CMA-ES** | **Continuous Optimization** )
   * "The optimization strategy was selected as “Covariance Matrix Adaptation: Evolutionary Search” (CMA-ES) due to its robustness to local minima."
     * N. Hansen and A. Ostermeier, “Completely derandomized selfadaptation in evolution strategies,” Evol. Comput., vol. 9, no. 2, pp. 159–195, Jun. 2001.
 * Gao, C., Farvardin, A., Grupp, R.B., Bakhtiarinejad, M., Ma, L., Thies, M., Unberath, M., Taylor, R.H. and Armand, M., 2020. Fiducial-free 2D/3D registration for robot-assisted femoroplasty. IEEE Transactions on Medical Robotics and Bionics, 2(3), pp.437-446. ( **CMA-ES** | **Continuous Optimization** )
   * "The optimization is conducted using a state of the art optimization strategy, “Covariance Matrix Adaptation: Evolotuionary Search” (CMA-ES)."
     * N. Hansen and A. Ostermeier, “Completely derandomized selfadaptation in evolution strategies,” Evol. Comput., vol. 9, no. 2, pp. 159–195, 2001.
+   
+* Ghoreishi, S.F., Sochol, R.D., Gandhi, D., Krieger, A. and Fuge, M., 2021. Bayesian Optimization for Design of Multi-Actuator Soft Catheter Robots. *IEEE transactions on medical robotics and bionics*, *3*(3), pp.725-737. [ [www](https://ieeexplore.ieee.org/abstract/document/9490346) ] ( **BO** )
+* Camboni, D., Massari, L., Chiurazzi, M., Caliò, R., Alcaide, J.O., D’Abbraccio, J., Mazomenos, E., Stoyanov, D., Menciassi, A., Carrozza, M.C. and Dario, P., 2020. Endoscopic tactile capsule for non-polypoid colorectal tumour detection. *IEEE Transactions on Medical Robotics and Bionics*, *3*(1), pp.64-73. [ [www](https://ieeexplore.ieee.org/abstract/document/9253531) ]  ( **PSO** )
