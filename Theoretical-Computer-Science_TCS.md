@@ -1,5 +1,6 @@
 # TCS (Theoretical Computer Science)
 
+* Omeradzic, A. and Beyer, H.G., 2023. Progress analysis of a multi-recombinative evolution strategy on the highly multimodal Rastrigin function. Theoretical Computer Science, 978, p.114179. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397523004929) ]
 * Bossek, J. and Sudholt, D., 2023. Do additional target points speed up evolutionary algorithms?. Theoretical Computer Science, 950, p.113757. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0304397523000701) ]
 * Doerr, B. and Rajabi, A., 2023. Stagnation detection meets fast mutation. Theoretical Computer Science, 946, p.113670. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397522007526) ]
 * Hellwig, M. and Beyer, H.G., 2020. On the steady state analysis of covariance matrix self-adaptation evolution strategies on the noisy ellipsoid model. Theoretical Computer Science, 832, pp.98-122. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0304397518303360) ]
