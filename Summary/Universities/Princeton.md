@@ -1,5 +1,7 @@
 # Princeton
 
+* Solway, A., Diuk, C., Córdova, N., Yee, D., Barto, A.G., Niv, Y. and Botvinick, M.M., 2014. Optimal behavioral hierarchy. PLoS Computational Biology, 10(8), p.e1003779.
+
 ## 2023
 
 * Goudreault, F., Scheuble, D., Bijelic, M., Robidoux, N. and Heide, F., 2023. LiDAR-in-the-loop hyperparameter optimization. In Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 13404-13414). [ [pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Goudreault_LiDAR-in-the-Loop_Hyperparameter_Optimization_CVPR_2023_paper.pdf) | [Python](https://github.com/princeton-computational-imaging/LITL-Optimization) ] ( **CMA-ES** )
