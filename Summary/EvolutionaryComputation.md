@@ -237,7 +237,8 @@ For more details about the **history** and **classification** of EC, refer to th
 * Conrad, M. and Rizki, M.M., 1989. [The artificial worlds approach to emergent evolution](https://www.sciencedirect.com/science/article/abs/pii/0303264789900324). BioSystems, 23(2-3), pp.247-258.
 * Axelrod, R., 1987. The evolution of strategies in the iterated prisoner’s dilemma. Genetic Algorithms and Simulated Annealing.
 * Bremermann, H.J., 1968. Numerical optimization procedures derived from biological evolution processes. Cybernetic Problems in Bionics, pp.597-616.
-* Fogel, D.B., 2006. [Nils barricelli-artificial life, coevolution, self-adaptation](https://ieeexplore.ieee.org/abstract/document/1597062). IEEE Computational Intelligence Magazine, 1(1), pp.41-45.
+* Fogel, D.B., 2006. [Nils Barricelli-artificial life, coevolution, self-adaptation](https://ieeexplore.ieee.org/abstract/document/1597062). IEEE Computational Intelligence Magazine, 1(1), pp.41-45.
+* Newell, A. and Simon, H.A., 1975. [Computer science as empirical inquiry: Symbols and search](https://dl.acm.org/doi/pdf/10.1145/1283920.1283930). In ACM Turing Award Lectures (p. 1975).
 * [Turing, A.](https://en.wikipedia.org/wiki/Alan_Turing), 1948. [Intelligent machinery](https://weightagnostic.github.io/papers/turing1948.pdf). In The Essential Turing. Oxford University Press.
   * Copeland, B.J. ed., 2004. [The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma](https://global.oup.com/academic/product/the-essential-turing-9780198250807). Oxford University Press.
 
