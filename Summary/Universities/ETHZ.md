@@ -1,6 +1,6 @@
 # ETHZ (Eidgenössische Technische Hochschule Zürich / Swiss Federal Institute of Technology in Zürich)
 
-* Yuan, B., He, Y., Davis, J., Zhang, T., Dao, T., Chen, B., Liang, P.S., Re, C. and Zhang, C., 2022. Decentralized training of foundation models in heterogeneous environments. Advances in Neural Information Processing Systems, 35, pp.25464-25477.
+* Yuan, B., He, Y., Davis, J., Zhang, T., Dao, T., Chen, B., Liang, P.S., Re, C. and Zhang, C., 2022. [Decentralized training of foundation models in heterogeneous environments](https://proceedings.neurips.cc/paper_files/paper/2022/file/a37d615b61f999a5fa276adb14643476-Paper-Conference.pdf). Advances in Neural Information Processing Systems, 35, pp.25464-25477.
 
 * Moustapha, M. and Sudret, B., 2023. [Learning non-stationary and discontinuous functions using clustering, classification and Gaussian process modelling](https://www.sciencedirect.com/science/article/pii/S0045794923000652). Computers & Structures, 281, p.107035.
   * "They are both estimated in this work by minimizing the span estimate of the leave-one-out error using the covariance-matrix adaptation evolution scheme (CMA-ES)."
