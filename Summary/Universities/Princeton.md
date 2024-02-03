@@ -1,5 +1,6 @@
 # Princeton
 
+* Tlaie, A., Abd El Hay, M.Y., Mert, B., Taylor, R., Ferracci, P.A., Shapcott, K.A., Glukhova, M., Pillow, J.W., Havenith, M.N. and Scholvinck, M., 2024. [Thoughtful faces: Inferring internal states across species using facial features](https://www.biorxiv.org/content/10.1101/2024.01.24.577055v1.full.pdf). bioRxiv, pp.2024-01. [ **CMA-ES** ]
 * Solway, A., Diuk, C., Córdova, N., Yee, D., Barto, A.G., Niv, Y. and Botvinick, M.M., 2014. Optimal behavioral hierarchy. PLoS Computational Biology, 10(8), p.e1003779.
 
 ## 2023
