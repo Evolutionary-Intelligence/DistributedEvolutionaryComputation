@@ -1,5 +1,7 @@
 # NeurIPS (Neural Information Processing Systems)
 
+* Rahimi, M.M., Bhatti, H.I., Park, Y., Kousar, H., Kim, D.Y. and Moon, J., 2024. [EvoFed: Leveraging evolutionary strategies for communication-efficient federated learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c48fe446e651cd49fb58a6833e015103-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
+
 * Lu, C., Kuba, J., Letcher, A., Metz, L., Schroeder de Witt, C. and Foerster, J., 2022. Discovered policy optimisation. Advances in Neural Information Processing Systems, 35, pp.16455-16468.
 * Parker-Holder, J., Pacchiano, A., Choromanski, K.M. and Roberts, S.J., 2020. Effective diversity in population based reinforcement learning. Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2020/hash/d1dc3a8270a6f9394f88847d7f0050cf-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/d1dc3a8270a6f9394f88847d7f0050cf-Paper.pdf) | [Python](https://github.com/jparkerholder/DvD_ES) ] (  **ES** )
 * De Bonet, J., Isbell, C. and Viola, P., 1996. MIMIC: Finding optima by estimating probability densities. Advances in Neural Information Processing Systems (pp. 424-430). [ [www](https://proceedings.neurips.cc/paper/1996/hash/4c22bd444899d3b6047a10b20a2f26db-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1996/file/4c22bd444899d3b6047a10b20a2f26db-Paper.pdf) ] (  **EDA** )
