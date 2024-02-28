@@ -1,13 +1,14 @@
 # NeurIPS (Neural Information Processing Systems)
 
+* Williams, P. and Li, K., 2024. [CamoPatch: An evolutionary strategy for generating camoflauged adversarial patches](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d482f1362bd6a8448d7c35e717c7063a-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
 * Rahimi, M.M., Bhatti, H.I., Park, Y., Kousar, H., Kim, D.Y. and Moon, J., 2024. [EvoFed: Leveraging evolutionary strategies for communication-efficient federated learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c48fe446e651cd49fb58a6833e015103-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
+
+## 2021
 
 * Lu, C., Kuba, J., Letcher, A., Metz, L., Schroeder de Witt, C. and Foerster, J., 2022. Discovered policy optimisation. Advances in Neural Information Processing Systems, 35, pp.16455-16468.
 * Parker-Holder, J., Pacchiano, A., Choromanski, K.M. and Roberts, S.J., 2020. Effective diversity in population based reinforcement learning. Advances in Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2020/hash/d1dc3a8270a6f9394f88847d7f0050cf-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2020/file/d1dc3a8270a6f9394f88847d7f0050cf-Paper.pdf) | [Python](https://github.com/jparkerholder/DvD_ES) ] (  **ES** )
 * De Bonet, J., Isbell, C. and Viola, P., 1996. MIMIC: Finding optima by estimating probability densities. Advances in Neural Information Processing Systems (pp. 424-430). [ [www](https://proceedings.neurips.cc/paper/1996/hash/4c22bd444899d3b6047a10b20a2f26db-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1996/file/4c22bd444899d3b6047a10b20a2f26db-Paper.pdf) ] (  **EDA** )
 * Mitchell, M., Holland, J. and Forrest, S., 1993. When will a genetic algorithm outperform hill climbing. Advances in Neural Information Processing Systems (pp. 51-58). [ [www](https://proceedings.neurips.cc/paper/1993/hash/ab88b15733f543179858600245108dd8-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/1993/file/ab88b15733f543179858600245108dd8-Paper.pdf) ] ( **GA** )
-
-## 2021
 
 Fontaine, M.C. and Nikolaidis, S., 2021. Differentiable quality diversity. In Advances in Neural Information Processing Systems. [ [www](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=27402) | [openreview](https://openreview.net/forum?id=uJGObgFU0lU) | [pdf](https://openreview.net/pdf?id=uJGObgFU0lU) | [ppt](https://nips.cc/media/neurips-2021/Slides/27402.pdf) | [Python](https://github.com/icaros-usc/dqd) ] ( **QD** )
 
