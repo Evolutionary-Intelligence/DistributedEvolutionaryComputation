@@ -4,6 +4,7 @@
 * Do, A.V., Neumann, A., Neumann, F. and Sutton, A., 2024. [Rigorous runtime analysis of MOEA/D for solving multi-objective minimum weight base problems](https://proceedings.neurips.cc/paper_files/paper/2023/hash/72416ded78a439907ff72165ac9c56e0-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
 * Williams, P. and Li, K., 2024. [CamoPatch: An evolutionary strategy for generating camoflauged adversarial patches](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d482f1362bd6a8448d7c35e717c7063a-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
 * Rahimi, M.M., Bhatti, H.I., Park, Y., Kousar, H., Kim, D.Y. and Moon, J., 2024. [EvoFed: Leveraging evolutionary strategies for communication-efficient federated learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c48fe446e651cd49fb58a6833e015103-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
+* Fishman, N., Klarner, L., Mathieu, E., Hutchinson, M. and De Bortoli, V., 2024. Metropolis sampling for constrained diffusion models. Advances in Neural Information Processing Systems, 36.
 
 ## 2021
 
