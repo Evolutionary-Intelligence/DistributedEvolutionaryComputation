@@ -1,5 +1,6 @@
 # NeurIPS (Neural Information Processing Systems)
 
+* Wang, G., Sun, Y., Cheng, S. and Song, S., 2024. [Evolving connectivity for recurrent spiking neural networks](https://proceedings.neurips.cc/paper_files/paper/2023/hash/08f9de0232c0b485110237f6e6cf88f1-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
 * Li, L., Dong, P., Li, A., Wei, Z. and Yang, Y., 2024. [Kd-zero: Evolving knowledge distiller for any teacher-student pairs](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dbc8ce0fdfcd55172d73fb05dbae07fc-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
 * Do, A.V., Neumann, A., Neumann, F. and Sutton, A., 2024. [Rigorous runtime analysis of MOEA/D for solving multi-objective minimum weight base problems](https://proceedings.neurips.cc/paper_files/paper/2023/hash/72416ded78a439907ff72165ac9c56e0-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
 * Williams, P. and Li, K., 2024. [CamoPatch: An evolutionary strategy for generating camoflauged adversarial patches](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d482f1362bd6a8448d7c35e717c7063a-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
