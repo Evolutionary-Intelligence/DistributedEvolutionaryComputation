@@ -126,8 +126,7 @@
 * Smith, J.M., 1992. Byte-sized evolution. Nature, 355(6363), pp.772-773. [ [www](https://www.nature.com/articles/355772a0) ] ( **AL** )
   * Holland John, H., 1975. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. Ann Arbor: University of Michigan Press.
 * Bounds, D.G., 1987. New optimization methods from physics and biology. Nature, 329(6136), pp.215-219. [ [www](https://www.nature.com/articles/329215a0) ] ( **GA** )
-* Brady, R.M., 1985. Optimization strategies gleaned from biological evolution. Nature, 317(6040), pp.804-806. [ [www](https://www.nature.com/articles/317804a0) ] ( **GA** #)
-  * Holland John, H., 1975. Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. Ann Arbor: University of Michigan Press.
+* Brady, R.M., 1985. [Optimization strategies gleaned from biological evolution](](https://www.nature.com/articles/317804a0)). Nature, 317(6040), pp.804-806. (**GA**)
 
 # Research Highlights + News & Views + Books & Arts
 
