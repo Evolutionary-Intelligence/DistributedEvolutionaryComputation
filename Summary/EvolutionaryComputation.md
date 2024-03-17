@@ -107,7 +107,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Koza, J.R., 1989, August. Hierarchical genetic algorithms operating on populations of computer programs. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 768-774).
 * Cramer, N.L., 1985, July. [A representation for the adaptive generation of simple sequential programs](https://dl.acm.org/doi/10.5555/645511.657085). In Proceedings of International Conference on Genetic Algorithms (pp. 183-187).
 
-## Ant Colony Optimization (ACO) [ [Biosystems, 1997](https://www.sciencedirect.com/science/article/pii/S0303264797017085) | [TEVC - Guest Editorial, 2002](https://ieeexplore.ieee.org/document/1027743) ]
+## Ant Colony Optimization (ACO)
 
 * https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/    (This is the official homepage of ACO's inventor **Marco Dorigo**, which includes much information about ACO.) [ [AAAI Fellow](https://aaai.org/about-aaai/aaai-awards/the-aaai-fellows-program/elected-aaai-fellows/) + [IEEE Frank Rosenblatt Award](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/recipients/rosenblatt-rl.pdf) + IEEE Fellow + [IEEE Evolutionary Computation Pioneer Award](https://cis.ieee.org/awards/past-recipients) ]
 * Dorigo, M. and Stützle, T., 2019. Ant colony optimization: Overview and recent advances. Handbook of Metaheuristics, pp.311-351.
@@ -124,6 +124,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Dorigo, M. and Gambardella, L.M., 1997. Ant colony system: A cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1(1), pp.53-66.
 * Dorigo, M., Maniezzo, V. and Colorni, A., 1996. Ant system: Optimization by a colony of cooperating agents. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 26(1), pp.29-41.
 * [Gambardella, L.M.](https://people.idsia.ch/~luca/) and [Dorigo, M.](https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/), 1995. Ant-Q: A reinforcement learning approach to the traveling salesman problem. In International Conference on Machine Learning (pp. 252-260). Morgan Kaufmann.
+* [Biosystems, 1997](https://www.sciencedirect.com/science/article/pii/S0303264797017085) | [TEVC - Guest Editorial, 2002](https://ieeexplore.ieee.org/document/1027743) | [Book Review on Artificial Intelligence (2005)](https://www.sciencedirect.com/science/article/pii/S0004370205000494), etc.
 
 ## Particle Swarm Optimization (PSO)
 
