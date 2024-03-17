@@ -114,6 +114,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Dorigo, M., Birattari, M. and Stutzle, T., 2006. Ant colony optimization. IEEE Computational Intelligence Magazine, 1(4), pp.28-39.
 * Dorigo, M. and Blum, C., 2005. Ant colony optimization theory: A survey. Theoretical Computer Science, 344(2-3), pp.243-278.
 * Stützle, T. and Hoos, H.H., 2000. MAX–MIN ant system. Future Generation Computer Systems, 16(8), pp.889-914.
+* Gambardella, L.M. and Dorigo, M., 2000. An ant colony system hybridized with a new local search for the sequential ordering problem. INFORMS Journal on Computing, 12(3), pp.237-255.
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 2000. Inspiration for optimization from social insect behaviour. Nature, 406(6791), pp.39-42.
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: from natural to artificial systems. Oxford University Press.
 * Gambardella, L.M., Taillard, É.D. and Dorigo, M., 1999. Ant colonies for the quadratic assignment problem. Journal of the Operational Research Society, 50(2), pp.167-176.
