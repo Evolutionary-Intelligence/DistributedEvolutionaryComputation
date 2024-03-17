@@ -116,6 +116,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Stützle, T. and Hoos, H.H., 2000. MAX–MIN ant system. Future Generation Computer Systems, 16(8), pp.889-914.
 * Gambardella, L.M. and Dorigo, M., 2000. An ant colony system hybridized with a new local search for the sequential ordering problem. INFORMS Journal on Computing, 12(3), pp.237-255.
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 2000. Inspiration for optimization from social insect behaviour. Nature, 406(6791), pp.39-42.
+* Maniezzo, V. and Colorni, A., 1999. The ant system applied to the quadratic assignment problem. IEEE Transactions on Knowledge and Data Engineering, 11(5), pp.769-778.
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: from natural to artificial systems. Oxford University Press.
 * Gambardella, L.M., Taillard, É.D. and Dorigo, M., 1999. Ant colonies for the quadratic assignment problem. Journal of the Operational Research Society, 50(2), pp.167-176.
 * Dorigo, M., Di Caro, G. and Gambardella, L.M., 1999. [Ant algorithms for discrete optimization](https://direct.mit.edu/artl/article-abstract/5/2/137/2317/Ant-Algorithms-for-Discrete-Optimization). Artificial Life, 5(2), pp.137-172.
