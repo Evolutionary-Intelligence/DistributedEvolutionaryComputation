@@ -120,12 +120,11 @@ For more details about the **history** and **classification** of EC, refer to th
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: from natural to artificial systems. Oxford University Press.
 * Gambardella, L.M., Taillard, É.D. and Dorigo, M., 1999. Ant colonies for the quadratic assignment problem. Journal of the Operational Research Society, 50(2), pp.167-176.
 * Dorigo, M., Di Caro, G. and Gambardella, L.M., 1999. [Ant algorithms for discrete optimization](https://direct.mit.edu/artl/article-abstract/5/2/137/2317/Ant-Algorithms-for-Discrete-Optimization). Artificial Life, 5(2), pp.137-172.
-* Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: From natural to artificial systems. Oxford University Press.
 * Di Caro, G. and Dorigo, M., 1998. AntNet: Distributed stigmergetic control for communications networks. Journal of Artificial Intelligence Research, 9, pp.317-365.
 * Dorigo, M. and Gambardella, L.M., 1997. Ant colony system: A cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1(1), pp.53-66.
 * Dorigo, M., Maniezzo, V. and Colorni, A., 1996. Ant system: Optimization by a colony of cooperating agents. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 26(1), pp.29-41.
 * [Gambardella, L.M.](https://people.idsia.ch/~luca/) and [Dorigo, M.](https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/), 1995. Ant-Q: A reinforcement learning approach to the traveling salesman problem. In International Conference on Machine Learning (pp. 252-260). Morgan Kaufmann.
-* [Biosystems, 1997](https://www.sciencedirect.com/science/article/pii/S0303264797017085) | [TEVC - Guest Editorial, 2002](https://ieeexplore.ieee.org/document/1027743) | [Book Review on Artificial Intelligence (2005)](https://www.sciencedirect.com/science/article/pii/S0004370205000494), etc.
+* [Biosystems, 1997](https://www.sciencedirect.com/science/article/pii/S0303264797017085), [TEVC - Guest Editorial, 2002](https://ieeexplore.ieee.org/document/1027743), [Book Review on Artificial Intelligence (2005)](https://www.sciencedirect.com/science/article/pii/S0004370205000494), [Economist, 2010](https://www.antoptima.com/pdf/pdfrassegna/Economist.pdf), etc.
 
 ## Particle Swarm Optimization (PSO)
 
