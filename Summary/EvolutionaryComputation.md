@@ -112,8 +112,10 @@ For more details about the **history** and **classification** of EC, refer to th
 * https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/    (This is the official homepage of ACO's inventor **Marco Dorigo**, which includes much information about ACO.) [ [AAAI Fellow](https://aaai.org/about-aaai/aaai-awards/the-aaai-fellows-program/elected-aaai-fellows/) + [IEEE Frank Rosenblatt Award](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/awards/recipients/rosenblatt-rl.pdf) + IEEE Fellow + [IEEE Evolutionary Computation Pioneer Award](https://cis.ieee.org/awards/past-recipients) ]
 * Dorigo, M. and Stützle, T., 2019. Ant colony optimization: Overview and recent advances. Handbook of Metaheuristics, pp.311-351.
 * Dorigo, M., Birattari, M. and Stutzle, T., 2006. Ant colony optimization. IEEE Computational Intelligence Magazine, 1(4), pp.28-39.
+* Stützle, T. and Hoos, H.H., 2000. MAX–MIN ant system. Future Generation Computer Systems, 16(8), pp.889-914.
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 2000. Inspiration for optimization from social insect behaviour. Nature, 406(6791), pp.39-42.
-* Dorigo, M., Di Caro, G. and Gambardella, L.M., 1999. [Ant algorithms for discrete optimization](https://direct.mit.edu/artl/article-abstract/5/2/137/2317/Ant-Algorithms-for-Discrete-Optimization). Artificial life, 5(2), pp.137-172.
+* Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: from natural to artificial systems. Oxford University Press.
+* Dorigo, M., Di Caro, G. and Gambardella, L.M., 1999. [Ant algorithms for discrete optimization](https://direct.mit.edu/artl/article-abstract/5/2/137/2317/Ant-Algorithms-for-Discrete-Optimization). Artificial Life, 5(2), pp.137-172.
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: From natural to artificial systems. Oxford University Press.
 * Dorigo, M. and Gambardella, L.M., 1997. Ant colony system: A cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1(1), pp.53-66.
 * Dorigo, M., Maniezzo, V. and Colorni, A., 1996. Ant system: Optimization by a colony of cooperating agents. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 26(1), pp.29-41.
