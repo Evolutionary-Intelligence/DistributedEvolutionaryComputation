@@ -118,6 +118,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: from natural to artificial systems. Oxford University Press.
 * Dorigo, M., Di Caro, G. and Gambardella, L.M., 1999. [Ant algorithms for discrete optimization](https://direct.mit.edu/artl/article-abstract/5/2/137/2317/Ant-Algorithms-for-Discrete-Optimization). Artificial Life, 5(2), pp.137-172.
 * Bonabeau, E., Dorigo, M. and Theraulaz, G., 1999. Swarm intelligence: From natural to artificial systems. Oxford University Press.
+* Di Caro, G. and Dorigo, M., 1998. AntNet: Distributed stigmergetic control for communications networks. Journal of Artificial Intelligence Research, 9, pp.317-365.
 * Dorigo, M. and Gambardella, L.M., 1997. Ant colony system: A cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1(1), pp.53-66.
 * Dorigo, M., Maniezzo, V. and Colorni, A., 1996. Ant system: Optimization by a colony of cooperating agents. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 26(1), pp.29-41.
 * [Gambardella, L.M.](https://people.idsia.ch/~luca/) and [Dorigo, M.](https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/), 1995. Ant-Q: A reinforcement learning approach to the traveling salesman problem. In International Conference on Machine Learning (pp. 252-260). Morgan Kaufmann.
