@@ -1,6 +1,6 @@
 # University of Oxford
 
-* Lu, C., Towers, S. and Foerster, J., 2023. [Arbitrary order meta-learning with simple population-based evolution](https://arxiv.org/abs/2303.09478). arXiv preprint arXiv:2303.09478.[**ME**]
+* Lu, C., Towers, S. and Foerster, J., 2023. [Arbitrary order meta-learning with simple population-based evolution](https://arxiv.org/abs/2303.09478). arXiv preprint arXiv:2303.09478. [**ME**]
 * Mahmood, I., Bishop, N., Calinescu, A., Wooldridge, M. and Zachos, I., 2023. [A multi-objective combinatorial optimisation framework for large scale hierarchical population synthesis](https://ora.ox.ac.uk/objects/uuid:755c2c0a-f042-48cf-9a12-45c1079f2256/download_file?file_format=application%2Fpdf&safe_filename=Mahmood_et_al_2023_A_multi-objective_combinatorial.pdf&type_of_work=Conference+item). [**NSGA-II**]
 * Rückin, J., Magistri, F., Stachniss, C. and Popović, M., 2023. [An informative path planning framework for active learning in UAV-based semantic mapping](https://arxiv.org/pdf/2302.03347.pdf). arXiv preprint arXiv:2302.03347. [ **CMA-ES** ]
 * Lange, R.T., Schaul, T., Chen, Y., Lu, C., Zahavy, T., Dalibard, V. and Flennerhag, S., 2023. [Discovering attention-based genetic algorithms via meta-black-box optimization](https://arxiv.org/pdf/2304.03995.pdf). arXiv preprint arXiv:2304.03995.
