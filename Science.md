@@ -1,5 +1,7 @@
 # Science
 
+* Ma, D., Hu, M., Yang, X., Liu, Q., Ye, F., Cai, W., Wang, Y., Xu, X., Chang, S., Wang, R. and Yang, W., 2024. [Structural basis for sugar perception by Drosophila gustatory receptors](https://www.science.org/doi/abs/10.1126/science.adj2609). Science, p.eadj2609. [**GA**]
+  * "Genetic algorithm (GA) was used for the global conformation searching. Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm or Stochastic Steepest Descent (SSD) algorithm was used for local optimization."
 * Higgins, S.I., Conradi, T., Kruger, L.M., O’Hara, R.B. and Slingsby, J.A., 2023. Limited climatic space for alternative ecosystem states in Africa. Science, 380(6649), pp.1038-1042. [ [www](https://www.science.org/doi/10.1126/science.add5190) ] ( **DE** )
   * "The plant growth model parameters (18 β parameters listed in equations 13 to 16 and an intercept) are estimated from the distribution data using an inverse approach. For this purpose
 we use a genetic algorithm (DEoptim) that identifies the parameters that maximises the likelihood that the growth model produced the occurrence data. The github repository (https://github.com/pfloek-bt/TTRcodeAESpublic, DOI: 10.5281/zenodo.7854825) provides the R code and a tutorial for fitting the species level growth models."
