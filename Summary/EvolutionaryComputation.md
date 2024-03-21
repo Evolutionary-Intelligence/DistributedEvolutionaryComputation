@@ -185,7 +185,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Chatzilygeroudis, K., Cully, A., Vassiliades, V. and Mouret, J.B., 2021. Quality-diversity optimization: A novel branch of stochastic optimization. In Black Box Optimization, Machine Learning, and No-Free Lunch Theorems (pp. 109-135). Springer, Cham.
 * Cully, A. and Demiris, Y., 2018. Quality and diversity optimization: A unifying modular framework. IEEE Transactions on Evolutionary Computation, 22(2), pp.245-259.
 * Pugh, J.K., Soros, L.B. and Stanley, K.O., 2016. Quality diversity: A new frontier for evolutionary computation. Frontiers in Robotics and AI, 3, pp.1-17.
-* Cully, A., Clune, J., Tarapore, D. and Mouret, J.B., 2015. Robots that can adapt like animals. Nature, 521(7553), pp.503-507.
+* Cully, A., Clune, J., Tarapore, D. and Mouret, J.B., 2015. [Robots that can adapt like animals](https://www.nature.com/articles/nature14422). Nature, 521(7553), pp.503-507.
 * Mouret, J.B. and Clune, J., 2015. Illuminating search spaces by mapping elites. arXiv preprint arXiv:1504.04909.
 * Lehman, J. and Stanley, K.O., 2011, July. [Evolving a diversity of virtual creatures through novelty search and local competition](https://dl.acm.org/doi/abs/10.1145/2001576.2001606). In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 211-218).
 * Lehman, J. and Stanley, K.O., 2011. [Abandoning objectives: Evolution through the search for novelty alone](https://ieeexplore.ieee.org/abstract/document/6793380). Evolutionary Computation, 19(2), pp.189-223.
