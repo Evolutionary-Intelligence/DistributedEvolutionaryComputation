@@ -187,7 +187,8 @@ For more details about the **history** and **classification** of EC, refer to th
 * Pugh, J.K., Soros, L.B. and Stanley, K.O., 2016. Quality diversity: A new frontier for evolutionary computation. Frontiers in Robotics and AI, 3, pp.1-17.
 * Cully, A., Clune, J., Tarapore, D. and Mouret, J.B., 2015. Robots that can adapt like animals. Nature, 521(7553), pp.503-507.
 * Mouret, J.B. and Clune, J., 2015. Illuminating search spaces by mapping elites. arXiv preprint arXiv:1504.04909.
-* Lehman, J. and Stanley, K.O., 2011, July. Evolving a diversity of virtual creatures through novelty search and local competition. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 211-218).
+* Lehman, J. and Stanley, K.O., 2011, July. [Evolving a diversity of virtual creatures through novelty search and local competition](https://dl.acm.org/doi/abs/10.1145/2001576.2001606). In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 211-218).
+* Lehman, J. and Stanley, K.O., 2011. [Abandoning objectives: Evolution through the search for novelty alone](https://ieeexplore.ieee.org/abstract/document/6793380). Evolutionary Computation, 19(2), pp.189-223.
 
 ## NeuroEvolution (aka Evolving Neural Networks) [ [wired](https://www.wired.com/story/the-pursuit-of-creativity-can-make-algorithms-much-smarter/) ]
 
