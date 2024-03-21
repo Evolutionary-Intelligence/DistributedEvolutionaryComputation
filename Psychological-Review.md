@@ -6,3 +6,4 @@
     * Mullen, K., Ardia, D., Gil, D., Windover, D., & Cline, J. (2011). DEoptim: An R package for global optimization by differential evolution. Journal of Statistical Software, 40(6), 1–26. https://doi.org/10.18637/jss.v040.i06
     * Storn, R., & Price, K. (1997). Differential evolution—A simple and efficient heuristic for global optimization over continuous spaces. Journal of Global Optimization, 11(4), 341–359. https://doi.org/10.1023/A:1008202821328
 * Li, X. and Pollatsek, A., 2020. [An integrated model of word processing and eye-movement control during Chinese reading](https://psycnet.apa.org/record/2020-50619-001). Psychological Review, 127(6), p.1139. [**Parallel GA**]
+* Rodd, J., Bosker, H.R., Ernestus, M., Alday, P.M., Meyer, A.S. and Ten Bosch, L., 2020. Control of speaking rate is achieved by switching between qualitatively distinct cognitive “gaits”: Evidence from simulation. Psychological Review, 127(2), p.281. [**NSGA-II**]
