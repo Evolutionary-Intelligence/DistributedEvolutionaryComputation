@@ -1,5 +1,6 @@
 # PNAS (Proceedings of the National Academy of Sciences)
 
+* Sherman, D. and Harel, D., 2024. [Deciphering the underlying mechanisms of the pharyngeal pumping motions in Caenorhabditis elegans](https://www.pnas.org/doi/abs/10.1073/pnas.2302660121). Proceedings of the National Academy of Sciences, 121(7), p.e2302660121. [**GA**]
 * Bayer, A.D., Lautenbach, S. and Arneth, A., 2023. [Benefits and trade-offs of optimizing global land use for food, water, and carbon](https://www.pnas.org/doi/abs/10.1073/pnas.2220371120). Proceedings of the National Academy of Sciences, 120(42), p.e2220371120. ( **NSGA-II** )
 * https://www.pnas.org/doi/10.1073/pnas.2221913120
 * Mueller, K.N., Carter, M.C., Kansupada, J.A. and Ponce, C.R., 2023. Macaques recognize features in synthetic images derived from ventral stream neurons. Proceedings of the National Academy of Sciences, 120(10), p.e2213034120. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2213034120) ] ( **EC** + **Continuous Optimization** #)
