@@ -52,6 +52,7 @@ complexity and gaze behavior. Nat. Commun. 12, 1–16 (2021).
   * "We report here the prediction of the dissociation ofmolecular oxygen into a polymeric spiral chain O4structure (spacegroupI41∕acd,θ-O4) above 1.92-TPa pressure using the particle-swarm search method."
 * Bongard, J., 2011. Morphological change in machines accelerates the evolution of robust behavior. Proceedings of the National Academy of Sciences, 108(4), pp.1234-1239. [ [www](https://www.pnas.org/content/108/4/1234.short) | [pdf](https://www.pnas.org/content/pnas/108/4/1234.full.pdf) ]
 * Hwang, D., Rust, A.G., Ramsey, S., Smith, J.J., Leslie, D.M., Weston, A.D., De Atauri, P., Aitchison, J.D., Hood, L., Siegel, A.F. and Bolouri, H., 2005. A data integration methodology for systems biology. Proceedings of the National Academy of Sciences, 102(48), pp.17296-17301. [ [www](https://www.pnas.org/content/102/48/17296/) | [pdf](https://www.pnas.org/content/pnas/102/48/17296.full.pdf) ] ( **SA** )
+* Lemmon, A.R. and Milinkovitch, M.C., 2002. [The metapopulation genetic algorithm: An efficient solution for the problem of large phylogeny estimation](https://www.pnas.org/doi/abs/10.1073/pnas.162224399). Proceedings of the National Academy of Sciences, 99(16), pp.10516-10521. [**GA** + **ME**]
 
 ******* *** *******
 
