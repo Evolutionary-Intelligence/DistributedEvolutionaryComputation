@@ -10,7 +10,7 @@ This is a *growing* paper list for [evolutionary computation (EC)](https://githu
 
 | Publication Type  | Publication Name | Search Range | Collection |
 | :---: | :---: | :---: | :---: |
-| Multidiscipline | [Nature](https://www.nature.com/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature.md)
+| Multidiscipline | [Nature](https://www.nature.com/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/Nature.md)
 | Multidiscipline | [Science](https://science.sciencemag.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Science.md)
 | Multidiscipline | [PRL (Physical Review Letters)](https://journals.aps.org/prl/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Physical-Review-Letters_PRL.md)
 | Multidiscipline | [PNAS (Proceedings of the National Academy of Sciences)](https://www.pnas.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Proceedings-of-the-National-Academy-of-Sciences_PNAS.md)
