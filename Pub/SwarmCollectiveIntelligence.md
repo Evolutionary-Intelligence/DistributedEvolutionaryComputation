@@ -7,6 +7,7 @@
   * Lagasse, E. and [Levin, M.](https://www.drmichaellevin.org/), 2023. Future medicine: from molecular pathways to the collective intelligence of the body. Trends in Molecular Medicine.
 * [Zhuge, M.](https://metauto.ai/), Wang, W., Kirsch, L., Faccio, F., Khizbullin, D. and Schmidhuber, J., 2024. Language agents as optimizable graphs. arXiv preprint arXiv:2402.16823.
 * [Zhuge, M.](https://metauto.ai/), Liu, H., Faccio, F., Ashley, D.R., Csordás, R., Gopalakrishnan, A., Hamdi, A., Hammoud, H.A.A.K., Herrmann, V., Irie, K. and Kirsch, L., 2023, December. Mindstorms in natural language-based societies of mind. In R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Large Foundation Models.
+* Gruber, T., Bazhydai, M., Sievers, C., Clément, F. and Dukes, D., 2022. [The ABC of social learning: Affect, behavior, and cognition](https://psycnet.apa.org/record/2021-66338-001). Psychological Review, 129(6), p.1296.
 * [Couzin, I.](https://www.ab.mpg.de/couzin), 2007. [Collective minds](https://www.nature.com/articles/445715a). Nature, 445(7129), pp.715-715.
 * [Minsky, M.](https://web.media.mit.edu/~minsky/), 1988. Society of mind. Simon and Schuster.
   * "Yet when we join these agents in societies -in certain very special ways- this leads to true intelligence."
