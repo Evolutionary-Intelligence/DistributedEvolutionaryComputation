@@ -17,3 +17,4 @@
 * Brooks, S.H., 1958. A discussion of random methods for seeking maxima. Operations Research, 6(2), pp.244-251. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/opre.6.2.244) ] ( **RS** | **Continuous Optimization** )
 * Gendreau, M., Laporte, G. and Séguin, R., 1996. A Tabu Search Heuristic for the Vehicle Routing Problem with Stochastic Demands and Customers. Operations Research, 44(3), pp.469-477. [ [www](https://pubsonline.informs.org/doi/10.1287/opre.44.3.469) ] ( **tabu** )
 * Hertz, A., Laporte, G. and Mittaz, M., 2000. A Tabu Search Heuristic for the Capacitated arc Routing Problem. Operations Research, 48(1), pp.129-135. [ [www](https://pubsonline.informs.org/doi/10.1287/opre.48.1.129.12455) ] ( **tabu** )
+* Rothlauf F. On optimal solutions for the optimal communication spanning tree problem[J]. Operations Research, 2009, 57(2): 413-425. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/opre.1080.0592) ] ( **SA** | **GA** )
