@@ -8,6 +8,10 @@ Cui, G., Wong, M.L. and Lui, H.K., 2006. Machine learning for direct marketing r
 
 Kim, Y., Street, W.N., Russell, G.J. and Menczer, F., 2005. Customer targeting: A neural network approach guided by genetic algorithms. Management Science, 51(2), pp.264-276.  [ [www](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1040.0296) ] ( **GA** )
 
+## 2004
+
+Lim, A., Rodrigues, B. and Zhang, X., 2004. Metaheuristics with local search techniques for retail shelf-space optimization. Management science, 50(1), pp.117-131. ( **Tabu** )
+
 ## 2003
 
 Phelps, S. and Köksalan, M., 2003. An interactive evolutionary metaheuristic for multiobjective combinatorial optimization. Management Science, 49(12), pp.1726-1738. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.49.12.1726.25117) ]
