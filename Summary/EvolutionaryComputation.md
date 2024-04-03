@@ -270,7 +270,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 # MetaHeuristics
 
-* https://ryojitanabe.github.io/ecconf/: Statistics of acceptance rates of EC conferences.
+* https://ryojitanabe.github.io/ecconf/: Statistics of acceptance rates of some EC conferences.
 * Campelo, F. and Aranha, C., 2023. [Lessons from the evolutionary computation Bestiary](https://publications.aston.ac.uk/id/eprint/44574/1/ALIFE_LLCS.pdf). Artificial Life. [ [EC-Bestiary](https://github.com/fcampelo/EC-Bestiary) ]
 * [Bäck, T.H.](https://www.universiteitleiden.nl/en/staffmembers/thomas-back), Kononova, A.V., van Stein, B., Wang, H., Antonov, K.A., Kalkreuth, R.T., de Nobel, J., Vermetten, D., de Winter, R. and Ye, F., 2023. [Evolutionary algorithms for parameter optimization—Thirty years later](https://direct.mit.edu/evco/article/31/2/81/115462). Evolutionary Computation, 31(2), pp.81-122.
   * Bäck, T., Doerr, C., Sendhoff, B. and Stützle, T., 2022. [Guest editorial special issue on benchmarking sampling-based optimization heuristics: Methodology and software](https://ieeexplore.ieee.org/abstract/document/9967395). IEEE Transactions on Evolutionary Computation, 26(6), pp.1202-1205.
