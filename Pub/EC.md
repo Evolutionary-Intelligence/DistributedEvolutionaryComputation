@@ -10,7 +10,7 @@ In this page, we try our best to maintain a (very) short reference list for the 
 * [Forrest, S.](https://www.cs.unm.edu/~forrest/), 1993. [Genetic algorithms: Principles of natural selection applied to computation](https://www.science.org/doi/10.1126/science.8346439). Science, 261(5123), pp.872-878.
 * Bounds, D.G., 1987. [New optimization methods from physics and biology](https://www.nature.com/articles/329215a0). Nature, 329(6136), pp.215-219.
 
-For more details about the **history** and **classification** of EC, refer to the following wonderful books and papers, to name a few:
+For more details about the **history** and **classification** of EC, refer to the following wonderful books and papers, just to name a few:
 
 * [Schoenauer, M.](https://www.lri.fr/~marc/), 2015. [Evolutionary algorithms](https://link.springer.com/chapter/10.1007/978-94-017-9014-7_28). Handbook of Evolutionary Thinking in the Sciences. Springer.
 * De Jong, K.A., 2006. [Evolutionary computation: A unified approach](https://ieeexplore.ieee.org/book/6267245). MIT Press.
