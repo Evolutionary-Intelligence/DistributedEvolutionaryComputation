@@ -95,7 +95,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Genetic Programming (GP) [ [PySR](https://arxiv.org/pdf/2305.01582.pdf) | [USC Ph.D.](http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/public/ftp.io.com/papers/WAT_PHD_DissFull_USC94_Recombination_etc_Genetic_Construction_of_Computer_Programs.pdf) ]
 
-* [http://gpbib.cs.ucl.ac.uk/](http://gpbib.cs.ucl.ac.uk/)
+* [http://gpbib.cs.ucl.ac.uk/](http://gpbib.cs.ucl.ac.uk/) + https://geneticprogramming.com/
 * Langdon, W.B., 2020. Genetic programming and evolvable machines at 20. Genetic Programming and Evolvable Machines, 21(1), pp.205-217.
 * Langdon, W.B. and Poli, R., 2013. Foundations of genetic programming. Springer Science & Business Media.
 * Schmidt, M. and Lipson, H., 2009. Distilling free-form natural laws from experimental data. Science, 324(5923), pp.81-85.
@@ -104,8 +104,10 @@ For more details about the **history** and **classification** of EC, refer to th
   * Koza, J.R., Bennet, F.H., Andre, D. and Keane, M.A., 1999. Genetic programming III: Automatic synthesis of analog circuits. MIT Press.
   * Koza, J.R., 1994. Genetic programming II: Automatic discovery of reusable programs. MIT Press.
   * Koza, J.R., 1992. Genetic programming: On the programming of computers by means of natural selection. MIT Press.
+  * Koza, J.R., 1990. Non-linear genetic algorithms for solving problems. U.S. Patent 4,935,877.
   * Koza, J.R., 1989, August. Hierarchical genetic algorithms operating on populations of computer programs. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 768-774).
 * Cramer, N.L., 1985, July. [A representation for the adaptive generation of simple sequential programs](https://dl.acm.org/doi/10.5555/645511.657085). In Proceedings of International Conference on Genetic Algorithms (pp. 183-187).
+* Forsyth, R., 1981. [BEAGLE—A Darwinian approach to pattern recognition](http://www-dept.cs.ucl.ac.uk/staff/W.Langdon/ftp/public/papers/kybernetes_forsyth.pdf). Kybernetes, 10(3), pp.159-166.
 
 ## Ant Colony Optimization (ACO)
 
