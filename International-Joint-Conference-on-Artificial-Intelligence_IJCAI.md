@@ -5,6 +5,7 @@
 * Schmidhuber, J., Wierstra, D. and Gomez, F., 2005, July. Evolino: Hybrid neuroevolution/optimal linear search for sequence learning. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 853-858). [ [www](https://www.ijcai.org/proceedings/2005/) | [pdf](https://www.ijcai.org/Proceedings/05/Papers/1452.pdf) ] ( **COEA** )
 * Gomez, F.J. and Miikkulainen, R., 1999, July. Solving non-Markovian control tasks with neuroevolution. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 1356-1361). [ [www](https://www.ijcai.org/proceedings/1999-2/) | [pdf](https://www.ijcai.org/Proceedings/99-2/Papers/097.pdf) ] ( **COEA** )
 * Caruana, R.A., Eshelman, L.J. and Schaffer, J.D., 1989, August. Representation and hidden bias II: Eliminating defining length bias in genetic search via shuffle crossover. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 750-755).
+* Koza, J.R., 1989, August. [Hierarchical genetic algorithms operating on populations of computer programs](https://www.genetic-programming.com/jkpdf/ijcai1989.pdf). In Proceedings of International Joint Conference on Artificial Intelligence (pp. 768-774). [**GP**]
 * Smith, S.F., 1983, August. Flexible learning of problem solving heuristics through adaptive search. In Proceedings of International Joint Conference on Artificial Intelligence (pp. 422-425). [ [pdf](https://www.ijcai.org/Proceedings/83-1/Papers/100.pdf) ] ( **GA** )
 
 ## 2020
