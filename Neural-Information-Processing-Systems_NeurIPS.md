@@ -7,6 +7,7 @@
 * Rahimi, M.M., Bhatti, H.I., Park, Y., Kousar, H., Kim, D.Y. and Moon, J., 2024. [EvoFed: Leveraging evolutionary strategies for communication-efficient federated learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c48fe446e651cd49fb58a6833e015103-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
 * Yang, S., Yu, X., Tian, Y., Yan, X., Ma, H. and Zhang, X., 2024. [Evolutionary neural architecture search for transformer in knowledge tracing](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
 * Fishman, N., Klarner, L., Mathieu, E., Hutchinson, M. and De Bortoli, V., 2024. Metropolis sampling for constrained diffusion models. Advances in Neural Information Processing Systems, 36.
+* de Soto, K. and Villar, V.A., 2023, October. [Representing core-collapse supernova light curves analytically with symbolic regression](). In NeurIPS AI for Science Workshop. [**GP**+**PySR**]
 
 ## 2021
 
