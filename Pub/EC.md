@@ -239,6 +239,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Clune, J., 2019. AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence. arXiv preprint arXiv:1905.10985.
 * Kerschke, P., Hoos, H.H., Neumann, F. and Trautmann, H., 2019. Automated algorithm selection: Survey and perspectives. Evolutionary Computation, 27(1), pp.3-45.
 * Forrest, S. and Mitchell, M., 2016. Adaptive computation: The multidisciplinary legacy of John H. Holland. Communications of the ACM, 59(8), pp.58-63.
+* Livnat, A. and Papadimitriou, C., 2016. [Sex as an algorithm: The theory of evolution under the lens of computation](https://cacm.acm.org/research/sex-as-an-algorithm/). Communications of the ACM, 59(11), pp.84-93.
 * Domingos, P., 2015. The master algorithm: How the quest for the ultimate learning machine will remake our world. Basic Books.
   * Domingos, P., 2015. [The five tribes of machine learning and what you can take from each](https://learning.acm.org/techtalks/machinelearning). ACM Learning Center. [ [pdf](https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2015/five-tribes-ml_112415.pdf) ]
 * Stulp, F. and Sigaud, O., 2012, June. [Path integral policy improvement with covariance matrix adaptation](https://icml.cc/2012/papers/171.pdf). In International Coference on International Conference on Machine Learning (pp. 1547-1554).
