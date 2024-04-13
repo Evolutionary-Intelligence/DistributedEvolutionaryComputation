@@ -1,4 +1,4 @@
-# A (Growing) Paper List of Evolutionary Computation (EC) on Top-Tier Publications (e.g., Nature, Science, etc.)
+# A (Growing) Paper List of Evolutionary Computation (EC) on Top-Tier Publications (e.g., Nature, Science, PRL, PNAS, JACS, etc.)
 
 This is a *growing* paper list for [evolutionary computation (EC)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/EC.md) and [Swarm Intelligence (SI)](https://link.springer.com/journal/11721). Currently we are **actively** updating it (at least from 2021 to 2024). Owing to the abundance of literatures, however, we believe that many interesting works are still missed here. If you find them missed here, welcome to contact with us via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) or [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls) to add. Recently (2023), we notice that some other research group(s) also starts to adopt a similar way to collect literatures regarding EC, which is a good news.
 
