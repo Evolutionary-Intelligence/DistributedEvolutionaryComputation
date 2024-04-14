@@ -1,5 +1,6 @@
 # Harvard University
 
+* Amoudruz, L. and Koumoutsakos, P., 2022. [Independent control and path planning of microswimmers with a uniform magnetic field](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202100183). Advanced Intelligent Systems, 4(3), p.2100183.
 * Thornton, M.A., 2017. [The neural organization of social knowledge](https://dash.harvard.edu/bitstream/handle/1/40046533/THORNTON-DISSERTATION-2017.pdf?sequence=4&isAllowed=y) (Doctoral dissertation, Harvard University).
 * Schälte, Y., Fröhlich, F., Jost, P.J., Vanhoefer, J., Pathirana, D., Stapor, P., Lakrisenko, P., Wang, D., Raimúndez, E., Merkt, S. and Schmiester, L., 2023. [pyPESTO: A modular and scalable tool for parameter estimation for dynamic models](https://arxiv.org/abs/2305.01821). arXiv preprint arXiv:2305.01821. [ **CMA-ES** + **PSO** ]
 * Schmucker, R., Farina, G., Faeder, J., Fröhlich, F., Saglam, A.S. and Sandholm, T., 2021. [Combination treatment optimization using a pan-cancer pathway model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009689). PLOS Computational Biology, 17(12), p.e1009689. [ **CMA-ES** + **PSO** ]
