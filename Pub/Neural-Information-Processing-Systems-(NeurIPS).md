@@ -8,6 +8,7 @@
 * Yang, S., Yu, X., Tian, Y., Yan, X., Ma, H. and Zhang, X., 2024. [Evolutionary neural architecture search for transformer in knowledge tracing](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html). Advances in Neural Information Processing Systems, 36.
 * Fishman, N., Klarner, L., Mathieu, E., Hutchinson, M. and De Bortoli, V., 2024. Metropolis sampling for constrained diffusion models. Advances in Neural Information Processing Systems, 36.
 * de Soto, K. and Villar, V.A., 2023, October. [Representing core-collapse supernova light curves analytically with symbolic regression](). In NeurIPS AI for Science Workshop. [**GP**+**PySR**]
+* Baluja, S., 1996. [Genetic algorithms and explicit search statistics](https://proceedings.neurips.cc/paper/1996/hash/e6d8545daa42d5ced125a4bf747b3688-Abstract.html). In Advances in Neural Information Processing Systems, pp.319-325. { **GA** | **EDA** }
 * Juels, A. and Wattenberg, M., 1995. [Stochastic hillclimbing as a baseline method for evaluating genetic algorithms](https://proceedings.neurips.cc/paper/1995/hash/36a1694bce9815b7e38a9dad05ad42e0-Abstract.html). In Advances in Neural Information Processing Systems (pp. 430-436). MIT Press. { **GA** }
 
 ## 2021
@@ -62,7 +63,3 @@ Cui, X., Zhang, W., Tüske, Z. and Picheny, M., Evolutionary stochastic gradient
 ## 2015
 
 Qian, C., Yu, Y. and Zhou, Z.H., 2015. Subset selection by Pareto optimization. In Advances in Neural Information Processing Systems, 28, pp.1774-1782. [ [www](https://papers.nips.cc/paper/2015/hash/b4d168b48157c623fbd095b4a565b5bb-Abstract.html) | [pdf](https://papers.nips.cc/paper/2015/file/b4d168b48157c623fbd095b4a565b5bb-Paper.pdf) ]
-
-## 1996
-
-Baluja, S., 1996. Genetic algorithms and explicit search statistics. In Advances in Neural Information Processing Systems, pp.319-325. [ [www](https://proceedings.neurips.cc/paper/1996/hash/e6d8545daa42d5ced125a4bf747b3688-Abstract.html) | [pdf](https://papers.nips.cc/paper/1996/file/e6d8545daa42d5ced125a4bf747b3688-Paper.pdf) ]
