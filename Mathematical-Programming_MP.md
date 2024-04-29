@@ -1,5 +1,6 @@
 # MP (Mathematical Programming)
 
+* Bolte, J., Miclo, L. and Villeneuve, S., 2024. [Swarm gradient dynamics for global optimization: The mean-field limit case](https://link.springer.com/article/10.1007/s10107-023-01988-8). Mathematical Programming, 205(1), pp.661-701. { **PSO** | **CBO** }
 * Diouane, Y., Gratton, S. and [Vicente, L.N.](https://coral.ise.lehigh.edu/lnv/), 2015. Globally convergent evolution strategies. Mathematical Programming, 152(1), pp.467-490. [ [www](https://link.springer.com/article/10.1007/s10107-014-0793-x) ] ( **ES** | **Continuous Optimization** )
 * Dekkers, A. and Aarts, E., 1991. Global optimization and simulated annealing. Mathematical Programming, 50(1), pp.367-393. [ [www](https://link.springer.com/article/10.1007/BF01594945) ] ( **SA** )
 
