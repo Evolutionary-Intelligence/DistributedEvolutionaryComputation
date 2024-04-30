@@ -7,6 +7,23 @@
 <!-- * Wang, Y., Xue, K. and Qian, C., 2022, September. Evolutionary diversity optimization with clustering-based selection for reinforcement learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=74x5BXs4bWD) | [pdf](https://openreview.net/pdf?id=74x5BXs4bWD) ] -->
 * Pourchot, A. and Sigaud, O., 2019. CEM-RL: Combining evolutionary and gradient-based methods for policy search. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=BkeU5j0ctQ) | [pdf](https://openreview.net/pdf?id=BkeU5j0ctQ) ] ( **ES** )
 
+## 2024
+
+Amin, A.A. 2024. Discrete Natural Evolution Strategies, In *The Second Tiny Papers Track at ICLR
+*. [ [www](https://openreview.net/forum?id=yDdmC6Tq8s) | [pdf](https://openreview.net/pdf?id=yDdmC6Tq8s) ]
+
+Peng, Y., Song, A., Fayek, H.M., Ciesielski, V. and Chang, X., 2024. SWAP-NAS: Sample-Wise Activation Patterns For Ultra-Fast NAS. In *The Twelfth International Conference on Learning Representations*. [ [www](https://openreview.net/forum?id=tveiUXU2aa) | [pdf](https://openreview.net/pdf?id=tveiUXU2aa) ]
+
+Bradley, H., Dai, A., Teufel, H., Zhang, J., Oostermeijer, K., Bellagente, M., Clune, J., Stanley, K., Schott, G. and Lehman, J., 2024. Quality-diversity through AI feedback. In *The Twelfth International Conference on Learning Representations*. [ [www](https://openreview.net/forum?id=owokKCrGYr) | [pdf](https://openreview.net/pdf?id=owokKCrGYr) ]
+
+Xue, K., Wang, R.J., Li, P., Li, D., Jianye, H.A.O. and Qian, C., 2024, October. Sample-efficient quality-diversity by cooperative coevolution. In *The Twelfth International Conference on Learning Representations*. [ [www](https://openreview.net/forum?id=JDud6zbpFv) | [pdf](https://openreview.net/pdf?id=JDud6zbpFv) ]
+
+Ma, Y.J., Liang, W., Wang, G., Huang, D.A., Bastani, O., Jayaraman, D., Zhu, Y., Fan, L. and Anandkumar, A., 2024. Eureka: Human-level reward design via coding large language models. In *The Twelfth International Conference on Learning Representations*. [ [www](https://openreview.net/forum?id=IEduRUO55F) | [pdf](https://openreview.net/pdf?id=IEduRUO55F) ]
+
+Guo, Q., Wang, R., Guo, J., Li, B., Song, K., Tan, X., Liu, G., Bian, J. and Yang, Y., 2024. Connecting large language models with evolutionary algorithms yields powerful prompt optimizers. In *The Twelfth International Conference on Learning Representations*. [ [www](https://openreview.net/forum?id=ZG3RaNIsO8) | [pdf](https://openreview.net/pdf?id=ZG3RaNIsO8) ]
+
+Yan, C., Chang, X., Li, Z., Yao, L., Luo, M. and Zheng, Q., 2024, October. Masked Distillation Advances Self-Supervised Transformer Architecture Search. In *The Twelfth International Conference on Learning Representations*. [ [www](https://openreview.net/forum?id=LUpC8KTvdV) | [pdf](https://openreview.net/pdf?id=LUpC8KTvdV) ]
+
 
 ## 2023
 Hao et al., 2023. ERL-Re^2: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=FYZCHEtt6H0) | [pdf](https://openreview.net/pdf?id=FYZCHEtt6H0) ]
