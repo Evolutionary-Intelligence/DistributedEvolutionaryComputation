@@ -19,7 +19,7 @@ coding principles and neuronal preferences. Cell 177, 999–1009.e10 (2019), 10.
 cell.2019.04.005.
     * O. Rose, J. Johnson, B. Wang, C. R. Ponce, Visual prototypes in the ventral stream are attuned to
 complexity and gaze behavior. Nat. Commun. 12, 1–16 (2021).
-* Falk, M.J., Wu, J., Matthews, A., Sachdeva, V., Pashine, N., Gardel, M.L., Nagel, S.R. and Murugan, A., 2023. Learning to learn by using nonequilibrium training protocols for adaptable materials. Proceedings of the National Academy of Sciences, 120(27), p.e2219558120. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120) ] ( **CMA-ES** | **Continuous Optimization** #)
+* Falk, M.J., Wu, J., Matthews, A., Sachdeva, V., Pashine, N., Gardel, M.L., Nagel, S.R. and Murugan, A., 2023. [Learning to learn by using nonequilibrium training protocols for adaptable materials](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120). Proceedings of the National Academy of Sciences, 120(27), p.e2219558120. { **CMA-ES** }
   * "We optimize the yield of a given target structure over the 66 design parameters using the covariance matrix adaptation evolutionary strategy (CMA-ES) that simulates an evolving population of design parameters."
     * N. Hansen, A. Ostermeier, Adapting arbitrary normal mutation distributions in evolution strategies: The covariance matrix adaptation in Proceedings of IEEE international conference on evolutionary computation. (IEEE), pp. 312–317 (1996).
     * N. Hansen, The cma evolution strategy: A comparing review. Towards New Evol. Comput. pp.75–102 (2006).
