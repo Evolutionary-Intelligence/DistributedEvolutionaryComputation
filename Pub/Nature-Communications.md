@@ -1,6 +1,7 @@
 # Nature Communications
 
 * Gil-Fuster, E., Eisert, J. and Bravo-Prieto, C., 2024. [Understanding quantum machine learning also requires rethinking generalization](https://www.nature.com/articles/s41467-024-45882-z). Nature Communications, 15(1), pp.1-12. { [code](https://github.com/bpcarlos/understanding_QML_rethinking_gen) + **CMA-ES** }
+  * "For all implementations, the training parameters were initialized randomly. The optimization method employed to update the parameters of the QCNN during training is the CMA-ES, a stochastic, derivative-free optimization strategy."
 * Le Fouest, S. and Mulleners, K., 2024. [Optimal blade pitch control for enhanced vertical-axis wind turbine performance](https://www.nature.com/articles/s41467-024-46988-0). Nature Communications, 15(1), p.2770. { **NSGA-II** }
   * Abstract: "We perform automated experiments using a scaled-down turbine model coupled to a genetic algorithm optimiser to identify optimal pitching kinematics at on- and off-design operating conditions."
 * Sosa-Carrillo, S., Galez, H., Napolitano, S., Bertaux, F. and Batt, G., 2022. Maximizing protein production by keeping cells at optimal secretory stress levels using real-time control approaches. bioRxiv, pp.2022-11. ( **CMA-ES** | **Continuous Optimization** )
