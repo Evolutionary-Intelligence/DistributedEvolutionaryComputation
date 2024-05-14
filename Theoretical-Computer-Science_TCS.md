@@ -1,6 +1,6 @@
 # TCS (Theoretical Computer Science)
 
-* Bienvenüe, A. and François, O., 2003. Global convergence for evolution strategies in spherical problems: Some simple proofs and difficulties. Theoretical Computer Science, 306(1-3), pp.269-289.
+* Bienvenüe, A. and François, O., 2003. [Global convergence for evolution strategies in spherical problems: Some simple proofs and difficulties](https://www.sciencedirect.com/science/article/pii/S0304397503002846). Theoretical Computer Science, 306(1-3), pp.269-289.
 * Omeradzic, A. and Beyer, H.G., 2023. Progress analysis of a multi-recombinative evolution strategy on the highly multimodal Rastrigin function. Theoretical Computer Science, 978, p.114179. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397523004929) ]
 * Bossek, J. and Sudholt, D., 2023. Do additional target points speed up evolutionary algorithms?. Theoretical Computer Science, 950, p.113757. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0304397523000701) ]
 * Doerr, B. and Rajabi, A., 2023. Stagnation detection meets fast mutation. Theoretical Computer Science, 946, p.113670. [ [www](https://www.sciencedirect.com/science/article/pii/S0304397522007526) ]
