@@ -4,6 +4,8 @@
   * "For all implementations, the training parameters were initialized randomly. The optimization method employed to update the parameters of the QCNN during training is the CMA-ES, a stochastic, derivative-free optimization strategy."
 * Le Fouest, S. and Mulleners, K., 2024. [Optimal blade pitch control for enhanced vertical-axis wind turbine performance](https://www.nature.com/articles/s41467-024-46988-0). Nature Communications, 15(1), p.2770. { **NSGA-II** }
   * Abstract: "We perform automated experiments using a scaled-down turbine model coupled to a genetic algorithm optimiser to identify optimal pitching kinematics at on- and off-design operating conditions."
+* Rudolph, M.S., Miller, J., Motlagh, D., Chen, J., Acharya, A. and Perdomo-Ortiz, A., 2023. [Synergistic pretraining of parametrized quantum circuits via tensor networks](https://www.nature.com/articles/s41467-023-43908-6). Nature Communications, 14(1), p.8367. { **CMA-ES** }
+  * 
 * Sosa-Carrillo, S., Galez, H., Napolitano, S., Bertaux, F. and Batt, G., 2022. Maximizing protein production by keeping cells at optimal secretory stress levels using real-time control approaches. bioRxiv, pp.2022-11. ( **CMA-ES** | **Continuous Optimization** )
   * "Parameter fitting was performed thanks to the CMA-ES algorithm using the pycma package from Hansen and colleagues."
     * Hansen, N. et al. CMA-ES/pycma: r3.2.2. https://doi.org/10.5281/ZENODO.2559634 (2022).
