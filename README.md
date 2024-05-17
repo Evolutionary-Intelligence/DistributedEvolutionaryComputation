@@ -73,7 +73,7 @@ This is a *growing* paper list for [evolutionary computation (EC)](https://githu
 ## [Evolutionary Algorithms (EAs)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/EC.md)
 
 *******
-**"Frequently nonadditive interaction (i.e., "epistasis" or "nonlinearity") makes it impossible to determine the performance of a structure from a study of its isolated parts. While these difficulties pose a real problem for the analyst, we know that they are routinely handled by biological adaptive processes, qua processes."**---[[John H. Holland, Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence, 1992]](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
+**"Responsible for adaptation, optimization, and innovation in the living world, evolution executes a simple algorithm of diversifcation and natural selection, an algorithm that works at all levels of complexity from single protein molecules to whole ecosystems."**---[Nobel Lecture, by Frances H. Arnold, California Institute of Technology](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)
 *******
 
 Here, we consider a family of evolutionary algorithms (and also several closely-related techniques, e.g. *random search* and *simulated annealing*). Since initially we focused primarily on their parallel/distributed versions and variants, we provide a [reference list](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md) for their original / seminal / landmark / survey / review / opinion papers, in order to help better understand them (especially for newcomers). We **strongly** suggest to see e.g. [2015's Review paper in **Nature** or 1993's Review paper in **Science**](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#popular-naturescience-reviews).
@@ -111,7 +111,7 @@ Here, we consider a family of evolutionary algorithms (and also several closely-
   * Tabu Search (TS)
 
 *******
-**"Responsible for adaptation, optimization, and innovation in the living world, evolution executes a simple algorithm of diversifcation and natural selection, an algorithm that works at all levels of complexity from single protein molecules to whole ecosystems."**---[Nobel Lecture, by Frances H. Arnold, California Institute of Technology](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)
+**"Frequently nonadditive interaction (i.e., "epistasis" or "nonlinearity") makes it impossible to determine the performance of a structure from a study of its isolated parts. While these difficulties pose a real problem for the analyst, we know that they are routinely handled by biological adaptive processes, qua processes."**---[[John H. Holland, Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence, 1992]](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
 *******
 
 ## Support
