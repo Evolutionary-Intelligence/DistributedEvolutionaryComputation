@@ -85,6 +85,9 @@ For more details about the **history** and **classification** of EC, refer to th
   * [Rechenberg, I.](https://web.archive.org/web/20180425010001/http://www.bionik.tu-berlin.de/institut/xstart.htm), 1973. Evolutionsstrategie: Optimierung technischer systeme nach prinzipien der biologischen evolution. Frommann-Holzboog Verlag, Stuttgart. [NOTE that this seminal Ph.D. dissertation is not read by us since it was originally written in German. But here we still add it owing to its historically significant contributions to EC/ES.]
 
 ## Evolutionary Programming (EP)
+
+* Fogel, D.B., Hays, T.J., Hahn, S.L. and Quon, J., 2004. [A self-learning evolutionary chess program](https://ieeexplore.ieee.org/abstract/document/1360168). Proceedings of the IEEE, 92(12), pp.1947-1954.
+  * Chellapilla, K. and Fogel, D.B., 1999. [Evolution, neural networks, games, and intelligence](https://ieeexplore.ieee.org/abstract/document/784222). Proceedings of the IEEE, 87(9), pp.1471-1496.
 * Fogel, D.B., 1999. [An overview of evolutionary programming](https://link.springer.com/chapter/10.1007/978-1-4612-1542-4_5). In Evolutionary Algorithms (pp. 89-109). Springer, New York, NY.
   * Fogel, D.B. and Fogel, L.J., 1995, September. [An introduction to evolutionary programming](https://link.springer.com/chapter/10.1007/3-540-61108-8_28). In European Conference on Artificial Evolution (pp. 21-33). Springer, Berlin, Heidelberg. 
   * Fogel, D.B., 1994. [Evolutionary programming: An introduction and some current directions](https://link.springer.com/article/10.1007/BF00175356). Statistics and Computing, 4, pp.113-129.
