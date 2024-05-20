@@ -25,7 +25,6 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Genetic Algorithm (GA)
 
-* https://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/abstract
 * [Whitley, D.](https://www.cs.colostate.edu/~whitley/), 2019. [Next generation genetic algorithms: A user’s guide and tutorial](https://link.springer.com/chapter/10.1007/978-3-319-91086-4_8). In Handbook of Metaheuristics (pp. 245-274). Springer, Cham.
   * [Whitley, D.](https://www.cs.colostate.edu/~whitley/), Rana, S., Dzubera, J. and Mathias, K.E., 1996. [Evaluating evolutionary algorithms](https://www.sciencedirect.com/science/article/pii/0004370295001247). Artificial Intelligence, 85(1-2), pp.245-276.
   * [Whitley, D.](https://www.cs.colostate.edu/~whitley/), 1994. [A genetic algorithm tutorial](https://link.springer.com/article/10.1007/BF00175354). Statistics and Computing, 4(2), pp.65-85.
@@ -48,6 +47,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Holland, J.H., 1975. [Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence](https://direct.mit.edu/books/book/2574/Adaptation-in-Natural-and-Artificial-SystemsAn). University of Michigan Press.
   * Holland, J.H., 1973. [Genetic algorithms and the optimal allocation of trials](https://epubs.siam.org/doi/10.1137/0202009). SIAM Journal on Computing, 2(2), pp.88-105.
   * https://users.sussex.ac.uk/~philh/pubs/HollandINTV.pdf
+  * Forrest, S. and Mitchell, M., 2016. [Adaptive computation: The multidisciplinary legacy of John H. Holland](https://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/abstract). Communications of the ACM, 59(8), pp.58-63.
 
 ## Evolution Strategies (ES) [ [ACM SIGEVOlution](https://dl.acm.org/doi/abs/10.1145/1621943.1621944) | [ACM SIGEVOlution](https://dl.acm.org/doi/abs/10.1145/1810132.1810133) | [Ubiquity](https://dl.acm.org/doi/10.1145/2369296.2369297) | [GECCO](https://dl.acm.org/doi/abs/10.1145/3321707.3326936) | [ACM SIGEVOlution](https://dl.acm.org/doi/10.1145/3511282.3511283) | [Mathematical Programming](https://link.springer.com/article/10.1007/s10107-014-0793-x) ] 
 
