@@ -39,7 +39,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Goldberg, D.E. and Holland, J.H., 1988. [Genetic algorithms and machine learning](https://link.springer.com/article/10.1023/A:1022602019183). Machine Learning, 3(2), pp.95-99.
   * Goldberg, D.E., 1994. [Genetic and evolutionary algorithms come of age](https://dl.acm.org/doi/10.1145/175247.175259). Communications of the ACM, 37(3), pp.113-120.
 * De Jong, K.A., 1975. [An analysis of the behavior of a class of genetic adaptive systems](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/4507/bab6360.0001.001.pdf). Doctoral Dissertation, University of Michigan.
-  * De Jong, K.A., 1992. [Are genetic algorithms funcion optimizer?](https://www.mli.gmu.edu/papers/91-95/92-20.pdf). Parallel Problem Solving from Nature, pp.3-13.
+  * De Jong, K.A., 1992. [Are genetic algorithms function optimizer?](https://www.mli.gmu.edu/papers/91-95/92-20.pdf). Parallel Problem Solving from Nature, pp.3-13.
   * De Jong, K.A., 1988. [Learning with genetic algorithms: An overview](https://link.springer.com/article/10.1007/BF00113894). Machine Learning, 3, pp.121-138.
 * Holland, J.H., 1962. [Outline for a logical theory of adaptive systems](https://dl.acm.org/doi/10.1145/321127.321128). Journal of the ACM, 9(3), pp.297-314. [ [UMICH Ph.D.](https://www.proquest.com/openview/9c228542954e5bb676739359ff6341ef/1?pq-origsite=gscholar&cbl=18750&diss=y) ]
   * Holland, J.H., 1992. [Genetic algorithms](https://www.scientificamerican.com/article/genetic-algorithms/). Scientific American, 267(1), pp.66-73.
