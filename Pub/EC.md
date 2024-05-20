@@ -49,7 +49,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Husbands, P., 2008. [An interview with John Holland](https://users.sussex.ac.uk/~philh/pubs/HollandINTV.pdf). Mechanical Mind in History, p.389.
   * Forrest, S. and Mitchell, M., 2016. [Adaptive computation: The multidisciplinary legacy of John H. Holland](https://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/abstract). Communications of the ACM, 59(8), pp.58-63.
 
-## Evolution Strategies (ES) [ [ACM SIGEVOlution](https://dl.acm.org/doi/abs/10.1145/1621943.1621944) | [ACM SIGEVOlution](https://dl.acm.org/doi/abs/10.1145/1810132.1810133) | [Ubiquity](https://dl.acm.org/doi/10.1145/2369296.2369297) | [GECCO](https://dl.acm.org/doi/abs/10.1145/3321707.3326936) | [ACM SIGEVOlution](https://dl.acm.org/doi/10.1145/3511282.3511283) ] 
+## Evolution Strategies (ES) [ [ACM SIGEVOlution](https://dl.acm.org/doi/abs/10.1145/1621943.1621944) | [ACM SIGEVOlution](https://dl.acm.org/doi/abs/10.1145/1810132.1810133) | [Ubiquity](https://dl.acm.org/doi/10.1145/2369296.2369297) | [GECCO](https://dl.acm.org/doi/abs/10.1145/3321707.3326936) ] 
 
 * Vicol, P., Metz, L. and Sohl-Dickstein, J., 2021, July. [Unbiased gradient estimation in unrolled computation graphs with persistent evolution strategies](http://proceedings.mlr.press/v139/vicol21a.html). In International Conference on Machine Learning (pp. 10553-10563). PMLR. [ [Outstanding Paper](https://icml.cc/virtual/2021/oral/10176) ]
 * Nesterov, Y. and Spokoiny, V., 2017. [Random gradient-free minimization of convex functions](https://link.springer.com/article/10.1007/s10208-015-9296-2). Foundations of Computational Mathematics, 17(2), pp.527-566.
