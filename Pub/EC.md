@@ -46,7 +46,7 @@ For more details about the **history** and **classification** of EC, refer to th
   * Holland, J.H., 1992. [Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence](https://direct.mit.edu/books/book/2574/Adaptation-in-Natural-and-Artificial-SystemsAn). MIT Press.
   * Holland, J.H., 1975. [Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence](https://direct.mit.edu/books/book/2574/Adaptation-in-Natural-and-Artificial-SystemsAn). University of Michigan Press.
   * Holland, J.H., 1973. [Genetic algorithms and the optimal allocation of trials](https://epubs.siam.org/doi/10.1137/0202009). SIAM Journal on Computing, 2(2), pp.88-105.
-  * https://users.sussex.ac.uk/~philh/pubs/HollandINTV.pdf
+  * Husbands, P., 2008. [An interview with John Holland](https://users.sussex.ac.uk/~philh/pubs/HollandINTV.pdf). Mechanical Mind in History, p.389.
   * Forrest, S. and Mitchell, M., 2016. [Adaptive computation: The multidisciplinary legacy of John H. Holland](https://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/abstract). Communications of the ACM, 59(8), pp.58-63.
 
 ## Evolution Strategies (ES) [ [ACM SIGEVOlution](https://dl.acm.org/doi/abs/10.1145/1621943.1621944) | [ACM SIGEVOlution](https://dl.acm.org/doi/abs/10.1145/1810132.1810133) | [Ubiquity](https://dl.acm.org/doi/10.1145/2369296.2369297) | [GECCO](https://dl.acm.org/doi/abs/10.1145/3321707.3326936) | [ACM SIGEVOlution](https://dl.acm.org/doi/10.1145/3511282.3511283) | [Mathematical Programming](https://link.springer.com/article/10.1007/s10107-014-0793-x) ] 
