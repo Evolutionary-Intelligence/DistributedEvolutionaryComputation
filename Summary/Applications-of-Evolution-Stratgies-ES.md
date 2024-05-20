@@ -1,6 +1,5 @@
 # Applications of Evolution Stratgies (AppES)
 
-* Thamm, M. and Rosenow, B., 2023. [Machine learning optimization of Majorana hybrid nanowires](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.116202). **Physical Review Letters**, 130(11), p.116202.
 * Rossignolo, M., Reisser, T., Marshall, A., Rembold, P., Pagano, A., Vetter, P.J., Said, R.S., Müller, M.M., Motzoi, F., Calarco, T. and Jelezko, F., 2023. [QuOCS: The quantum optimal control suite](https://www.sciencedirect.com/science/article/abs/pii/S0010465523001273). Computer Physics Communications, p.108782. [ **Qruise** ]
 * Bonet-Monroig, X., Wang, H., Vermetten, D., Senjean, B., Moussa, C., Bäck, T., Dunjko, V. and O'Brien, T.E., 2023. [Performance comparison of optimization methods on variational quantum algorithms](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.032407). Physical Review A, 107(3), p.032407. [ **Google Quantum AI** ]
 * Li, A.C., Macridin, A., Mrenna, S. and Spentzouris, P., 2023. [Simulating scalar field theories on quantum computers with limited resources](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.032603). Physical Review A, 107(3), p.032603. [ **Fermi National Accelerator Laboratory** ]
