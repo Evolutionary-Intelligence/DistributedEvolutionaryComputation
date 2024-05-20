@@ -1,6 +1,6 @@
 # Applications of Evolution Strategies (ES)
 
-* Thamm, M. and Rosenow, B., 2023. [Machine learning optimization of Majorana hybrid nanowires](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.116202). **Physical Review Letters**, 130(11), p.116202.
+* Thamm, M. and Rosenow, B., 2023. [Machine learning optimization of Majorana hybrid nanowires](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.116202). **Physical Review Letters**, 130(11), p.116202.  { **CMA-ES** }
 * Choudhury, S., Narayanan, B., Moret, M., Hatzimanikatis, V. and Miskovic, L., 2023. [Generative machine learning produces kinetic models that accurately characterize intracellular metabolic states](https://www.biorxiv.org/content/10.1101/2023.02.21.529387v3.abstract). BioRxiv, pp.2023-02. { **OpenAI-ES** | **[code](https://github.com/EPFL-LCSB/RENAISSANCE)** }
   * "NES is particularly advantageous in scenarios where the fitness landscape is complex, non-differentiable, or unknown."
     * Vent, W. Rechenberg, Ingo, Evolutionsstrategie — Optimierung Technischer Systeme Nach Prinzipien Der Biologischen Evolution. 170 S. Mit 36 Abb. Frommann-Holzboog-Verlag. Stuttgart 1973. Broschiert. Feddes Repert. 1975, 86 (5), 337–337. https://doi.org/10.1002/fedr.19750860506.
