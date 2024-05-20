@@ -185,6 +185,8 @@ For more details about the **history** and **classification** of EC, refer to th
 ## Estimation of Distribution Algorithms (EDAs)
 
 * Larrañaga, P. and Lozano, J.A. eds., 2001. Estimation of distribution algorithms: A new tool for evolutionary computation. Springer Science & Business Media.
+* Baluja, S., 1996. Genetic algorithms and explicit search statistics. In Advances in Neural Information Processing Systems, pp.319-325.
+* Baluja, S. and Caruana, R., 1995. Removing the genetics from the standard genetic algorithm. In International Conference on Machine Learning (pp. 38-46). Morgan Kaufmann.
 
 ## Natural Evolution Strategies (NES)
 
