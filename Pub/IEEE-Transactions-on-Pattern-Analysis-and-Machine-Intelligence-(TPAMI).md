@@ -1,9 +1,8 @@
 # TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)
 
+* Raymond C., Chen Q., Xue B. and Zhang M. (2023). [Learning symbolic model-agnostic loss functions via meta-learning](https://ieeexplore.ieee.org/abstract/document/10177983). IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(11), 13699–13714. { **GP** }
 * Chen, X., and Wujek, B. (2022). [A unified framework for automatic distributed active learning](https://doi.org/10.1109/TPAMI.2021.3129793). IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(12), 9774–9786. { **GA** }
 * Oh, I.S., Lee, J.S. and Moon, B.R., 2004. [Hybrid genetic algorithms for feature selection](https://ieeexplore.ieee.org/abstract/document/1335448). IEEE Transactions on Pattern Analysis and Machine Intelligence, 26(11), pp.1424-1437. { **GA** }
-
-* Raymond C., Chen Q., Xue B. and Zhang M. (2023). Learning symbolic model-agnostic loss functions via meta-learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. [ [www](https://doi.org/10.1109/TPAMI.2023.3294394.) ] ( **GP** )
 
 Yu, H., Wu, S., and Dauwels, J. (2023). Efficient variational bayes learning of graphical models with smooth structural changes. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(1), 475–488. [ [www](https://doi.org/10.1109/TPAMI.2022.3140886) ] (**SA**)
 
