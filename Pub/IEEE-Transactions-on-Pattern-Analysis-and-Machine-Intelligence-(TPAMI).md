@@ -1,5 +1,6 @@
 # TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)
 
+* Chen, X., and Wujek, B. (2022). [A unified framework for automatic distributed active learning](https://doi.org/10.1109/TPAMI.2021.3129793). IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(12), 9774–9786. { **GA** }
 * Oh, I.S., Lee, J.S. and Moon, B.R., 2004. [Hybrid genetic algorithms for feature selection](https://ieeexplore.ieee.org/abstract/document/1335448). IEEE Transactions on Pattern Analysis and Machine Intelligence, 26(11), pp.1424-1437. { **GA** }
 
 * Raymond C., Chen Q., Xue B. and Zhang M. (2023). Learning symbolic model-agnostic loss functions via meta-learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. [ [www](https://doi.org/10.1109/TPAMI.2023.3294394.) ] ( **GP** )
@@ -11,10 +12,6 @@ Zhang, Y., Yao, Q., and Kwok, J. T. (2023). Bilinear scoring function search for
 Li, Y., Dong, M., Wang, Y., and Xu, C. (2023). Neural architecture search via proxy validation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(6), 7595–7610. [ [www](https://doi.org/10.1109/TPAMI.2022.3217648) ] (**EA**)
 
 Wei, X., Guo, Y., and Yu, J. (2023). Adversarial sticker: A stealthy attack method in the physical world. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(3), 2711–2725. [ [www](https://doi.org/10.1109/TPAMI.2022.3176760) ] (**DE**)
-
-## 2022
-
-Chen, X., and Wujek, B. (2022). A unified framework for automatic distributed active learning. IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(12), 9774–9786. [[www](https://doi.org/10.1109/TPAMI.2021.3129793)] (**GA**)
 
 ## 2021
 
