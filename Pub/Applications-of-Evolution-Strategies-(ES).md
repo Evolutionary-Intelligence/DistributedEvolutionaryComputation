@@ -9,3 +9,4 @@
     * Salimans, T.; Ho, J.; Chen, X.; Sidor, S.; Sutskever, I. Evolution strategies as a scalable alternative to reinforcement learning. arXiv September 7, 2017. http://arxiv.org/abs/1703.03864 (accessed 2023-11-23).
     * Risi, S. & Togelius, J. Neuroevolution in Games: State of the Art and Open Challenges. Arxiv (2014) doi:10.48550/arxiv.1410.7326.
 * Slade, P., Kochenderfer, M.J., Delp, S.L. and Collins, S.H., 2022. [Personalizing exoskeleton assistance while walking in the real world](https://www.nature.com/articles/s41586-022-05191-1). **Nature**, 610(7931), pp.277-282. { **CMA-ES** }
+* De Croon, G.C., Dupeyroux, J.J., De Wagter, C., Chatterjee, A., Olejnik, D.A. and Ruffier, F., 2022. [Accommodating unobservability to control flight attitude with optic flow](https://www.nature.com/articles/s41586-022-05182-2). **Nature**, 610(7932), pp.485-490. { **CMA-ES** }
