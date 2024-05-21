@@ -1,5 +1,6 @@
 # AIJ (Artificial Intelligence Journal)
 
+* Inza, I., Larrañaga, P., Etxeberria, R. and Sierra, B., 2000. [Feature subset selection by Bayesian network-based optimization](https://www.sciencedirect.com/science/article/pii/S0004370200000527). Artificial Intelligence, 123(1-2), pp.157-184. { **EDA** }
 * Lissovoi, A., Oliveto, P.S. and Warwicker, J.A., 2023. When move acceptance selection hyper-heuristics outperform Metropolis and elitist evolutionary algorithms and when not. Artificial Intelligence, 314, p.103804. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370222001448) ] ( **EA** )
 * Liu, J., Chen, T., Wang, C., Liang, J., Chen, L., Xiao, Y., Chen, Y. and Jin, K., 2022. VoCSK: Verb-oriented commonsense knowledge mining with taxonomy-guided induction. Artificial Intelligence, 310, p.103744. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370222000844) ] ( **SA** )
 * Nguyen, P.T.H. and Sudholt, D., 2020. Memetic algorithms outperform evolutionary algorithms in multimodal optimisation. Artificial Intelligence, 287, pp.1-21. [ [www](https://www.sciencedirect.com/science/article/abs/pii/S0004370220301016) ] ( **MA** )
