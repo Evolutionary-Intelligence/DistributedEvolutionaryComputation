@@ -1,5 +1,7 @@
 # TPAMI (IEEE Transactions on Pattern Analysis and Machine Intelligence)
 
+* Oh, I.S., Lee, J.S. and Moon, B.R., 2004. [Hybrid genetic algorithms for feature selection](https://ieeexplore.ieee.org/abstract/document/1335448). IEEE Transactions on Pattern Analysis and Machine Intelligence, 26(11), pp.1424-1437. { **GA** }
+
 * Raymond C., Chen Q., Xue B. and Zhang M. (2023). Learning symbolic model-agnostic loss functions via meta-learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. [ [www](https://doi.org/10.1109/TPAMI.2023.3294394.) ] ( **GP** )
 
 Yu, H., Wu, S., and Dauwels, J. (2023). Efficient variational bayes learning of graphical models with smooth structural changes. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(1), 475–488. [ [www](https://doi.org/10.1109/TPAMI.2022.3140886) ] (**SA**)
@@ -85,10 +87,6 @@ Silva, L., Bellon, O.R.P. and Boyer, K.L., 2005. Precision range image registrat
 Pernkopf, F. and Bouchaffra, D., 2005. Genetic-based EM algorithm for learning Gaussian mixture models. IEEE Transactions on Pattern Analysis and Machine Intelligence, 27(8), pp.1344-1348. [ [www](https://ieeexplore.ieee.org/abstract/document/1453522) ]
 
 Lucas, S.M. and Reynolds, T.J., 2005. Learning deterministic finite automata with a smart state labeling evolutionary algorithm. IEEE Transactions on Pattern Analysis and Machine Intelligence, 27(7), pp.1063-1074. [ [www](https://ieeexplore.ieee.org/abstract/document/1432740) ]
-
-## 2004
-
-Oh, I.S., Lee, J.S. and Moon, B.R., 2004. Hybrid genetic algorithms for feature selection. IEEE Transactions on Pattern Analysis and Machine Intelligence, 26(11), pp.1424-1437. [ [www](https://ieeexplore.ieee.org/abstract/document/1335448) ]
 
 ## 2002
 
