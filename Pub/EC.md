@@ -182,6 +182,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Das, S. and Suganthan, P.N., 2010. Differential evolution: A survey of the state-of-the-art. IEEE Transactions on Evolutionary Computation, 15(1), pp.4-31.
 * Storn, R., 1999. System design by constraint adaptation and differential evolution. IEEE Transactions on Evolutionary Computation, 3(1), pp.22-34.
 * Storn, R. and Price, K., 1997. Differential evolution–A simple and efficient heuristic for global optimization over continuous spaces. Journal of Global Optimization, 11(4), pp.341-359.
+* Storn, R., 1996, May. Differential evolution design of an IIR-filter. In Proceedings of IEEE International Conference on Evolutionary Computation (pp. 268-273). IEEE.
 
 ## Estimation of Distribution Algorithms (EDAs)
 
