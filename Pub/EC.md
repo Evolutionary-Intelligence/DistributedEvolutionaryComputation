@@ -178,6 +178,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Differential Evolution (DE)
 
+* Price, K.V., 2013. Differential evolution. In Handbook of Optimization: From Classical to Modern Approach (pp. 187-214). Berlin, Heidelberg: Springer Berlin Heidelberg.
 * Das, S. and Suganthan, P.N., 2010. Differential evolution: A survey of the state-of-the-art. IEEE Transactions on Evolutionary Computation, 15(1), pp.4-31.
 * Storn, R., 1999. System design by constraint adaptation and differential evolution. IEEE Transactions on Evolutionary Computation, 3(1), pp.22-34.
 * Storn, R. and Price, K., 1997. Differential evolution–A simple and efficient heuristic for global optimization over continuous spaces. Journal of Global Optimization, 11(4), pp.341-359.
