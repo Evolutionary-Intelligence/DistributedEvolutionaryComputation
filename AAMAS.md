@@ -4,6 +4,10 @@
 
 Tang, S.Y., Irissappane, A.A., Oliehoek, F.A. and Zhang, J., 2023. Teacher-apprentices RL (TARL): leveraging complex policy distribution through generative adversarial hypernetwork in reinforcement learning. Autonomous Agents and Multi-Agent Systems, 37(2), p.25. [ [www](https://link.springer.com/article/10.1007/s10458-023-09606-9)]
 
+Ho, F. and Nakadai, S., 2023. Preference-based multi-objective multi-agent path finding. Autonomous Agents and Multi-Agent Systems, 37(1), p.12. [ [www](https://link.springer.com/article/10.1007/s10458-022-09593-3)]
+
+Dodevska, Z., Petrović, A., Radovanović, S. and Delibašić, B., 2023. Changing criteria weights to achieve fair VIKOR ranking: a postprocessing reranking approach. Autonomous Agents and Multi-Agent Systems, 37(1), p.9. [ [www](https://link.springer.com/article/10.1007/s10458-022-09591-5)]
+
 ## 2021
 
 Cuccu, G., Togelius, J. and Cudré-Mauroux, P., 2021. Playing Atari with few neurons. Autonomous Agents and Multi-Agent Systems, 35(2), pp.1-23. [ [www](https://link.springer.com/article/10.1007/s10458-021-09497-8) ] (**NES**)
