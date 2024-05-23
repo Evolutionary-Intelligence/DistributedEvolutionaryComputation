@@ -1,8 +1,18 @@
 # AAMAS (Autonomous Agents and Multi-Agent Systems / International Conference on Autonomous Agents and MultiAgent Systems)
 
+## 2023
+
+Tang, S.Y., Irissappane, A.A., Oliehoek, F.A. and Zhang, J., 2023. Teacher-apprentices RL (TARL): leveraging complex policy distribution through generative adversarial hypernetwork in reinforcement learning. Autonomous Agents and Multi-Agent Systems, 37(2), p.25. [ [www](https://link.springer.com/article/10.1007/s10458-023-09606-9)]
+
 ## 2021
 
 Cuccu, G., Togelius, J. and Cudré-Mauroux, P., 2021. Playing Atari with few neurons. Autonomous Agents and Multi-Agent Systems, 35(2), pp.1-23. [ [www](https://link.springer.com/article/10.1007/s10458-021-09497-8) ] (**NES**)
+
+Tang, S.Y., Irissappane, A.A., Oliehoek, F.A. and Zhang, J., 2021, May. Learning Complex Policy Distribution with CEM Guided Adversarial Hypernetwork. In AAMAS (pp. 1308-1316). [ [www](https://dl.acm.org/doi/abs/10.5555/3463952.3464103) | [pdf](https://pure.tudelft.nl/ws/files/96914657/p1308.pdf)]
+
+## 2017
+
+Zivan, R., Parash, T., Cohen, L., Peled, H. and Okamoto, S., 2017. Balancing exploration and exploitation in incomplete min/max-sum inference for distributed constraint optimization. Autonomous Agents and Multi-Agent Systems, 31, pp.1165-1207. [ [www](https://link.springer.com/article/10.1007/s10458-017-9360-1) | [pdf](https://tzin.bgu.ac.il/~zivanr/files/Maxsum_ADVP.pdf)]
 
 ## 2015
 
