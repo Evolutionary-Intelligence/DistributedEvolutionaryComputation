@@ -2,6 +2,7 @@
 
 * Kim, J., Quinlivan, B.T., Deprey, L.A., Arumukhom Revi, D., Eckert-Erdheim, A., Murphy, P., Orzel, D. and Walsh, C.J., 2022. Reducing the energy cost of walking with low assistance levels through optimized hip flexion assistance from a soft exosuit. Scientific Reports, 12(1), p.11004. { **CMA-ES** }
   * "We used the CMA-ES algorithm to estimate the individualized, energetically optimal assistance profile for each participant."
+  * "Bayesian optimization was highly accurate and sample efficient, but it was less robust to the noise. Its performance quickly degraded when noise increased, and when the noise level reached 18.2% of signal variation which is the best estimate given the data available, Bayesian optimization performed worse than CMA-ES."
 * Amoudruz, L. and Koumoutsakos, P., 2022. [Independent control and path planning of microswimmers with a uniform magnetic field](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202100183). Advanced Intelligent Systems, 4(3), p.2100183. [**CMA-ES**]
   * "We solve the above minimization problem numerically with derandomised evolution strategy with covariance matrix adaptation (CMA-ES)."
     * N. Hansen, S. D. Müller, P. Koumoutsakos, Evol. Comput. 2003, 11, 1.
