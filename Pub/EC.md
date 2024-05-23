@@ -178,11 +178,10 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Differential Evolution (DE)
 
-* Price, K.V., 2013. Differential evolution. In Handbook of Optimization: From Classical to Modern Approach (pp. 187-214). Berlin, Heidelberg: Springer Berlin Heidelberg.
-* Das, S. and Suganthan, P.N., 2010. Differential evolution: A survey of the state-of-the-art. IEEE Transactions on Evolutionary Computation, 15(1), pp.4-31.
-* Storn, R., 1999. System design by constraint adaptation and differential evolution. IEEE Transactions on Evolutionary Computation, 3(1), pp.22-34.
-* Storn, R. and Price, K., 1997. Differential evolution–A simple and efficient heuristic for global optimization over continuous spaces. Journal of Global Optimization, 11(4), pp.341-359.
-* Storn, R., 1996, May. Differential evolution design of an IIR-filter. In Proceedings of IEEE International Conference on Evolutionary Computation (pp. 268-273). IEEE.
+* Price, K.V., 2013. [Differential Evolution]([https://ieeexplore.ieee.org/abstract/document/1288052](https://link.springer.com/chapter/10.1007/978-3-642-30504-7_8). In Handbook of Optimization: From Classical to Modern Approach (pp. 187-214). Berlin, Heidelberg: Springer Berlin Heidelberg.
+* Das, S. and Suganthan, P.N., 2010. [Differential Evolution: A Survey of the State-of-the-Art](https://ieeexplore.ieee.org/abstract/document/5601760). IEEE Transactions on Evolutionary Computation, 15(1), pp.4-31.
+* Storn, R., 1999. [System design by constraint adaptation and differential evolution](https://ieeexplore.ieee.org/abstract/document/752918). IEEE Transactions on Evolutionary Computation, 3(1), pp.22-34.
+* Storn, R. and Price, K., 1997. [Differential evolution–A simple and efficient heuristic for global optimization over continuous spaces](https://link.springer.com/article/10.1023/a:1008202821328). Journal of Global Optimization, 11(4), pp.341-359.
 
 ## Estimation of Distribution Algorithms (EDAs)
 
