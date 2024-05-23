@@ -4,6 +4,10 @@
 
 Tang, S.Y., Irissappane, A.A., Oliehoek, F.A. and Zhang, J., 2023. Teacher-apprentices RL (TARL): leveraging complex policy distribution through generative adversarial hypernetwork in reinforcement learning. Autonomous Agents and Multi-Agent Systems, 37(2), p.25. [ [www](https://link.springer.com/article/10.1007/s10458-023-09606-9)]
 
+## 2022 
+
+Hayes, C.F., Rădulescu, R., Bargiacchi, E., Källström, J., Macfarlane, M., Reymond, M., Verstraeten, T., Zintgraf, L.M., Dazeley, R., Heintz, F. and Howley, E., 2022. A practical guide to multi-objective reinforcement learning and planning. Autonomous Agents and Multi-Agent Systems, 36(1), p.26. [ [www](https://link.springer.com/article/10.1007/s10458-022-09552-y) | [pdf](https://cris.vub.be/ws/portalfiles/portal/97210152/A_practical_guide_to_multi_objective_reinforcement_learning.pdf)]
+
 ## 2021
 
 Cuccu, G., Togelius, J. and Cudré-Mauroux, P., 2021. Playing Atari with few neurons. Autonomous Agents and Multi-Agent Systems, 35(2), pp.1-23. [ [www](https://link.springer.com/article/10.1007/s10458-021-09497-8) ] (**NES**)
