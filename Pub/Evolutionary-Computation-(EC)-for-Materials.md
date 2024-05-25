@@ -6,3 +6,5 @@
 theory, then the data was sent back to the Matlab particle swarm algorithm as feedback for the code to find the best shifts. In the latter, we used nanostructure phases from the library and calculated the
 wavefront aberration functionwith respect to the target linear one. It is worth mentioning that the above process does not guarantee the global best solution because of approximations. We therefore repeated the above-mentioned process and generated ~30 different metagrating designs. The best one was reported in themain text while a few of the rest are shown in [X]."
 * Liu, Y., Wang, R., Wang, Z., Li, D. and Cui, T., 2022. Formation of twelve-fold iodine coordination at high pressure. Nature Communications, 13(1), p.412. [ **Abstract + Jilin University + Ningbo University** ]
+  * "Here, based on the particle swarm optimization method and first-principles calculations, we report an exotically icosahedral cage-like hypercoordinated IN6 compound composed of N6 rings and an unusual iodine−nitrogen covalent bond network. To the best of our knowledge, this is the first halogen compound showing twelve-fold coordination of halogen."
+  * 
