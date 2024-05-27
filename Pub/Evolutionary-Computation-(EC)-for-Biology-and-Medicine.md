@@ -7,3 +7,8 @@
   * **Abstract**: "We present a method for designing an optimized cylindrical Halbach magnet using the genetic algorithm (GA) to achieve either homogeneity (for standard MRI applications) or a favorable spatial encoding field pattern (for rotational spatial encoding applications)."
   * "Because the optimization variables are integer and the appropriate metrics and constraints are non-linear, we use a GA to ensure high-quality designs. Because a simplified model was used to optimize the rSEM magnet and GA does not guarantee a global optimum, the optimization procedure was repeated multiple times and the results were further evaluated with full rSEM imaging simulations."
   * "There are 888 possible locations for the magnets in the full model, therefore M contains 888 variables that may only have values of 0, 1, 2 (3^888 possible designs)."
+  * J. H. Holland, Adaptation in Natural and Artificial Systems: An Introductory Analysis With Applications to Biology, Control and Artificial Intelligence. Cambridge, MA, USA: MIT Press, 1992.
+  * K. Deb, Optimization for Engineering Design: Algorithms and Examples, 2nd ed. New Delhi, India: PHI, 2013.
+  * C. Blum and A. Roli, “Metaheuristics in combinatorial optimization: Overview and conceptual comparison,” ACM Comput. Surv., vol. 35, no. 3, pp. 268–308, 2003.
+  * K. Deb, “An efficient constraint handling method for genetic algorithms,” Comput. Methods Appl. Mech. Eng., vol. 186, nos. 2–4, pp. 311–338, Jun. 2000.
+  * Mixed Integer Optimization—MATLAB & Simulink. Accessed: Jan. 18, 2017. [Online]. Available: https://www.mathworks.com/help/gads/mixed-integer-optimization.html
