@@ -1,6 +1,6 @@
 # Nature
 
-* Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024. [Machine learning reveals the control mechanics of an insect wing hinge](https://www.nature.com/articles/s41586-024-07293-4). Nature, pp.1-9.
+* Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024. [Machine learning reveals the control mechanics of an insect wing hinge](https://www.nature.com/articles/s41586-024-07293-4). Nature, pp.1-9. { **California Institute of Technology + Howard Hughes Medical Institute** }
   * 
 * Tong, K., Zhang, X., Li, Z., Wang, Y., Luo, K., Li, C., Jin, T., Chang, Y., Zhao, S., Wu, Y. and Gao, Y., 2024. [Structural transition and migration of incoherent twin boundary in diamond](https://www.nature.com/articles/s41586-023-06908-6). Nature, pp.1-7.
   * "To verify configuration diversity, we performed a structure search of diamond {112} ITB with an evolutionary algorithm and estimated excess energy with first-principles calculations."
