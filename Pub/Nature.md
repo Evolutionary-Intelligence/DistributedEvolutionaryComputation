@@ -2,6 +2,7 @@
 
 * Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024. [Machine learning reveals the control mechanics of an insect wing hinge](https://www.nature.com/articles/s41586-024-07293-4). Nature, pp.1-9. { **California Institute of Technology + Howard Hughes Medical Institute** }
   * "To reconstruct the wing kinematics from high-speed images, we developed an automated tracking algorithm that used a trained convolutional neural network and particle swarm optimization."
+  * "We developed an automated tracking system to extract body and wing pose, called Flynet, which consists of two steps: (1) a trained CNN that predicts pose vectors of the body and wing; and (2) a PSO step that refines the CNN prediction via 3D model fitting."
   * Kennedy, J. & Eberhart, R. Particle swarm optimization. In Proc. ICNN’95—International Conference on Neural Networks Vol. 4, 1942–1948 (1995).
 * Tong, K., Zhang, X., Li, Z., Wang, Y., Luo, K., Li, C., Jin, T., Chang, Y., Zhao, S., Wu, Y. and Gao, Y., 2024. [Structural transition and migration of incoherent twin boundary in diamond](https://www.nature.com/articles/s41586-023-06908-6). Nature, pp.1-7.
   * "To verify configuration diversity, we performed a structure search of diamond {112} ITB with an evolutionary algorithm and estimated excess energy with first-principles calculations."
