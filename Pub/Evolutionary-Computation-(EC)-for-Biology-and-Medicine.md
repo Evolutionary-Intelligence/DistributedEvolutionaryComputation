@@ -1,7 +1,8 @@
 # Evolutionary Computation (EC) for Biology and Medicine
 
 * Lyu, J., Kapolka, N., Gumpper, R., Alon, A., Wang, L., Jain, M.K., Barros-Álvarez, X., Sakamoto, K., Kim, Y., DiBerto, J. and Kim, K., 2024. [AlphaFold2 structures guide prospective ligand discovery](https://www.science.org/doi/10.1126/science.adn6354). Science, p.eadn6354.
-  * ""
+  * "The binding pose was further validated utilizing Emerald (fig. S15), which uses a genetic algorithm to fit the ligand using the cryoEM density map as restraints."
+  * A. Muenks, S. Zepeda, G. Zhou, D. Veesler, F. DiMaio, Automatic and accurate ligand structure determination guided by cryo-electron microscopy maps. Nat. Commun.14, 1164 (2023).
 * Castanha, P.M., McEnaney, P.J., Park, Y., Bouwer, A., Chaves, E.J., Lins, R.D., Paciaroni, N.G., Dickson, P., Carlson, G., Cordeiro, M.T. and Magalhaes, T., 2024. [Identification and characterization of a nonbiological small-molecular mimic of a Zika virus conformational neutralizing epitope](https://www.pnas.org/doi/abs/10.1073/pnas.2312755121). Proceedings of the National Academy of Sciences, 121(21), p.e2312755121. { **University of Pittsburgh + University of Florida + Aggeu Magalhaes Institute + Deluge Biotechnologies + Texas A&M University + Universidade Federal da Bahia** }
   * "The binding pose prediction of the CZV1-1 adducts was performed using a semiflexible approach coupled to the genetic algorithm of the GOLD software."
   * G. Jones, P. Willett, R. C. Glen, A. R. Leach, R. Taylor, Development and validation of a genetic algorithm for flexible docking. J. Mol. Biol. 267, 727–748 (1997).
