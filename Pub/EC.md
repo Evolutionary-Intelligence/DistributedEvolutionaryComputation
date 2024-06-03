@@ -146,6 +146,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 **CBO**: [Bungert et al., 2024, MP](https://link.springer.com/article/10.1007/s10107-024-02095-y)
 
+* Carrillo, J.A., Choi, Y.P., Totzeck, C. and Tse, O., 2018. An analytical framework for consensus-based global optimization method. Mathematical Models and Methods in Applied Sciences, 28(06), pp.1037-1066.
 * Pinnau, R., Totzeck, C., Tse, O. and Martin, S., 2017. A consensus-based model for global optimization and its mean-field limit. Mathematical Models and Methods in Applied Sciences, 27(01), pp.183-204.
 * Eberhart, R.C., Shi, Y. and Kennedy, J., 2001. [Swarm intelligence](https://www.sciencedirect.com/book/9781558605954/swarm-intelligence). Elsevier.
 * Kennedy, J. and Eberhart, R., 1995, November. Particle swarm optimization. In Proceedings of International Conference on Neural Networks (Vol. 4, pp. 1942-1948). IEEE.
