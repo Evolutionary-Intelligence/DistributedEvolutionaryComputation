@@ -144,7 +144,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Particle Swarm Optimization (PSO)
 
-**CBO**: [Bungert et al., 2024, MP](https://link.springer.com/article/10.1007/s10107-024-02095-y)
+**CBO**: [Bungert et al., 2024, MP](https://link.springer.com/article/10.1007/s10107-024-02095-y); [Fornasie et al., 2021](https://arxiv.org/abs/2103.15130)
 
 * Carrillo, J.A., Choi, Y.P., Totzeck, C. and Tse, O., 2018. An analytical framework for consensus-based global optimization method. Mathematical Models and Methods in Applied Sciences, 28(06), pp.1037-1066.
 * Pinnau, R., Totzeck, C., Tse, O. and Martin, S., 2017. A consensus-based model for global optimization and its mean-field limit. Mathematical Models and Methods in Applied Sciences, 27(01), pp.183-204.
