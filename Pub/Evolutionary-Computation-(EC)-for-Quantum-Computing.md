@@ -12,3 +12,5 @@
 ## 
 
 * Noisy Intermediate-Scale Quantum devices (NISQ)
+* Quantum Approximate Optimization Algorithm (QAOA)
+* Variational Quantum Eigensolver (VQE)
