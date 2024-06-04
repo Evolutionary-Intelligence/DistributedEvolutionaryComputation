@@ -14,3 +14,5 @@
 * Noisy Intermediate-Scale Quantum devices (NISQ)
 * Quantum Approximate Optimization Algorithm (QAOA)
 * Variational Quantum Eigensolver (VQE)
+
+* Cheng, S., Chen, J. and Wang, L., 2018. Information perspective to probabilistic modeling: Boltzmann machines versus Born machines. Entropy, 20(8), p.583.
