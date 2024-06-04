@@ -1,4 +1,4 @@
-# npjqi (npj Quantum Information)
+# NPJQI (npj Quantum Information)
 
 * Werninghaus, M., Egger, D.J., Roy, F., Machnes, S., Wilhelm, F.K. and Filipp, S., 2021. Leakage reduction in fast superconducting qubit gates via optimal control. npj Quantum Information, 7(1), p.14. [ [www](https://www.nature.com/articles/s41534-020-00346-2) ] ( **CMA-ES** | **Continuous Optimization** )
   * "We use the covariance matrix adaptation-evolution strategy (CMA-ES) algorithm instead of, for instance, Nelder-Mead to handle the large number of parameters. With these improvements we experimentally optimize pulses with up to 55 parameters."
