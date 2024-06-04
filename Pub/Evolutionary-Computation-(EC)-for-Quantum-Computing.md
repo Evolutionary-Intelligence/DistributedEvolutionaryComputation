@@ -4,4 +4,5 @@
   * **Abstract**: "Simulated multi-spin systems, characterized by a space of 1010 possible models, are also investigated by incorporating a genetic algorithm in our protocol, which identifies the target model in 85% of instances."
   * [NeurIPS Workshop on Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_52.pdf): Quantum Model Learning Agent
 * Lamata, L., Alvarez-Rodriguez, U., Martín-Guerrero, J.D., Sanz, M. and Solano, E., 2018. Quantum autoencoders via quantum adders with genetic algorithms. Quantum Science and Technology, 4(1), p.014007.
+* Colless, J.I., Ramasesh, V.V., Dahlen, D., Blok, M.S., Kimchi-Schwartz, M.E., McClean, J.R., Carter, J., de Jong, W.A. and Siddiqi, I., 2018. Computation of molecular spectra on a quantum processor with an error-resilient algorithm. Physical Review X, 8(1), p.011021.
 * Li, R., Alvarez-Rodriguez, U., Lamata, L. and Solano, E., 2017. Approximate quantum adders with genetic algorithms: an IBM quantum experience. Quantum Measurements and Quantum Metrology, 4(1), pp.1-7.
