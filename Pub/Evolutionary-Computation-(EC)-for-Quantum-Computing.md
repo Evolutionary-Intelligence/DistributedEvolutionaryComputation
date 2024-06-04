@@ -8,3 +8,7 @@
 * Lamata, L., Alvarez-Rodriguez, U., Martín-Guerrero, J.D., Sanz, M. and Solano, E., 2018. Quantum autoencoders via quantum adders with genetic algorithms. Quantum Science and Technology, 4(1), p.014007.
 * Colless, J.I., Ramasesh, V.V., Dahlen, D., Blok, M.S., Kimchi-Schwartz, M.E., McClean, J.R., Carter, J., de Jong, W.A. and Siddiqi, I., 2018. Computation of molecular spectra on a quantum processor with an error-resilient algorithm. Physical Review X, 8(1), p.011021.
 * Li, R., Alvarez-Rodriguez, U., Lamata, L. and Solano, E., 2017. Approximate quantum adders with genetic algorithms: an IBM quantum experience. Quantum Measurements and Quantum Metrology, 4(1), pp.1-7.
+
+## 
+
+* Noisy Intermediate-Scale Quantum devices (NISQ)
