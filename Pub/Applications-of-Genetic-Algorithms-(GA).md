@@ -1,5 +1,7 @@
 # Applications of Genetic Algorithms (GA)
 
+In this openly-accessible page, we try to provide some (**rather all**) interesting applications of GA:
+
 * Lucas, E., Yu, S.P., Briles, T.C., Carlson, D.R. and Papp, S.B., 2023. [Tailoring microcombs with inverse-designed, meta-dispersion microresonators](https://www.nature.com/articles/s41566-023-01252-7). **Nature Photonics**, 17(11), pp.943-950.  { [MATLAB](https://github.com/ErwanLucas/inverseLLE) | **GA** | **National Institute of Standards and Technology + University of Colorado + Octave Photonics** }
   * **Abstract**: "By incorporating the system’s governing equation into a genetic algorithm, we are able to efficiently identify a dispersion profile that produces a microcomb closely matching a user-defined target spectrum, such as spectrally flat combs or near-Gaussian pulses."
     * Zhang, C., Kang, G., Wang, J., Pan, Y. & Qu, J. Inverse design of soliton microcomb based on genetic algorithm and deep learning. Opt. Express 30, 44395–44407 (2022). 24.
