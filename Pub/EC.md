@@ -279,8 +279,9 @@ For more details about the **history** and **classification** of EC, refer to th
 * Reed, J., Toombs, R. and Barricelli, N.A., 1967. [Simulation of biological evolution and machine learning: I. Selection of self-reproducing numeric patterns by data processing machines, effects of hereditary control, mutation type and crossing](). Journal of Theoretical Biology, 17(3), pp.319-342.
 * Bremermann, H.J., 1962. [Optimization through evolution and recombination](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/History-Papers/%5B1962%5D%20Optimization%20through%20evolution%20and%20recombination.pdf). Self-Organizing Systems, 93, p.106.
   * Bremermann, H.J., 1968. Numerical optimization procedures derived from biological evolution processes. Cybernetic Problems in Bionics, pp.597-616.
-* [Turing, A.](https://en.wikipedia.org/wiki/Alan_Turing), 1948. [Intelligent machinery](https://weightagnostic.github.io/papers/turing1948.pdf). In The Essential Turing. Oxford University Press.
+* [Turing, A.M.](https://en.wikipedia.org/wiki/Alan_Turing), 1948. [Intelligent machinery](https://weightagnostic.github.io/papers/turing1948.pdf). In The Essential Turing. Oxford University Press.
   * Copeland, B.J. ed., 2004. [The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma](https://global.oup.com/academic/product/the-essential-turing-9780198250807). Oxford University Press.
+  * Turing, A.M., 2009. [Computing machinery and intelligence (pp. 23-65)](https://link.springer.com/chapter/10.1007/978-1-4020-6710-5_3). Springer Netherlands.
 
 # Some Interesting Applications
 
