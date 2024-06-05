@@ -282,6 +282,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * [Turing, A.M.](https://en.wikipedia.org/wiki/Alan_Turing), 1948. [Intelligent machinery](https://weightagnostic.github.io/papers/turing1948.pdf). In The Essential Turing. Oxford University Press.
   * Copeland, B.J. ed., 2004. [The essential Turing: Seminal writings in computing, logic, philosophy, artificial intelligence, and artificial life plus the secrets of enigma](https://global.oup.com/academic/product/the-essential-turing-9780198250807). Oxford University Press.
   * Turing, A.M., 2009. [Computing machinery and intelligence (pp. 23-65)](https://link.springer.com/chapter/10.1007/978-1-4020-6710-5_3). Springer Netherlands.
+  * [https://academic.oup.com/mind/article/LIX/236/433/986238](https://academic.oup.com/mind/article/LIX/236/433/986238)
 
 # Some Interesting Applications
 
