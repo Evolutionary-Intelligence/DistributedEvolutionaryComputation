@@ -6,7 +6,7 @@
 * Xie, X., Jiang, F. and Li, J., 2024. [Low frequency hierarchical cooperative impulse control for gravitational wave detector formation keeping](https://arc.aiaa.org/doi/abs/10.2514/1.G007932). Journal of Guidance, Control, and Dynamics, pp.1-15. { **PSO** | **Mixed-Integer Programming** | **Tsinghua University** }
   * "For the upper control layer optimization, the particle swarm optimization (PSO) is employed in the global optimization, and the NLopt toolkit is used in the local refinement."
     * Kennedy, J., and Eberhart, R., “Particle Swarm Optimization,” Proceedings ofICNN’95—International Conference onNeural Networks,Vol. 4, Inst. of Electrical and Electronics Engineers,NewYork, 1995, pp. 1942–1948.
-* Mahynski, N.A. and Shen, V.K., 2024. [Programming interfacial porosity and symmetry with escherized colloids](). Journal of Chemical Theory and Computation.
+* Mahynski, N.A. and Shen, V.K., 2024. [Programming interfacial porosity and symmetry with escherized colloids](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c01284). Journal of Chemical Theory and Computation.
   * "This creates “troughs” in the loss function’s landscape that pose problems for gradient-based optimization methods; similarly, rough edges of the landscape. We used particle swarm optimization a stochastic swarm intelligence algorithm, to perform the optimization. Particle swarm optimization performed well and generally converged quickly to reasonable results."
     * O’Hara, K. OptimLib. 2023, https://github.com/kthohr/optim (accessed Feb 05, 2023).
     * Kennedy, J.; Eberhart, R. Particle swarm optimization. Proceedings of ICNN’95 International Conference on Neural Networks, 1995; Vol. 4, pp 1942−1948.
