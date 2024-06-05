@@ -2,8 +2,11 @@
 
 In this openly-accessible page, we try to provide some (**rather all**) interesting applications of GA:
 
-* { **University of Toronto + Samsung Research America + University of British Columbia + University of California at San Diego** }
-* Lucas, E., Yu, S.P., Briles, T.C., Carlson, D.R. and Papp, S.B., 2023. [Tailoring microcombs with inverse-designed, meta-dispersion microresonators](https://www.nature.com/articles/s41566-023-01252-7). **Nature Photonics**, 17(11), pp.943-950.  { [MATLAB](https://github.com/ErwanLucas/inverseLLE) | **GA** | **National Institute of Standards and Technology + University of Colorado + Octave Photonics** }
+* Ghaddar, N., Ganguly, S., Wang, L. and Kim, Y.H., 2023. [A Lego-brick approach to coding for network communication](https://ieeexplore.ieee.org/abstract/document/10285528). IEEE Transactions on Information Theory, 70(2), pp.865-903. { **[MATLAB](https://github.com/nadimgh/lego-brick)** | **GA** | **University of Toronto + Samsung Research America + University of British Columbia + University of California at San Diego** }
+  * "We use the genetic algorithm as an efficient heuristic method to perform the optimization."
+    * S. Luke, Essentials of Metaheuristics, 2nd ed. Morrisville, NC, USA: Lulu, 2013.
+    * J. H. Holland, Adaptation in Natural and Artificial Systems: An Introductory Analysis With Applications to Biology, Control and Artificial Intelligence. Cambridge, MA, USA: MIT Press, 1992.
+* Lucas, E., Yu, S.P., Briles, T.C., Carlson, D.R. and Papp, S.B., 2023. [Tailoring microcombs with inverse-designed, meta-dispersion microresonators](https://www.nature.com/articles/s41566-023-01252-7). **Nature Photonics**, 17(11), pp.943-950.  { **[MATLAB](https://github.com/ErwanLucas/inverseLLE)** | **GA** | **National Institute of Standards and Technology + University of Colorado + Octave Photonics** }
   * **Abstract**: "By incorporating the system’s governing equation into a genetic algorithm, we are able to efficiently identify a dispersion profile that produces a microcomb closely matching a user-defined target spectrum, such as spectrally flat combs or near-Gaussian pulses."
     * Zhang, C., Kang, G., Wang, J., Pan, Y. & Qu, J. Inverse design of soliton microcomb based on genetic algorithm and deep learning. Opt. Express 30, 44395–44407 (2022). 24.
     * Holland, J. H. Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control and Artificial Intelligence (MIT Press, 1992).
