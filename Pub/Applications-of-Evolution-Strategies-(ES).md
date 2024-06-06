@@ -11,3 +11,4 @@
 * Slade, P., Kochenderfer, M.J., Delp, S.L. and Collins, S.H., 2022. [Personalizing exoskeleton assistance while walking in the real world](https://www.nature.com/articles/s41586-022-05191-1). **Nature**, 610(7931), pp.277-282. { **CMA-ES** }
 * De Croon, G.C., Dupeyroux, J.J., De Wagter, C., Chatterjee, A., Olejnik, D.A. and Ruffier, F., 2022. [Accommodating unobservability to control flight attitude with optic flow](https://www.nature.com/articles/s41586-022-05182-2). **Nature**, 610(7932), pp.485-490. { **CMA-ES** }
 * Zhang, J., Fiers, P., Witte, K.A., Jackson, R.W., Poggensee, K.L., Atkeson, C.G. and Collins, S.H., 2017. [Human-in-the-loop optimization of exoskeleton assistance during walking](https://www.science.org/doi/abs/10.1126/science.aal5054). Science, 356(6344), pp.1280-1284. { **CMA-ES** }
+* Registration of ct and intraoperative 3-d ultrasound images of the spine using evolutionary and gradient-based methods
