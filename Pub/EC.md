@@ -199,11 +199,11 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Natural Evolution Strategies (NES)
 
-* Hüttenrauch, M. and Neumann, G., 2024. [Robust black-box optimization for stochastic search and episodic reinforcement learning](). Journal of Machine Learning Research, 25(153), pp.1-44.
+* Hüttenrauch, M. and Neumann, G., 2024. [Robust black-box optimization for stochastic search and episodic reinforcement learning](https://www.jmlr.org/papers/v25/22-0564.html). Journal of Machine Learning Research, 25(153), pp.1-44.
 * Moritz, P., Nishihara, R., Wang, S., Tumanov, A., Liaw, R., Liang, E., Elibol, M., Yang, Z., Paul, W., Jordan, M.I. and Stoica, I., 2018. [Ray: A distributed framework for emerging AI applications](https://www.usenix.org/conference/osdi18/presentation/moritz). In USENIX Symposium on Operating Systems Design and Implementation (pp. 561-577).
-* Salimans, T., Ho, J., Chen, X., Sidor, S. and Sutskever, I., 2017. Evolution strategies as a scalable alternative to reinforcement learning. arXiv preprint arXiv:1703.03864.
+* Salimans, T., Ho, J., Chen, X., Sidor, S. and Sutskever, I., 2017. [Evolution strategies as a scalable alternative to reinforcement learning](https://arxiv.org/abs/1703.03864). arXiv preprint arXiv:1703.03864.
 * Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. [Natural evolution strategies](https://jmlr.org/papers/v15/wierstra14a.html). Journal of Machine Learning Research, 15(1), pp.949-980.
-* Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. [Stochastic search using the natural gradient](https://dl.acm.org/doi/10.1145/1553374.1553522). In Proceedings of International Conference on Machine Learning (pp. 1161-1168).
+* Yi, S., Wierstra, D., Schaul, T. and Schmidhuber, J., 2009, June. [Stochastic search using the natural gradient](https://dl.acm.org/doi/10.1145/1553374.1553522). In International Conference on Machine Learning (pp. 1161-1168).
 
 ## Quality Diversity (QD)
 
