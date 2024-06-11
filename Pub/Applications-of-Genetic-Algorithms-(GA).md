@@ -22,3 +22,4 @@ In this openly-accessible page, we try to provide some (**rather all**) interest
   * C. Blum and A. Roli, “Metaheuristics in combinatorial optimization: Overview and conceptual comparison,” ACM Comput. Surv., vol. 35, no. 3, pp. 268–308, 2003.
   * K. Deb, “An efficient constraint handling method for genetic algorithms,” Comput. Methods Appl. Mech. Eng., vol. 186, nos. 2–4, pp. 311–338, Jun. 2000.
   * Mixed Integer Optimization—MATLAB & Simulink. Accessed: Jan. 18, 2017. [Online]. Available: https://www.mathworks.com/help/gads/mixed-integer-optimization.html
+* Groenendaal, W., Ortega, F.A., Kherlopian, A.R., Zygmunt, A.C., Krogh-Madsen, T. and Christini, D.J., 2015. [Cell-specific cardiac electrophysiology models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004242). PLoS Computational Biology, 11(4), p.e1004242. [ **GA** | **Weill Cornell Medical College** ]
