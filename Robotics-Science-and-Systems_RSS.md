@@ -7,6 +7,11 @@
   * "We use a generic implementation of Covariance Matrix Adaptation (CMA-ES) as our Policy Search blackbox optimizer."
     * Nikolaus Hansen. The cma evolution strategy: A tutorial. Vule, 29, 2005.
 
+   
+## 2023
+
+Petrenko, A., Allshire, A., State, G., Handa, A. and Makoviychuk, V., 2023. Dexpbt: Scaling up dexterous manipulation for hand-arm systems with population based training. In Robotics: Science and Systems. [ [pdf](https://www.roboticsproceedings.org/rss19/p037.pdf)] ( **PBT** )
+
 ## 2022
 
 Zhongqiang Ren, Akshaya Kesarimangalam Srinivasan, Howard Coffin, Ian Abraham, Howie Choset, 2022, July. A Local Optimization Framework for Multi-Objective Ergodic Search. In Proceedings of Robotics: Science and Systems (Vol. 18). [ [www](https://roboticsconference.org/program/papers/052/)| [pdf](http://www.roboticsproceedings.org/rss18/p052.pdf) ] (**GA**)
