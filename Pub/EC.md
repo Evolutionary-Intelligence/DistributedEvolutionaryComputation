@@ -95,7 +95,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Evolutionary Programming (EP)
 
-* **ECJ 2007**: [In Memoriam Laurence J. Fogel](https://direct.mit.edu/evco/article-abstract/15/2/iii/1264/In-Memoriam-Laurence-J-Fogel)
+* **Evolutionary Intelligence 2008**： [Dedication: Dr. Lawrence J. Fogel (1928–2007)](https://link.springer.com/article/10.1007/s12065-007-0006-0) + **ECJ 2007**: [In Memoriam Laurence J. Fogel](https://direct.mit.edu/evco/article-abstract/15/2/iii/1264/In-Memoriam-Laurence-J-Fogel)
 * Cui, G., Wong, M.L. and Lui, H.K., 2006. [Machine learning for direct marketing response models: Bayesian networks with evolutionary programming](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1060.0514). Management Science, 52(4), pp.597-612.
 * Fogel, D.B., Hays, T.J., Hahn, S.L. and Quon, J., 2004. [A self-learning evolutionary chess program](https://ieeexplore.ieee.org/abstract/document/1360168). Proceedings of the IEEE, 92(12), pp.1947-1954.
   * Chellapilla, K. and Fogel, D.B., 1999. [Evolution, neural networks, games, and intelligence](https://ieeexplore.ieee.org/abstract/document/784222). Proceedings of the IEEE, 87(9), pp.1471-1496.
@@ -108,8 +108,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1965. [Intelligent decision making through a simulation of evolution](https://ieeexplore.ieee.org/document/6591252). IEEE Transactions on Human Factors in Electronics, 6(1), pp.13-23. [ LAWRENCE J. FOGEL : IEEE Frank Rosenblatt Award + IEEE Evolutionary Computation Pioneer Award + IEEE Life Fellow ]
   * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1965. [Intelligent decision-making through a simulation of evolution](https://journals.sagepub.com/doi/abs/10.1177/003754976500500413?journalCode=simb). Simulation, 5(4), pp.267-279.
   * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1966. [Intelligent decision making through a simulation of evolution](https://onlinelibrary.wiley.com/doi/abs/10.1002/bs.3830110403). Behavioral Science, 11(4), pp.253-272.
-  * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1966. [Artificial intelligence through simulated evolution](https://www.amazon.com.au/Artificial-Intelligence-Through-Simulated-Evolution/dp/0471265160). John Wiley & Sons Inc. (Note that this seminal book is not read since it is openly available now. Here we still add it owing to its **pioneering** contributions to EC with others.)
-  * [Dedication: Dr. Lawrence J. Fogel (1928–2007)](https://link.springer.com/article/10.1007/s12065-007-0006-0)
+  * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1966. [Artificial intelligence through simulated evolution](https://www.amazon.com.au/Artificial-Intelligence-Through-Simulated-Evolution/dp/0471265160). John Wiley & Sons Inc.
 
 ## Genetic Programming (GP) [ [PySR](https://arxiv.org/pdf/2305.01582.pdf) | [USC Ph.D.](http://www0.cs.ucl.ac.uk/staff/wlangdon/ftp/public/ftp.io.com/papers/WAT_PHD_DissFull_USC94_Recombination_etc_Genetic_Construction_of_Computer_Programs.pdf) ]
 
