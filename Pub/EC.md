@@ -95,7 +95,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Evolutionary Programming (EP)
 
-* **Evolutionary Intelligence 2008**： [Dedication: Dr. Lawrence J. Fogel (1928–2007)](https://link.springer.com/article/10.1007/s12065-007-0006-0) + **ECJ 2007**: [In Memoriam Laurence J. Fogel](https://direct.mit.edu/evco/article-abstract/15/2/iii/1264/In-Memoriam-Laurence-J-Fogel)
+* **Evolutionary Intelligence 2008**: [Dedication: Dr. Lawrence J. Fogel (1928–2007)](https://link.springer.com/article/10.1007/s12065-007-0006-0) + **ECJ 2007**: [In Memoriam Laurence J. Fogel](https://direct.mit.edu/evco/article-abstract/15/2/iii/1264/In-Memoriam-Laurence-J-Fogel)
 * Cui, G., Wong, M.L. and Lui, H.K., 2006. [Machine learning for direct marketing response models: Bayesian networks with evolutionary programming](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1060.0514). Management Science, 52(4), pp.597-612.
 * Fogel, D.B., Hays, T.J., Hahn, S.L. and Quon, J., 2004. [A self-learning evolutionary chess program](https://ieeexplore.ieee.org/abstract/document/1360168). Proceedings of the IEEE, 92(12), pp.1947-1954.
   * Chellapilla, K. and Fogel, D.B., 1999. [Evolution, neural networks, games, and intelligence](https://ieeexplore.ieee.org/abstract/document/784222). Proceedings of the IEEE, 87(9), pp.1471-1496.
