@@ -95,6 +95,7 @@ For more details about the **history** and **classification** of EC, refer to th
 
 ## Evolutionary Programming (EP)
 
+* **ECJ 2007**: [In Memoriam Laurence J. Fogel](https://direct.mit.edu/evco/article-abstract/15/2/iii/1264/In-Memoriam-Laurence-J-Fogel)
 * Fogel, D.B., Hays, T.J., Hahn, S.L. and Quon, J., 2004. [A self-learning evolutionary chess program](https://ieeexplore.ieee.org/abstract/document/1360168). Proceedings of the IEEE, 92(12), pp.1947-1954.
   * Chellapilla, K. and Fogel, D.B., 1999. [Evolution, neural networks, games, and intelligence](https://ieeexplore.ieee.org/abstract/document/784222). Proceedings of the IEEE, 87(9), pp.1471-1496.
 * Fogel, D.B., 1999. [An overview of evolutionary programming](https://link.springer.com/chapter/10.1007/978-1-4612-1542-4_5). In Evolutionary Algorithms (pp. 89-109). Springer, New York, NY.
