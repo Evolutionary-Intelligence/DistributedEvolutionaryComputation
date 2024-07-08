@@ -117,3 +117,5 @@ Here, we consider a family of evolutionary algorithms (and also several closely-
 ## Support
 
 This *ongoing* paper list for EC (previous PDEC) was supported by **Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597** (2,000,000 Yuan from 2021 to 2023). We also acknowledge the *early* contribution from e.g., [Vincent A. Cicirello](https://github.com/cicirello). We thank [this open link](https://cuglirui.github.io/links.htm) to our project.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
