@@ -19,6 +19,8 @@
     * HANSEN, N., NIEDERBERGER, A. S. P., GUZZELLA, L., AND KOUMOUTSAKOS, P. 2009. A method for handling uncertainty in evolutionary optimization with an application to feedback control of combustion. IEEE TEC.
 * Wang, J.M., Fleet, D.J. and Hertzmann, A., 2010. Optimizing walking controllers for uncertain inputs and environments. ACM Transactions on Graphics, 29(4), pp.1-8. ( **CMA-ES** )
   * "Following our previous work [Wang et al. 2009], we run 19 CMA samples in parallel per iteration."
+  * "SIMS, K. 1994. Evolving virtual creatures. In Proc. SIGGRAPH, ACM, 15–22."
+  * "HANSEN, N. 2006. The CMA evolution strategy: A comparing review. In Towards a New Evolutionary Computation. Advances on Estimation of Distribution Algorithms. Springer, 75–102."
 * Wang, J.M., Fleet, D.J. and Hertzmann, A., 2009. Optimizing walking controllers. ACM Transactions on Graphics (pp. 1-8). [ [www]() ] ( **CMA-ES** + **Continuous Optimization** #)
   * "The optimization problem is high-dimensional, discontinuous, and subject to many local minima. Moreover, each function evaluation involves a simulation in ODE, which runs in approximately real-time. It is important for the method to use as few function evaluations as possible, without the need to evaluate gradients. We tested several different optimization algorithms, and found Covariance Matrix Adaptation (CMA) [Hansen 2006] to work best."
     * HANSEN, N. 2006. The CMA evolution strategy: A comparing review. In Towards a New Evolutionary Computation. Advances on Estimation of Distribution Algorithms. Springer, 75–102.
