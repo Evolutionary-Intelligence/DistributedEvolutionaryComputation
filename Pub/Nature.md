@@ -153,3 +153,6 @@
   * "The gold-standard method for dealing with what happens when a prey species is removed from the system is to use a genetic algorithm in which randomly generated possible solutions are assigned a greater or lesser degree of fitness. Fitter solutions are then combined to create a next-generation algorithm that benefits from their superior elements. The idea is to ultimately ‘evolve’ an optimal solution."
 * [Storage of the fittest](https://www.nature.com/articles/news010329-5)
 * [Book Review: Nature's way](https://www.nature.com/articles/363222a0)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-Nature)
+
