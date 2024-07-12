@@ -279,6 +279,7 @@ For more details about the **history** and **classification** of EC, refer to th
 * Conrad, M. and Rizki, M.M., 1989. [The artificial worlds approach to emergent evolution](https://www.sciencedirect.com/science/article/abs/pii/0303264789900324). BioSystems, 23(2-3), pp.247-258.
 * Axelrod, R., 1987. The evolution of strategies in the iterated prisoner’s dilemma. Genetic Algorithms and Simulated Annealing.
 * Fogel, D.B., 2006. [Nils Barricelli-artificial life, coevolution, self-adaptation](https://ieeexplore.ieee.org/abstract/document/1597062). IEEE Computational Intelligence Magazine, 1(1), pp.41-45.
+* Atmar III, J.W., 1976. Speculation on the evolution of intelligence and its possible realization in machine form. New Mexico State University.
 * Newell, A. and Simon, H.A., 1975. [Computer science as empirical inquiry: Symbols and search](https://dl.acm.org/doi/pdf/10.1145/1283920.1283930). In ACM Turing Award Lectures (p. 1975).
 * Reed, J., Toombs, R. and Barricelli, N.A., 1967. [Simulation of biological evolution and machine learning: I. Selection of self-reproducing numeric patterns by data processing machines, effects of hereditary control, mutation type and crossing](). Journal of Theoretical Biology, 17(3), pp.319-342.
 * Bremermann, H.J., 1962. [Optimization through evolution and recombination](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/History-Papers/%5B1962%5D%20Optimization%20through%20evolution%20and%20recombination.pdf). Self-Organizing Systems, 93, p.106.
