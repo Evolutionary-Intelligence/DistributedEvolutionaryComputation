@@ -42,3 +42,5 @@
 * Ma H, Schadt E E, Kaplan L M, et al. [COSINE: COndition-SpecIfic sub-NEtwork identification using a global optimization method][J]. Bioinformatics, 2011, 27(9): 1290-1298.[ **GA** ]
 Fischer W, Perkins S, Theiler J, et al. [Polyvalent vaccines for optimal coverage of potential T-cell epitopes in global HIV-1 variants][J]. Nature medicine, 2007, 13(1): 100-106.[ **GA** ]
 Hom V, Marks J. [Automatic design of balanced board games][C]//Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment. 2007, 3(1): 25-30.[ **GA** ]
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-HarvardUniversity)
