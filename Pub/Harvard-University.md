@@ -1,5 +1,6 @@
 # Harvard University
 
+* Martin, C., 2024. Precision measurements of colloidal dynamics with holographic microscopy. Doctoral dissertation, Harvard University.
 * Kim, J., Quinlivan, B.T., Deprey, L.A., Arumukhom Revi, D., Eckert-Erdheim, A., Murphy, P., Orzel, D. and Walsh, C.J., 2022. Reducing the energy cost of walking with low assistance levels through optimized hip flexion assistance from a soft exosuit. Scientific Reports, 12(1), p.11004. { **CMA-ES** }
   * "We used the CMA-ES algorithm to estimate the individualized, energetically optimal assistance profile for each participant."
   * "Bayesian optimization was highly accurate and sample efficient, but it was less robust to the noise. Its performance quickly degraded when noise increased, and when the noise level reached 18.2% of signal variation which is the best estimate given the data available, Bayesian optimization performed worse than CMA-ES."
