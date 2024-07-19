@@ -21,6 +21,7 @@
 * Vaishnav, E.D., de Boer, C.G., Molinet, J., Yassour, M., Fan, L., Adiconis, X., Thompson, D.A., Levin, J.Z., Cubillos, F.A. and Regev, A., 2022. [The evolution, evolvability and engineering of gene regulatory DNA](https://www.nature.com/articles/s41586-022-04506-6). Nature, 603(7901), pp.455-463. [ **GA** ]
 * Fernandes, M.C., Aizenberg, J., Weaver, J.C. and Bertoldi, K., 2021. [Mechanically robust lattices inspired by deep-sea glass sponges](https://www.nature.com/articles/s41563-020-0798-1). Nature Materials, 20(2), pp.237-241. [ **CMA-ES** ]
 * Barkley, S., 2021. [Applying Bayesian inference to measurements of colloidal dynamics](https://www.proquest.com/openview/79ad764b42eb35742db8739eefbf4242/1?pq-origsite=gscholar&cbl=18750&diss=y). Doctoral Dissertation, Harvard University. <**CMA-ES**>
+  * "Even with CMA-ES, it is still beneficial to constrain the parameter space of a three-dimensional cluster."
   * "Nikolaus Hansen. The CMA evolution strategy: a comparing review. In Jose A. Lozano, Pedro Larrañaga, Iñaki Inza, and Endika Bengoetxea, editors, Towards a New Evolutionary Computation, pages 75–102. Springer, 2006."
   * "Nikolaus Hansen. The CMA evolution strategy: A tutorial. arXiv preprint arXiv:1604.00772, 2016."
   * "Eric Benhamou, David Saltiel, Sebastien Verel, and Fabien Teytaud. BCMA-ES: A Bayesian approach to CMA-ES. arXiv preprint arXiv:1904.01401, 2019."
