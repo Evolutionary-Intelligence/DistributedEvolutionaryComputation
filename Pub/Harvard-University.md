@@ -1,7 +1,7 @@
 # Harvard University
 
 * Martin, C., 2024. [Precision measurements of colloidal dynamics with holographic microscopy](https://dash.harvard.edu/handle/1/37378922). Doctoral Dissertation, Harvard University. <**CMA-ES**>
-  * "We use a Bayesian framework, and to avoid local minima in the posterior probability density, we use a combination of nonlinear least-squares fitting, covariance matrix adaptation evolution strategy, and parallel-tempered affine-invariant Markov-chain Monte Carlo sampling."
+  * "We use a Bayesian framework, and to avoid local minima in the posterior probability density, we use a combination of nonlinear least-squares fitting, covariance matrix adaptation evolution strategy, and parallel-tempered affine-invariant Markov-chain Monte Carlo sampling." + "We find that when we fit with CMA-ES alone, we avoid local minima but often fail to fully converge on the minimum within a reasonable computation time."
   * N. Hansen and A. Ostermeier, “Adapting arbitrary normal mutation distributions in evolution strategies: The covariance matrix adaptation,” in Proceedings of IEEE international conference on evolutionary computation, pp. 312–317, IEEE, 1996.
 * Kim, J., Quinlivan, B.T., Deprey, L.A., Arumukhom Revi, D., Eckert-Erdheim, A., Murphy, P., Orzel, D. and Walsh, C.J., 2022. Reducing the energy cost of walking with low assistance levels through optimized hip flexion assistance from a soft exosuit. Scientific Reports, 12(1), p.11004. { **CMA-ES** }
   * "We used the CMA-ES algorithm to estimate the individualized, energetically optimal assistance profile for each participant."
