@@ -34,6 +34,7 @@
   * "We set up an evolutionary strategy (ES) based optimization to minimize a measure of peak stress in the model, subject to multiple constraints."
   * "we set up an optimization process using the covariance matrix adaptation evolution strategy (CMAES) algorithm to determine the optimum material assignments for each of the subdomains, subject to local and global constraints."
   * Hansen N, Müller S D and Koumoutsakos P 2003 Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES) Evol. Comput.
+  * Hansen N, Akimoto Y and Baudis P 2019 CMA-ES/pycma on Github
 * Turner, A.J., Frankenberg, C., Wennberg, P.O. and Jacob, D.J., 2017. [Ambiguity in the causes for decadal trends in atmospheric methane and hydroxyl](https://www.pnas.org/doi/10.1073/pnas.1616020114). Proceedings of the National Academy of Sciences, 114(21), pp.5367-5372. [ **CMA-ES** ]
 * Wei, Z. and Mahadevan, L., 2016. [A geometric model for the periodic undulation of a confined adhesive crack](https://pubs.rsc.org/en/content/articlehtml/2016/sm/c5sm01597a). Soft Matter, 12(6), pp.1778-1782. [ **CMA-ES** ]
 * Xu, J., Wu, Z., Yu, X., Hu, Q., Zhu, C., Dou, X., Gu, W. and Wu, Z., 2017. [A new method for optimal FTU placement in distribution network under consideration of power service reliability](https://link.springer.com/article/10.1007/s11431-017-9152-9). Science China Technological Sciences, 60, pp.1885-1896. [ **CMA-ES** ]
