@@ -116,7 +116,7 @@ Here, we consider a family of evolutionary algorithms (and also several closely-
 
 ## Universities
 
-Note that we are adding a more set (still actively updated) of top universities roughly ranked according to the total number of all winners of [Nobel]() and [Turing]() Prizes (till to 2024):
+Note that we are adding a (still actively updated) set of *top* universities roughly ranked according to the total number of all winners of [Nobel]() and [Turing]() Prizes (till to 2024):
 
 * [Harvard University](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/Harvard-University.md): [Nobel laureates](https://www.harvard.edu/about/history/nobel-laureates/) + [Turing laureates]()
 * ......
