@@ -114,6 +114,12 @@ Here, we consider a family of evolutionary algorithms (and also several closely-
 **"Frequently nonadditive interaction (i.e., "epistasis" or "nonlinearity") makes it impossible to determine the performance of a structure from a study of its isolated parts. While these difficulties pose a real problem for the analyst, we know that they are routinely handled by biological adaptive processes, qua processes."**---[[John H. Holland, Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence, 1992]](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
 *******
 
+## Universities
+
+Note that we are adding a more set (still actively updated) of top universities according to the total number of all winners of [Nobel]() and [Turing]() Prizes (till to 2024):
+
+* [Harvard University](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/Harvard-University.md)
+
 ## Support
 
 This *ongoing* paper list for EC (previous PDEC) was supported by **Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597** (2,000,000 Yuan from 2021 to 2023). We also acknowledge the *early* contribution from e.g., [Vincent A. Cicirello](https://github.com/cicirello). We thank [this open link](https://cuglirui.github.io/links.htm) to our project.
