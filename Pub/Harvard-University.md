@@ -1,6 +1,6 @@
 # Harvard University
 
-* Martin, C., 2024. [Precision measurements of colloidal dynamics with holographic microscopy](https://dash.harvard.edu/handle/1/37378922). Doctoral dissertation, Harvard University. <**CMA-ES**>
+* Martin, C., 2024. [Precision measurements of colloidal dynamics with holographic microscopy](https://dash.harvard.edu/handle/1/37378922). Doctoral Dissertation, Harvard University. <**CMA-ES**>
   *
 * Kim, J., Quinlivan, B.T., Deprey, L.A., Arumukhom Revi, D., Eckert-Erdheim, A., Murphy, P., Orzel, D. and Walsh, C.J., 2022. Reducing the energy cost of walking with low assistance levels through optimized hip flexion assistance from a soft exosuit. Scientific Reports, 12(1), p.11004. { **CMA-ES** }
   * "We used the CMA-ES algorithm to estimate the individualized, energetically optimal assistance profile for each participant."
