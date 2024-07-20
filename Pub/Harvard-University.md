@@ -23,6 +23,7 @@
 * Fernandes, M.C., 2021. Mechanics of biologically inspired structures and flexible mechanical metamaterials. Doctoral Dissertation, Harvard University. <**CMA-ES**>
   * **Abstract**: "These findings are further confirmed thorough an evolutionary optimization algorithm, through which I demonstrate that the sponge-inspired lattice geometry occurs near the design space’s optimum material distribution."
   * "Hansen, N., Akimoto, Y., and Baudis, P. (2019). CMA-ES/pycma on Github. Zenodo, DOI:10.5281/zenodo.2559634."
+  * "Hansen, N., Müller, S. D., and Koumoutsakos, P. (2003). Reducing the Time Complexity of the Derandomized Evolution Strategy with Covariance Matrix Adaptation (CMA-ES). Evolutionary Computation, 11(1):1–18."
 * Barkley, S., 2021. [Applying Bayesian inference to measurements of colloidal dynamics](https://www.proquest.com/openview/79ad764b42eb35742db8739eefbf4242/1?pq-origsite=gscholar&cbl=18750&diss=y). Doctoral Dissertation, Harvard University. <**CMA-ES**>
   * "Even with CMA-ES, it is still beneficial to constrain the parameter space of a three-dimensional cluster."
   * "Nikolaus Hansen. The CMA evolution strategy: a comparing review. In Jose A. Lozano, Pedro Larrañaga, Iñaki Inza, and Endika Bengoetxea, editors, Towards a New Evolutionary Computation, pages 75–102. Springer, 2006."
