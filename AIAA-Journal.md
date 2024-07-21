@@ -14,3 +14,6 @@
   * "Using fewer restarts of the CMA-ES is beneficial; however, it might run the risk of missing the global optimum. Studies are then needed on the effective implementation of the CMA-ES or other optimizers for training the GP-CKL model."
     * Hansen, N., Müller, S. D., and Koumoutsakos, P., “Reducing the Time Complexity of the Derandomized Evolution Strategy with Covariance Matrix Adaptation (CMA-ES),” Evolutionary Computation, Vol. 11, No. 1, 2003, pp. 1–18. https://doi.org/10.1162/106365603321828970
 * Muller, S.D., Walther, J.H. and **Koumoutsakos, P.D.**, 2001. Evolution strategies for film cooling optimization. AIAA Journal, 39(3), pp.537-539. [ [www](https://arc.aiaa.org/doi/10.2514/2.1342) ] ( **CMA-ES** )
+  * "An evolutionary algorithm is implemented in a realistic automated design cycle of turbine blade film cooling."
+  * "Schwefel, H.-P., Evolution and Optimum Seeking, Wiley, New York, 1995, pp. 105–164."
+  * "Hansen, N., and Ostermeier, A., “Convergence Properties of Evolution Strategies with the Derandomized Covariance Matrix Adaptation: The CMA-ES,” Proceedings of the 5th European Congress on Intelligent Techniques and Soft Computing (EUFIT’97), Verlag Mainz, Aachen, Germany, 1997, pp. 650–654."
