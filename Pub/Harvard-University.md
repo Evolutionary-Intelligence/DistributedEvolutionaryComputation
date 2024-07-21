@@ -1,11 +1,5 @@
 # Harvard University
 
-* Quinlivan, B.T., 2021. Soft exosuits for improved walking efficiency and community based post-stroke gait rehabilitation. Doctoral Dissertation, Harvard University.
-  * "J. Zhang, P. Fiers, K. A. Witte, R. W. Jackson, K. L. Poggensee, C. G. Atkeson, and S. H. Collins, “Human-in-the-loop optimization of exoskeleton assistance during walking,” Science, vol. 356, no. 6344, pp. 1280–1284, Jun. 2017."
-  * "K. A. Witte, P. Fiers, A. L. Sheets-Singer, and S. H. Collins, “Improving the energy economy of human running with powered and unpowered ankle exoskeleton assistance,” Science Robotics, vol. 5, no. 40, Mar. 2020."
-  * "N. Hansen and A. Ostermeier, “Completely derandomized self-adaptation in evolution strategies,” Evol. Comput., vol. 9, no. 2, pp. 159–195, 2001.
-  * "N. Hansen, “The CMA evolution strategy: A comparing review,” in Towards a New Evolutionary Computation: Advances in the Estimation of Distribution Algorithms, J. A. Lozano, P. Larrañaga, I. Inza, and E. Bengoetxea, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2006, pp. 75–102."
-
 * Martin, C., 2024. [Precision measurements of colloidal dynamics with holographic microscopy](https://dash.harvard.edu/handle/1/37378922). Doctoral Dissertation, Harvard University. <**CMA-ES**>
   * "We use a Bayesian framework, and to avoid local minima in the posterior probability density, we use a combination of nonlinear least-squares fitting, covariance matrix adaptation evolution strategy, and parallel-tempered affine-invariant Markov-chain Monte Carlo sampling." + "We find that when we fit with CMA-ES alone, we avoid local minima but often fail to fully converge on the minimum within a reasonable computation time."
   * "We also use more sophisticated fitting algorithms, including parallel tempered Markov chain Monte Carlo (PT-MCMC) methods and evolutionary strategies like covariance matrix adaptation (CMA-ES), to sample the full posterior probability landscape. With this sampling, we obtain not only the best-fit parameters that describe the data, but also the spread and correlation of those parameters."
@@ -30,6 +24,11 @@
   * **Abstract**: "These findings are further confirmed thorough an evolutionary optimization algorithm, through which I demonstrate that the sponge-inspired lattice geometry occurs near the design space’s optimum material distribution."
   * "Hansen, N., Akimoto, Y., and Baudis, P. (2019). CMA-ES/pycma on Github. Zenodo, DOI:10.5281/zenodo.2559634."
   * "Hansen, N., Müller, S. D., and Koumoutsakos, P. (2003). Reducing the Time Complexity of the Derandomized Evolution Strategy with Covariance Matrix Adaptation (CMA-ES). Evolutionary Computation, 11(1):1–18."
+* Quinlivan, B.T., 2021. Soft exosuits for improved walking efficiency and community based post-stroke gait rehabilitation. Doctoral Dissertation, Harvard University. <**CMA-ES**>
+  * "J. Zhang, P. Fiers, K. A. Witte, R. W. Jackson, K. L. Poggensee, C. G. Atkeson, and S. H. Collins, “Human-in-the-loop optimization of exoskeleton assistance during walking,” Science, vol. 356, no. 6344, pp. 1280–1284, Jun. 2017."
+  * "K. A. Witte, P. Fiers, A. L. Sheets-Singer, and S. H. Collins, “Improving the energy economy of human running with powered and unpowered ankle exoskeleton assistance,” Science Robotics, vol. 5, no. 40, Mar. 2020."
+  * "N. Hansen and A. Ostermeier, “Completely derandomized self-adaptation in evolution strategies,” Evol. Comput., vol. 9, no. 2, pp. 159–195, 2001.
+  * "N. Hansen, “The CMA evolution strategy: A comparing review,” in Towards a New Evolutionary Computation: Advances in the Estimation of Distribution Algorithms, J. A. Lozano, P. Larrañaga, I. Inza, and E. Bengoetxea, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg, 2006, pp. 75–102."
 * Barkley, S., 2021. [Applying Bayesian inference to measurements of colloidal dynamics](https://www.proquest.com/openview/79ad764b42eb35742db8739eefbf4242/1?pq-origsite=gscholar&cbl=18750&diss=y). Doctoral Dissertation, Harvard University. <**CMA-ES**>
   * "Even with CMA-ES, it is still beneficial to constrain the parameter space of a three-dimensional cluster."
   * "Nikolaus Hansen. The CMA evolution strategy: a comparing review. In Jose A. Lozano, Pedro Larrañaga, Iñaki Inza, and Endika Bengoetxea, editors, Towards a New Evolutionary Computation, pages 75–102. Springer, 2006."
