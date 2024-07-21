@@ -25,6 +25,7 @@
   * "Hansen, N., Akimoto, Y., and Baudis, P. (2019). CMA-ES/pycma on Github. Zenodo, DOI:10.5281/zenodo.2559634."
   * "Hansen, N., Müller, S. D., and Koumoutsakos, P. (2003). Reducing the Time Complexity of the Derandomized Evolution Strategy with Covariance Matrix Adaptation (CMA-ES). Evolutionary Computation, 11(1):1–18."
 * Quinlivan, B.T., 2021. Soft exosuits for improved walking efficiency and community based post-stroke gait rehabilitation. Doctoral Dissertation, Harvard University. <**CMA-ES**>
+  * "Zhang et al. and Witte et al. used a covariance matrix adaptation evolution strategy (CMA-ES) with four device parameters to optimize ankle plantarflexion assistance profile during walking and running, respectively."
   * "J. Zhang, P. Fiers, K. A. Witte, R. W. Jackson, K. L. Poggensee, C. G. Atkeson, and S. H. Collins, “Human-in-the-loop optimization of exoskeleton assistance during walking,” Science, vol. 356, no. 6344, pp. 1280–1284, Jun. 2017."
   * "K. A. Witte, P. Fiers, A. L. Sheets-Singer, and S. H. Collins, “Improving the energy economy of human running with powered and unpowered ankle exoskeleton assistance,” Science Robotics, vol. 5, no. 40, Mar. 2020."
   * "N. Hansen and A. Ostermeier, “Completely derandomized self-adaptation in evolution strategies,” Evol. Comput., vol. 9, no. 2, pp. 159–195, 2001.
