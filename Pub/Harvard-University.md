@@ -20,6 +20,9 @@
 * Cantero‐Chinchilla, S., Papadimitriou, C., Chiachío, J., Chiachío, M., Koumoutsakos, P., Fabro, A.T. and Chronopoulos, D., 2022. Robust optimal sensor configuration using the value of information. Structural Control and Health Monitoring, 29(12), p.e3143. [ **CMA-ES** ]
 * Vaishnav, E.D., de Boer, C.G., Molinet, J., Yassour, M., Fan, L., Adiconis, X., Thompson, D.A., Levin, J.Z., Cubillos, F.A. and Regev, A., 2022. [The evolution, evolvability and engineering of gene regulatory DNA](https://www.nature.com/articles/s41586-022-04506-6). Nature, 603(7901), pp.455-463. [ **GA** ]
 * Fernandes, M.C., Aizenberg, J., Weaver, J.C. and Bertoldi, K., 2021. [Mechanically robust lattices inspired by deep-sea glass sponges](https://www.nature.com/articles/s41563-020-0798-1). Nature Materials, 20(2), pp.237-241. [ **CMA-ES** ]
+* Papadopoulou, E., Megaridis, C.M., Walther, J.H. and Koumoutsakos, P., 2021. Nanopumps without pressure gradients: Ultrafast transport of water in patterned nanotubes. The Journal of Physical Chemistry B, 126(3), pp.660-669. <**CMA-ES**>
+  * "the coefficients were optimized with the help of the uncertainty quantification (UQ) framework developed within the CSE-Lab, Korali."
+  * "Martin, S. M.; Wälchli, D.; Arampatzis, G.; Economides, A. E.; Karnakov, P.; Koumoutsakos, P. Korali: a High-Performance Computing Framework for Stochastic Optimization and Bayesian Uncertainty Quantification. 2020; arXiv:2005.13457."
 * Fernandes, M.C., 2021. Mechanics of biologically inspired structures and flexible mechanical metamaterials. Doctoral Dissertation, Harvard University. <**CMA-ES**>
   * **Abstract**: "These findings are further confirmed thorough an evolutionary optimization algorithm, through which I demonstrate that the sponge-inspired lattice geometry occurs near the design space’s optimum material distribution."
   * "Hansen, N., Akimoto, Y., and Baudis, P. (2019). CMA-ES/pycma on Github. Zenodo, DOI:10.5281/zenodo.2559634."
