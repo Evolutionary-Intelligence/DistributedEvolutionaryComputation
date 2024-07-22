@@ -1,4 +1,4 @@
-<img width="449" alt="1721663463080" src="https://github.com/user-attachments/assets/ff84f8be-c0d5-45f6-9d41-9b0a5a98e655"># Bioinspiration & Biomimetics
+# Bioinspiration & Biomimetics
 
 * Badie, N. and Schmitt, S., 2024. Enhancing stance robustness and jump height in bipedal muscle-actuated systems: a bioinspired morphological development approach. Bioinspiration & Biomimetics, 19(3), p.036012. <**CMA-ES**>
   * 
