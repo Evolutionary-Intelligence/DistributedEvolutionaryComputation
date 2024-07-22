@@ -4,6 +4,7 @@
   * Doncieux S, Bredeche N, Mouret J-B and Eiben A E G 2015 Evolutionary robotics: what, why, and where to Frontiers Robot. AI
   * Hansen N 2006 The CMA evolution strategy: a comparing review Towards a New Evolutionary Computation (Berlin: Springer) pp 75–102
   * Omidvar MN and Li X 2010 A comparative study of CMA-ES on large scale global optimisation Australasian Joint Conf. on Artificial Intelligence (Springer) pp 303–12
+  * Veenstra F, Jørgensen J and Risi S 2018 Evolution of fin undulation on a physical knifefish-inspired soft robot Proc. of the Genetic and Evolutionary Computation Conf. pp 157–64
 * **Martin, N. and Gharib, M., 2018. [Experimental trajectory optimization of a flapping fin propulsor using an evolutionary strategy](https://iopscience.iop.org/article/10.1088/1748-3190/aaefa5). Bioinspiration & Biomimetics, 14(1), p.016010.**
   * Hansen N and Ostermeier A 2001 Completely derandomized self-adaptation in evolution strategies Evol. Comput. 9 159–95
   * Hansen N, Müller S D and Koumoutsakos P 2003 Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES) Evol. Comput. 11 1–18
