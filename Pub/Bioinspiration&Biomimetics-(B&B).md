@@ -10,6 +10,7 @@
   * Urieli D, MacAlpine P, Kalyanakrishnan Y, Bentor S and Stone P 2011 On optimizing interdependent skills: A case study in simulated 3D humanoid robot soccer Proc. 10th Int. Conf. on Autonomous Agents and Multiagent Systems vol 2 (International Foundation for Autonomous Agents and Multiagent Systems) pp 769–76
 * Truong, H., Engels, T., Wehmann, H., Kolomenskiy, D., Lehmann, F.O. and Schneider, K., 2022. An experimental data-driven mass-spring model of flexible Calliphora wings. Bioinspiration & Biomimetics, 17(2), p.026003.
 * Cazenille, L., Bredeche, N. and Halloy, J., 2022. Automated optimization of multilevel models of collective behaviour: Application to mixed society of animals and robots. Bioinspiration & Biomimetics, 17(5), p.055002.
+  * "We apply evolutionary algorithms to simultaneously optimize the parameters of the models at different levels of description."
 * **Sharifzadeh, M., Jiang, Y., Lafmejani, A.S., Nichols, K. and Aukes, D., 2021. Maneuverable gait selection for a novel fish-inspired robot using a CMA-ES-assisted workflow. Bioinspiration & Biomimetics, 16(5), p.056017.** <**CMA-ES**>
   * Doncieux S, Bredeche N, Mouret J-B and Eiben A E G 2015 Evolutionary robotics: what, why, and where to Frontiers Robot. AI
   * Hansen N 2006 The CMA evolution strategy: a comparing review Towards a New Evolutionary Computation (Berlin: Springer) pp 75–102
