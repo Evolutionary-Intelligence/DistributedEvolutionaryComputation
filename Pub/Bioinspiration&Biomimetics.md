@@ -2,6 +2,7 @@
 
 * Badie, N. and Schmitt, S., 2024. Enhancing stance robustness and jump height in bipedal muscle-actuated systems: a bioinspired morphological development approach. Bioinspiration & Biomimetics, 19(3), p.036012. <**CMA-ES**>
   * "To find the control policy for successful task performance, we employ optimal control based on the Covariance Matrix Adaptation Evolution Strategy (CMA-ES)."
+  * Naya-Varela M, Faí na A and Duro R J 2023 Guiding the exploration of the solution space in walking robots through growth-based morphological development Proc. Genetic and Evolutionary Computation Conf. pp 1230–8
   * Hansen N, Müller S D and Koumoutsakos P 2003 Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES) Evol. Comput. 11 1–18
   * Wochner I, Schumacher P, Martius G, Büchler D, Schmitt S and Haeufle D 2023 Learning with muscles: benefits for data-efficiency and robustness in anthropomorphic tasks Conf. on Robot Learning (PMLR) pp 1178–88
   * Wang J M, Hamner S R, Delp S L and Koltun V 2012 Optimizing locomotion controllers using biologically-based actuators and objectives ACM Trans. Graph. 31 1–11
