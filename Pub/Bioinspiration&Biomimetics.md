@@ -1,7 +1,7 @@
 # Bioinspiration & Biomimetics
 
 * Badie, N. and Schmitt, S., 2024. Enhancing stance robustness and jump height in bipedal muscle-actuated systems: a bioinspired morphological development approach. Bioinspiration & Biomimetics, 19(3), p.036012. <**CMA-ES**>
-  * 
+  * "To find the control policy for successful task performance, we employ optimal control based on the Covariance Matrix Adaptation Evolution Strategy (CMA-ES)."
 * **Sharifzadeh, M., Jiang, Y., Lafmejani, A.S., Nichols, K. and Aukes, D., 2021. Maneuverable gait selection for a novel fish-inspired robot using a CMA-ES-assisted workflow. Bioinspiration & Biomimetics, 16(5), p.056017.** <**CMA-ES**>
   * Doncieux S, Bredeche N, Mouret J-B and Eiben A E G 2015 Evolutionary robotics: what, why, and where to Frontiers Robot. AI
   * Hansen N 2006 The CMA evolution strategy: a comparing review Towards a New Evolutionary Computation (Berlin: Springer) pp 75–102
