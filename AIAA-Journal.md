@@ -1,5 +1,7 @@
 # AIAA Journal (AIAAJ)
 
+*
+  * Hansen, N., “The CMA Evolution Strategy: A Tutorial,” CoRR, Vol. abs/1604.00772, 2016, http://arxiv.org/abs/1604.00772 [retrieved 15 April 2023].
 * Fasel, U., Tiso, P., Keidel, D. and Ermanni, P., 2021. Concurrent design and flight mission optimization of morphing airborne wind energy wings. AIAA Journal, 59(4), pp.1254-1268.
   * "The optimization is performed using the algorithm CMA-ES, which was previously used to optimize morphing wings, because it satisfies the requirements of being able to treat nonsmooth objective functions and to deal with a large number of design variables. Compared to other genetic algorithms, CMA-ES uses information related to the Hessian of the objective function, adapting the covariance matrix and sampling the search space along a preferential direction, leading to faster convergence."
     * Hansen, N., and Ostermeier, A., “Completely Derandomized Self-Adaptation in Evolution Strategies,” Evolutionary Computation, Vol. 9, No. 2, 2001, pp. 159–195.
