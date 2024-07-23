@@ -19,3 +19,5 @@
   * "An evolutionary algorithm is implemented in a realistic automated design cycle of turbine blade film cooling."
   * "Schwefel, H.-P., Evolution and Optimum Seeking, Wiley, New York, 1995, pp. 105–164."
   * "Hansen, N., and Ostermeier, A., “Convergence Properties of Evolution Strategies with the Derandomized Covariance Matrix Adaptation: The CMA-ES,” Proceedings of the 5th European Congress on Intelligent Techniques and Soft Computing (EUFIT’97), Verlag Mainz, Aachen, Germany, 1997, pp. 650–654."
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-AIAAJ)
