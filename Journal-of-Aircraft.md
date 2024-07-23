@@ -1,7 +1,7 @@
 # Journal of Aircraft
 
 * Colletti, C.R. and Ansell, P.J., 2023. Airfoil morphed leading-edge design for high-lift applications using genetic algorithm. Journal of Aircraft, 60(1), pp.160-171. [ [www](https://arc.aiaa.org/doi/abs/10.2514/1.C036755) ]
-* Yang, T., Brentner, K.S., Corle, E. and Schmitz, S., 2019. Study of active rotor control for in-plane rotor noise reduction. Journal of Aircraft, 56(1), pp.179-190.
+* Yang, T., Brentner, K.S., Corle, E. and Schmitz, S., 2019. Study of active rotor control for in-plane rotor noise reduction. Journal of Aircraft, 56(1), pp.179-190. <**CMA-ES**>
   * "Here, an optimizer is coupled to a rotor comprehensive analysis tool and an acoustic prediction tool to solve the flap deployment schedule that minimizes noise. The optimizer used here is Covariance Matrix Adaptation Evolutionary Strategy (CMA-ES) formulated by Hansen and Ostermeier. The rotor analysis tool used here is the Rotor Comprehensive Analysis System."
   * "The optimal flap deployment schedule (to minimize noise) is found using an evolutionary algorithm optimizer coupled with a rotor analysis tool and an acoustic prediction code. Results indicated that active flap is able to provide noise reduction over the observer azimuth range of 150 to 210 deg with the average reduction level of 3 dB."
   * Hansen, N., and Ostermeier, K., “Adapting Arbitrary Normal Mutation Distributions in Evolution Strategies:The Covariance Matrix Adaptation,” Proceedings of IEEE International Conference on Evolutionary Computation, IEEE Publ., Piscataway, NJ, 1996, pp. 312–317. doi:10.1109/icec.1996.542381
