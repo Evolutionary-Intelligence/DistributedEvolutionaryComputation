@@ -19,6 +19,7 @@
     * Hansen, N., Müller, S. D., and Koumoutsakos, P., “Reducing the Time Complexity of the Derandomized Evolution Strategy with Covariance Matrix Adaptation (CMA-ES),” Evolutionary Computation, Vol. 11, No. 1, 2003, pp. 1–18. https://doi.org/10.1162/106365603321828970
 * Kody, F., Corle, E., Maughmer, M.D. and Schmitz, S., 2016. Higher-harmonic deployment of trailing-edge flaps for rotor-performance enhancement and vibration reduction. Journal of Aircraft, 53(2), pp.333-342.
   * 
+* Multifidelity Physics-Based Method for Robust Optimization Applied to a Hovering Rotor Airfoil
 * Muller, S.D., Walther, J.H. and **Koumoutsakos, P.D.**, 2001. [Evolution strategies for film cooling optimization]((https://arc.aiaa.org/doi/10.2514/2.1342)). AIAA Journal, 39(3), pp.537-539. <**CMA-ES**>
   * "An evolutionary algorithm is implemented in a realistic automated design cycle of turbine blade film cooling."
   * "Schwefel, H.-P., Evolution and Optimum Seeking, Wiley, New York, 1995, pp. 105–164."
