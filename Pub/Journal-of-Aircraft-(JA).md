@@ -10,3 +10,5 @@
 * Moens, F., & Dandois, J., 2016. Optimization of passive flow control devices of a slatless high-lift configuration. Journal of Aircraft, 53(1), 189-201. [ [www](https://arc.aiaa.org/doi/full/10.2514/1.C033294) ] <**CMA-ES**>
 * Kody, F., Corle, E., Maughmer, M.D. and Schmitz, S., 2016. [Higher-harmonic deployment of trailing-edge flaps for rotor-performance enhancement and vibration reduction](https://arc.aiaa.org/doi/full/10.2514/1.C033335). Journal of Aircraft, 53(2), pp.333-342. <**CMA-ES** + **ε-MOEA**>
   * **Abstract**: "A computational method involving evolutionary-based optimization to provide an optimal set of higher-harmonic deployment schedules for a multisegment trailing-edge flap is investigated."
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-JA)
