@@ -1,4 +1,4 @@
-# Journal of Aircraft (JA)
+# Journal of Aircraft ([JA](https://arc.aiaa.org/journal/ja))
 
 * Colletti, C.R. and Ansell, P.J., 2023. Airfoil morphed leading-edge design for high-lift applications using genetic algorithm. Journal of Aircraft, 60(1), pp.160-171. [ [www](https://arc.aiaa.org/doi/abs/10.2514/1.C036755) ]
 * Pisaroni, M., Nobile, F., & Leyland, P., 2019. Continuation Multilevel Monte Carlo Evolutionary Algorithm for Robust Aerodynamic Shape Design. Journal of Aircraft, 56(2), 771-786. [ [www](https://infoscience.epfl.ch/lucky-search?index=legacy-id&value=254959) ] <**CMA-ES**>
@@ -8,4 +8,4 @@
   * Hansen, N., and Ostermeier, K., “Adapting Arbitrary Normal Mutation Distributions in Evolution Strategies:The Covariance Matrix Adaptation,” Proceedings of IEEE International Conference on Evolutionary Computation, IEEE Publ., Piscataway, NJ, 1996, pp. 312–317. doi:10.1109/icec.1996.542381
 * Moens, F., & Dandois, J., 2016. Optimization of passive flow control devices of a slatless high-lift configuration. Journal of Aircraft, 53(1), 189-201. [ [www](https://arc.aiaa.org/doi/full/10.2514/1.C033294) ] <**CMA-ES**>
 * Kody, F., Corle, E., Maughmer, M.D. and Schmitz, S., 2016. [Higher-harmonic deployment of trailing-edge flaps for rotor-performance enhancement and vibration reduction](https://arc.aiaa.org/doi/full/10.2514/1.C033335). Journal of Aircraft, 53(2), pp.333-342. <**CMA-ES** + **ε-MOEA**>
-  * "A computational method involving evolutionary-based optimization to provide an optimal set of higher-harmonic deployment schedules for a multisegment trailing-edge flap is investigated."
+  * **Abstract**: "A computational method involving evolutionary-based optimization to provide an optimal set of higher-harmonic deployment schedules for a multisegment trailing-edge flap is investigated."
