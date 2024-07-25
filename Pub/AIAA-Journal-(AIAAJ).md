@@ -22,7 +22,7 @@
 * Fusi, F., Guardone, A., Quaranta, G. and Congedo, P.M., 2015. Multifidelity physics-based method for robust optimization applied to a hovering rotor airfoil. AIAA Journal, 53(11), pp.3448-3465.
 * Molinari, G., Arrieta, A.F. and Ermanni, P., 2014. [Aero-structural optimization of three-dimensional adaptive wings with embedded smart actuators](https://arc.aiaa.org/doi/full/10.2514/1.J052715). AIAA Journal, 52(9), pp.1940-1951. <**CMA-ES**>
   * ""
-* **Muller, S.D., Walther, J.H. and Koumoutsakos, P.D., 2001. [Evolution strategies for film cooling optimization]((https://arc.aiaa.org/doi/10.2514/2.1342)). AIAA Journal, 39(3), pp.537-539.** <**CMA-ES**>
+* **Muller, S.D., Walther, J.H. and Koumoutsakos, P.D., 2001. [Evolution strategies for film cooling optimization](https://arc.aiaa.org/doi/10.2514/2.1342). AIAA Journal, 39(3), pp.537-539.** <**CMA-ES**>
   * "An evolutionary algorithm is implemented in a realistic automated design cycle of turbine blade film cooling."
   * "Schwefel, H.-P., Evolution and Optimum Seeking, Wiley, New York, 1995, pp. 105–164."
   * "Hansen, N., and Ostermeier, A., “Convergence Properties of Evolution Strategies with the Derandomized Covariance Matrix Adaptation: The CMA-ES,” Proceedings of the 5th European Congress on Intelligent Techniques and Soft Computing (EUFIT’97), Verlag Mainz, Aachen, Germany, 1997, pp. 650–654."
