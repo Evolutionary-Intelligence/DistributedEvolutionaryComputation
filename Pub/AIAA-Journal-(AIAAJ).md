@@ -21,7 +21,9 @@
   * 
 * Fusi, F., Guardone, A., Quaranta, G. and Congedo, P.M., 2015. Multifidelity physics-based method for robust optimization applied to a hovering rotor airfoil. AIAA Journal, 53(11), pp.3448-3465.
 * Molinari, G., Arrieta, A.F. and Ermanni, P., 2014. [Aero-structural optimization of three-dimensional adaptive wings with embedded smart actuators](https://arc.aiaa.org/doi/full/10.2514/1.J052715). AIAA Journal, 52(9), pp.1940-1951. <**CMA-ES**>
-  * ""
+  * "Hansen, N., and Ostermeier, A., “Completely Derandomized Self-Adaptation in Evolution Strategies,” Evolutionary Computation, Vol. 9, No. 2, 2001, pp. 159–195. doi:10.1162/106365601750190398"
+  * "Hansen, N., “TheCMAEvolution Strategy,” Aug. 2013, https://www.lri.fr/~hansen/cmaesintro.html [retrieved Aug. 2013]."
+  * "Veldhuizen, D. V., and Lamont, G., “On Measuring Multiobjective Evolutionary Algorithm Performance,” Proceedings of the 2000 Congress on Evolutionary Computation, Vol. 1, 2000, pp. 204–211. doi:10.1109/CEC.2000.870296"
 * **Muller, S.D., Walther, J.H. and Koumoutsakos, P.D., 2001. [Evolution strategies for film cooling optimization](https://arc.aiaa.org/doi/10.2514/2.1342). AIAA Journal, 39(3), pp.537-539.** <**CMA-ES**>
   * "An evolutionary algorithm is implemented in a realistic automated design cycle of turbine blade film cooling."
   * "Schwefel, H.-P., Evolution and Optimum Seeking, Wiley, New York, 1995, pp. 105–164."
