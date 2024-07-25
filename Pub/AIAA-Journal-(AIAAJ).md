@@ -19,7 +19,7 @@
     * Hansen, N., Müller, S. D., and Koumoutsakos, P., “Reducing the Time Complexity of the Derandomized Evolution Strategy with Covariance Matrix Adaptation (CMA-ES),” Evolutionary Computation, Vol. 11, No. 1, 2003, pp. 1–18. https://doi.org/10.1162/106365603321828970
 * Kody, F., Corle, E., Maughmer, M.D. and Schmitz, S., 2016. Higher-harmonic deployment of trailing-edge flaps for rotor-performance enhancement and vibration reduction. Journal of Aircraft, 53(2), pp.333-342.
   * 
-* Multifidelity Physics-Based Method for Robust Optimization Applied to a Hovering Rotor Airfoil
+* Fusi, F., Guardone, A., Quaranta, G. and Congedo, P.M., 2015. Multifidelity physics-based method for robust optimization applied to a hovering rotor airfoil. AIAA Journal, 53(11), pp.3448-3465.
 * Molinari, G., Arrieta, A.F. and Ermanni, P., 2014. [Aero-structural optimization of three-dimensional adaptive wings with embedded smart actuators](https://arc.aiaa.org/doi/full/10.2514/1.J052715). AIAA Journal, 52(9), pp.1940-1951. <**CMA-ES**>
   * ""
 * Muller, S.D., Walther, J.H. and **Koumoutsakos, P.D.**, 2001. [Evolution strategies for film cooling optimization]((https://arc.aiaa.org/doi/10.2514/2.1342)). AIAA Journal, 39(3), pp.537-539. <**CMA-ES**>
