@@ -20,6 +20,8 @@
 * Kody, F., Corle, E., Maughmer, M.D. and Schmitz, S., 2016. Higher-harmonic deployment of trailing-edge flaps for rotor-performance enhancement and vibration reduction. Journal of Aircraft, 53(2), pp.333-342.
   * 
 * Multifidelity Physics-Based Method for Robust Optimization Applied to a Hovering Rotor Airfoil
+* Molinari, G., Arrieta, A.F. and Ermanni, P., 2014. [Aero-structural optimization of three-dimensional adaptive wings with embedded smart actuators](https://arc.aiaa.org/doi/full/10.2514/1.J052715). AIAA Journal, 52(9), pp.1940-1951. <**CMA-ES**>
+  * ""
 * Muller, S.D., Walther, J.H. and **Koumoutsakos, P.D.**, 2001. [Evolution strategies for film cooling optimization]((https://arc.aiaa.org/doi/10.2514/2.1342)). AIAA Journal, 39(3), pp.537-539. <**CMA-ES**>
   * "An evolutionary algorithm is implemented in a realistic automated design cycle of turbine blade film cooling."
   * "Schwefel, H.-P., Evolution and Optimum Seeking, Wiley, New York, 1995, pp. 105–164."
