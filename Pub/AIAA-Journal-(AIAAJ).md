@@ -21,6 +21,7 @@
   * 
 * Fusi, F., Guardone, A., Quaranta, G. and Congedo, P.M., 2015. Multifidelity physics-based method for robust optimization applied to a hovering rotor airfoil. AIAA Journal, 53(11), pp.3448-3465.
 * Molinari, G., Arrieta, A.F. and Ermanni, P., 2014. [Aero-structural optimization of three-dimensional adaptive wings with embedded smart actuators](https://arc.aiaa.org/doi/full/10.2514/1.J052715). AIAA Journal, 52(9), pp.1940-1951. <**CMA-ES**>
+  * "Multi-objective optimization techniques enable the identification of the Pareto-optimal set, in this case highlighting the tradeoff between the cruise drag and the achievable rolling moment. To perform this optimization, the genetic algorithm Non-dominated Sorting Genetic Algorithm-II (NSGA-II) was used."
   * "Deb, K., and Pratap, A., “A Fast and Elitist Multiobjective Genetic Algorithm: NSGA-II,” IEEE Transactions on Evolutionary Computation, Vol. 6, No. 2, 2002, pp. 182–197. doi:10.1109/4235.996017"
   * "Hansen, N., and Ostermeier, A., “Completely Derandomized Self-Adaptation in Evolution Strategies,” Evolutionary Computation, Vol. 9, No. 2, 2001, pp. 159–195. doi:10.1162/106365601750190398"
   * "Hansen, N., “TheCMAEvolution Strategy,” Aug. 2013, https://www.lri.fr/~hansen/cmaesintro.html [retrieved Aug. 2013]."
