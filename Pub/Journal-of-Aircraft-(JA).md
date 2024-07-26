@@ -14,6 +14,7 @@
   * "The optimal flap deployment schedule (to minimize noise) is found using an evolutionary algorithm optimizer coupled with a rotor analysis tool and an acoustic prediction code. Results indicated that active flap is able to provide noise reduction over the observer azimuth range of 150 to 210 deg with the average reduction level of 3 dB."
   * Hansen, N., and Ostermeier, K., “Adapting Arbitrary Normal Mutation Distributions in Evolution Strategies:The Covariance Matrix Adaptation,” Proceedings of IEEE International Conference on Evolutionary Computation, IEEE Publ., Piscataway, NJ, 1996, pp. 312–317. doi:10.1109/icec.1996.542381
 * **Moens, F., & Dandois, J., 2016. [Optimization of passive flow control devices of a slatless high-lift configuration](https://arc.aiaa.org/doi/full/10.2514/1.C033294). Journal of Aircraft, 53(1), 189-201.** <**CMA-ES** + **MOEA/D**>
+  * "Zhang, Q., and Li, H., “MOEA/D: A Multiobjective Evolutionary Algorithm Based on Decomposition,” IEEE Transactions on Evolutionary Computations, Vol. 11, No. 6, Dec. 2007, pp. 712–731."
 * Kody, F., Corle, E., Maughmer, M.D. and Schmitz, S., 2016. [Higher-harmonic deployment of trailing-edge flaps for rotor-performance enhancement and vibration reduction](https://arc.aiaa.org/doi/full/10.2514/1.C033335). Journal of Aircraft, 53(2), pp.333-342. <**CMA-ES** + **ε-MOEA**>
   * **Abstract**: "A computational method involving evolutionary-based optimization to provide an optimal set of higher-harmonic deployment schedules for a multisegment trailing-edge flap is investigated."
 
