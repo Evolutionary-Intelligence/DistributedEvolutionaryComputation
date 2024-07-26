@@ -1,6 +1,7 @@
 # Journal of Aircraft ([JA](https://arc.aiaa.org/journal/ja))
 
 * Colletti, C.R. and Ansell, P.J., 2023. [Airfoil morphed leading-edge design for high-lift applications using genetic algorithm](https://arc.aiaa.org/doi/abs/10.2514/1.C036755). Journal of Aircraft, 60(1), pp.160-171. <**GA**>
+* Keidel, D., Fasel, U. and Ermanni, P., 2020. Control authority of a camber morphing flying wing. Journal of Aircraft, 57(4), pp.603-614.
 * Pisaroni, M., Nobile, F., & Leyland, P., 2019. Continuation Multilevel Monte Carlo Evolutionary Algorithm for Robust Aerodynamic Shape Design. Journal of Aircraft, 56(2), 771-786. [ [www](https://infoscience.epfl.ch/lucky-search?index=legacy-id&value=254959) ] <**CMA-ES**>
   * **Abstract**: "In this work, a novel approach for robust and reliability-based design optimization of aerodynamic shapes based on the combination of single- and multi-objective evolutionary algorithms and a continuation multilevel Monte Carlo methodology is presented, to compute objective functions and constraints that involve statistical moments or statistical quantities, such as quantiles, also called value at risk and conditional value at risk, without relying on derivatives and meta-models."
   * "In this work, we present a new and effective procedure that leverages the self-tuning nature and robustness of C-MLMC to compute robust/reliable loss function and constraints that involve statistical moments and generalized quantiles (VAR and CVAR) combined with a covariance matrix adaptation evolutionary strategy (CMA-ES) to solve the optimization problem."
