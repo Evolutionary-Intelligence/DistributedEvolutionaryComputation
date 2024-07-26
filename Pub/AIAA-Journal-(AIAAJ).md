@@ -1,6 +1,6 @@
 # AIAA Journal (AIAAJ)
 
-* Longobardo, G., Catalano, P., Quagliarella, D. and Tognaccini, R., 2024. Modeling laminar separation bubbles by field inversion method. AIAA Journal, 62(1), pp.175-192. <**CMA-ES**>
+* Longobardo, G., Catalano, P., Quagliarella, D. and Tognaccini, R., 2024. [Modeling laminar separation bubbles by field inversion method](https://arc.aiaa.org/doi/full/10.2514/1.J063251). AIAA Journal, 62(1), pp.175-192. <**CMA-ES**>
   * "The CMAES does not require gradient evaluation, which can be extremely computationally expensive for the field inversion technique. A key feature is the ability to work as a blackbox, and its implementation does not rely on the specific CFD solver."
   * **Conclusion**: "A gradient-free optimization algorithm, namely, CMAES, was instead tested. This algorithm does not require the computation of the gradient of the flow variables and allows for searching within the solution space avoiding the issues related to local minima. The significantly increased computational cost is compensated by the decoupling of the solver from the optimization algorithm, guaranteeing a blackbox approach for the field inversion procedure. This critical feature enables quick adaptation to different applications of modeling enhancement."
   * Hansen, N., “The CMA Evolution Strategy: A Tutorial,” CoRR, Vol. abs/1604.00772, 2016, http://arxiv.org/abs/1604.00772 [retrieved 15 April 2023].
