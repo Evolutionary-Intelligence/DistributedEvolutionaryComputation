@@ -18,7 +18,8 @@
   * "In this paper, we use a covariance matrix adaptation evolution strategy (CMA-ES) with 10 restarts to train the GP model for both single kernel and CKL cases."
   * "Using fewer restarts of the CMA-ES is beneficial; however, it might run the risk of missing the global optimum. Studies are then needed on the effective implementation of the CMA-ES or other optimizers for training the GP-CKL model."
     * Hansen, N., Müller, S. D., and Koumoutsakos, P., “Reducing the Time Complexity of the Derandomized Evolution Strategy with Covariance Matrix Adaptation (CMA-ES),” Evolutionary Computation, Vol. 11, No. 1, 2003, pp. 1–18. https://doi.org/10.1162/106365603321828970
-* Kody, F., Corle, E., Maughmer, M.D. and Schmitz, S., 2016. Higher-harmonic deployment of trailing-edge flaps for rotor-performance enhancement and vibration reduction. Journal of Aircraft, 53(2), pp.333-342. <**CMA-ES**>
+* Kody, F., Corle, E., Maughmer, M.D. and Schmitz, S., 2016. Higher-harmonic deployment of trailing-edge flaps for rotor-performance enhancement and vibration reduction. Journal of Aircraft, 53(2), pp.333-342.
+* Molinari, G., Arrieta, A.F., Guillaume, M. and Ermanni, P., 2016. [Aerostructural performance of distributed compliance morphing wings: wind tunnel and flight testing](https://arc.aiaa.org/doi/full/10.2514/1.J055073). AIAA journal, 54(12), pp.3859-3871. <**CMA-ES**>
   * "The result of the optimization, performed using covariance matrix adaptation evolution strategy (CMA-ES), is the rib design and the structure."
   * "Deb, K., Pratap, A., Agarwal, S., and Meyarivan, T., “A Fast and Elitist Multiobjective Genetic Algorithm: NSGA-II,” IEEE Transactions on Evolutionary Computation, Vol. 6, No. 2, April 2002, pp. 182–197. doi:10.1109/4235.996017"
 * Fusi, F., Guardone, A., Quaranta, G. and Congedo, P.M., 2015. Multifidelity physics-based method for robust optimization applied to a hovering rotor airfoil. AIAA Journal, 53(11), pp.3448-3465.
