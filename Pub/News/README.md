@@ -1,5 +1,6 @@
 # README
 
+* **Dassault Systèmes** 2024: https://www.3ds.com/products/simulia/cst-studio-suite/automatic-optimization
 * https://www.reuters.com/technology/open-source-ai-models-released-by-tokyo-lab-sakana-founded-by-former-google-2024-03-21/
 * OpenAI 2018 - AI and compute.pdf:
   * https://openai.com/index/ai-and-compute/
