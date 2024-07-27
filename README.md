@@ -12,8 +12,8 @@ This is a *growing* paper list for [evolutionary computation (EC)](https://githu
 | :---: | :---: | :---: | :---: |
 | Multidiscipline | [Nature](https://www.nature.com/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/Nature.md)
 | Multidiscipline | [Science](https://science.sciencemag.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Science.md)
-| Multidiscipline | [PRL (Physical Review Letters)](https://journals.aps.org/prl/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Physical-Review-Letters_PRL.md)
-| Multidiscipline | [PNAS (Proceedings of the National Academy of Sciences)](https://www.pnas.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Proceedings-of-the-National-Academy-of-Sciences_PNAS.md)
+| Physics | [PRL (Physical Review Letters)](https://journals.aps.org/prl/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Physical-Review-Letters_PRL.md)
+| Multidiscipline | [PNAS (Proceedings of the National Academy of Sciences)](https://www.pnas.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/Proceedings-of-the-Nationa-Academy-of-Sciences-(PNAS).md)
 | Multidiscipline | [PIEEE (Proceedings of the IEEE)](http://proceedingsoftheieee.ieee.org/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Proceedings-of-the-IEEE_PIEEE.md)
 | Multidiscipline | [Nature Communications](https://www.nature.com/ncomms/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/Nature-Communications.md)
 | Multidiscipline | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Nature-Machine-Intelligence.md)
