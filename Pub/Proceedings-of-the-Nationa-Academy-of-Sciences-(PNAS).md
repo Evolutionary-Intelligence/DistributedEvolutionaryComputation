@@ -1,5 +1,9 @@
 # Proceedings of the National Academy of Sciences ([PNAS](https://www.pnas.org/))
 
+* Zhang, S., Larsen, B., Sydnor, V.J., Zeng, T., An, L., Yan, X., Kong, R., Kong, X., Gur, R.C., Gur, R.E. and Moore, T.M., 2024. [In vivo whole-cortex marker of excitation-inhibition ratio indexes cortical maturation and cognitive ability in youth](https://www.pnas.org/doi/abs/10.1073/pnas.2318641121). Proceedings of the National Academy of Sciences, 121(23), p.e2318641121. <**CMA-ES**>
+  * "The 10 pFIC parameters were estimated using the covariance matrix adaptation evolution strategy (CMA-ES) by minimizing the difference between simulated and empirical fMRI data."
+  * ""
+  * ""
 * Sherman, D. and Harel, D., 2024. [Deciphering the underlying mechanisms of the pharyngeal pumping motions in Caenorhabditis elegans](https://www.pnas.org/doi/abs/10.1073/pnas.2302660121). Proceedings of the National Academy of Sciences, 121(7), p.e2302660121. [**GA**]
 * Rosano, G., Barzasi, A. and Lynagh, T., 2024. [Loss of activation by GABA in vertebrate delta ionotropic glutamate receptors](https://www.pnas.org/doi/abs/10.1073/pnas.2313853121). Proceedings of the National Academy of Sciences, 121(6), p.e2313853121. [**GA**]
   * "Employing a blind docking approach, 100 experiments were carried out for each ligand, with a maximum of 25 million energy evaluations per experiment using the Lamarckian genetic algorithm and default parameters from AutoDock4.2."
