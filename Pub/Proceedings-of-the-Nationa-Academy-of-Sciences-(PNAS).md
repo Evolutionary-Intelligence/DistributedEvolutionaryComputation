@@ -67,3 +67,5 @@ complexity and gaze behavior. Nat. Commun. 12, 1–16 (2021).
 ******* *** *******
 
 * Vanchurin, V., Wolf, Y.I., Katsnelson, M.I. and Koonin, E.V., 2022. Toward a theory of evolution as multilevel learning. Proceedings of the National Academy of Sciences, 119(6), p.e2120037119. [ [www](https://www.pnas.org/doi/abs/10.1073/pnas.2120037119) | [pdf](https://www.pnas.org/doi/pdf/10.1073/pnas.2120037119) ]
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-PNAS)
