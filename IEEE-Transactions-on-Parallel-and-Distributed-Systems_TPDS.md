@@ -1,5 +1,11 @@
 # TPDS (IEEE Transactions on Parallel and Distributed Systems)
 
+## 2024
+
+Zhang, B., Gu, H., Zhang, L. G., Yang, Y., Ma, Z. and Schlichtmann, U. (2024). A 3D Hybrid Optical-Electrical NoC Using Novel Mapping Strategy Based DCNN Dataflow Acceleration. IEEE Transactions on Parallel and Distributed Systems, 35(7), 1139-1154. [ [www](https://doi.org/10.1109/TPDS.2024.3394747) ]
+
+Sun, Q., Liu, Y., Yang, H., Jiang, Z., Luan, Z. and Qian, D. (2024). Adaptive Auto-Tuning Framework for Global Exploration of Stencil Optimization on GPUs. IEEE Transactions on Parallel and Distributed Systems, 35(1), 20-33. [ [www](https://doi.org/10.1109/TPDS.2023.3325630) ]  
+
 ## 2023
 
 Wang, X., Veeravalli, B., Song, J., and Liu, H. (2023). On the design and evaluation of an optimal security-and-time cognizant data placement for dynamic fog environments. IEEE Transactions on Parallel and Distributed Systems, 34(2), 489–500. [ [www](https://doi.org/10.1109/TPDS.2022.3223796) ]
@@ -9,6 +15,9 @@ Zhou, Y., Ren, Y., Xu, M., and Feng, G. (2023). An improved NSGA-III algorithm b
 Qin, S., Pi, D., Shao, Z., Xu, Y., and Chen, Y. (2023). Reliability-aware multi-objective memetic algorithm for workflow scheduling problem in multi-cloud system. IEEE Transactions on Parallel and Distributed Systems, 34(4), 1343–1361. [ [www](https://doi.org/10.1109/TPDS.2023.3245089) ]
 
 Zhou, H., Li, M., Wang, N., Min, G., and Wu, J. (2023). Accelerating deep learning inference via model parallelism and partial computation offloading. IEEE Transactions on Parallel and Distributed Systems, 34(2), 475–488. [ [www](https://doi.org/10.1109/TPDS.2022.3222509) ] (**PSO**)
+
+Li, T. et al. (2023). ESMO: Joint Frame Scheduling and Model Caching for Edge Video Analytics. IEEE Transactions on Parallel and Distributed Systems, 34(8), 2295-2310. [ [www](https://doi.org/10.1109/TPDS.2023.3281598) ] 
+
 
 ## 2022
 
