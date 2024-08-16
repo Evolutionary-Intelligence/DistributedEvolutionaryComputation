@@ -1,10 +1,7 @@
 # TPDS (IEEE Transactions on Parallel and Distributed Systems)
 
-## 2024
-
-Zhang, B., Gu, H., Zhang, L. G., Yang, Y., Ma, Z. and Schlichtmann, U. (2024). A 3D Hybrid Optical-Electrical NoC Using Novel Mapping Strategy Based DCNN Dataflow Acceleration. IEEE Transactions on Parallel and Distributed Systems, 35(7), 1139-1154. [ [www](https://doi.org/10.1109/TPDS.2024.3394747) ]
-
-Sun, Q., Liu, Y., Yang, H., Jiang, Z., Luan, Z. and Qian, D. (2024). Adaptive Auto-Tuning Framework for Global Exploration of Stencil Optimization on GPUs. IEEE Transactions on Parallel and Distributed Systems, 35(1), 20-33. [ [www](https://doi.org/10.1109/TPDS.2023.3325630) ]  
+* Zhang, B., Gu, H., Zhang, L. G., Yang, Y., Ma, Z. and Schlichtmann, U. (2024). A 3D Hybrid Optical-Electrical NoC Using Novel Mapping Strategy Based DCNN Dataflow Acceleration. IEEE Transactions on Parallel and Distributed Systems, 35(7), 1139-1154. [ [www](https://doi.org/10.1109/TPDS.2024.3394747) ]
+* Sun, Q., Liu, Y., Yang, H., Jiang, Z., Luan, Z. and Qian, D. (2024). Adaptive Auto-Tuning Framework for Global Exploration of Stencil Optimization on GPUs. IEEE Transactions on Parallel and Distributed Systems, 35(1), 20-33. [ [www](https://doi.org/10.1109/TPDS.2023.3325630) ]  
 
 ## 2023
 
