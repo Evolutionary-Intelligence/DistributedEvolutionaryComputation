@@ -8,6 +8,30 @@
 * Moriarty, D.E. and Miikkulainen, R., 1994, January. Evolving neural networks to focus minimax search. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1371-1377). [ [www](https://www.aaai.org/Library/AAAI/1994/aaai94-211.php) | [pdf](https://www.aaai.org/Papers/AAAI/1994/AAAI94-211.pdf) ] ( **NE** )
 * Nakakuki, Y. and Sadeh, N., 1994, September. Increasing the efficiency of simulated annealing search by learning to recognize (un) promising runs. In Proceedings of AAAI Conference on Artificial Intelligence (pp. 1316-1322).
 
+## 2024
+
+Lu, T., Bian, C. and Qian, C., 2024, March. Towards running time analysis of interactive multi-objective evolutionary algorithms. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20777-20785). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/30066) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/30066/31876)]
+
+Doerr, B., Echarghaoui, A., Jamal, M. and Krejca, M.S., 2024, March. Runtime Analysis of the (μ+ 1) GA: Provable Speed-Ups from Strong Drift towards Diverse Populations. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20683-20691). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/30055) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/30055/31857)]
+
+Cao, L., Liu, Y., Wang, Z., Xu, D., Ye, K., Tan, K.C. and Jiang, M., 2024, March. An Interpretable Approach to the Solutions of High-Dimensional Partial Differential Equations. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20640-20648). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/30050) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/30050/31849)]
+
+Lu, L., Chen, Z., Lu, X., Rao, Y., Li, L. and Pang, S., 2024, March. Uniads: Universal architecture-distiller search for distillation gap. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 13, pp. 14167-14174). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/29327) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/29327/30503)]
+
+## 2023
+
+Doerr, B. and Qu, Z., 2023, June. Runtime analysis for the NSGA-II: Provable speed-ups from crossover. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 10, pp. 12399-12407). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/26461) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/26461/26233)]
+
+## 2022
+
+Zheng, W., Liu, Y. and Doerr, B., 2022, June. A first mathematical runtime analysis of the Non-Dominated Sorting Genetic Algorithm II (NSGA-II). In Proceedings of the AAAI conference on artificial intelligence (Vol. 36, No. 9, pp. 10408-10416). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/21283) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/21283/21032) ]
+
+Ye, M., Miao, C., Wang, T. and Ma, F., 2022, June. Texthoaxer: Budgeted hard-label adversarial attacks on text. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 4, pp. 3877-3884). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/20303) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/20303/20062) ]
+
+Welleck, S., West, P., Cao, J. and Choi, Y., 2022, June. Symbolic brittleness in sequence models: on systematic generalization in symbolic mathematics. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 8, pp. 8629-8637). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/20841) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/20841/20600) ]
+
+Guerra, J.P.A., Ahmed, K., Maher, R., Ubri, E. and Blum, J., 2022, June. Game Design for Better Security of Combination Locks. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 11, pp. 12706-12712). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/21547) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/21547/21296) ]
+
 ## 2021
 
 Nomura, M., Watanabe, S., Akimoto, Y., Ozaki, Y. and Onishi, M., 2021, May. Warm starting CMA-ES for hyperparameter optimization. In Proceedings of AAAI Conference on Artificial Intelligence (Vol. 35, No. 10, pp. 9188-9196). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/17109) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17109/16916) | [Python](https://github.com/CyberAgent/cmaes) ]
