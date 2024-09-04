@@ -10,17 +10,35 @@
 
 ## 2024
 
-Lu, T., Bian, C. and Qian, C., 2024, March. Towards running time analysis of interactive multi-objective evolutionary algorithms. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20777-20785). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/30066) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/30066/31876)]
+Cao, L., Liu, Y., Wang, Z., Xu, D., Ye, K., Tan, K.C. and Jiang, M., 2024, March. An Interpretable Approach to the Solutions of High-Dimensional Partial Differential Equations. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20640-20648). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/30050) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/30050/31849) ]
 
-Doerr, B., Echarghaoui, A., Jamal, M. and Krejca, M.S., 2024, March. Runtime Analysis of the (μ+ 1) GA: Provable Speed-Ups from Strong Drift towards Diverse Populations. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20683-20691). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/30055) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/30055/31857)]
+Rao, A., Singh, P., Vishwakarma, D.K. and Prasad, M., 2024, March. DQSSA: A Quantum-Inspired Solution for Maximizing Influence in Online Social Networks (Student Abstract). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 21, pp. 23628-23630). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/30501) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/30501/32634) ]
 
-Cao, L., Liu, Y., Wang, Z., Xu, D., Ye, K., Tan, K.C. and Jiang, M., 2024, March. An Interpretable Approach to the Solutions of High-Dimensional Partial Differential Equations. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20640-20648). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/30050) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/30050/31849)]
+Zhu, S., Shen, C., Lü, S., Wu, J. and An, D., 2024, March. Double Buffers CEM-TD3: More Efficient Evolution and Richer Exploration. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 15, pp. 17193-17201). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/29665) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/29665/31135) ]
 
-Lu, L., Chen, Z., Lu, X., Rao, Y., Li, L. and Pang, S., 2024, March. Uniads: Universal architecture-distiller search for distillation gap. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 13, pp. 14167-14174). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/29327) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/29327/30503)]
+Wang, Z., Zeng, Q., Lin, W., Jiang, M. and Tan, K.C., 2024, March. Generating diagnostic and actionable explanations for fair graph neural networks. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 19, pp. 21690-21698). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/30168) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/30168/32073) ]
+
+Żychowski, A., Perrault, A. and Mańdziuk, J., 2024, March. Coevolutionary Algorithm for Building Robust Decision Trees under Minimax Regret. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 19, pp. 21869-21877). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/30188) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/30188/32109) ]
+
+Pandey, S., 2024, March. Neuroevolution of a Multi-Generator GAN (Student Abstract). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 21, pp. 23608-23609). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/30493) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/30493/32619) ]
+
+Zhu, Q., Wu, X., Lin, Q. and Chen, W.N., 2024, March. Two-Stage Evolutionary Reinforcement Learning for Enhancing Exploration and Exploitation. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20892-20900). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/30079) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/30079/31901) ]
+
+Lu, Y., Li, B. and Zhou, A., 2024, March. Are You Concerned about Limited Function Evaluations: Data-Augmented Pareto Set Learning for Expensive Multi-Objective Optimization. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 13, pp. 14202-14210). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/29331) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/29331/30511) ]
+
+Zheng, W. and Doerr, B., 2024, March. Runtime analysis of the SMS-EMOA for many-objective optimization. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20874-20882). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/30077) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/30077/31897) ]
+
+Lu, T., Bian, C. and Qian, C., 2024, March. Towards running time analysis of interactive multi-objective evolutionary algorithms. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20777-20785). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/30066) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/30066/31876) ]
+
+Zheng, W., Li, M., Deng, R. and Doerr, B., 2024, March. How to Use the Metropolis Algorithm for Multi-Objective Optimization?. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20883-20891). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/30078) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/30078/31899) ]
+
+Doerr, B., Echarghaoui, A., Jamal, M. and Krejca, M.S., 2024, March. Runtime Analysis of the (μ+ 1) GA: Provable Speed-Ups from Strong Drift towards Diverse Populations. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 18, pp. 20683-20691). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/30055) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/30055/31857) ]
+
+Lu, L., Chen, Z., Lu, X., Rao, Y., Li, L. and Pang, S., 2024, March. Uniads: Universal architecture-distiller search for distillation gap. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 13, pp. 14167-14174). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/29327) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/29327/30503) ]
 
 ## 2023
 
-Doerr, B. and Qu, Z., 2023, June. Runtime analysis for the NSGA-II: Provable speed-ups from crossover. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 10, pp. 12399-12407). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/26461) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/26461/26233)]
+Doerr, B. and Qu, Z., 2023, June. Runtime analysis for the NSGA-II: Provable speed-ups from crossover. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 10, pp. 12399-12407). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/26461) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/26461/26233) ]
 
 ## 2022
 
