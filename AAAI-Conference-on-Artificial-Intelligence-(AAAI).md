@@ -36,6 +36,21 @@ Doerr, B., Echarghaoui, A., Jamal, M. and Krejca, M.S., 2024, March. Runtime Ana
 
 Lu, L., Chen, Z., Lu, X., Rao, Y., Li, L. and Pang, S., 2024, March. Uniads: Universal architecture-distiller search for distillation gap. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 13, pp. 14167-14174). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/29327) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/29327/30503) ]
 
+Liang, X., Fu, P., Guo, Q., Zheng, K. and Qian, Y., 2024, March. DC-NAS: Divide-and-Conquer Neural Architecture Search for Multi-Modal Classification. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 12, pp. 13754-13762). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/29281) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/29281/30417)]
+
+Song, J., Yang, Y., Peng, W., Zhou, W., Wang, F. and Yao, W., 2024, March. MorphVAE: Advancing Morphological Design of Voxel-Based Soft Robots with Variational Autoencoders. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 9, pp. 10368-10376). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/28904) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/28904/29720)]
+
+Cai, Z., Chen, L., Liu, P., Ling, T. and Lai, Y., 2024, March. EG-NAS: Neural Architecture Search with Fast Evolutionary Exploration. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 10, pp. 11159-11167). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/28993) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/28993/29886)]
+
+Zhu, C., Li, L., Wu, Y. and Sun, Z., 2024, March. Saswot: Real-time semantic segmentation architecture search without training. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 7, pp. 7722-7730). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/28606) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/28606/29177)]
+
+Lin, Q., Chen, Y., Ma, L., Chen, W.N. and Li, J., 2024, March. ERL-TD: Evolutionary Reinforcement Learning Enhanced with Truncated Variance and Distillation Mutation. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 12, pp. 13826-13836). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/29289) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/29289/30431)]
+
+Guidotti, R., Monreale, A., Setzu, M. and Volpi, G., 2024, March. Generative Model for Decision Trees. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 19, pp. 21116-21124). [ [www](https://ojs.aaai.org/index.php/AAAI/article/view/30104) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/30104/31948)]
+
+
+
+
 ## 2023
 
 Doerr, B. and Qu, Z., 2023, June. Runtime analysis for the NSGA-II: Provable speed-ups from crossover. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 10, pp. 12399-12407). [ [www](https://ojs.aaai.org/index.php/AAAI/article/download/26461) | [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/26461/26233) ]
