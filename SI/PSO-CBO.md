@@ -4,6 +4,7 @@
 * Yang, S., Yi, W., Jakobsson, A., Wang, Y. and Xiao, H., 2023. Weak signal detection with low-bit quantization in colocated MIMO radar. IEEE Transactions on Signal Processing, 71, pp.447-460.
 * Li, B., Wang, X., Xin, Y. and Au, E., 2023. Value of service maximization in integrated localization and communication system through joint resource allocation. IEEE Transactions on Communications, 71(8), pp.4957-4971.
 * Burn, M.J. and Popelier, P.L., 2023. Gaussian process regression models for predicting atomic energies and multipole moments. Journal of Chemical Theory and Computation, 19(4), pp.1370-1380.
+* Akchurin, D., Ding, C., Xia, Y., Blum, H.B., Schafer, B.W. and Li, Z., 2023. Instability-driven family optimization of cold-formed steel lipped-channel cross-sections with strength and stiffness constraints. Thin-Walled Structures, 192, p.111118.
 * Chen, L., Jayanthi, S., Paleja, R.R., Martin, D., Zakharov, V. and Gombolay, M., 2023, March. Fast lifelong adaptive inverse reinforcement learning from demonstrations. In Conference on Robot Learning (pp. 2083-2094). PMLR.
 * Vazquez, G., Chakravarty, S., Gurrola, R. and Arróyave, R., 2023. A deep neural network regressor for phase constitution estimation in the high entropy alloy system Al-Co-Cr-Fe-Mn-Nb-Ni. npj Computational Materials, 9(1), p.68.
 * Xu, R., Zhai, H., Wang, D., Song, X., Zhou, D. and Li, Q., 2023. A bilayered carbon with high sunlight-absorption coefficient designed by flat-band-guided strategy. ACS Materials Letters, 5(10), pp.2747-2753.
