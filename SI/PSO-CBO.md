@@ -1,6 +1,7 @@
 # PSO + CBO
 
 * Xu, D. and Zhang, M., 2023. Reinforcement-learning-based control of convectively unstable flows. Journal of Fluid Mechanics, 954, p.A37.
+* Yang, S., Yi, W., Jakobsson, A., Wang, Y. and Xiao, H., 2023. Weak signal detection with low-bit quantization in colocated MIMO radar. IEEE Transactions on Signal Processing, 71, pp.447-460.
 * Li, B., Wang, X., Xin, Y. and Au, E., 2023. Value of service maximization in integrated localization and communication system through joint resource allocation. IEEE Transactions on Communications, 71(8), pp.4957-4971.
 * Chen, L., Jayanthi, S., Paleja, R.R., Martin, D., Zakharov, V. and Gombolay, M., 2023, March. Fast lifelong adaptive inverse reinforcement learning from demonstrations. In Conference on Robot Learning (pp. 2083-2094). PMLR.
 * Vazquez, G., Chakravarty, S., Gurrola, R. and Arróyave, R., 2023. A deep neural network regressor for phase constitution estimation in the high entropy alloy system Al-Co-Cr-Fe-Mn-Nb-Ni. npj Computational Materials, 9(1), p.68.
