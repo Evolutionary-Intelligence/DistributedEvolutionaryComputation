@@ -7,6 +7,7 @@
 * Albayrak, C., Cetinkaya, S., Turk, K. and Arslan, H., 2023. Physical layer security for visible light communication in reflected indoor environments with inter-symbol interference. IEEE Transactions on Information Forensics and Security, 18, pp.2709-2722.
 * Chen, J., Suo, C., Jiang, J., Chen, P. and Li, X., 2023, May. Compiler test-program generation via memoized configuration search. In IEEE/ACM International Conference on Software Engineering (pp. 2035-2047). IEEE.
 * Zheng, Z., Ying, X., Yao, Z. and Chuah, M.C., 2023. Robustness of trajectory prediction models under map-based attacks. In Proceedings of IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 4541-4550).
+* Chen, C., Gohil, V., Kande, R., Sadeghi, A.R. and Rajendran, J., 2023, October. PSOFuzz: Fuzzing processors with particle swarm optimization. In IEEE/ACM International Conference on Computer Aided Design (pp. 1-9). IEEE.
 * Mohanty, S.D. and Chowdhury, M.A., 2023. Glitch subtraction from gravitational wave data using adaptive spline fitting. Classical and Quantum Gravity, 40(12), p.125001.
 * Gerber, N.J., Hoffmann, F. and Vaes, U., 2023. Mean-field limits for consensus-based optimization and sampling. arXiv preprint arXiv:2312.07373.
 * Carrillo, J.A., Totzeck, C. and Vaes, U., 2023. Consensus-based optimization and ensemble kalman inversion for global optimization problems with constraints. In Modeling and Simulation for Collective Dynamics (pp. 195-230).
