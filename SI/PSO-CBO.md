@@ -1,5 +1,6 @@
 # PSO + CBO
 
+* Xu, D. and Zhang, M., 2023. Reinforcement-learning-based control of convectively unstable flows. Journal of Fluid Mechanics, 954, p.A37.
 * Chen, L., Jayanthi, S., Paleja, R.R., Martin, D., Zakharov, V. and Gombolay, M., 2023, March. Fast lifelong adaptive inverse reinforcement learning from demonstrations. In Conference on Robot Learning (pp. 2083-2094). PMLR.
 * Vazquez, G., Chakravarty, S., Gurrola, R. and Arróyave, R., 2023. A deep neural network regressor for phase constitution estimation in the high entropy alloy system Al-Co-Cr-Fe-Mn-Nb-Ni. npj Computational Materials, 9(1), p.68.
 * Albayrak, C., Cetinkaya, S., Turk, K. and Arslan, H., 2023. Physical layer security for visible light communication in reflected indoor environments with inter-symbol interference. IEEE Transactions on Information Forensics and Security, 18, pp.2709-2722.
