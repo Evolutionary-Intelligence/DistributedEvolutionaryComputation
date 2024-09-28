@@ -31,10 +31,6 @@
 
 ## 2024
 
-Liu, Y., 2024, May. Optimal research on UAV information transmission combined with resource allocation in natural disaster scenarios: a natural disaster rescue and relief-oriented UAV ad-hoc communication network. In Fourth International Conference on Machine Learning and Computer Application (ICMLCA 2023) (Vol. 13176, pp. 453-458). SPIE. [ [www](https://doi.org/10.1117/12.3029336) ]
-
-Bai, J., Ling, Q., Hu, B., Shen, H. and Dong, Y., 2024, May. Multi-objective structural optimization of ship lock heads using WOA algorithm. In Fourth International Conference on Machine Learning and Computer Application (ICMLCA 2023) (Vol. 13176, pp. 11-16). SPIE. [ [www](https://doi.org/10.1117/12.3029055) ]
-
 Jiang, Y., Yan, R., Yao, X., Zhou, Y., Chen, B. and Yuan, B., HexGen: Generative Inference of Large Language Model over Heterogeneous Environment. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=9ANyvRtFGa) | [pdf](https://openreview.net/pdf?id=9ANyvRtFGa) ]
 
 Li, P., Zheng, Y., Tang, H., Fu, X. and Jianye, H.A.O., EvoRainbow: Combining Improvements in Evolutionary Reinforcement Learning for Policy Search. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=75Hes6Zse4) | [pdf](https://openreview.net/pdf?id=75Hes6Zse4) ]
