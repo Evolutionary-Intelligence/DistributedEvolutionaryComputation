@@ -31,8 +31,6 @@
 
 ## 2024
 
-Tang, K., Cai, M. and Li, Y., 2024, May. Prediction of aero engine residual life based on chaotic genetic algorithm to optimize TCN network. In Fourth International Conference on Machine Learning and Computer Application (ICMLCA 2023) (Vol. 13176, pp. 78-83). SPIE.  [ [www](https://doi.org/10.1117/12.3029059) ]
-
 Wang, K. and Zhao, Z., 2024, May. UAV path planning based on hybrid particle swarm and gray wolf optimization algorithm. In Fourth International Conference on Machine Learning and Computer Application (ICMLCA 2023) (Vol. 13176, pp. 711-716). SPIE. [ [www](https://doi.org/10.1117/12.3029076) ]
 
 Liu, Y., 2024, May. Optimal research on UAV information transmission combined with resource allocation in natural disaster scenarios: a natural disaster rescue and relief-oriented UAV ad-hoc communication network. In Fourth International Conference on Machine Learning and Computer Application (ICMLCA 2023) (Vol. 13176, pp. 453-458). SPIE. [ [www](https://doi.org/10.1117/12.3029336) ]
