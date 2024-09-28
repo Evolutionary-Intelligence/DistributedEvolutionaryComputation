@@ -1,5 +1,7 @@
 # Nature
 
+* Slade, P., Atkeson, C., Donelan, J.M., Houdijk, H., Ingraham, K.A., Kim, M., Kong, K., Poggensee, K.L., Riener, R., Steinert, M. and Zhang, J., 2024. On human-in-the-loop optimization of human–robot interaction. Nature, 633(8031), pp.779-788. [ [www](https://www.nature.com/articles/s41586-024-07697-2)]
+
 * Tong, K., Zhang, X., Li, Z., Wang, Y., Luo, K., Li, C., Jin, T., Chang, Y., Zhao, S., Wu, Y. and Gao, Y., 2024. [Structural transition and migration of incoherent twin boundary in diamond](https://www.nature.com/articles/s41586-023-06908-6). Nature, pp.1-7.
   * "To verify configuration diversity, we performed a structure search of diamond {112} ITB with an evolutionary algorithm and estimated excess energy with first-principles calculations."
   * "The structure search of diamond {112} ITB was performed using our structure search code based on the evolutionary algorithm. In this process, the algorithm samples a diverse population of different configurations and improves them over many generations on the basis of the selection criterion. Excess energy was used as the principal selection criterion (see next section for calculation details). For ITB configurations, because the crossover operation of multiple parents usually produces a high-energy configuration, all child configurations were generated from a single parent via mutation in our search. The evolutionary search evolved 44 generations at 0 K. Following the search, clustering analysis was performed using the k-medoids algorithm to cluster distinct ITB configurations."
