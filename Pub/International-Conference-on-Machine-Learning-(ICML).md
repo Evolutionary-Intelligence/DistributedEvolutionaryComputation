@@ -29,6 +29,34 @@
 * Robertson, G.G., 1988. Population size in classifier systems. In International Conference on Machine Learning (pp. 142-152). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500207) ] ( **GA** )
 * Caruana, R.A. and Schaffer, J.D., 1988. Representation and hidden bias: Gray vs. binary coding for genetic algorithms. In International Conference on Machine Learning (pp. 153-161). Morgan Kaufmann. [ [www](https://www.sciencedirect.com/science/article/pii/B9780934613644500219) ] ( **GA** )
 
+## 2024
+
+Tang, K., Cai, M. and Li, Y., 2024, May. Prediction of aero engine residual life based on chaotic genetic algorithm to optimize TCN network. In Fourth International Conference on Machine Learning and Computer Application (ICMLCA 2023) (Vol. 13176, pp. 78-83). SPIE.  [ [www](https://doi.org/10.1117/12.3029059) ]
+
+Wang, K. and Zhao, Z., 2024, May. UAV path planning based on hybrid particle swarm and gray wolf optimization algorithm. In Fourth International Conference on Machine Learning and Computer Application (ICMLCA 2023) (Vol. 13176, pp. 711-716). SPIE. [ [www](https://doi.org/10.1117/12.3029076) ]
+
+Liu, Y., 2024, May. Optimal research on UAV information transmission combined with resource allocation in natural disaster scenarios: a natural disaster rescue and relief-oriented UAV ad-hoc communication network. In Fourth International Conference on Machine Learning and Computer Application (ICMLCA 2023) (Vol. 13176, pp. 453-458). SPIE. [ [www](https://doi.org/10.1117/12.3029336) ]
+
+Bai, J., Ling, Q., Hu, B., Shen, H. and Dong, Y., 2024, May. Multi-objective structural optimization of ship lock heads using WOA algorithm. In Fourth International Conference on Machine Learning and Computer Application (ICMLCA 2023) (Vol. 13176, pp. 11-16). SPIE. [ [www](https://doi.org/10.1117/12.3029055) ]
+
+Jiang, Y., Yan, R., Yao, X., Zhou, Y., Chen, B. and Yuan, B., HexGen: Generative Inference of Large Language Model over Heterogeneous Environment. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=9ANyvRtFGa) | [pdf](https://openreview.net/pdf?id=9ANyvRtFGa) ]
+
+Li, P., Zheng, Y., Tang, H., Fu, X. and Jianye, H.A.O., EvoRainbow: Combining Improvements in Evolutionary Reinforcement Learning for Policy Search. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=75Hes6Zse4) | [pdf](https://openreview.net/pdf?id=75Hes6Zse4) ]
+
+Archer, A., Fahrbach, M., Liu, K. and Prabhu, P., Practical Performance Guarantees for Pipelined DNN Inference. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=S3xqyEaST9) | [pdf](https://openreview.net/pdf?id=S3xqyEaST9) ]
+
+Liu, F., Xialiang, T., Yuan, M., Lin, X., Luo, F., Wang, Z., Lu, Z. and Zhang, Q., 2024, May. Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model. In Forty-first International Conference on Machine Learning.  [ [www](https://openreview.net/forum?id=BwAkaxqiLB) | [pdf](https://openreview.net/pdf?id=BwAkaxqiLB) ]
+
+Dao, M.C., Le Nguyen, P., Truong, T.N. and Hoang, T.N., 2024. Boosting Offline Optimizers with Surrogate Sensitivity. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=aLSA3JH08h) | [pdf](https://openreview.net/pdf?id=aLSA3JH08h) ]
+
+Hoang, M., Fadhel, A., Deshwal, A., Doppa, J. and Hoang, T.N., 2024. Learning Surrogates for Offline Black-Box Optimization via Gradient Matching. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=mv9beA1wDF) | [pdf](https://openreview.net/pdf?id=mv9beA1wDF) ]
+
+Song, X., Tian, Y., Lange, R.T., Lee, C., Tang, Y. and Chen, Y., Position: Leverage Foundational Models for Black-Box Optimization. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=ea2MgKn3sV) | [pdf](https://openreview.net/pdf?id=ea2MgKn3sV) ]
+
+Zeng, J., Li, C., Sun, Z., Zhao, Q. and Zhou, G., tnGPS: Discovering Unknown Tensor Network Structure Search Algorithms via Large Language Models (LLMs). In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=LVgT0ShxN5) | [pdf](https://openreview.net/pdf?id=LVgT0ShxN5) ]
+
+Ding, L., Zhang, J., Clune, J., Spector, L. and Lehman, J., Quality Diversity through Human Feedback: Towards Open-Ended Diversity-Driven Optimization. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=9zlZuAAb08) | [pdf](https://openreview.net/pdf?id=9zlZuAAb08) ]
+
 ## 2020
 
 Angermueller, C., Belanger, D., Gane, A., Mariet, Z., Dohan, D., Murphy, K., Colwell, L. and Sculley, D., 2020, November. Population-based black-box optimization for biological sequence design. In International Conference on Machine Learning (pp. 324-334). PMLR. [ [www](http://proceedings.mlr.press/v119/angermueller20a.html) | [pdf](http://proceedings.mlr.press/v119/angermueller20a/angermueller20a.pdf) ] (**Ensemble**)
