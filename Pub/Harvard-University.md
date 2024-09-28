@@ -1,5 +1,7 @@
 # Harvard University
 
+* Kutulakos, Z.B. and Slade, P., 2024. [Simulating human-in-the-loop optimization of exoskeleton assistance to compare optimization algorithm performance](https://www.biorxiv.org/content/10.1101/2024.04.05.587982v1.abstract). bioRxiv, pp.2024-04.
+  * ""
 * Martin, C., 2024. [Precision measurements of colloidal dynamics with holographic microscopy](https://dash.harvard.edu/handle/1/37378922). Doctoral Dissertation, Harvard University. <**CMA-ES**>
   * "We use a Bayesian framework, and to avoid local minima in the posterior probability density, we use a combination of nonlinear least-squares fitting, covariance matrix adaptation evolution strategy, and parallel-tempered affine-invariant Markov-chain Monte Carlo sampling." + "We find that when we fit with CMA-ES alone, we avoid local minima but often fail to fully converge on the minimum within a reasonable computation time."
   * "We also use more sophisticated fitting algorithms, including parallel tempered Markov chain Monte Carlo (PT-MCMC) methods and evolutionary strategies like covariance matrix adaptation (CMA-ES), to sample the full posterior probability landscape. With this sampling, we obtain not only the best-fit parameters that describe the data, but also the spread and correlation of those parameters."
