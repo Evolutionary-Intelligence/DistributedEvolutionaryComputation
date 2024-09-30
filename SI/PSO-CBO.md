@@ -12,6 +12,7 @@
 * Bottrell, C., Yesuf, H.M., Popping, G., Omori, K.C., Tang, S., Ding, X., Pillepich, A., Nelson, D., Eisert, L., Gao, H. and Goulding, A.D., 2024. IllustrisTNG in the HSC-SSP: Image data release and the major role of mini mergers as drivers of asymmetry and star formation. Monthly Notices of the Royal Astronomical Society, 527(3), pp.6506-6539.
 * Cherepanova, V., Levin, R., Somepalli, G., Geiping, J., Bruss, C.B., Wilson, A.G., Goldstein, T. and Goldblum, M., 2024. A performance-driven benchmark for feature selection in tabular deep learning. Advances in Neural Information Processing Systems, 36.
 * Martí, R., Sevaux, M. and Sörensen, K., 2024. 50 years of metaheuristics. European Journal of Operational Research.
+* Pieren, R., Le Griffon, I., Bertsch, L., Heusser, A., Centracchio, F., Weintraub, D., Lavandier, C. and Schäffer, B., 2024. Perception-based noise assessment of a future blended wing body aircraft concept using synthesized flyovers in an acoustic VR environment—The ARTEM study. Aerospace Science and Technology, 144, p.108767.
 
 ## 2023
 
