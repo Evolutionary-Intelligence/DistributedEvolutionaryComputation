@@ -38,3 +38,8 @@
 * Gerber, N.J., Hoffmann, F. and Vaes, U., 2023. Mean-field limits for consensus-based optimization and sampling. arXiv preprint arXiv:2312.07373.
 * Carrillo, J.A., Totzeck, C. and Vaes, U., 2023. Consensus-based optimization and ensemble kalman inversion for global optimization problems with constraints. In Modeling and Simulation for Collective Dynamics (pp. 195-230).
 * Painter, K.J., Hillen, T. and Potts, J.R., 2023. Biological modelling with nonlocal advection diffusion equations. arXiv preprint arXiv:2307.14396.
+
+## Baselines
+
+* Yun, T., Lee, K., Yun, S., Kim, I., Jung, W.W., Kwon, M.C., Choi, K., Lee, Y. and Park, J., 2024, August. An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems. In Proceedings of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 6202-6213).
+
