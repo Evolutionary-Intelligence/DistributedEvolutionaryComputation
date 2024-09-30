@@ -20,6 +20,7 @@
 * Khoshnevis, A., Tzelepis, D.A., Ginzburg, V.V. and Zayernouri, M., 2024. Stochastic Generalized-Order Constitutive Modeling of Viscoelastic Spectra of Polyurea-Graphene Nanocomposites. arXiv preprint arXiv:2408.13717.
 * Borghi, G., Huang, H. and Qiu, J., 2024. A particle consensus approach to solving nonconvex-nonconcave min-max problems. arXiv preprint arXiv:2407.17373.
 * Esrafilian, O., Ahadi, M., Kaltenberger, F. and Gesbert, D., 2024. Global Scale Self-Supervised Channel Charting with Sensor Fusion. arXiv preprint arXiv:2405.04357.
+* Pinton, N.J., Bousse, A., Cheze-Le-Rest, C. and Visvikis, D., 2024. Multi-Branch Generative Models for Multichannel Imaging with an Application to PET/CT Joint Reconstruction. arXiv preprint arXiv:2404.08748.
 
 ## 2023
 
