@@ -4,6 +4,7 @@
 
 * Yang, F., Zhang, Z., Xu, L., Liu, Z., Jin, P., Zhuang, P., Lei, M., Liu, J., Jiang, J.H., Ouyang, X. and Marchesoni, F., 2024. Controlling mass and energy diffusion with metamaterials. **Reviews of Modern Physics**, 96(1), p.015002.
 * Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024. Machine learning reveals the control mechanics of an insect wing hinge. **Nature**, pp.1-9.
+* Stolze, L., Arora, B., Dwivedi, D., Steefel, C.I., Bandai, T., Wu, Y. and Nico, P., 2024. Climate forcing controls on carbon terrestrial fluxes during shale weathering. **Proceedings of the National Academy of Sciences**, 121(27), p.e2400230121.
 * Wang, W., Shi, K., Wang, X., Zhang, Y., Qin, B., Zhang, Y. and Woolway, R.I., 2024. The impact of extreme heat on lake warming in China. Nature Communications, 15(1), p.70.
 * Grassmann, G., Miotto, M., Desantis, F., Di Rienzo, L., Tartaglia, G.G., Pastore, A., Ruocco, G., Monti, M. and Milanetti, E., 2024. Computational approaches to predict protein–protein interactions in crowded cellular environments. Chemical Reviews, 124(7), pp.3932-3977.
 * Tom, G., Schmid, S.P., Baird, S.G., Cao, Y., Darvish, K., Hao, H., Lo, S., Pablo-García, S., Rajaonson, E.M., Skreta, M. and Yoshikawa, N., 2024. Self-driving laboratories for chemistry and materials science. Chemical Reviews, 124(16), pp.9633-9732.
