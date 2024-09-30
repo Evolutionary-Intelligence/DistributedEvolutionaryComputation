@@ -7,6 +7,7 @@
 * Wang, W., Shi, K., Wang, X., Zhang, Y., Qin, B., Zhang, Y. and Woolway, R.I., 2024. The impact of extreme heat on lake warming in China. Nature Communications, 15(1), p.70.
 * Grassmann, G., Miotto, M., Desantis, F., Di Rienzo, L., Tartaglia, G.G., Pastore, A., Ruocco, G., Monti, M. and Milanetti, E., 2024. Computational approaches to predict protein–protein interactions in crowded cellular environments. Chemical Reviews, 124(7), pp.3932-3977.
 * Tom, G., Schmid, S.P., Baird, S.G., Cao, Y., Darvish, K., Hao, H., Lo, S., Pablo-García, S., Rajaonson, E.M., Skreta, M. and Yoshikawa, N., 2024. Self-driving laboratories for chemistry and materials science. Chemical Reviews, 124(16), pp.9633-9732.
+* Schön, J.C., 2024. Energy landscapes—Past, present, and future: A perspective. The Journal of Chemical Physics, 161(5).
 * Bottrell, C., Yesuf, H.M., Popping, G., Omori, K.C., Tang, S., Ding, X., Pillepich, A., Nelson, D., Eisert, L., Gao, H. and Goulding, A.D., 2024. IllustrisTNG in the HSC-SSP: Image data release and the major role of mini mergers as drivers of asymmetry and star formation. Monthly Notices of the Royal Astronomical Society, 527(3), pp.6506-6539.
 * Cherepanova, V., Levin, R., Somepalli, G., Geiping, J., Bruss, C.B., Wilson, A.G., Goldstein, T. and Goldblum, M., 2024. A performance-driven benchmark for feature selection in tabular deep learning. Advances in Neural Information Processing Systems, 36.
 * Martí, R., Sevaux, M. and Sörensen, K., 2024. 50 years of metaheuristics. European Journal of Operational Research.
