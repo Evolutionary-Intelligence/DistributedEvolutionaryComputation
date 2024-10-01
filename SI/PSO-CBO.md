@@ -7,6 +7,7 @@
 * Stolze, L., Arora, B., Dwivedi, D., Steefel, C.I., Bandai, T., Wu, Y. and Nico, P., 2024. Climate forcing controls on carbon terrestrial fluxes during shale weathering. **Proceedings of the National Academy of Sciences**, 121(27), p.e2400230121.
 * Palma, G., Centracchio, F., Burghignoli, L., Cioffi, I. and Iemma, U., 2024. Numerical Optimization of Metasurface Cells for Acoustic Reflection. **AIAA Journal**, 62(3), pp.1136-1147.
 * Wang, W., Shi, K., Wang, X., Zhang, Y., Qin, B., Zhang, Y. and Woolway, R.I., 2024. The impact of extreme heat on lake warming in China. Nature Communications, 15(1), p.70.
+* Zhang, G.Y., Liu, Z.H. and Xu, X.W., 2024. Optimizing dynamical blockade via a particle-swarm-optimization algorithm. Physical Review A, 110(2), p.023718.
 * Girgaonkar, R. and Mohanty, S.D., 2024. Glitch veto based on unphysical gravitational wave binary inspiral templates. Physical Review D, 110(2), p.023037.
 * Grassmann, G., Miotto, M., Desantis, F., Di Rienzo, L., Tartaglia, G.G., Pastore, A., Ruocco, G., Monti, M. and Milanetti, E., 2024. Computational approaches to predict protein–protein interactions in crowded cellular environments. Chemical Reviews, 124(7), pp.3932-3977.
 * Tom, G., Schmid, S.P., Baird, S.G., Cao, Y., Darvish, K., Hao, H., Lo, S., Pablo-García, S., Rajaonson, E.M., Skreta, M. and Yoshikawa, N., 2024. Self-driving laboratories for chemistry and materials science. Chemical Reviews, 124(16), pp.9633-9732.
