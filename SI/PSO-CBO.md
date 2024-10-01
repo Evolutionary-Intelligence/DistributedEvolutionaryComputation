@@ -5,6 +5,7 @@
 * Yang, F., Zhang, Z., Xu, L., Liu, Z., Jin, P., Zhuang, P., Lei, M., Liu, J., Jiang, J.H., Ouyang, X. and Marchesoni, F., 2024. Controlling mass and energy diffusion with metamaterials. **Reviews of Modern Physics**, 96(1), p.015002.
 * Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024. Machine learning reveals the control mechanics of an insect wing hinge. **Nature**, pp.1-9.
 * Stolze, L., Arora, B., Dwivedi, D., Steefel, C.I., Bandai, T., Wu, Y. and Nico, P., 2024. Climate forcing controls on carbon terrestrial fluxes during shale weathering. **Proceedings of the National Academy of Sciences**, 121(27), p.e2400230121.
+* Bungert, L., Roith, T. and Wacker, P., 2024. Polarized consensus-based dynamics for optimization and sampling. **Mathematical Programming**, pp.1-31.
 * Palma, G., Centracchio, F., Burghignoli, L., Cioffi, I. and Iemma, U., 2024. Numerical Optimization of Metasurface Cells for Acoustic Reflection. **AIAA Journal**, 62(3), pp.1136-1147.
 * Wang, W., Shi, K., Wang, X., Zhang, Y., Qin, B., Zhang, Y. and Woolway, R.I., 2024. The impact of extreme heat on lake warming in China. Nature Communications, 15(1), p.70.
 * Zhang, G.Y., Liu, Z.H. and Xu, X.W., 2024. Optimizing dynamical blockade via a particle-swarm-optimization algorithm. Physical Review A, 110(2), p.023718.
