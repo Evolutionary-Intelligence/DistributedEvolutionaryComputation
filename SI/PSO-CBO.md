@@ -25,6 +25,7 @@
 * Staffoli, E., Maddinelli, G. and Pavesi, L., 2024. A Silicon Photonic Neural Network for Chromatic Dispersion Compensation in 20 Gbps PAM4 Signal at 125 km and Its Scalability up to 100 Gbps. Journal of Lightwave Technology.
 * Ji, Q., Luo, B. and Biondi, B., 2024. Exploiting the Potential of Urban DAS Grids: Ambient‐Noise Subsurface Imaging Using Joint Rayleigh and Love Waves. Seismological Research Letters, 95(3), pp.1794-1811.
 * van Genderen, M.N., Kneppers, J., Zaalberg, A., Bekers, E.M., Bergman, A.M., Zwart, W. and Eduati, F., 2024. Agent-based modeling of the prostate tumor microenvironment uncovers spatial tumor growth constraints and immunomodulatory properties. npj Systems Biology and Applications, 10(1), p.20.
+* Kotitschke, C., Rupprecht, T., Steinert, A., Müller, P. and Holzapfel, F., 2024. Multiobjective Parameter Optimization of an eVTOL Controller Incorporating Lead-Lag Filters for Increased Robustness. In AIAA AVIATION FORUM AND ASCEND 2024 (p. 4423).
 * Khoshnevis, A., Tzelepis, D.A., Ginzburg, V.V. and Zayernouri, M., 2024. Stochastic Generalized-Order Constitutive Modeling of Viscoelastic Spectra of Polyurea-Graphene Nanocomposites. arXiv preprint arXiv:2408.13717.
 * Borghi, G., Huang, H. and Qiu, J., 2024. A particle consensus approach to solving nonconvex-nonconcave min-max problems. arXiv preprint arXiv:2407.17373.
 * Esrafilian, O., Ahadi, M., Kaltenberger, F. and Gesbert, D., 2024. Global Scale Self-Supervised Channel Charting with Sensor Fusion. arXiv preprint arXiv:2405.04357.
