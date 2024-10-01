@@ -15,6 +15,7 @@
 * Bottrell, C., Yesuf, H.M., Popping, G., Omori, K.C., Tang, S., Ding, X., Pillepich, A., Nelson, D., Eisert, L., Gao, H. and Goulding, A.D., 2024. IllustrisTNG in the HSC-SSP: Image data release and the major role of mini mergers as drivers of asymmetry and star formation. Monthly Notices of the Royal Astronomical Society, 527(3), pp.6506-6539.
 * Cherepanova, V., Levin, R., Somepalli, G., Geiping, J., Bruss, C.B., Wilson, A.G., Goldstein, T. and Goldblum, M., 2024. A performance-driven benchmark for feature selection in tabular deep learning. Advances in Neural Information Processing Systems, 36.
 * Tadmor, E. and Zenginoğlu, A., 2024. Swarm-based optimization with random descent. Acta Applicandae Mathematicae, 190(1), p.2.
+* Zhang, S., Ji, Y., Luan, J., Nie, X., Chen, Z.A., Ma, M., Sun, Y. and Pei, D., 2024. End-to-End AutoML for Unsupervised Log Anomaly Detection. Automated Software Engineering.
 * Qiu, X., Yang, T. and Thompson, J., 2024. On Lattice-based Broadcasting for Massive-user MIMO: Practical Algorithms and Optimization. IEEE Transactions on Wireless Communications.
 * Wang, X., Shangguan, H., Huang, F., Wu, S. and Jia, W., 2024. MEL: Efficient multi-task evolutionary learning for high-dimensional feature selection. IEEE Transactions on Knowledge and Data Engineering.
 * Martí, R., Sevaux, M. and Sörensen, K., 2024. 50 years of metaheuristics. European Journal of Operational Research.
