@@ -7,7 +7,7 @@
 * Stolze, L., Arora, B., Dwivedi, D., Steefel, C.I., Bandai, T., Wu, Y. and Nico, P., 2024. Climate forcing controls on carbon terrestrial fluxes during shale weathering. **Proceedings of the National Academy of Sciences**, 121(27), p.e2400230121.
 * Bungert, L., Roith, T. and Wacker, P., 2024. Polarized consensus-based dynamics for optimization and sampling. **Mathematical Programming**, pp.1-31.
 * Palma, G., Centracchio, F., Burghignoli, L., Cioffi, I. and Iemma, U., 2024. Numerical Optimization of Metasurface Cells for Acoustic Reflection. **AIAA Journal**, 62(3), pp.1136-1147.
-* Zheng, T., Hu, J., Tan, R., Zhang, Y., He, Y. and Luo, J., 2024. π-Jack: Physical-world adversarial attack on monocular depth estimation with perspective hijacking. In USENIX Security Symposium (pp. 7321-7338).
+* Zheng, T., Hu, J., Tan, R., Zhang, Y., He, Y. and Luo, J., 2024. π-Jack: Physical-world adversarial attack on monocular depth estimation with perspective hijacking. In **USENIX Security Symposium** (pp. 7321-7338).
 * Wang, W., Shi, K., Wang, X., Zhang, Y., Qin, B., Zhang, Y. and Woolway, R.I., 2024. The impact of extreme heat on lake warming in China. Nature Communications, 15(1), p.70.
 * Zhang, G.Y., Liu, Z.H. and Xu, X.W., 2024. Optimizing dynamical blockade via a particle-swarm-optimization algorithm. Physical Review A, 110(2), p.023718.
 * Girgaonkar, R. and Mohanty, S.D., 2024. Glitch veto based on unphysical gravitational wave binary inspiral templates. Physical Review D, 110(2), p.023037.
