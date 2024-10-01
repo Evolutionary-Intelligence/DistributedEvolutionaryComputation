@@ -10,7 +10,8 @@
 * Girgaonkar, R. and Mohanty, S.D., 2024. Glitch veto based on unphysical gravitational wave binary inspiral templates. Physical Review D, 110(2), p.023037.
 * Grassmann, G., Miotto, M., Desantis, F., Di Rienzo, L., Tartaglia, G.G., Pastore, A., Ruocco, G., Monti, M. and Milanetti, E., 2024. Computational approaches to predict protein–protein interactions in crowded cellular environments. Chemical Reviews, 124(7), pp.3932-3977.
 * Tom, G., Schmid, S.P., Baird, S.G., Cao, Y., Darvish, K., Hao, H., Lo, S., Pablo-García, S., Rajaonson, E.M., Skreta, M. and Yoshikawa, N., 2024. Self-driving laboratories for chemistry and materials science. Chemical Reviews, 124(16), pp.9633-9732.
-* Schön, J.C., 2024. Energy landscapes—Past, present, and future: A perspective. The Journal of Chemical Physics, 161(5).
+* Schön, J.C., 2024. Energy landscapes—Past, present, and future: A perspective. Journal of Chemical Physics, 161(5).
+* Fukuura, S., Nishidate, Y. and Yumura, T., 2024. Performance of Particle Swarm Optimization in Predicting the Orientation of π-Conjugated Molecules Inside Carbon Nanotubes Compared with Density Functional Theory Calculations. Journal of Physical Chemistry A.
 * Bottrell, C., Yesuf, H.M., Popping, G., Omori, K.C., Tang, S., Ding, X., Pillepich, A., Nelson, D., Eisert, L., Gao, H. and Goulding, A.D., 2024. IllustrisTNG in the HSC-SSP: Image data release and the major role of mini mergers as drivers of asymmetry and star formation. Monthly Notices of the Royal Astronomical Society, 527(3), pp.6506-6539.
 * Cherepanova, V., Levin, R., Somepalli, G., Geiping, J., Bruss, C.B., Wilson, A.G., Goldstein, T. and Goldblum, M., 2024. A performance-driven benchmark for feature selection in tabular deep learning. Advances in Neural Information Processing Systems, 36.
 * Tadmor, E. and Zenginoğlu, A., 2024. Swarm-based optimization with random descent. Acta Applicandae Mathematicae, 190(1), p.2.
