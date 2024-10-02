@@ -87,7 +87,7 @@ Here, we consider a family of evolutionary algorithms (and also several closely-
 * Two [Swarm Intelligence (SI)](https://www.springer.com/journal/11721) Siblings
   * [Ant Colony Optimization (ACO)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#ant-colony-optimization-aco)
   * [Particle Swarm Optimization (PSO) / Consensus-based Optimization (CBO)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#particle-swarm-optimization-pso)
-* Two Representative Multi-Objective Optimization (MOO) Evolutionary Frameworks
+* Evolutionary Multi-Objective Optimization (EMO) Frameworks
   * [Non-dominated Sorting Genetic Algorithm II (NSGA-II)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#non-dominated-sorting-genetic-algorithm-ii-nsga-ii)
   * [Multi-Objective Evolutionary Algorithm based on Decomposition (MOEA/D)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#multi-objective-evolutionary-algorithm-based-on-decomposition-moead)
 * Several Relatively New Extensions/Improvements/Variants
