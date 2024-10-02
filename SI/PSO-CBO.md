@@ -45,6 +45,7 @@
 * Lange, R.T., 2023, July. evosax: Jax-based evolution strategies. In Proceedings of Companion Conference on Genetic and Evolutionary Computation (pp. 659-662). ACM.
 * Xu, D. and Zhang, M., 2023. Reinforcement-learning-based control of convectively unstable flows. Journal of Fluid Mechanics, 954, p.A37.
 * Yang, S., Yi, W., Jakobsson, A., Wang, Y. and Xiao, H., 2023. Weak signal detection with low-bit quantization in colocated MIMO radar. IEEE Transactions on Signal Processing, 71, pp.447-460.
+* Huang, H., Qiu, J. and Riedl, K., 2023. On the global convergence of particle swarm optimization methods. Applied Mathematics & Optimization, 88(2), p.30.
 * Li, B., Wang, X., Xin, Y. and Au, E., 2023. Value of service maximization in integrated localization and communication system through joint resource allocation. IEEE Transactions on Communications, 71(8), pp.4957-4971.
 * Burn, M.J. and Popelier, P.L., 2023. Gaussian process regression models for predicting atomic energies and multipole moments. Journal of Chemical Theory and Computation, 19(4), pp.1370-1380.
 * Singh, S.K., Sose, A.T., Wang, F., Bejagam, K.K. and Deshmukh, S.A., 2023. Data driven discovery of MOFs for hydrogen gas adsorption. Journal of Chemical Theory and Computation, 19(19), pp.6686-6703.
