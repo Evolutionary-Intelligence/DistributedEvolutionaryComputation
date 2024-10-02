@@ -64,7 +64,7 @@
 
 ### 2018
 
-* Yang, S., Pan, Z., Amert, T., Wang, K., Yu, L., Berg, T. and Lin, M.C., 2018. Physics-inspired garment recovery from a single-view image. ACM Transactions on Graphics (TOG), 37(5), pp.1-14.
+* Yang, S., Pan, Z., Amert, T., Wang, K., Yu, L., Berg, T. and Lin, M.C., 2018. Physics-inspired garment recovery from a single-view image. **ACM Transactions on Graphics**, 37(5), pp.1-14.
 
 ## Baselines
 
