@@ -23,6 +23,7 @@
 * Zhang, S., Ji, Y., Luan, J., Nie, X., Chen, Z.A., Ma, M., Sun, Y. and Pei, D., 2024. End-to-End AutoML for Unsupervised Log Anomaly Detection. Automated Software Engineering.
 * Qiu, X., Yang, T. and Thompson, J., 2024. On Lattice-based Broadcasting for Massive-user MIMO: Practical Algorithms and Optimization. IEEE Transactions on Wireless Communications.
 * Wang, X., Shangguan, H., Huang, F., Wu, S. and Jia, W., 2024. MEL: Efficient multi-task evolutionary learning for high-dimensional feature selection. IEEE Transactions on Knowledge and Data Engineering.
+* Tao, Q., Cai, R., Lin, Z. and Tang, Y., 2024. Automatic Design of Deep Graph Neural Networks With Decoupled Mode. IEEE Transactions on Neural Networks and Learning Systems.
 * Martí, R., Sevaux, M. and Sörensen, K., 2024. 50 years of metaheuristics. European Journal of Operational Research.
 * Pieren, R., Le Griffon, I., Bertsch, L., Heusser, A., Centracchio, F., Weintraub, D., Lavandier, C. and Schäffer, B., 2024. Perception-based noise assessment of a future blended wing body aircraft concept using synthesized flyovers in an acoustic VR environment—The ARTEM study. Aerospace Science and Technology, 144, p.108767.
 * Staffoli, E., Maddinelli, G. and Pavesi, L., 2024. A Silicon Photonic Neural Network for Chromatic Dispersion Compensation in 20 Gbps PAM4 Signal at 125 km and Its Scalability up to 100 Gbps. Journal of Lightwave Technology.
