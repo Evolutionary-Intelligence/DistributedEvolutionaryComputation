@@ -48,6 +48,7 @@
 * Li, B., Wang, X., Xin, Y. and Au, E., 2023. Value of service maximization in integrated localization and communication system through joint resource allocation. IEEE Transactions on Communications, 71(8), pp.4957-4971.
 * Burn, M.J. and Popelier, P.L., 2023. Gaussian process regression models for predicting atomic energies and multipole moments. Journal of Chemical Theory and Computation, 19(4), pp.1370-1380.
 * Singh, S.K., Sose, A.T., Wang, F., Bejagam, K.K. and Deshmukh, S.A., 2023. Data driven discovery of MOFs for hydrogen gas adsorption. Journal of Chemical Theory and Computation, 19(19), pp.6686-6703.
+* Rueda Espinosa, K.J., Kananenka, A.A. and Rusakov, A.A., 2023. Novel computational chemistry infrastructure for simulating astatide in water: from basis sets to force fields using particle swarm optimization. Journal of Chemical Theory and Computation, 19(22), pp.7998-8012.
 * Akchurin, D., Ding, C., Xia, Y., Blum, H.B., Schafer, B.W. and Li, Z., 2023. Instability-driven family optimization of cold-formed steel lipped-channel cross-sections with strength and stiffness constraints. Thin-Walled Structures, 192, p.111118.
 * Hecht, G.R. and Botta, E.M., 2023. Particle swarm optimization-based co-state initialization for low-thrust minimum-fuel trajectory optimization. Acta Astronautica, 211, pp.416-430.
 * Chen, L., Jayanthi, S., Paleja, R.R., Martin, D., Zakharov, V. and Gombolay, M., 2023, March. Fast lifelong adaptive inverse reinforcement learning from demonstrations. In Conference on Robot Learning (pp. 2083-2094). PMLR.
