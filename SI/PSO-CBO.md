@@ -60,7 +60,7 @@
 
 ### 2022
 
-* Menke, T., 2022. Classical and quantum optimization of quantum processors (Doctoral dissertation, Harvard University).
+* Menke, T., 2022. Classical and quantum optimization of quantum processors (**Doctoral dissertation, Harvard University**).
 
 ### 2018
 
