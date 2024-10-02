@@ -39,6 +39,7 @@
 ## 2023
 
 * Munn, B.R., Müller, E.J., Medel, V., Naismith, S.L., Lizier, J.T., Sanders, R.D. and Shine, J.M., 2023. Neuronal connected burst cascades bridge macroscale adaptive signatures across arousal states. Nature Communications, 14(1), p.6846.
+* Tian, J., Sun, X., Du, Y., Zhao, S., Liu, Q., Zhang, K., Yi, W., Huang, W., Wang, C., Wu, X. and Hsieh, M.H., 2023. Recent advances for quantum neural networks in generative learning. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(10), pp.12321-12340.
 * Lange, R.T., 2023, July. evosax: Jax-based evolution strategies. In Proceedings of Companion Conference on Genetic and Evolutionary Computation (pp. 659-662). ACM.
 * Xu, D. and Zhang, M., 2023. Reinforcement-learning-based control of convectively unstable flows. Journal of Fluid Mechanics, 954, p.A37.
 * Yang, S., Yi, W., Jakobsson, A., Wang, Y. and Xiao, H., 2023. Weak signal detection with low-bit quantization in colocated MIMO radar. IEEE Transactions on Signal Processing, 71, pp.447-460.
