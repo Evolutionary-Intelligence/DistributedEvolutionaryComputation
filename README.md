@@ -87,7 +87,7 @@ Here, we consider a family of evolutionary algorithms (and also several closely-
 * Two [Swarm Intelligence (SI)](https://www.springer.com/journal/11721) Siblings
   * [Ant Colony Optimization (ACO)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#ant-colony-optimization-aco)
   * [Particle Swarm Optimization (PSO) / Consensus-based Optimization (CBO)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#particle-swarm-optimization-pso)
-* Evolutionary Multi-Objective Optimization (EMO) Frameworks
+* [Evolutionary Multi-Objective Optimization (EMO) Frameworks](http://www.emo-online.org/)
   * [Non-dominated Sorting Genetic Algorithm II (NSGA-II)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#non-dominated-sorting-genetic-algorithm-ii-nsga-ii)
   * [Multi-Objective Evolutionary Algorithm based on Decomposition (MOEA/D)](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#multi-objective-evolutionary-algorithm-based-on-decomposition-moead)
 * Several Relatively New Extensions/Improvements/Variants
@@ -126,5 +126,7 @@ Note that we are adding a (still actively updated) set of *top* universities rou
 This *ongoing* paper list for EC (previous PDEC) was supported by **Shenzhen Fundamental Research Program under Grant No. JCYJ20200109141235597** (2,000,000 Yuan from 2021 to 2023). Now it is supported by National Natural Science Foundation of China under Grant No. 72401122, Guangdong Basic and Applied Basic Research Foundation under Grant No. 2024A1515012241 and 2021A1515110024. We also acknowledge the *early* contribution from e.g., [Vincent A. Cicirello](https://github.com/cicirello). We thank [this open link](https://cuglirui.github.io/links.htm) to our project.
 
 This open project is led by Qiqi Duan (Just a fan of both **biological and computational evolution**).
+
+* Lijun Sun
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
