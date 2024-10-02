@@ -62,6 +62,10 @@
 
 * Menke, T., 2022. Classical and quantum optimization of quantum processors (Doctoral dissertation, Harvard University).
 
+### 2018
+
+* Yang, S., Pan, Z., Amert, T., Wang, K., Yu, L., Berg, T. and Lin, M.C., 2018. Physics-inspired garment recovery from a single-view image. ACM Transactions on Graphics (TOG), 37(5), pp.1-14.
+
 ## Baselines
 
 * Vermetten, D., Doerr, C., Wang, H., Kononova, A.V. and Bäck, T., 2024, July. Large-scale Benchmarking of Metaphor-based Optimization Heuristics. In Proceedings of the Genetic and Evolutionary Computation Conference (pp. 41-49).
