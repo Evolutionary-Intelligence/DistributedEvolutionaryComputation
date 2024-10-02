@@ -41,6 +41,7 @@
 * Munn, B.R., Müller, E.J., Medel, V., Naismith, S.L., Lizier, J.T., Sanders, R.D. and Shine, J.M., 2023. Neuronal connected burst cascades bridge macroscale adaptive signatures across arousal states. Nature Communications, 14(1), p.6846.
 * Tian, J., Sun, X., Du, Y., Zhao, S., Liu, Q., Zhang, K., Yi, W., Huang, W., Wang, C., Wu, X. and Hsieh, M.H., 2023. Recent advances for quantum neural networks in generative learning. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(10), pp.12321-12340.
 * Li, B., Wei, Z., Wu, J., Yu, S., Zhang, T., Zhu, C., Zheng, D., Guo, W., Zhao, C. and Zhang, J., 2023. Machine learning-enabled globally guaranteed evolutionary computation. Nature Machine Intelligence, 5(4), pp.457-467.
+* Kalita, B.S., Silverman, J.D., Daddi, E., Bottrell, C., Ho, L.C., Ding, X. and Yang, L., 2023. A Rest-frame Near-IR Study of Clumps in Galaxies at 1< z< 2 Using JWST/NIRCam: Connection to Galaxy Bulges. The Astrophysical Journal, 960(1), p.25.
 * Chih, M., 2023. Stochastic stability analysis of particle swarm optimization with pseudo random number assignment strategy. European Journal of Operational Research, 305(2), pp.562-593.
 * Lange, R.T., 2023, July. evosax: Jax-based evolution strategies. In Proceedings of Companion Conference on Genetic and Evolutionary Computation (pp. 659-662). ACM.
 * Xu, D. and Zhang, M., 2023. Reinforcement-learning-based control of convectively unstable flows. Journal of Fluid Mechanics, 954, p.A37.
