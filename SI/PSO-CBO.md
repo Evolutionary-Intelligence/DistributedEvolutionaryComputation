@@ -73,5 +73,6 @@
 * Vermetten, D., Doerr, C., Wang, H., Kononova, A.V. and Bäck, T., 2024, July. Large-scale Benchmarking of Metaphor-based Optimization Heuristics. In Proceedings of the Genetic and Evolutionary Computation Conference (pp. 41-49).
 * Huang, T., Fang, Z., Tang, Q., Xie, R., Chen, T. and Yu, F.R., 2024. Dual-timescales Optimization of Task Scheduling and Resource Slicing in Satellite-Terrestrial Edge Computing Networks. IEEE Transactions on Mobile Computing.
 * Yun, T., Lee, K., Yun, S., Kim, I., Jung, W.W., Kwon, M.C., Choi, K., Lee, Y. and Park, J., 2024, August. An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems. In Proceedings of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 6202-6213).
+* Camacho‐Villalón, C.L., Dorigo, M. and Stützle, T., 2023. Exposing the grey wolf, moth‐flame, whale, firefly, bat, and antlion algorithms: six misleading optimization techniques inspired by bestial metaphors. International Transactions in Operational Research, 30(6), pp.2945-2971.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
