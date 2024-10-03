@@ -38,6 +38,7 @@
 
 ## 2023
 
+* Li, X., Chang, L., Cao, Y., Lu, J., Lu, X. and Jiang, H., 2023. Physics-supervised deep learning–based optimization (PSDLO) with accuracy and efficiency. Proceedings of the National Academy of Sciences, 120(35), p.e2309062120.
 * Munn, B.R., Müller, E.J., Medel, V., Naismith, S.L., Lizier, J.T., Sanders, R.D. and Shine, J.M., 2023. Neuronal connected burst cascades bridge macroscale adaptive signatures across arousal states. Nature Communications, 14(1), p.6846.
 * Tian, J., Sun, X., Du, Y., Zhao, S., Liu, Q., Zhang, K., Yi, W., Huang, W., Wang, C., Wu, X. and Hsieh, M.H., 2023. Recent advances for quantum neural networks in generative learning. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(10), pp.12321-12340.
 * Li, B., Wei, Z., Wu, J., Yu, S., Zhang, T., Zhu, C., Zheng, D., Guo, W., Zhao, C. and Zhang, J., 2023. Machine learning-enabled globally guaranteed evolutionary computation. Nature Machine Intelligence, 5(4), pp.457-467.
