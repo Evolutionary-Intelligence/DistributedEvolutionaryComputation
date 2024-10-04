@@ -1,5 +1,7 @@
 # ICML (International Conference on Machine Learning)
 
+* Archer, A., Fahrbach, M., Liu, K. and Prabhu, P., 2024. [Practical performance guarantees for pipelined DNN inference](https://openreview.net/forum?id=S3xqyEaST9). In International Conference on Machine Learning.
+  * "We give a fast and practical pipeline partitioning algorithm called SliceGraph that combines dynamic programming with a biased random-key **GA**."
 * Baluja, S. and Caruana, R., 1995. [Removing the genetics from the standard genetic algorithm](https://www.sciencedirect.com/science/article/pii/B9781558603776500141). In International Conference on Machine Learning (pp. 38-46). Morgan Kaufmann.
   * This is a landmark paper for **EDA** from **Carnegie Mellon University**.
 * Miconi, T., 2023, July. Learning to acquire novel cognitive tasks with evolution, plasticity and meta-meta-learning. In International Conference on Machine Learning (pp. 24756-24774). PMLR. [ [www](https://proceedings.mlr.press/v202/miconi23a.html) | [pdf](https://proceedings.mlr.press/v202/miconi23a/miconi23a.pdf) | [openreview](https://openreview.net/forum?id=kvnoQvYFyB) | [Python](https://github.com/ThomasMiconi/LearningToLearnCogTasks) ] ( **ES** | **Continuous Optimization** #)
@@ -35,8 +37,6 @@
 Jiang, Y., Yan, R., Yao, X., Zhou, Y., Chen, B. and Yuan, B., HexGen: Generative Inference of Large Language Model over Heterogeneous Environment. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=9ANyvRtFGa) | [pdf](https://openreview.net/pdf?id=9ANyvRtFGa) ]
 
 Li, P., Zheng, Y., Tang, H., Fu, X. and Jianye, H.A.O., EvoRainbow: Combining Improvements in Evolutionary Reinforcement Learning for Policy Search. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=75Hes6Zse4) | [pdf](https://openreview.net/pdf?id=75Hes6Zse4) ]
-
-Archer, A., Fahrbach, M., Liu, K. and Prabhu, P., Practical Performance Guarantees for Pipelined DNN Inference. In Forty-first International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=S3xqyEaST9) | [pdf](https://openreview.net/pdf?id=S3xqyEaST9) ]
 
 Liu, F., Xialiang, T., Yuan, M., Lin, X., Luo, F., Wang, Z., Lu, Z. and Zhang, Q., 2024, May. Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model. In Forty-first International Conference on Machine Learning.  [ [www](https://openreview.net/forum?id=BwAkaxqiLB) | [pdf](https://openreview.net/pdf?id=BwAkaxqiLB) ]
 
