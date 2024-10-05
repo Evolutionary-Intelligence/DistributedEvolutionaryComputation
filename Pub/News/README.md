@@ -8,3 +8,4 @@
 * OpenAI 2017 - Evolution strategies as a scalable alternative to reinforcement learning.pdf:
   * https://openai.com/index/evolution-strategies/
 * https://www.popsci.com/scitech/article/2006-04/john-koza-has-built-invention-machine/
+* **1997**: https://www.wired.com/1997/02/geek-16/
