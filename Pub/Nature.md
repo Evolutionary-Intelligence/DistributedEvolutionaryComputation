@@ -154,5 +154,4 @@
 * [Storage of the fittest](https://www.nature.com/articles/news010329-5)
 * [Book Review: Nature's way](https://www.nature.com/articles/363222a0)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-Nature)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
