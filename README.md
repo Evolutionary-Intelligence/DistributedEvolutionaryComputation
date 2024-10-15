@@ -134,6 +134,6 @@ This *ongoing* paper list for EC (previous PDEC) was supported by **Shenzhen Fun
 
 This open project is led by Qiqi Duan (Just a fan of both **biological and computational evolution**).
 
-* Lijun Sun
+* Lijun Sun (swarm intelligence and swarm robotics)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
