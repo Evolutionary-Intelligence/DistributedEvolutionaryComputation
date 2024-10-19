@@ -136,6 +136,7 @@ This open project is led by Qiqi Duan (Just a fan of both **biological and compu
 
 * Yuwei Huang (evolutionary reinforcement learning)
 * Lijun Sun (swarm intelligence and swarm robotics)
+* Yajing Tan (swarm for large language model)
 * Xingyu Zhou (evolutionary computation for machine learning)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
