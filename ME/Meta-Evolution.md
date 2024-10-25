@@ -17,8 +17,9 @@
 * Clune, J., Goings, S., Punch, B. and Goodman, E., 2005, June. Investigations in meta-GAs: Panaceas or pipe dreams?. In Proceedings of Annual Workshop on Genetic and Evolutionary Computation (pp. 235-241).
   * Experimental paper: Meta-GAs
   * Algorithms(s): Meta-GAs (subpopulations)
-  * Problem(s): "Original promise of solving challenging problems with minimal human involvement"
-  * Computing platform: 
+  * Problem(s): on two toy problems ('counting ones' and '4-bit deceptive trap')
+  * Computing platform:
+  * "Original promise of solving challenging problems with minimal human involvement" + "‘generalists’ and ‘specialists’"
 * Belle, T.V. and Ackley, D.H., 2002, July. Code factoring and the evolution of evolvability. In Proceedings of the 4th Annual Conference on Genetic and Evolutionary Computation (pp. 1383-1390).
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
 * Bäck, T., 1994, October. Parallel optimization of evolutionary algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 418-427). Berlin, Heidelberg: Springer Berlin Heidelberg.
