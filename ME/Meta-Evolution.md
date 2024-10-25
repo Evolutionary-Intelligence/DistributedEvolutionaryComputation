@@ -23,6 +23,7 @@
 * Belle, T.V. and Ackley, D.H., 2002, July. Code factoring and the evolution of evolvability. In Proceedings of the 4th Annual Conference on Genetic and Evolutionary Computation (pp. 1383-1390).
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
 * Schlierkamp-Voosen, D. and Mühlenbein, H., 1994. Strategy adaptation by competing subpopulations. In Parallel Problem Solving from Nature—PPSN III: International Conference on Evolutionary Computation The Third Conference on Parallel Problem Solving from Nature Jerusalem, Israel, October 9–14, 1994 Proceedings 3 (pp. 199-208). Springer Berlin Heidelberg.
+* Srinivas, M. and Patnaik, L.M., 1994. Adaptive probabilities of crossover and mutation in genetic algorithms. IEEE Transactions on Systems, Man, and Cybernetics, 24(4), pp.656-667.
 * Bäck, T., 1994, October. Parallel optimization of evolutionary algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 418-427). Berlin, Heidelberg: Springer Berlin Heidelberg.
 * Fogel, D.B., Fogel, L.J. and Atmar, J.W., 1991, January. Meta-evolutionary programming. In Conference record of the twenty-fifth asilomar conference on signals, systems & computers (pp. 540-541). IEEE computer Society.
 * Grefenstette, J.J., 1986. Optimization of control parameters for genetic algorithms. IEEE Transactions on systems, man, and cybernetics, 16(1), pp.122-128.
