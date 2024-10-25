@@ -7,14 +7,18 @@
   * Problem(s): Conically constrained problem
 * Sean Luke, AKM Khaled Ahsan Talukder, 2013, July. [Is the meta-EA a viable optimization method?](https://dl.acm.org/doi/10.1145/2463372.2465806). In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1533-1540). ACM.
   * Experimental paper: Meta-EAs
-  * ALgorithms(s): ES (meta-level) + EAs (GA | ES | DE)
+  * Algorithms(s): ES (meta-level) + EAs (GA | ES | DE)
   * Problem(s):
   * Computing platform: On a supercomputer cluster (128 processors)
 * Dawkins, R., 2019. The evolution of evolvability. In Artificial life (pp. 201-220). Routledge.
 * Harrington, K.I., Spector, L., Pollack, J.B. and O'Reilly, U.M., 2012, July. Autoconstructive evolution for structural problems. In Proceedings of Annual Conference companion on Genetic and evolutionary computation (pp. 75-82).
 * Branke, J. and Elomari, J.A., 2012, July. Meta-optimization for parameter tuning with a flexible computing budget. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1245-1252).
 * Adenso-Diaz, B. and Laguna, M., 2006. Fine-tuning of algorithms using fractional experimental designs and local search. Operations Research, 54(1), pp.99-114.
-* Clune, J., Goings, S., Punch, B. and Goodman, E., 2005, June. Investigations in meta-GAs: panaceas or pipe dreams?. In Proceedings of Annual Workshop on Genetic and Evolutionary Computation (pp. 235-241).
+* Clune, J., Goings, S., Punch, B. and Goodman, E., 2005, June. Investigations in meta-GAs: Panaceas or pipe dreams?. In Proceedings of Annual Workshop on Genetic and Evolutionary Computation (pp. 235-241).
+  * Experimental paper: Meta-GAs
+  * Algorithms(s):
+  * Problem(s):
+  * Computing platform: 
 * Belle, T.V. and Ackley, D.H., 2002, July. Code factoring and the evolution of evolvability. In Proceedings of the 4th Annual Conference on Genetic and Evolutionary Computation (pp. 1383-1390).
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
 * Bäck, T., 1994, October. Parallel optimization of evolutionary algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 418-427). Berlin, Heidelberg: Springer Berlin Heidelberg.
