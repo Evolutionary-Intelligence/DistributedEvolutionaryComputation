@@ -14,6 +14,7 @@
 * Branke, J. and Elomari, J.A., 2012, July. Meta-optimization for parameter tuning with a flexible computing budget. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1245-1252).
 * Adenso-Diaz, B. and Laguna, M., 2006. Fine-tuning of algorithms using fractional experimental designs and local search. Operations Research, 54(1), pp.99-114.
 * Clune, J., Goings, S., Punch, B. and Goodman, E., 2005, June. Investigations in meta-GAs: panaceas or pipe dreams?. In Proceedings of Annual Workshop on Genetic and Evolutionary Computation (pp. 235-241).
+* Belle, T.V. and Ackley, D.H., 2002, July. Code factoring and the evolution of evolvability. In Proceedings of the 4th Annual Conference on Genetic and Evolutionary Computation (pp. 1383-1390).
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
 * Bäck, T., 1994, October. Parallel optimization of evolutionary algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 418-427). Berlin, Heidelberg: Springer Berlin Heidelberg.
 * Fogel, D.B., Fogel, L.J. and Atmar, J.W., 1991, January. Meta-evolutionary programming. In Conference record of the twenty-fifth asilomar conference on signals, systems & computers (pp. 540-541). IEEE computer Society.
