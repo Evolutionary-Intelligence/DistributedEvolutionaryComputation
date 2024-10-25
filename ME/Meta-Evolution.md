@@ -10,6 +10,7 @@
   * ALgorithms(s): ES (meta-level) + EAs (GA | ES | DE)
   * Problem(s):
   * Computing platform: On a supercomputer cluster (128 processors)
+* Branke, J. and Elomari, J.A., 2012, July. Meta-optimization for parameter tuning with a flexible computing budget. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1245-1252).
 * Adenso-Diaz, B. and Laguna, M., 2006. Fine-tuning of algorithms using fractional experimental designs and local search. Operations Research, 54(1), pp.99-114.
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
 * Bäck, T., 1994, October. Parallel optimization of evolutionary algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 418-427). Berlin, Heidelberg: Springer Berlin Heidelberg.
