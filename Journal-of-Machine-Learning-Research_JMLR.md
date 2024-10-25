@@ -1,6 +1,6 @@
 # JMLR (Journal of Machine Learning Research)
 
-* Yann Ollivier, Ludovic Arnold, Anne Auger, Nikolaus Hansen, 2017. [Information-geometric optimization algorithms: A unifying picture via invariance principles](https://jmlr.org/papers/v18/14-467.html). Journal of Machine Learning Research, 18(18), pp.1-65. [ [pdf](https://www.jmlr.org/papers/volume18/14-467/14-467.pdf) ]
+* Yann Ollivier, Ludovic Arnold, Anne Auger, Nikolaus Hansen, 2017. [Information-geometric optimization algorithms: A unifying picture via invariance principles](https://jmlr.org/papers/v18/14-467.html). Journal of Machine Learning Research, 18(18), pp.1-65. [ [pdf](https://www.jmlr.org/papers/volume18/14-467/14-467.pdf) | [pycma](https://github.com/CMA-ES/pycma) ]
 
 * Probst, M. and Rothlauf, F., 2020. Harmless overfitting: Using denoising autoencoders in estimation of distribution algorithms. Journal of Machine Learning Research, 21(78), pp.1-31. [ [www](https://jmlr.csail.mit.edu/papers/v21/16-543.html) | [pdf](https://www.jmlr.org/papers/volume21/16-543/16-543.pdf) | [Matlab](https://github.com/wohnjayne/eda-suite) ] ( **EDA** | **Combinatorial Optimization** )
 * Elsken, T., Metzen, J.H. and Hutter, F., 2019. Neural architecture search: A survey. Journal of Machine Learning Research, 20(55), pp.1-21. [ [www](https://www.jmlr.org/papers/v20/18-598.html) | [pdf](https://www.jmlr.org/papers/volume20/18-598/18-598.pdf) ] ( **NE** )
