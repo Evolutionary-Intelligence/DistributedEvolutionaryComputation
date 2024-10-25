@@ -1,5 +1,7 @@
 # JMLR (Journal of Machine Learning Research)
 
+* Yann Ollivier, Ludovic Arnold, Anne Auger, Nikolaus Hansen, 2017. [Information-geometric optimization algorithms: A unifying picture via invariance principles](https://jmlr.org/papers/v18/14-467.html). Journal of Machine Learning Research, 18(18), pp.1-65. [ [pdf](https://www.jmlr.org/papers/volume18/14-467/14-467.pdf) ]
+
 * Probst, M. and Rothlauf, F., 2020. Harmless overfitting: Using denoising autoencoders in estimation of distribution algorithms. Journal of Machine Learning Research, 21(78), pp.1-31. [ [www](https://jmlr.csail.mit.edu/papers/v21/16-543.html) | [pdf](https://www.jmlr.org/papers/volume21/16-543/16-543.pdf) | [Matlab](https://github.com/wohnjayne/eda-suite) ] ( **EDA** | **Combinatorial Optimization** )
 * Elsken, T., Metzen, J.H. and Hutter, F., 2019. Neural architecture search: A survey. Journal of Machine Learning Research, 20(55), pp.1-21. [ [www](https://www.jmlr.org/papers/v20/18-598.html) | [pdf](https://www.jmlr.org/papers/volume20/18-598/18-598.pdf) ] ( **NE** )
 * Wierstra, D., Schaul, T., Glasmachers, T., Sun, Y., Peters, J. and Schmidhuber, J., 2014. Natural evolution strategies. Journal of Machine Learning Research, 15(27), pp.949-980. [ [www](https://jmlr.org/papers/v15/wierstra14a.html) | [pdf](https://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf) | [Python - PyBrain](https://github.com/pybrain/pybrain) | [source code](http://schaul.site44.com/nes.html) ] ( **NES** | **Continuous Optimization** )
@@ -9,13 +11,7 @@
 * Panait, L., Tuyls, K. and Luke, S., 2008. Theoretical advantages of lenient learners: An evolutionary game theoretic perspective. Journal of Machine Learning Research, 9(13), pp.423-457. [ [www](https://www.jmlr.org/papers/v9/panait08a.html) | [pdf](https://www.jmlr.org/papers/volume9/panait08a/panait08a.pdf) ] ( **COEA** | **Continuous Optimization** )
 * Igel, C., Heidrich-Meisner, V. and Glasmachers, T., 2008. Shark. Journal of Machine Learning Research, 9(33), pp.993-996. [ [www](https://jmlr.org/papers/v9/igel08a.html) | [pdf](https://jmlr.org/papers/volume9/igel08a/igel08a.pdf) | [C++](https://github.com/Shark-ML/Shark) ] ( **ES** | **Continuous Optimization** )
 
-## 2017
-
-Ollivier, Y., Arnold, L., Auger, A. and Hansen, N., 2017. Information-geometric optimization algorithms: A unifying picture via invariance principles. Journal of Machine Learning Research, 18(18), pp.1-65. [ [www](https://jmlr.org/papers/v18/14-467.html) | [pdf](https://www.jmlr.org/papers/volume18/14-467/14-467.pdf) ]
-
 Popovici, E., 2017. Bridging supervised learning and test-based co-optimization. Journal of Machine Learning Research, 18(38), pp.1-39. [ [www](https://www.jmlr.org/papers/v18/16-223.html) | [pdf](https://www.jmlr.org/papers/volume18/16-223/16-223.pdf) ]
-
-## 2015
 
 Silva, C.P., Dias, D.M., Bentes, C., Pacheco, M.A.C. and Cupertino, L.F., 2015. Evolving GPU machine code. Journal of Machine Learning Research, 16(22), pp.673-712. [ [www](https://www.jmlr.org/papers/v16/dasilva15a.html) | [pdf](https://www.jmlr.org/papers/volume16/dasilva15a/dasilva15a.pdf) ] (**Parallel GP on GPU**)
 
