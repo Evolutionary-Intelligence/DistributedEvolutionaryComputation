@@ -10,6 +10,7 @@
   * ALgorithms(s): ES (meta-level) + EAs (GA | ES | DE)
   * Problem(s):
   * Computing platform: On a supercomputer cluster (128 processors)
+* Dawkins, R., 2019. The evolution of evolvability. In Artificial life (pp. 201-220). Routledge.
 * Harrington, K.I., Spector, L., Pollack, J.B. and O'Reilly, U.M., 2012, July. Autoconstructive evolution for structural problems. In Proceedings of Annual Conference companion on Genetic and evolutionary computation (pp. 75-82).
 * Branke, J. and Elomari, J.A., 2012, July. Meta-optimization for parameter tuning with a flexible computing budget. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1245-1252).
 * Adenso-Diaz, B. and Laguna, M., 2006. Fine-tuning of algorithms using fractional experimental designs and local search. Operations Research, 54(1), pp.99-114.
