@@ -10,7 +10,6 @@
   * Algorithms(s): ES (meta-level) + EAs (GA | ES | DE)
   * Problem(s):
   * Computing platform: On a supercomputer cluster (128 processors)
-* Dawkins, R., 2019. The evolution of evolvability. In Artificial life (pp. 201-220). Routledge.
 * Harrington, K.I., Spector, L., Pollack, J.B. and O'Reilly, U.M., 2012, July. Autoconstructive evolution for structural problems. In Proceedings of Annual Conference companion on Genetic and evolutionary computation (pp. 75-82).
 * Branke, J. and Elomari, J.A., 2012, July. Meta-optimization for parameter tuning with a flexible computing budget. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1245-1252).
 * Adenso-Diaz, B. and Laguna, M., 2006. Fine-tuning of algorithms using fractional experimental designs and local search. Operations Research, 54(1), pp.99-114.
@@ -26,6 +25,7 @@
 * Srinivas, M. and Patnaik, L.M., 1994. Adaptive probabilities of crossover and mutation in genetic algorithms. IEEE Transactions on Systems, Man, and Cybernetics, 24(4), pp.656-667.
 * Bäck, T., 1994, October. Parallel optimization of evolutionary algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 418-427). Berlin, Heidelberg: Springer Berlin Heidelberg.
 * Fogel, D.B., Fogel, L.J. and Atmar, J.W., 1991, January. Meta-evolutionary programming. In Conference record of the twenty-fifth asilomar conference on signals, systems & computers (pp. 540-541). IEEE computer Society.
+* Dawkins, R., 1989. The evolution of evolvability. In Artificial Life (pp. 201-220). Routledge.
 * Grefenstette, J.J., 1986. Optimization of control parameters for genetic algorithms. IEEE Transactions on systems, man, and cybernetics, 16(1), pp.122-128.
 * Mercer, R.E. and Sampson, J.R., 1978. Adaptive search using a reproductive meta‐plan. Kybernetes, 7(3), pp.215-228.
 * CAVICCHIO, D., 1970. Adaptive search using simulated evolution. Doctoral Dissertation, University of Michigan.
