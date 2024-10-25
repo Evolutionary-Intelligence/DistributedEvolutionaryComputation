@@ -9,7 +9,7 @@
   * Experimental paper: Meta-EAs
   * ALgorithms(s): ES (meta-level) + EAs (GA | ES | DE)
   * Problem(s):
-  * Computing platform:
+  * Computing platform: On a supercomputer cluster (128 processors)
 * Adenso-Diaz, B. and Laguna, M., 2006. Fine-tuning of algorithms using fractional experimental designs and local search. Operations Research, 54(1), pp.99-114.
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
 * Fogel, D.B., Fogel, L.J. and Atmar, J.W., 1991, January. Meta-evolutionary programming. In Conference record of the twenty-fifth asilomar conference on signals, systems & computers (pp. 540-541). IEEE computer Society.
