@@ -16,8 +16,8 @@
 * Adenso-Diaz, B. and Laguna, M., 2006. Fine-tuning of algorithms using fractional experimental designs and local search. Operations Research, 54(1), pp.99-114.
 * Clune, J., Goings, S., Punch, B. and Goodman, E., 2005, June. Investigations in meta-GAs: Panaceas or pipe dreams?. In Proceedings of Annual Workshop on Genetic and Evolutionary Computation (pp. 235-241).
   * Experimental paper: Meta-GAs
-  * Algorithms(s):
-  * Problem(s):
+  * Algorithms(s): Meta-GAs (subpopulations)
+  * Problem(s): "Original promise of solving challenging problems with minimal human involvement"
   * Computing platform: 
 * Belle, T.V. and Ackley, D.H., 2002, July. Code factoring and the evolution of evolvability. In Proceedings of the 4th Annual Conference on Genetic and Evolutionary Computation (pp. 1383-1390).
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
