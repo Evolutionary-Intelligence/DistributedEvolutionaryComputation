@@ -22,6 +22,7 @@
 * Belle, T.V. and Ackley, D.H., 2002, July. Code factoring and the evolution of evolvability. In Proceedings of the 4th Annual Conference on Genetic and Evolutionary Computation (pp. 1383-1390).
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
 * Kirschner, M. and Gerhart, J., 1998. Evolvability. Proceedings of the National Academy of Sciences, 95(15), pp.8420-8427.
+  * "Evolvability is an organism’s capacity to generate heritable phenotypic variation."
   * "Confer evolvability on the organism by reducing constraints on change and allowing the accumulation of nonlethal variation"
 * Schlierkamp-Voosen, D. and Mühlenbein, H., 1994. Strategy adaptation by competing subpopulations. In Parallel Problem Solving from Nature—PPSN III: International Conference on Evolutionary Computation The Third Conference on Parallel Problem Solving from Nature Jerusalem, Israel, October 9–14, 1994 Proceedings 3 (pp. 199-208). Springer Berlin Heidelberg.
 * Srinivas, M. and Patnaik, L.M., 1994. Adaptive probabilities of crossover and mutation in genetic algorithms. IEEE Transactions on Systems, Man, and Cybernetics, 24(4), pp.656-667.
