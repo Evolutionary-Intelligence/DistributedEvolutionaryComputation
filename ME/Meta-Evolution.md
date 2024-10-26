@@ -1,6 +1,6 @@
 # Meta-Evolution
 
-* Coward, S., Lu, C., Letcher, A., Jiang, M., Parker-Holder, J. and Foerster, J.N., Higher order and self-referential evolution for population-based methods. In Automated Reinforcement Learning: Exploring Meta-Learning, AutoML, and LLMs.
+* Coward, S., Lu, C., Letcher, A., Jiang, M., Parker-Holder, J. and Foerster, J.N., [Higher order and self-referential evolution for population-based methods](https://openreview.net/pdf?id=3tk6AES1Aj). In Automated Reinforcement Learning: Exploring Meta-Learning, AutoML, and LLMs.
 * Hellwig, M. and Beyer, H.G., 2019, July. Analysis of a meta-ES on a conically constrained problem. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 673-681). ACM.
   * Theoretical paper: Dynamics of mutation strength control
   * Algorithm(s): Meta-ES
