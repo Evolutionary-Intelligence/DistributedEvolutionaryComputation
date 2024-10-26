@@ -26,7 +26,7 @@
 * Bäck, T., 1994, October. Parallel optimization of evolutionary algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 418-427). Berlin, Heidelberg: Springer Berlin Heidelberg.
 * Fogel, D.B., Fogel, L.J. and Atmar, J.W., 1991, January. Meta-evolutionary programming. In Conference record of the twenty-fifth asilomar conference on signals, systems & computers (pp. 540-541). IEEE computer Society.
 * Dawkins, R., 1989. [The evolution of evolvability](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429032769-10/evolution-evolvability-richard-dawkins). In Artificial Life (pp. 201-220). Routledge. [ University of Oxford ]
-* Grefenstette, J.J., 1986. Optimization of control parameters for genetic algorithms. IEEE Transactions on systems, man, and cybernetics, 16(1), pp.122-128.
+* Grefenstette, J.J., 1986. Optimization of control parameters for genetic algorithms. IEEE Transactions on Systems, Man, and Cybernetics, 16(1), pp.122-128.
 * Mercer, R.E. and Sampson, J.R., 1978. Adaptive search using a reproductive meta‐plan. Kybernetes, 7(3), pp.215-228.
 * CAVICCHIO, D., 1970. Adaptive search using simulated evolution. Doctoral Dissertation, University of Michigan.
 
