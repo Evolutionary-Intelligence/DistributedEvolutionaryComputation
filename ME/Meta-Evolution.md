@@ -21,6 +21,7 @@
   * Computing platform:
   * "Original promise of solving challenging problems with minimal human involvement" + "‘generalists’ and ‘specialists’"
 * Belle, T.V. and Ackley, D.H., 2002, July. Code factoring and the evolution of evolvability. In Proceedings of the 4th Annual Conference on Genetic and Evolutionary Computation (pp. 1383-1390).
+* Rudolph, G., 2001. Self-adaptive mutations may lead to premature convergence. IEEE Transactions on Evolutionary Computation, 5(4), pp.410-414.
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
 * Kirschner, M. and Gerhart, J., 1998. Evolvability. Proceedings of the National Academy of Sciences, 95(15), pp.8420-8427.
   * "Evolvability is an organism’s capacity to generate heritable phenotypic variation. ...The capacity of a lineage to evolve has been termed its evolvability, also called evolutionary adaptability."
