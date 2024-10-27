@@ -30,6 +30,7 @@
 * Schlierkamp-Voosen, D. and Mühlenbein, H., 1994. Strategy adaptation by competing subpopulations. In Parallel Problem Solving from Nature—PPSN III: International Conference on Evolutionary Computation The Third Conference on Parallel Problem Solving from Nature Jerusalem, Israel, October 9–14, 1994 Proceedings 3 (pp. 199-208). Springer Berlin Heidelberg.
 * Srinivas, M. and Patnaik, L.M., 1994. Adaptive probabilities of crossover and mutation in genetic algorithms. IEEE Transactions on Systems, Man, and Cybernetics, 24(4), pp.656-667.
 * Bäck, T., 1994, October. Parallel optimization of evolutionary algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 418-427). Berlin, Heidelberg: Springer Berlin Heidelberg.
+* Bäck, T., 1992, April. Self-adaptation in genetic algorithms. In Proceedings of First European Conference on Artificial Life (pp. 263-271). Cambridge: MIT press.
 * Fogel, D.B., Fogel, L.J. and Atmar, J.W., 1991, January. Meta-evolutionary programming. In Conference record of the twenty-fifth asilomar conference on signals, systems & computers (pp. 540-541). IEEE computer Society.
 * Dawkins, R., 1989. [The evolution of evolvability](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429032769-10/evolution-evolvability-richard-dawkins). In Artificial Life (pp. 201-220). Routledge. [ University of Oxford ]
   * "To make a preliminary distinction between two kinds of mutation: ordinary changes within an existing genetic system, and changes to the genetic system itself"
