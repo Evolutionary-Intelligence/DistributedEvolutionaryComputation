@@ -6,6 +6,7 @@
   * Theoretical paper: Dynamics of mutation strength control
   * Algorithm(s): Meta-ES
   * Problem(s): Conically constrained problem
+* Kumar, A., Liu, B., Miikkulainen, R. and Stone, P., 2022, July. Effective mutation rate adaptation through group elite selection. In Proceedings of Genetic and Evolutionary Computation Conference (pp. 721-729). ACM.
 * Sean Luke, AKM Khaled Ahsan Talukder, 2013, July. [Is the meta-EA a viable optimization method?](https://dl.acm.org/doi/10.1145/2463372.2465806). In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1533-1540). ACM.
   * Experimental paper: Meta-EAs
   * Algorithms(s): ES (meta-level) + EAs (GA | ES | DE)
