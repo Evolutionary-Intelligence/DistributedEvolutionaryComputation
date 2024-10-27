@@ -35,6 +35,7 @@
   * "Although changes in genetic systems are much rarer than allelic substitutions within genetic systems, they are not very rare events on the geological timescale."
   * "A kind of higher-level selection, a selection not for survivability but for evolvability: It is only cumulative selection that is evolutionarily interesting, for only cumulative selection has the power to build new progress on the shoulders of earlier generations of progress, and hence the power to build up the formidable complexity that is diagnostic of life. Obviously the idea of each new adaptation serving as the background for the evolution of subsequent adaptations is commonplace, and is the essence of the idea of cumulative selection."
   * Dawkins, R., 1996. The blind watchmaker: Why the evidence of evolution reveals a universe without design. WW Norton & Company.
+* Schmidhuber, J., 1987. Evolutionary principles in self-referential learning, or on learning how to learn: the meta-meta-... hook. Technische Universität München.
 * Grefenstette, J.J., 1986. Optimization of control parameters for genetic algorithms. IEEE Transactions on Systems, Man, and Cybernetics, 16(1), pp.122-128.
 * Mercer, R.E. and Sampson, J.R., 1978. Adaptive search using a reproductive meta‐plan. Kybernetes, 7(3), pp.215-228.
 * CAVICCHIO, D., 1970. Adaptive search using simulated evolution. Doctoral Dissertation, University of Michigan.
