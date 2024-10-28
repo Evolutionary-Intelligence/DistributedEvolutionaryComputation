@@ -8,6 +8,7 @@
   * Problem(s): Conically constrained problem
 * Kumar, A., Liu, B., Miikkulainen, R. and Stone, P., 2022, July. Effective mutation rate adaptation through group elite selection. In Proceedings of Genetic and Evolutionary Computation Conference (pp. 721-729). ACM.
 * Parker-Holder, J., Jiang, M., Dennis, M., Samvelyan, M., Foerster, J., Grefenstette, E. and Rocktäschel, T., 2022, June. Evolving curricula with regret-based environment design. In International Conference on Machine Learning (pp. 17473-17498). PMLR.
+* Metz, L., Freeman, C.D., Maheswaranathan, N. and Sohl-Dickstein, J., 2021. Training learned optimizers with randomly initialized learned optimizers. arXiv preprint arXiv:2101.07367.
 * Sean Luke, AKM Khaled Ahsan Talukder, 2013, July. [Is the meta-EA a viable optimization method?](https://dl.acm.org/doi/10.1145/2463372.2465806). In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1533-1540). ACM.
   * Experimental paper: Meta-EAs
   * Algorithms(s): ES (meta-level) + EAs (GA | ES | DE)
