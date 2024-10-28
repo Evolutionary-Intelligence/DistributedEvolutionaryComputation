@@ -4,12 +4,13 @@
 * Lu, C., Towers, S. and Foerster, J., 2023, July. [Arbitrary order meta-learning with simple population-based evolution](https://direct.mit.edu/isal/proceedings-pdf/isal2023/35/67/2354943/isal_a_00674.pdf). In Proceedings of Artificial Life Conference. MIT Press.
 * Lange, R., Schaul, T., Chen, Y., Zahavy, T., Dalibard, V., Lu, C., Singh, S. and Flennerhag, S., 2023, July. Discovering evolution strategies via meta-black-box optimization. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 29-30).
 * Lu, C., Kuba, J., Letcher, A., Metz, L., Schroeder de Witt, C. and Foerster, J., 2022. Discovered policy optimisation. Advances in Neural Information Processing Systems, 35, pp.16455-16468.
+* Kumar, A., Liu, B., Miikkulainen, R. and Stone, P., 2022, July. Effective mutation rate adaptation through group elite selection. In Proceedings of Genetic and Evolutionary Computation Conference (pp. 721-729). ACM.
+* Parker-Holder, J., Jiang, M., Dennis, M., Samvelyan, M., Foerster, J., Grefenstette, E. and Rocktäschel, T., 2022, June. Evolving curricula with regret-based environment design. In International Conference on Machine Learning (pp. 17473-17498). PMLR.
 * Hellwig, M. and Beyer, H.G., 2019, July. Analysis of a meta-ES on a conically constrained problem. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 673-681). ACM.
   * Theoretical paper: Dynamics of mutation strength control
   * Algorithm(s): Meta-ES
   * Problem(s): Conically constrained problem
-* Kumar, A., Liu, B., Miikkulainen, R. and Stone, P., 2022, July. Effective mutation rate adaptation through group elite selection. In Proceedings of Genetic and Evolutionary Computation Conference (pp. 721-729). ACM.
-* Parker-Holder, J., Jiang, M., Dennis, M., Samvelyan, M., Foerster, J., Grefenstette, E. and Rocktäschel, T., 2022, June. Evolving curricula with regret-based environment design. In International Conference on Machine Learning (pp. 17473-17498). PMLR.
+* Fernando, C., Sygnowski, J., Osindero, S., Wang, J., Schaul, T., Teplyashin, D., Sprechmann, P., Pritzel, A. and Rusu, A., 2018, July. Meta-learning by the baldwin effect. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1313-1320).
 * Metz, L., Freeman, C.D., Maheswaranathan, N. and Sohl-Dickstein, J., 2021. Training learned optimizers with randomly initialized learned optimizers. arXiv preprint arXiv:2101.07367.
 * Sean Luke, AKM Khaled Ahsan Talukder, 2013, July. [Is the meta-EA a viable optimization method?](https://dl.acm.org/doi/10.1145/2463372.2465806). In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1533-1540). ACM.
   * Experimental paper: Meta-EAs
