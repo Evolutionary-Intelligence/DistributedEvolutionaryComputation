@@ -8,6 +8,7 @@
 * Parker-Holder, J., Jiang, M., Dennis, M., Samvelyan, M., Foerster, J., Grefenstette, E. and Rocktäschel, T., 2022, June. Evolving curricula with regret-based environment design. In International Conference on Machine Learning (pp. 17473-17498). PMLR.
 * Wang, J.X., 2021. Meta-learning in natural and artificial intelligence. Current Opinion in Behavioral Sciences, 38, pp.90-95.
   * "The fundamental principle of meta-learning is that learning proceeds faster with more experience, via the acquisition of inductive biases or knowledge that allows for more efficient learning in the future."
+  * "Meta-learning is prevalent in nature, being naturally multi-scaled."
 * Hellwig, M. and Beyer, H.G., 2019, July. Analysis of a meta-ES on a conically constrained problem. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 673-681). ACM.
   * Theoretical paper: Dynamics of mutation strength control
   * Algorithm(s): Meta-ES
