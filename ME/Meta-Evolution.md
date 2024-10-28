@@ -13,6 +13,7 @@
   * "Within cognitive science, hierarchical Bayesian models of cognition capture how learning can occur at multiple scales and via the acquisition of useful, structured priors."
   * "Meta-learning as learning of meta-parameters: Also called ‘hyper-’ or ‘meta-parameters’"
   * "Meta-learning over representations: Such a hierarchically structured organization is intriguingly suggestive of the multi-scaled nature of meta-learning systems"
+  * "Meta-learning as latent state and Bayesian inference"
 * Hellwig, M. and Beyer, H.G., 2019, July. Analysis of a meta-ES on a conically constrained problem. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 673-681). ACM.
   * Theoretical paper: Dynamics of mutation strength control
   * Algorithm(s): Meta-ES
