@@ -10,6 +10,7 @@
   * "The fundamental principle of meta-learning is that learning proceeds faster with more experience, via the acquisition of inductive biases or knowledge that allows for more efficient learning in the future."
   * "Meta-learning is prevalent in nature, being naturally multi-scaled. ... There exists a range of learning mechanisms that span these different timescales."
   * "Within cognitive science, hierarchical Bayesian models of cognition capture how learning can occur at multiple scales and via the acquisition of useful, structured priors."
+  * "Meta-learning as learning of meta-parameters: Also called ‘hyper-’ or ‘meta-parameters’)."
 * Hellwig, M. and Beyer, H.G., 2019, July. Analysis of a meta-ES on a conically constrained problem. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 673-681). ACM.
   * Theoretical paper: Dynamics of mutation strength control
   * Algorithm(s): Meta-ES
