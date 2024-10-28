@@ -45,6 +45,7 @@
   * Dawkins, R., 1996. The blind watchmaker: Why the evidence of evolution reveals a universe without design. WW Norton & Company.
 * [Schmidhuber, J.](https://people.idsia.ch/~juergen/), 1987. [Evolutionary principles in self-referential learning, or on learning how to learn: the meta-meta-... hook](https://people.idsia.ch/~juergen/diploma.html). Diploma Thesis, Technische Universität München (TUM).
   * "A system with such meta-learning capabilities should view every problem as consisting out of at least two problems: Solving it, and improving the strategies employed to solve it."
+  * "This requires an initial representation of the system that allows it to introspect and manipulate all of its relevant parts."
 * Grefenstette, J.J., 1986. Optimization of control parameters for genetic algorithms. IEEE Transactions on Systems, Man, and Cybernetics, 16(1), pp.122-128.
 * Mercer, R.E. and Sampson, J.R., 1978. Adaptive search using a reproductive meta‐plan. Kybernetes, 7(3), pp.215-228.
 * CAVICCHIO, D., 1970. Adaptive search using simulated evolution. Doctoral Dissertation, University of Michigan.
