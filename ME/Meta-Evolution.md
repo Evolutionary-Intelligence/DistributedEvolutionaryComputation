@@ -2,6 +2,7 @@
 
 * Coward, S., Lu, C., Letcher, A., Jiang, M., Parker-Holder, J. and Foerster, J.N., [Higher order and self-referential evolution for population-based methods](https://openreview.net/pdf?id=3tk6AES1Aj). In Automated Reinforcement Learning: Exploring Meta-Learning, AutoML, and LLMs.
 * Lu, C., Towers, S. and Foerster, J., 2023, July. [Arbitrary order meta-learning with simple population-based evolution](https://direct.mit.edu/isal/proceedings-pdf/isal2023/35/67/2354943/isal_a_00674.pdf). In Proceedings of Artificial Life Conference. MIT Press.
+* Lange, R., Schaul, T., Chen, Y., Zahavy, T., Dalibard, V., Lu, C., Singh, S. and Flennerhag, S., 2023, July. Discovering evolution strategies via meta-black-box optimization. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 29-30).
 * Lu, C., Kuba, J., Letcher, A., Metz, L., Schroeder de Witt, C. and Foerster, J., 2022. Discovered policy optimisation. Advances in Neural Information Processing Systems, 35, pp.16455-16468.
 * Hellwig, M. and Beyer, H.G., 2019, July. Analysis of a meta-ES on a conically constrained problem. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 673-681). ACM.
   * Theoretical paper: Dynamics of mutation strength control
