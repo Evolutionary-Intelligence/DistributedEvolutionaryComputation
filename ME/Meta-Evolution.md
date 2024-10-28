@@ -48,6 +48,7 @@
   * "This requires an initial representation of the system that allows it to introspect and manipulate all of its relevant parts."
   * "The essential ingredients of self-reflexivity and full introspection still have to be discovered."
 * Grefenstette, J.J., 1986. Optimization of control parameters for genetic algorithms. IEEE Transactions on Systems, Man, and Cybernetics, 16(1), pp.122-128.
+* Kant, E., 1985. Understanding and automating algorithm design. IEEE Transactions on Software Engineering, (11), pp.1361-1374.
 * Mercer, R.E. and Sampson, J.R., 1978. Adaptive search using a reproductive meta‐plan. Kybernetes, 7(3), pp.215-228.
 * CAVICCHIO, D., 1970. Adaptive search using simulated evolution. Doctoral Dissertation, University of Michigan.
 
