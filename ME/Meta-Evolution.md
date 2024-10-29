@@ -42,6 +42,7 @@
   * "Evolvability is an organism’s capacity to generate heritable phenotypic variation. ...The capacity of a lineage to evolve has been termed its evolvability, also called evolutionary adaptability."
   * "Confer evolvability on the organism by reducing constraints on change and allowing the accumulation of nonlethal variation"
 * [Wagner, G.P.](https://campuspress.yale.edu/wagner/) and Altenberg, L., 1996. [Perspective: Complex adaptations and the evolution of evolvability](https://academic.oup.com/evolut/article/50/3/967/6870900). Evolution, 50(3), pp.967-976. [ Yale University + University of Hawaii ]
+* Altenberg, L., 1994. The evolution of evolvability in genetic programming. Advances in Genetic Programming, 3, pp.47-74.
 * Schlierkamp-Voosen, D. and Mühlenbein, H., 1994. Strategy adaptation by competing subpopulations. In Parallel Problem Solving from Nature—PPSN III: International Conference on Evolutionary Computation The Third Conference on Parallel Problem Solving from Nature Jerusalem, Israel, October 9–14, 1994 Proceedings 3 (pp. 199-208). Springer Berlin Heidelberg.
 * Srinivas, M. and Patnaik, L.M., 1994. Adaptive probabilities of crossover and mutation in genetic algorithms. IEEE Transactions on Systems, Man, and Cybernetics, 24(4), pp.656-667.
 * Bäck, T., 1994, October. Parallel optimization of evolutionary algorithms. In International Conference on Parallel Problem Solving from Nature (pp. 418-427). Berlin, Heidelberg: Springer Berlin Heidelberg.
