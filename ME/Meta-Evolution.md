@@ -38,7 +38,7 @@
 * Hansen, N. and Ostermeier, A., 2001. Completely derandomized self-adaptation in evolution strategies. Evolutionary Computation, 9(2), pp.159-195.
 * Rudolph, G., 2001. Self-adaptive mutations may lead to premature convergence. IEEE Transactions on Evolutionary Computation, 5(4), pp.410-414.
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
-* Kirschner, M. and Gerhart, J., 1998. Evolvability. Proceedings of the National Academy of Sciences, 95(15), pp.8420-8427.
+* Kirschner, M. and Gerhart, J., 1998. Evolvability. Proceedings of the National Academy of Sciences, 95(15), pp.8420-8427. [ Harvard Medical School +  University of California, Berkeley ]
   * "Evolvability is an organism’s capacity to generate heritable phenotypic variation. ...The capacity of a lineage to evolve has been termed its evolvability, also called evolutionary adaptability."
   * "Confer evolvability on the organism by reducing constraints on change and allowing the accumulation of nonlethal variation"
 * [Wagner, G.P.](https://campuspress.yale.edu/wagner/) and Altenberg, L., 1996. [Perspective: Complex adaptations and the evolution of evolvability](https://academic.oup.com/evolut/article/50/3/967/6870900). Evolution, 50(3), pp.967-976. [ Yale University + University of Hawaii ]
