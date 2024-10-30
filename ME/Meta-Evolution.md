@@ -27,7 +27,7 @@
   * Computing platform: On a supercomputer cluster (128 processors)
 * Harrington, K.I., Spector, L., Pollack, J.B. and O'Reilly, U.M., 2012, July. Autoconstructive evolution for structural problems. In Proceedings of Annual Conference companion on Genetic and evolutionary computation (pp. 75-82).
 * Branke, J. and Elomari, J.A., 2012, July. Meta-optimization for parameter tuning with a flexible computing budget. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1245-1252).
-* Lynch, M., 2010. Evolution of the mutation rate. Trends in Genetics, 26(8), pp.345-352.
+* Lynch, M., 2010. [Evolution of the mutation rate](https://www.sciencedirect.com/science/article/pii/S0168952510001034). Trends in Genetics, 26(8), pp.345-352. [ Indiana University ]
 * Adenso-Diaz, B. and Laguna, M., 2006. Fine-tuning of algorithms using fractional experimental designs and local search. Operations Research, 54(1), pp.99-114.
 * Clune, J., Goings, S., Punch, B. and Goodman, E., 2005, June. Investigations in meta-GAs: Panaceas or pipe dreams?. In Proceedings of Annual Workshop on Genetic and Evolutionary Computation (pp. 235-241).
   * Experimental paper: Meta-GAs
