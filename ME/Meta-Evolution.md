@@ -37,7 +37,7 @@
   * "Original promise of solving challenging problems with minimal human involvement" + "‘generalists’ and ‘specialists’"
 * Belle, T.V. and Ackley, D.H., 2002, July. Code factoring and the evolution of evolvability. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1383-1390). ACM.
 * Gould, S.J., 2002. [The structure of evolutionary theory](https://www.hup.harvard.edu/books/9780674006133).
-  * "Hierarchical Selection:"
+  * "Hierarchical Selection: Interdemic (or so-called group) selection"
   * "Species selection—though clearly valid in logic and therefore subject to realization in nature—must be far too weak (relative to organismic selection) to have any practical effect upon evolution."
   * "When we factor punctuated equilibria into the equation, species selection emerges as a powerful force in macroevolution (though not as an architect of complex organismic adaptations)."
 * Hansen, N. and Ostermeier, A., 2001. Completely derandomized self-adaptation in evolution strategies. Evolutionary Computation, 9(2), pp.159-195.
