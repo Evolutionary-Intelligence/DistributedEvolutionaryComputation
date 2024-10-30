@@ -40,6 +40,7 @@
   * "Hierarchical Selection: Interdemic (or so-called group) selection"
   * "Species selection—though clearly valid in logic and therefore subject to realization in nature—must be far too weak (relative to organismic selection) to have any practical effect upon evolution."
   * "When we factor punctuated equilibria into the equation, species selection emerges as a powerful force in macroevolution (though not as an architect of complex organismic adaptations)."
+  * "Organismic selection must overwhelm species selection when both processes operate steadily and towards the same adaptive "goal"—for if both levels work in the same direction, then species selection can only add the merest increment to the vastly greater power of organismic selection; whereas, if the two levels work in opposite directions, organismic selection must overwhelm and cancel the effect of species selection."
 * Hansen, N. and Ostermeier, A., 2001. Completely derandomized self-adaptation in evolution strategies. Evolutionary Computation, 9(2), pp.159-195.
 * Rudolph, G., 2001. Self-adaptive mutations may lead to premature convergence. IEEE Transactions on Evolutionary Computation, 5(4), pp.410-414.
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
