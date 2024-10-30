@@ -35,7 +35,8 @@
   * Problem(s): on two toy problems ('counting ones' and '4-bit deceptive trap')
   * Computing platform:
   * "Original promise of solving challenging problems with minimal human involvement" + "‘generalists’ and ‘specialists’"
-* Belle, T.V. and Ackley, D.H., 2002, July. Code factoring and the evolution of evolvability. In Proceedings of the 4th Annual Conference on Genetic and Evolutionary Computation (pp. 1383-1390).
+* Belle, T.V. and Ackley, D.H., 2002, July. Code factoring and the evolution of evolvability. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1383-1390). ACM.
+* Gould, S.J., 2002. The structure of evolutionary theory.
 * Hansen, N. and Ostermeier, A., 2001. Completely derandomized self-adaptation in evolution strategies. Evolutionary Computation, 9(2), pp.159-195.
 * Rudolph, G., 2001. Self-adaptive mutations may lead to premature convergence. IEEE Transactions on Evolutionary Computation, 5(4), pp.410-414.
 * Eiben, Á.E., Hinterding, R. and Michalewicz, Z., 1999. Parameter control in evolutionary algorithms. IEEE Transactions on evolutionary computation, 3(2), pp.124-141.
