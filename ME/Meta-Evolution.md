@@ -14,6 +14,7 @@
   * "Meta-learning as learning of meta-parameters: Also called ‘hyper-’ or ‘meta-parameters’"
   * "Meta-learning over representations: Such a hierarchically structured organization is intriguingly suggestive of the multi-scaled nature of meta-learning systems"
   * "Meta-learning as latent state and Bayesian inference"
+* Guttenberg, N., Virgo, N. and Penn, A., 2019. On the potential for open-endedness in neural networks. Artificial life, 25(2), pp.145-167.
 * Hellwig, M. and Beyer, H.G., 2019, July. Analysis of a meta-ES on a conically constrained problem. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 673-681). ACM.
   * Theoretical paper: Dynamics of mutation strength control
   * Algorithm(s): Meta-ES
