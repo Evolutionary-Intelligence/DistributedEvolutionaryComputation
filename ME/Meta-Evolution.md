@@ -26,6 +26,7 @@
   * "The clue in this case is just how stunted regular evolutionary algorithms (EAs) are—how not open-ended—when compared to what we see in nature."
   * "Because of the inspiration from natural evolution, so far the study of open-ended algorithms has focused primarily on EAs, though it is certainly conceivable that a non-evolutionary process (such as an individual neural network generating new ideas) could exhibit open-ended properties."
   * "The potential weapons in our arsenal—evolutionary computation, neuroevolution, deep learning, alife worlds, novelty and divergence, coevolution and self-play, minimal criteria, etc., are powerful and compelling, but we have only a faint understanding of how they fit together to compose the big picture."
+  * "Some specific fields within AI are primed to thrive around the challenge of open-endedness. In particular, fields involving search within large, high-dimensional spaces, namely evolutionary computation and deep learning, stand to be profoundly impacted by advances in open-endedness."
 * Sean Luke, AKM Khaled Ahsan Talukder, 2013, July. [Is the meta-EA a viable optimization method?](https://dl.acm.org/doi/10.1145/2463372.2465806). In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1533-1540). ACM.
   * Experimental paper: Meta-EAs
   * Algorithms(s): ES (meta-level) + EAs (GA | ES | DE)
