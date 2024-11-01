@@ -132,7 +132,7 @@ Note that we are adding a (still actively updated) set of *top* universities rou
 * [Harvard University](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/Harvard-University.md): [Nobel laureates](https://www.harvard.edu/about/history/nobel-laureates/) + [Turing laureates]()
 * ......
 
-## Financial Support and Open Team
+## Financial Supports and An Open Team
 
 This *ongoing* paper list for EC/SI (previous only for PDEC) was supported by **Shenzhen Fundamental Research
 Program under Grant No. JCYJ20200109141235597** (2,000,000 Yuan from 2021 to 2023). Now it is supported by
