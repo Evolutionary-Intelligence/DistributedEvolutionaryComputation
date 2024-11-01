@@ -143,7 +143,9 @@ contribution from e.g., [Vincent A. Cicirello](https://github.com/cicirello). We
 (unbiased as much as possible) paper-summary project.
 
 Currently, this long-term project is led by **Qiqi Duan** @ SUSTech, Shenzhen, China (Just a fan of both
-**biological and computational evolution**), with the following kindly collaborators:
+**biological and computational evolution**, published in some of top-tier and/or representative journals and
+conferences such as **JMLR** (CCF-A), **TPDS** (CCF-A), **TMLR**, **TEVC** (CCF-B), **PPSN** (CCF-B), etc.),
+with the following kindly collaborators with (more or less) different research interests:
 
 * Yuwei Huang (evolutionary reinforcement learning)
 * Lijun Sun (swarm intelligence and swarm robotics)
