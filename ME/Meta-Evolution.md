@@ -22,6 +22,7 @@
 * Metz, L., Freeman, C.D., Maheswaranathan, N. and Sohl-Dickstein, J., 2021. Training learned optimizers with randomly initialized learned optimizers. arXiv preprint arXiv:2101.07367.
 * Stanley, K.O., Lehman, J. and Soros, L., 2017. [Open-endedness: The last grand challenge you’ve never heard of. While open-endedness could be a force for discovering intelligence, it could also be a component of AI itself](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/).
   * "Almost no one has even heard of this problem, let alone cares about its solution, even though it is among the most fascinating and profound challenges that might actually someday be solved."
+  * "Evolution is also the never-ending algorithm, a process that tirelessly invents ever-greater complexity and novelty across incomprehensible spans of time. In fact, there’s another term that captures this notion of a single process that invents astronomical complexity for near-eternity—we call it “open-ended.”"
 * Sean Luke, AKM Khaled Ahsan Talukder, 2013, July. [Is the meta-EA a viable optimization method?](https://dl.acm.org/doi/10.1145/2463372.2465806). In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 1533-1540). ACM.
   * Experimental paper: Meta-EAs
   * Algorithms(s): ES (meta-level) + EAs (GA | ES | DE)
