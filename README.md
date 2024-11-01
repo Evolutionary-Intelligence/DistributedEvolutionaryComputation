@@ -132,16 +132,18 @@ Note that we are adding a (still actively updated) set of *top* universities rou
 * [Harvard University](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/Harvard-University.md): [Nobel laureates](https://www.harvard.edu/about/history/nobel-laureates/) + [Turing laureates]()
 * ......
 
-## Support
+## Financial Support and Open Team
 
-This *ongoing* paper list for EC (previous only for PDEC) was supported by **Shenzhen Fundamental Research
+This *ongoing* paper list for EC/SI (previous only for PDEC) was supported by **Shenzhen Fundamental Research
 Program under Grant No. JCYJ20200109141235597** (2,000,000 Yuan from 2021 to 2023). Now it is supported by
 National Natural Science Foundation of China under Grant No. 72401122, Guangdong Basic and Applied Basic
 Research Foundation under Grant No. 2024A1515012241 and 2021A1515110024. We also acknowledge the *early*
 contribution from e.g., [Vincent A. Cicirello](https://github.com/cicirello). We thank e.g.,
-[this open-access link](https://cuglirui.github.io/links.htm) to our open project.
+[this open-access link (from a Ph.D. of Tsinghua University)](https://cuglirui.github.io/links.htm) to our
+(unbiased as much as possible) paper-summary project.
 
-This open project is led by Qiqi Duan (Just a fan of both **biological and computational evolution**).
+Currently, this long-term project is led by **Qiqi Duan** @ SUSTech, Shenzhen, China (Just a fan of both
+**biological and computational evolution**), with the following kindly collaborators:
 
 * Yuwei Huang (evolutionary reinforcement learning)
 * Lijun Sun (swarm intelligence and swarm robotics)
