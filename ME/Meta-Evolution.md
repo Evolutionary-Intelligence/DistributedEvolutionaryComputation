@@ -15,7 +15,7 @@
   * "Meta-learning over representations: Such a hierarchically structured organization is intriguingly suggestive of the multi-scaled nature of meta-learning systems"
   * "Meta-learning as latent state and Bayesian inference"
 * Stanley, K.O., 2019. Why open-endedness matters. Artificial Life, 25(3), pp.232-235. [ **Uber AI Labs** ]
-* Taylor, T., 2019. Evolutionary innovations and where to find them: Routes to open-ended evolution in natural and artificial systems. Artificial Life, 25(2), pp.207-224. [ **Monash University** ]
+* Tim Taylor, 2019. [Evolutionary innovations and where to find them: Routes to open-ended evolution in natural and artificial systems](https://direct.mit.edu/artl/article-abstract/25/2/207/2924/Evolutionary-Innovations-and-Where-to-Find-Them). Artificial Life, 25(2), pp.207-224. [ **Monash University** ]
 * Guttenberg, N., Virgo, N. and Penn, A., 2019. On the potential for open-endedness in neural networks. Artificial life, 25(2), pp.145-167.
 * Hellwig, M. and Beyer, H.G., 2019, July. Analysis of a meta-ES on a conically constrained problem. In Proceedings of Annual Conference on Genetic and Evolutionary Computation (pp. 673-681). ACM.
   * Theoretical paper: Dynamics of mutation strength control
