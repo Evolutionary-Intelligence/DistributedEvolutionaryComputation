@@ -142,7 +142,7 @@ contribution from e.g., [Vincent A. Cicirello](https://github.com/cicirello). We
 [this open-access link (from a Ph.D. of Tsinghua University)](https://cuglirui.github.io/links.htm) to our
 (unbiased as much as possible) paper-summary project.
 
-Currently, this long-term project is led by **Qiqi Duan** @ SUSTech, Shenzhen, China (Just a fan of both
+Currently, this long-term project is led by **Qiqi Duan** @ SUSTech, Shenzhen, China (just a fan of both
 **biological and computational evolution**, published in some of top-tier and/or representative journals and
 conferences such as **JMLR** (CCF-A), **TPDS** (CCF-A), **TMLR**, **TEVC** (CCF-B), **PPSN** (CCF-B),
 **GECCO** (CCF-C), **ASC** (JCR-1), **CEC**, **SSCI**, etc.), with the following kindly collaborators of more
