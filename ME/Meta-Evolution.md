@@ -23,7 +23,8 @@
   * Algorithm(s): Meta-ES
   * Problem(s): Conically constrained problem
 * Dolson, E.L., Vostinar, A.E., Wiser, M.J. and Ofria, C., 2019. The MODES toolbox: Measurements of open-ended dynamics in evolving systems. Artificial Life, 25(1), pp.50-73.
-* Howard, D., Eiben, A.E., Kennedy, D.F., Mouret, J.B., Valencia, P. and Winkler, D., 2019. [Evolving embodied intelligence from materials to machines](https://www.nature.com/articles/s42256-018-0009-9). Nature Machine Intelligence, 1(1), pp.12-19.
+* Howard, D., Eiben, A.E., Kennedy, D.F., Mouret, J.B., Valencia, P. and Winkler, D., 2019. [Evolving embodied intelligence from materials to machines](https://www.nature.com/articles/s42256-018-0009-9). Nature Machine Intelligence, 1(1), pp.12-19. [ **Commonwealth Scientific and Industrial Research Organisation (CSIRO) + Vrije Universiteit Amsterdam + Inria + La Trobe University + Monash University**]
+  * "Scalability" + "Self-optimization" + "Re-use" + "Collaboration"
 * Fernando, C., Sygnowski, J., Osindero, S., Wang, J., Schaul, T., Teplyashin, D., Sprechmann, P., Pritzel, A. and Rusu, A., 2018, July. Meta-learning by the baldwin effect. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1313-1320).
 * Stanley, K.O., Lehman, J. and Soros, L., 2017. [Open-endedness: The last grand challenge you’ve never heard of. While open-endedness could be a force for discovering intelligence, it could also be a component of AI itself](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/). O’Reilly Media, Inc.
   * "Almost no one has even heard of this problem, let alone cares about its solution, even though it is among the most fascinating and profound challenges that might actually someday be solved."
