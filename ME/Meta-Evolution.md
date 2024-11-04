@@ -7,6 +7,7 @@
 * Lu, C., Kuba, J., Letcher, A., Metz, L., Schroeder de Witt, C. and Foerster, J., 2022. Discovered policy optimisation. Advances in Neural Information Processing Systems, 35, pp.16455-16468.
 * Kumar, A., Liu, B., Miikkulainen, R. and Stone, P., 2022, July. Effective mutation rate adaptation through group elite selection. In Proceedings of Genetic and Evolutionary Computation Conference (pp. 721-729). ACM.
 * Parker-Holder, J., Jiang, M., Dennis, M., Samvelyan, M., Foerster, J., Grefenstette, E. and Rocktäschel, T., 2022, June. Evolving curricula with regret-based environment design. In International Conference on Machine Learning (pp. 17473-17498). PMLR.
+* Metz, L., Freeman, C.D., Maheswaranathan, N. and Sohl-Dickstein, J., 2021. Training learned optimizers with randomly initialized learned optimizers. arXiv preprint arXiv:2101.07367.
 * Wang, J.X., 2021. Meta-learning in natural and artificial intelligence. Current Opinion in Behavioral Sciences, 38, pp.90-95.
   * "The fundamental principle of meta-learning is that learning proceeds faster with more experience, via the acquisition of inductive biases or knowledge that allows for more efficient learning in the future."
   * "Meta-learning is prevalent in nature, being naturally multi-scaled. ... There exists a range of learning mechanisms that span these different timescales."
@@ -22,8 +23,8 @@
   * Algorithm(s): Meta-ES
   * Problem(s): Conically constrained problem
 * Fernando, C., Sygnowski, J., Osindero, S., Wang, J., Schaul, T., Teplyashin, D., Sprechmann, P., Pritzel, A. and Rusu, A., 2018, July. Meta-learning by the baldwin effect. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1313-1320).
-* Metz, L., Freeman, C.D., Maheswaranathan, N. and Sohl-Dickstein, J., 2021. Training learned optimizers with randomly initialized learned optimizers. arXiv preprint arXiv:2101.07367.
 * Dolson, E.L., Vostinar, A.E., Wiser, M.J. and Ofria, C., 2019. The MODES toolbox: Measurements of open-ended dynamics in evolving systems. Artificial Life, 25(1), pp.50-73.
+* Howard, D., Eiben, A.E., Kennedy, D.F., Mouret, J.B., Valencia, P. and Winkler, D., 2019. Evolving embodied intelligence from materials to machines. Nature Machine Intelligence, 1(1), pp.12-19.
 * Stanley, K.O., Lehman, J. and Soros, L., 2017. [Open-endedness: The last grand challenge you’ve never heard of. While open-endedness could be a force for discovering intelligence, it could also be a component of AI itself](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/). O’Reilly Media, Inc.
   * "Almost no one has even heard of this problem, let alone cares about its solution, even though it is among the most fascinating and profound challenges that might actually someday be solved."
   * "Evolution is also the never-ending algorithm, a process that tirelessly invents ever-greater complexity and novelty across incomprehensible spans of time. In fact, there’s another term that captures this notion of a single process that invents astronomical complexity for near-eternity—we call it “open-ended.”"
