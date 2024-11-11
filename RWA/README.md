@@ -1,5 +1,6 @@
 # Real-World Applications
 
+* [2024]: [https://www.fosterandpartners.com/news/foster-plus-partners-completes-alibaba-s-new-shanghai-offices](https://www.fosterandpartners.com/news/foster-plus-partners-completes-alibaba-s-new-shanghai-offices)
 * [2024]: [https://www.archdaily.com/1022312/genetic-algorithm-to-evolve-the-optimal-massing-an-interview-with-luke-fox-from-foster-plus-partners](https://www.archdaily.com/1022312/genetic-algorithm-to-evolve-the-optimal-massing-an-interview-with-luke-fox-from-foster-plus-partners)
 * [2023]: [https://www.fosterandpartners.com/news/innovation-through-technology-genetic-algorithms](https://www.fosterandpartners.com/news/innovation-through-technology-genetic-algorithms)
 * [2019] 大型客机气动设计综述 [航空学报].pdf: https://hkxb.buaa.edu.cn/EN/lexeme/showArticleByLexeme.do?articleID=17422
