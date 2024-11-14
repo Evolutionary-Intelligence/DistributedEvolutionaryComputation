@@ -78,7 +78,7 @@ similar way to collect literatures regarding EC, which is a good news.
 | Biology | [Nature Ecology & Evolution](https://www.nature.com/natecolevol/) | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Pub/Nature-Ecology%26Evolution.md)
 | Computer Systems | [Design Automation Conference (DAC)]() | EC | [www]()
 | Computer Systems | [International Conference on Computer-Aided Design (ICCAD)]() | EC | [www]()
-| Computer Systems | [Design, Automation & Test in Europe (DATE)]() | EC | [www]()
+| Computer Systems | [Design, Automation & Test in Europe (DATE)]() | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Design-Automation-%26-Test-in-Europe-(DATE).md)
 | EC | [ECJ (Evolutionary Computation Journal)](https://direct.mit.edu/evco) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Evolutionary-Computation-Journal_ECJ.md)
 | EC | [TELO (ACM Transactions on Evolutionary Learning and Optimization)](https://dl.acm.org/journal/telo) | PDEC | [www](https://dl.acm.org/journal/telo)
 | EC | [TEVC (IEEE Transactions on Evolutionary Computation)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)  | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-Transactions-on-Evolutionary-Computation_TEVC.md)
