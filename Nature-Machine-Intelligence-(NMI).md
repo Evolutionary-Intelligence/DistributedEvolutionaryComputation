@@ -1,6 +1,6 @@
 # Nature Machine Intelligence
 
-* Miikkulainen, R. and Forrest, S., 2021. [A biological perspective on evolutionary computation](https://www.nature.com/articles/s42256-020-00278-8). Nature Machine Intelligence, 3(1), pp.9-15. ( **EC** )
+* Miikkulainen, R. and Forrest, S., 2021. [A biological perspective on evolutionary computation](https://www.nature.com/articles/s42256-020-00278-8). Nature Machine Intelligence, 3(1), pp.9-15. { **EC** }
 
 * Kudithipudi, D., Aguilar-Simon, M., Babb, J., Bazhenov, M., Blackiston, D., Bongard, J., Brna, A.P., Chakravarthi Raja, S., Cheney, N., Clune, J. and Daram, A., 2022. Biological underpinnings for lifelong learning machines. Nature Machine Intelligence, 4(3), pp.196-210. [ [www](https://www.nature.com/articles/s42256-022-00452-0) ]
 * Shah, D.S., Powers, J.P., Tilton, L.G., Kriegman, S., Bongard, J. and Kramer-Bottiglio, R., 2021. A soft robot that adapts to environments through shape change. Nature Machine Intelligence, 3(1), pp.51-59. [ [www](https://www.nature.com/articles/s42256-020-00263-1) | [Julia](https://zenodo.org/record/4067077#.YS5HFDMzYuU) ] (**HC** | **NES** | **ER**)
