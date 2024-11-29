@@ -1,5 +1,7 @@
 # Science
 
+* Schmidt, M. and Lipson, H., 2009. [Distilling free-form natural laws from experimental data](https://science.sciencemag.org/content/324/5923/81.abstract). Science, 324(5923), pp.81-85. [ [eureqa](https://www.creativemachineslab.com/eureqa.html) ]
+
 * Ma, D., Hu, M., Yang, X., Liu, Q., Ye, F., Cai, W., Wang, Y., Xu, X., Chang, S., Wang, R. and Yang, W., 2024. [Structural basis for sugar perception by Drosophila gustatory receptors](https://www.science.org/doi/abs/10.1126/science.adj2609). Science, p.eadj2609. [**GA**]
   * "Genetic algorithm (GA) was used for the global conformation searching. Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm or Stochastic Steepest Descent (SSD) algorithm was used for local optimization."
 * Higgins, S.I., Conradi, T., Kruger, L.M., O’Hara, R.B. and Slingsby, J.A., 2023. [Limited climatic space for alternative ecosystem states in Africa](https://www.science.org/doi/10.1126/science.add5190). Science, 380(6649), pp.1038-1042. < **DE** >
@@ -42,7 +44,6 @@ is determined to be the momentum shift induced by the streaking field."
     * A. O. Lyakhov, A. R. Oganov, H. T. Stokes, Q. Zhu, Comput. Phys. Commun. 184, 1172–1182 (2013).
     * A. R. Oganov, A. O. Lyakhov, M. Valle, Acc. Chem. Res. 44, 227–237 (2011).
     * A. R. Oganov, Y. Ma, A. O. Lyakhov, M. Valle, C. Gatti, Rev. Mineral. Geochem. 71, 271–298 (2010).
-* Schmidt, M. and Lipson, H., 2009. Distilling free-form natural laws from experimental data. Science, 324(5923), pp.81-85. [ [www](https://science.sciencemag.org/content/324/5923/81.abstract) | [eureqa](https://www.creativemachineslab.com/eureqa.html) ] ( **GP** | **Parallel** )
 * Pfeifer, R., Lungarella, M. and Iida, F., 2007. Self-organization, embodiment, and biologically inspired robotics. Science, 318(5853), pp.1088-1093. [ [www](https://www.science.org/doi/abs/10.1126/science.1145803) ]
 * Bongard, J., Zykov, V. and Lipson, H., 2006. Resilient machines through continuous self-modeling. Science, 314(5802), pp.1118-1121. [ [www](https://science.sciencemag.org/content/314/5802/1118) ] ( **ER** )
 * Assion, A., Baumert, T., Bergt, M., Brixner, T., Kiefer, B., Seyfried, V., Strehle, M. and Gerber, G., 1998. Control of chemical reactions by feedback-optimized phase-shaped femtosecond laser pulses. Science, 282(5390), pp.919-922. [ [www](https://www.science.org/doi/abs/10.1126/science.282.5390.919) ] ( **GA** | **ES** )
