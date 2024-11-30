@@ -71,6 +71,10 @@
 
 * Menke, T., 2022. Classical and quantum optimization of quantum processors (**Doctoral dissertation, Harvard University**).
 
+### 2020
+
+* Zang, Y., Qi, F., Yang, C., Liu, Z., Zhang, M., Liu, Q. and Sun, M., 2020, July. Word-level textual adversarial attacking as combinatorial optimization. In Proceedings of Annual Meeting of the Association for Computational Linguistics (pp. 6066-6080).
+
 ### 2018
 
 * Yang, S., Pan, Z., Amert, T., Wang, K., Yu, L., Berg, T. and Lin, M.C., 2018. Physics-inspired garment recovery from a single-view image. **ACM Transactions on Graphics**, 37(5), pp.1-14.
