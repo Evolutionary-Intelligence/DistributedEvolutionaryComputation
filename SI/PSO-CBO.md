@@ -82,6 +82,10 @@
 
 * Yang, S., Pan, Z., Amert, T., Wang, K., Yu, L., Berg, T. and Lin, M.C., 2018. Physics-inspired garment recovery from a single-view image. **ACM Transactions on Graphics**, 37(5), pp.1-14.
 
+### 2004
+
+* Boeringer, D.W. and Werner, D.H., 2004. Particle swarm optimization versus genetic algorithms for phased array synthesis. IEEE Transactions on Antennas and Propagation, 52(3), pp.771-779.
+
 ## Baselines
 
 * Vermetten, D., Doerr, C., Wang, H., Kononova, A.V. and Bäck, T., 2024, July. Large-scale Benchmarking of Metaphor-based Optimization Heuristics. In Proceedings of the Genetic and Evolutionary Computation Conference (pp. 41-49).
