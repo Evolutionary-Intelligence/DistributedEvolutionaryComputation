@@ -16,6 +16,14 @@
 * Bertoni, A. and Dorigo, M., 1993. Implicit parallelism in genetic algorithms. Artificial Intelligence, 61(2), pp.307-314. [ [www](https://www.sciencedirect.com/science/article/abs/pii/000437029390071I) ] ( **GA** )
 * Booker, L.B., Goldberg, D.E. and Holland, J.H., 1989. Classifier systems and genetic algorithms. Artificial Intelligence, 40(1-3), pp.235-282. [ [www](https://www.sciencedirect.com/science/article/abs/pii/0004370289900507) ] ( **GA** )
 
+## 2024
+
+Costa, V.G., Pérez-Aracil, J., Salcedo-Sanz, S. and Pedreira, C.E., 2024. Evolving interpretable decision trees for reinforcement learning. Artificial Intelligence, 327, p.104057. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370223002035) ]
+
+Dang, D.C., Opris, A. and Sudholt, D., 2024. Crossover can guarantee exponential speed-ups in evolutionary multi-objective optimisation. Artificial Intelligence, 330, p.104098. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370224000341) ]
+
+Li, K., Xu, H., Fu, H., Fu, Q. and Xing, J., 2024. Automatically designing counterfactual regret minimization algorithms for solving imperfect-information games. Artificial Intelligence, 337, p.104232. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370224001681) ]
+
 ## 2015
 
 Li, M.Q., Yang, S.X. and Liu, X.H., 2015. Bi-goal evolution for many-objective optimization problems. Artificial Intelligence, 228, pp.45-65. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370215000995) ]
