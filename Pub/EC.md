@@ -38,12 +38,12 @@ For more details about the **history** and **classification** of EC, refer to th
   * De Jong, K.A., 1992. [Are genetic algorithms function optimizer?](https://www.mli.gmu.edu/papers/91-95/92-20.pdf). Parallel Problem Solving from Nature, pp.3-13.
   * De Jong, K.A., 1988. [Learning with genetic algorithms: An overview](https://link.springer.com/article/10.1007/BF00113894). Machine Learning, 3, pp.121-138.
 * Holland, J.H., 1962. [Outline for a logical theory of adaptive systems](https://dl.acm.org/doi/10.1145/321127.321128). Journal of the ACM, 9(3), pp.297-314. [ [UMICH Ph.D.](https://www.proquest.com/openview/9c228542954e5bb676739359ff6341ef/1?pq-origsite=gscholar&cbl=18750&diss=y) ]
+  * Forrest, S. and Mitchell, M., 2016. [Adaptive computation: The multidisciplinary legacy of John H. Holland](https://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/abstract). Communications of the ACM, 59(8), pp.58-63.
+  * Husbands, P., 2008. [An interview with John Holland](https://users.sussex.ac.uk/~philh/pubs/HollandINTV.pdf). Mechanical Mind in History, p.389.
   * Holland, J.H., 1992. [Genetic algorithms](https://www.scientificamerican.com/article/genetic-algorithms/). Scientific American, 267(1), pp.66-73.
   * Holland, J.H., 1992. [Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence](https://direct.mit.edu/books/book/2574/Adaptation-in-Natural-and-Artificial-SystemsAn). MIT Press.
   * Holland, J.H., 1975. [Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence](https://direct.mit.edu/books/book/2574/Adaptation-in-Natural-and-Artificial-SystemsAn). University of Michigan Press.
   * Holland, J.H., 1973. [Genetic algorithms and the optimal allocation of trials](https://epubs.siam.org/doi/10.1137/0202009). SIAM Journal on Computing, 2(2), pp.88-105.
-  * Husbands, P., 2008. [An interview with John Holland](https://users.sussex.ac.uk/~philh/pubs/HollandINTV.pdf). Mechanical Mind in History, p.389.
-  * Forrest, S. and Mitchell, M., 2016. [Adaptive computation: The multidisciplinary legacy of John H. Holland](https://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/abstract). Communications of the ACM, 59(8), pp.58-63.
 
 ## Evolution Strategies (ES)
 
