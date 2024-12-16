@@ -5,10 +5,6 @@
 * [Forrest, S.](https://www.cs.unm.edu/~forrest/), 1993. [Genetic algorithms: Principles of natural selection applied to computation](https://www.science.org/doi/10.1126/science.8346439). Science, 261(5123), pp.872-878.
 * Bounds, D.G., 1987. [New optimization methods from physics and biology](https://www.nature.com/articles/329215a0). Nature, 329(6136), pp.215-219.
 
-For more details about the **history** and **classification** of EC, refer to the following wonderful books and papers, just to name a few:
-
-* Banzhaf, W. and Machado, P., 2023. Fundamentals of evolutionary machine learning. In Handbook of Evolutionary Machine Learning (pp. 3-28). Singapore: Springer Nature Singapore.
-* [Schoenauer, M.](https://www.lri.fr/~marc/), 2015. [Evolutionary algorithms](https://link.springer.com/chapter/10.1007/978-94-017-9014-7_28). Handbook of Evolutionary Thinking in the Sciences. Springer.
 * [Fogel, D.B.](http://www.davidfogel.com/), 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://ieeexplore.ieee.org/book/5237910). John Wiley & Sons.
   * Fogel, D.B., 1998. [Evolutionary computation: The fossil record](https://ieeexplore.ieee.org/book/5263042). IEEE Press.
   * Fogel, D.B., 1998. [Unearthing a fossil from the history of evolutionary computation](https://dl.acm.org/doi/10.5555/2379195.2379196). Fundamenta Informaticae, 35(1-4), pp.1-16.
