@@ -4,10 +4,6 @@
 * Bonabeau, E., [Dorigo, M.](https://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/index.php) and Theraulaz, G., 2000. [Inspiration for optimization from social insect behaviour](https://www.nature.com/articles/35017500). Nature, 406(6791), pp.39-42.
 * [Forrest, S.](https://www.cs.unm.edu/~forrest/), 1993. [Genetic algorithms: Principles of natural selection applied to computation](https://www.science.org/doi/10.1126/science.8346439). Science, 261(5123), pp.872-878.
 * Bounds, D.G., 1987. [New optimization methods from physics and biology](https://www.nature.com/articles/329215a0). Nature, 329(6136), pp.215-219.
-
-* [Fogel, D.B.](http://www.davidfogel.com/), 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://ieeexplore.ieee.org/book/5237910). John Wiley & Sons.
-  * Fogel, D.B., 1998. [Evolutionary computation: The fossil record](https://ieeexplore.ieee.org/book/5263042). IEEE Press.
-  * Fogel, D.B., 1998. [Unearthing a fossil from the history of evolutionary computation](https://dl.acm.org/doi/10.5555/2379195.2379196). Fundamenta Informaticae, 35(1-4), pp.1-16.
 * [Back, T.](https://www.universiteitleiden.nl/en/staffmembers/thomas-back), Hammel, U. and [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1997. [Evolutionary computation: Comments on the history and current state](https://ieeexplore.ieee.org/document/585888). IEEE Transactions on Evolutionary Computation, 1(1), pp.3-17.
   * [Back, T.](https://www.universiteitleiden.nl/en/staffmembers/thomas-back), 1996. [Evolutionary algorithms in theory and practice: Evolution strategies, evolutionary programming, genetic algorithms](https://academic.oup.com/book/40791). Oxford University Press.
   * [Bäck, T.](https://www.universiteitleiden.nl/en/staffmembers/thomas-back) and [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1993. [An overview of evolutionary algorithms for parameter optimization](https://direct.mit.edu/evco/article-abstract/1/1/1/1092/An-Overview-of-Evolutionary-Algorithms-for). Evolutionary Computation, 1(1), pp.1-23.
@@ -90,10 +86,13 @@
 * Fogel, D.B., Hays, T.J., Hahn, S.L. and Quon, J., 2004. [A self-learning evolutionary chess program](https://ieeexplore.ieee.org/abstract/document/1360168). Proceedings of the IEEE, 92(12), pp.1947-1954.
   * Chellapilla, K. and Fogel, D.B., 1999. [Evolution, neural networks, games, and intelligence](https://ieeexplore.ieee.org/abstract/document/784222). Proceedings of the IEEE, 87(9), pp.1471-1496.
 * Yao, X., Liu, Y. and Lin, G., 1999. [Evolutionary programming made faster](https://ieeexplore.ieee.org/abstract/document/771163). IEEE Transactions on Evolutionary Computation, 3(2), pp.82-102.
-* Fogel, D.B., 1999. [An overview of evolutionary programming](https://link.springer.com/chapter/10.1007/978-1-4612-1542-4_5). In Evolutionary Algorithms (pp. 89-109). Springer, New York, NY.
+* Fogel, D.B., 1994. [Evolutionary programming: An introduction and some current directions](https://link.springer.com/article/10.1007/BF00175356). Statistics and Computing, 4, pp.113-129.
+  * [Fogel, D.B.](http://www.davidfogel.com/), 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://ieeexplore.ieee.org/book/5237910). John Wiley & Sons.
+  * Fogel, D.B., 1999. [An overview of evolutionary programming](https://link.springer.com/chapter/10.1007/978-1-4612-1542-4_5). In Evolutionary Algorithms (pp. 89-109). Springer, New York, NY.
+  * Fogel, D.B., 1998. [Evolutionary computation: The fossil record](https://ieeexplore.ieee.org/book/5263042). IEEE Press.
+  * Fogel, D.B., 1998. [Unearthing a fossil from the history of evolutionary computation](https://dl.acm.org/doi/10.5555/2379195.2379196). Fundamenta Informaticae, 35(1-4), pp.1-16.
   * Fogel, D.B. and Fogel, L.J., 1995, September. [An introduction to evolutionary programming](https://link.springer.com/chapter/10.1007/3-540-61108-8_28). In European Conference on Artificial Evolution (pp. 21-33). Springer, Berlin, Heidelberg.
   * Fogel, D.B., 1994. [An introduction to simulated evolutionary optimization](https://ieeexplore.ieee.org/abstract/document/265956). IEEE Transactions on Neural Networks, 5(1), pp.3-14.
-  * Fogel, D.B., 1994. [Evolutionary programming: An introduction and some current directions](https://link.springer.com/article/10.1007/BF00175356). Statistics and Computing, 4, pp.113-129.
 * Fogel, D.B., Fogel, L.J. and Atmar, J.W., 1991, January. [Meta-evolutionary programming](https://ieeexplore.ieee.org/document/186507). In Conference Record of Asilomar Conference on Signals, Systems & Computers (pp. 540-541). IEEE Computer Society.
 * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1965. [Intelligent decision making through a simulation of evolution](https://ieeexplore.ieee.org/document/6591252). IEEE Transactions on Human Factors in Electronics, 6(1), pp.13-23. [ LAWRENCE J. FOGEL : IEEE Frank Rosenblatt Award + IEEE Evolutionary Computation Pioneer Award + IEEE Life Fellow ]
   * Fogel, L.J., Owens, A.J. and Walsh, M.J., 1965. [Intelligent decision-making through a simulation of evolution](https://journals.sagepub.com/doi/abs/10.1177/003754976500500413?journalCode=simb). Simulation, 5(4), pp.267-279.
