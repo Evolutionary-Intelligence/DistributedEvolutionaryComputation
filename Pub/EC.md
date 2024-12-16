@@ -9,8 +9,6 @@ For more details about the **history** and **classification** of EC, refer to th
 
 * Banzhaf, W. and Machado, P., 2023. Fundamentals of evolutionary machine learning. In Handbook of Evolutionary Machine Learning (pp. 3-28). Singapore: Springer Nature Singapore.
 * [Schoenauer, M.](https://www.lri.fr/~marc/), 2015. [Evolutionary algorithms](https://link.springer.com/chapter/10.1007/978-94-017-9014-7_28). Handbook of Evolutionary Thinking in the Sciences. Springer.
-* De Jong, K.A., 2006. [Evolutionary computation: A unified approach](https://ieeexplore.ieee.org/book/6267245). MIT Press.
-  * De Jong, K.A., Fogel, D.B. and Schwefel, H.P., 1997. [A history of evolutionary computation](https://www.taylorfrancis.com/chapters/edit/10.1201/9781482268713-13/history-evolutionary-computation). Handbook of Evolutionary Computation. Oxford University Press.
 * [Fogel, D.B.](http://www.davidfogel.com/), 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://ieeexplore.ieee.org/book/5237910). John Wiley & Sons.
   * Fogel, D.B., 1998. [Evolutionary computation: The fossil record](https://ieeexplore.ieee.org/book/5263042). IEEE Press.
   * Fogel, D.B., 1998. [Unearthing a fossil from the history of evolutionary computation](https://dl.acm.org/doi/10.5555/2379195.2379196). Fundamenta Informaticae, 35(1-4), pp.1-16.
@@ -35,7 +33,8 @@ For more details about the **history** and **classification** of EC, refer to th
   * Goldberg, D.E. and Holland, J.H., 1988. [Genetic algorithms and machine learning](https://link.springer.com/article/10.1023/A:1022602019183). Machine Learning, 3(2), pp.95-99.
   * Goldberg, D.E., 1994. [Genetic and evolutionary algorithms come of age](https://dl.acm.org/doi/10.1145/175247.175259). Communications of the ACM, 37(3), pp.113-120.
 * De Jong, K.A., 1975. [An analysis of the behavior of a class of genetic adaptive systems](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/4507/bab6360.0001.001.pdf). Doctoral Dissertation, University of Michigan.
-  * De Jong, K.A., 1992. [Are genetic algorithms function optimizer?](https://www.mli.gmu.edu/papers/91-95/92-20.pdf). Parallel Problem Solving from Nature, pp.3-13.
+  * De Jong, K.A., 2006. [Evolutionary computation: A unified approach](https://ieeexplore.ieee.org/book/6267245). MIT Press.
+  * De Jong, K.A., 1992. [Are genetic algorithms function optimizer?](https://www.mli.gmu.edu/papers/91-95/92-20.pdf). International Conference on Parallel Problem Solving from Nature, pp.3-13.
   * De Jong, K.A., 1988. [Learning with genetic algorithms: An overview](https://link.springer.com/article/10.1007/BF00113894). Machine Learning, 3, pp.121-138.
 * Holland, J.H., 1962. [Outline for a logical theory of adaptive systems](https://dl.acm.org/doi/10.1145/321127.321128). Journal of the ACM, 9(3), pp.297-314. [ [UMICH Ph.D.](https://www.proquest.com/openview/9c228542954e5bb676739359ff6341ef/1?pq-origsite=gscholar&cbl=18750&diss=y) ]
   * Forrest, S. and Mitchell, M., 2016. [Adaptive computation: The multidisciplinary legacy of John H. Holland](https://cacm.acm.org/magazines/2016/8/205047-adaptive-computation/abstract). Communications of the ACM, 59(8), pp.58-63.
