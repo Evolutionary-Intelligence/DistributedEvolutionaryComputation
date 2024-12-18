@@ -11,6 +11,8 @@ Bubeck, S., Eldan, R. and Lee, Y.T., 2021. Kernel-based methods for bandit conve
 
 Feldman, V., Grigorescu, E., Reyzin, L., Vempala, S.S. and Xiao, Y., 2017. Statistical algorithms and a lower bound for detecting planted cliques. Journal of the ACM, 64(2), pp.1-37. [ [www](https://dl.acm.org/doi/10.1145/3046674) ]
 
+Yamauchi, Y., Uehara, T., Kijima, S. and Yamashita, M., 2017. Plane formation by synchronous mobile robots in the three-dimensional euclidean space. Journal of the ACM (JACM), 64(3), pp.1-43. [[www](https://dl.acm.org/doi/abs/10.1145/3060272) | [pdf](https://hal.science/hal-01206131v1/file/07.pdf)]
+
 ## 2009
 
 Štefankovič, D., Vempala, S. and Vigoda, E., 2009. Adaptive simulated annealing: A near-optimal connection between sampling and counting. Journal of the ACM, 56(3), pp.1-36. [ [www](https://dl.acm.org/doi/abs/10.1145/1516512.1516520) ]
