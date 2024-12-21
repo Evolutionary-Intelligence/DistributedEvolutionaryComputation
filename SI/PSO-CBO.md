@@ -2,7 +2,7 @@
 
 ## 2024
 
-* Yang, F., Zhang, Z., Xu, L., Liu, Z., Jin, P., Zhuang, P., Lei, M., Liu, J., Jiang, J.H., Ouyang, X. and Marchesoni, F., 2024. Controlling mass and energy diffusion with metamaterials. **Reviews of Modern Physics**, 96(1), p.015002.
+* Yang, F., Zhang, Z., Xu, L., Liu, Z., Jin, P., Zhuang, P., Lei, M., Liu, J., Jiang, J.H., Ouyang, X. and Marchesoni, F., 2024. [Controlling mass and energy diffusion with metamaterials](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.96.015002). **Reviews of Modern Physics**, 96(1), p.015002.
 * Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024. Machine learning reveals the control mechanics of an insect wing hinge. **Nature**, pp.1-9.
 * Stolze, L., Arora, B., Dwivedi, D., Steefel, C.I., Bandai, T., Wu, Y. and Nico, P., 2024. Climate forcing controls on carbon terrestrial fluxes during shale weathering. **Proceedings of the National Academy of Sciences**, 121(27), p.e2400230121.
 * Bungert, L., Roith, T. and Wacker, P., 2024. Polarized consensus-based dynamics for optimization and sampling. **Mathematical Programming**, pp.1-31.
