@@ -3,9 +3,9 @@
 ## 2024
 
 * Yang, F., Zhang, Z., Xu, L., Liu, Z., Jin, P., Zhuang, P., Lei, M., Liu, J., Jiang, J.H., Ouyang, X. and Marchesoni, F., 2024. [Controlling mass and energy diffusion with metamaterials](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.96.015002). **Reviews of Modern Physics**, 96(1), p.015002.
-  * Zhang, C., Li, T., Jin, P., Yuan, Y., Ouyang, X., Marchesoni, F. and Huang, J., 2022. Extracting stellar emissivity via a machine learning analysis of MSX and LAMOST catalog data. Physical Review D, 106(12), p.123035.
-  * Jin, P., Yang, S., Xu, L., Dai, G., Huang, J. and Ouyang, X., 2021. Particle swarm optimization for realizing bilayer thermal sensors with bulk isotropic materials. International Journal of Heat and Mass Transfer, 172, p.121177.
-  * Alekseev, G.V. and Tereshko, D.A., 2019. Particle swarm optimization-based algorithms for solving inverse problems of designing thermal cloaking and shielding devices. International journal of heat and mass transfer, 135, pp.1269-1277.
+  * Zhang, C., Li, T., Jin, P., Yuan, Y., Ouyang, X., Marchesoni, F. and Huang, J., 2022. Extracting stellar emissivity via a machine learning analysis of MSX and LAMOST catalog data. Physical Review D, 106(12), p.123035. <**Abstract**>
+  * Jin, P., Yang, S., Xu, L., Dai, G., Huang, J. and Ouyang, X., 2021. **Particle swarm optimization for realizing bilayer thermal sensors with bulk isotropic materials**. International Journal of Heat and Mass Transfer, 172, p.121177.
+  * Alekseev, G.V. and Tereshko, D.A., 2019. **Particle swarm optimization-based algorithms for solving inverse problems of designing thermal cloaking and shielding devices**. International Journal of Heat and Mass Transfer, 135, pp.1269-1277.
   * Alekseev, G.V., 2018. Analysis of a two-dimensional thermal cloaking problem on the basis of optimization. Computational Mathematics and Mathematical Physics, 58, pp.478-492.
   * Alekseev, G.V., Levin, V.A. and Tereshko, D.A., 2017, October. The optimization method in design problems of spherical layered thermal shells. In Doklady Physics (Vol. 62, pp. 465-469). Pleiades Publishing.
   * Alekseev, G.V., Levin, V.A. and Tereshko, D.A., 2017, February. Optimization analysis of the thermal cloaking problem for a cylindrical body. In Doklady Physics (Vol. 62, pp. 71-75). Pleiades Publishing.
