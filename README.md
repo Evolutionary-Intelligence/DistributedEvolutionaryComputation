@@ -152,6 +152,6 @@ collaborators:
 *  (evolutionary reinforcement learning)
 * Lijun Sun (swarm intelligence and swarm robotics)
 * Yajing Tan (swarm intelligence for large language models)
-* Xingyu Zhou (evolutionary computation for machine learning)
+*  (evolutionary computation for machine learning)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
