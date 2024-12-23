@@ -79,6 +79,7 @@ similar way to collect literatures regarding EC, which is a good news.
 | Computer Systems | [Design Automation Conference (DAC)]() | EC | [www]()
 | Computer Systems | [International Conference on Computer-Aided Design (ICCAD)]() | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/International-Conference-on-Computer-Aided-Design-(ICCAD).md)
 | Computer Systems | [Design, Automation & Test in Europe (DATE)]() | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Design-Automation-%26-Test-in-Europe-(DATE).md)
+| Astronomy | [Monthly Notices of the Royal Astronomical Society (MNRAS)](https://academic.oup.com/mnras) | EC/SI | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Monthly-Notices-of-the-Royal-Astronomical-Society-(MNRAS).md)
 | EC | [ECJ (Evolutionary Computation Journal)](https://direct.mit.edu/evco) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Evolutionary-Computation-Journal_ECJ.md)
 | EC | [TELO (ACM Transactions on Evolutionary Learning and Optimization)](https://dl.acm.org/journal/telo) | PDEC | [www](https://dl.acm.org/journal/telo)
 | EC | [TEVC (IEEE Transactions on Evolutionary Computation)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)  | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/IEEE-Transactions-on-Evolutionary-Computation_TEVC.md)
