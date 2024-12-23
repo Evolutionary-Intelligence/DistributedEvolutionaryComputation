@@ -140,18 +140,19 @@ contribution from [Vincent A. Cicirello](https://github.com/cicirello). We thank
 [link (from a PhD candidate of Tsinghua)](https://cuglirui.github.io/links.htm) to this
 (unbiased as much as possible) paper-summary project.
 
-## An Open Team for Summary
+## An Open Team for Paper Summary
 
-Currently, this **long-term** project is led by **Qiqi Duan** @SUSTech, Shenzhen, China
-(just a fan of both **biological and computational evolution**, published in some of
-**top-tier** and/or **representative** journals and conferences such as **JMLR**
-(CCF-A), **TPDS** (CCF-A), **TMLR**, **TEVC** (CCF-B), **PPSN** (CCF-B), **GECCO**
-(CCF-C), **ASOC** (JCR-1), **CEC**, **SSCI**, etc.), with the following kindly
-collaborators:
+Currently, this **long-term** open project is led by **Qiqi Duan** and **Qi Zhao**
+@SUSTech, Shenzhen, China, with the following kindly collaborators:
 
 *  (evolutionary reinforcement learning)
 * Lijun Sun (swarm intelligence and swarm robotics)
 * Yajing Tan (swarm intelligence for large language models)
 *  (evolutionary computation for machine learning)
+
+**Qiqi Duan** is **just a fan** of both **biological and computational evolution**,
+published in some of **top-tier** and/or **representative** journals and
+conferences such as **JMLR** (CCF-A), **TPDS** (CCF-A), **TMLR**, **TEVC** (CCF-B),
+**PPSN** (CCF-B), **GECCO** (CCF-C), **ASOC** (JCR-1), **CEC**, **SSCI**, etc.).
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
