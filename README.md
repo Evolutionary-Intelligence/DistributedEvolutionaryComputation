@@ -79,6 +79,7 @@ similar way to collect literatures regarding EC, which is a good news.
 | Computer Systems | [Design Automation Conference (DAC)]() | EC | [www]()
 | Computer Systems | [International Conference on Computer-Aided Design (ICCAD)]() | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/International-Conference-on-Computer-Aided-Design-(ICCAD).md)
 | Computer Systems | [Design, Automation & Test in Europe (DATE)]() | EC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Design-Automation-%26-Test-in-Europe-(DATE).md)
+| Astronomy | [Astronomy & Astrophysics (A&A)](https://www.aanda.org/) | EC/SI | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Astronomy-%26-Astrophysics-(A%26A).md)
 | Astronomy | [Monthly Notices of the Royal Astronomical Society (MNRAS)](https://academic.oup.com/mnras) | EC/SI | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Monthly-Notices-of-the-Royal-Astronomical-Society-(MNRAS).md)
 | Astronomy | [The Astrophysical Journal (ApJ)](https://iopscience.iop.org/journal/0004-637X) | EC/SI | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/The-Astrophysical-Journal-(ApJ).md)
 | EC | [ECJ (Evolutionary Computation Journal)](https://direct.mit.edu/evco) | PDEC | [www](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Evolutionary-Computation-Journal_ECJ.md)
