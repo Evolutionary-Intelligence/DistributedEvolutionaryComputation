@@ -129,7 +129,7 @@
 
 ##
 
-@inproceedings{IEEE-CEC-1995,
+@inproceedings{1995-IEEE-CEC,
   title={Particle swarm optimization},
   author={Kennedy, James and Eberhart, Russell},
   booktitle={Proceedings of International Conference on Neural Networks},
