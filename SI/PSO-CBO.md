@@ -148,4 +148,13 @@
   organization={IEEE}
 }
 
+@article{1997-AAAI,
+  title={Minds and cultures: Particle swarm implications},
+  author={Kennedy, James},
+  journal={Socially Intelligent Agents},
+  pages={67--72},
+  year={1997},
+  organization={AAAI}
+}
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-PSO)
