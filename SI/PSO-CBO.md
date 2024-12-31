@@ -95,6 +95,7 @@
 ### 2017
 
 * Audet, C. and Hare, W., 2017. [Derivative-free and blackbox optimization](). Springer.
+* Bonyadi, M.R. and Michalewicz, Z., 2017. Particle swarm optimization for single objective continuous space problems: A review. Evolutionary computation, 25(1), pp.1-54.
 * Yue, C., Qu, B. and Liang, J., 2017. A multiobjective particle swarm optimizer using ring topology for solving multimodal multiobjective problems. IEEE Transactions on Evolutionary Computation, 22(5), pp.805-817.
 
 ### 2004
