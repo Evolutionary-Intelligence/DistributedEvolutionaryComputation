@@ -139,4 +139,13 @@
   organization={IEEE}
 }
 
+@inproceedings{1995-IEEE-MHS,
+  title={A new optimizer using particle swarm theory},
+  author={Eberhart, Russell and Kennedy, James},
+  booktitle={Proceedings of International Symposium on Micro Machine and Human Science},
+  pages={39--43},
+  year={1995},
+  organization={IEEE}
+}
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-PSO)
