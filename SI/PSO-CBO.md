@@ -94,6 +94,7 @@
 
 ### 2017
 
+* Pinnau, R., Totzeck, C., Tse, O. and Martin, S., 2017. A consensus-based model for global optimization and its mean-field limit. Mathematical Models and Methods in Applied Sciences, 27(01), pp.183-204.
 * Ulman, V., Maška, M., Magnusson, K.E., Ronneberger, O., Haubold, C., Harder, N., Matula, P., Matula, P., Svoboda, D., Radojevic, M. and Smal, I., 2017. An objective comparison of cell-tracking algorithms. **Nature Methods**, 14(12), pp.1141-1152.
 * Audet, C. and Hare, W., 2017. [Derivative-free and blackbox optimization](). Springer.
 * Verma, A. and Kaushal, S., 2017. A hybrid multi-objective particle swarm optimization for scientific workflow scheduling. Parallel Computing, 62, pp.1-19.
