@@ -94,6 +94,7 @@
 
 ### 2017
 
+* Villeneuve, D.M., Hockett, P., Vrakking, M.J.J. and Niikura, H., 2017. Coherent imaging of an attosecond electron wave packet. **Science**, 356(6343), pp.1150-1153.
 * Pinnau, R., Totzeck, C., Tse, O. and Martin, S., 2017. A consensus-based model for global optimization and its mean-field limit. Mathematical Models and Methods in Applied Sciences, 27(01), pp.183-204.
 * Ulman, V., Maška, M., Magnusson, K.E., Ronneberger, O., Haubold, C., Harder, N., Matula, P., Matula, P., Svoboda, D., Radojevic, M. and Smal, I., 2017. An objective comparison of cell-tracking algorithms. **Nature Methods**, 14(12), pp.1141-1152.
 * Audet, C. and Hare, W., 2017. [Derivative-free and blackbox optimization](). Springer.
