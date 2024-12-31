@@ -111,6 +111,10 @@
 
 * Boeringer, D.W. and Werner, D.H., 2004. Particle swarm optimization versus genetic algorithms for phased array synthesis. IEEE Transactions on Antennas and Propagation, 52(3), pp.771-779.
 
+### 1997
+
+* Kennedy, J., 1997. Minds and cultures: Particle swarm implications. Socially Intelligent Agents, pp.67-72.
+
 ### 1995
 
 * Kennedy, J. and Eberhart, R., 1995, November. Particle swarm optimization. In Proceedings of International Conference on Neural Networks (pp. 1942-1948). IEEE.
