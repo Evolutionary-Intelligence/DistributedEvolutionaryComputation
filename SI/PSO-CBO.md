@@ -127,4 +127,16 @@
 * Camacho‐Villalón, C.L., Dorigo, M. and Stützle, T., 2023. Exposing the grey wolf, moth‐flame, whale, firefly, bat, and antlion algorithms: six misleading optimization techniques inspired by bestial metaphors. International Transactions in Operational Research, 30(6), pp.2945-2971.
 * Bartz-Beielstein, T., et al., 2020. Benchmarking in optimization: Best practice and open issues. arXiv preprint arXiv:2007.03488.
 
+##
+
+@inproceedings{IEEE-CEC-1995,
+  title={Particle swarm optimization},
+  author={Kennedy, James and Eberhart, Russell},
+  booktitle={Proceedings of International Conference on Neural Networks},
+  volume={4},
+  pages={1942--1948},
+  year={1995},
+  organization={IEEE}
+}
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-PSO)
