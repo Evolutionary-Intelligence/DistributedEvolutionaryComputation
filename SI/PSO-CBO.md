@@ -95,6 +95,7 @@
 ### 2017
 
 * Audet, C. and Hare, W., 2017. [Derivative-free and blackbox optimization](). Springer.
+* Yue, C., Qu, B. and Liang, J., 2017. A multiobjective particle swarm optimizer using ring topology for solving multimodal multiobjective problems. IEEE Transactions on Evolutionary Computation, 22(5), pp.805-817.
 
 ### 2004
 
