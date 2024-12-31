@@ -103,6 +103,7 @@
 * Bonyadi, M.R. and Michalewicz, Z., 2017. Particle swarm optimization for single objective continuous space problems: A review. Evolutionary Computation, 25(1), pp.1-54.
 * Yue, C., Qu, B. and Liang, J., 2017. A multiobjective particle swarm optimizer using ring topology for solving multimodal multiobjective problems. IEEE Transactions on Evolutionary Computation, 22(5), pp.805-817.
 * Yang, Q., Chen, W.N., Da Deng, J., Li, Y., Gu, T. and Zhang, J., 2017. A level-based learning swarm optimizer for large-scale optimization. IEEE Transactions on Evolutionary Computation, 22(4), pp.578-594.
+* Marinakis, Y., Migdalas, A. and Sifaleras, A., 2017. A hybrid particle swarm optimization–variable neighborhood search algorithm for constrained shortest path problems. European Journal of Operational Research, 261(3), pp.819-834.
 
 ### 2004
 
