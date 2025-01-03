@@ -156,4 +156,17 @@
 * [Storage of the fittest](https://www.nature.com/articles/news010329-5)
 * [Book Review: Nature's way](https://www.nature.com/articles/363222a0)
 
+###
+
+@article{2015-Nature-EibenSmith,
+  title={From evolutionary computation to the evolution of things},
+  author={Eiben, Agoston E and Smith, Jim},
+  journal={Nature},
+  volume={521},
+  number={7553},
+  pages={476--482},
+  year={2015},
+  publisher={Nature Publishing Group}
+}
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
