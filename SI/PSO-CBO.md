@@ -94,7 +94,9 @@
 
 ### 2017
 
-* Villeneuve, D.M., Hockett, P., Vrakking, M.J.J. and Niikura, H., 2017. Coherent imaging of an attosecond electron wave packet. **Science**, 356(6343), pp.1150-1153.
+* Villeneuve, D.M., Hockett, P., Vrakking, M.J.J. and Niikura, H., 2017.
+  [Coherent imaging of an attosecond electron wave packet](https://www.science.org/doi/10.1126/science.aam8393).
+  **Science**, 356(6343), pp.1150-1153.
 * Ulman, V., Maška, M., Magnusson, K.E., Ronneberger, O., Haubold, C., Harder, N., Matula, P., Matula, P., Svoboda, D., Radojevic, M. and Smal, I., 2017. An objective comparison of cell-tracking algorithms. **Nature Methods**, 14(12), pp.1141-1152.
 * Wang, L., Yu, Z., Han, Q., Guo, B. and Xiong, H., 2017. Multi-objective optimization based allocation of heterogeneous spatial crowdsourcing tasks. IEEE Transactions on Mobile Computing, 17(7), pp.1637-1650.
 * Audet, C. and Hare, W., 2017. [Derivative-free and blackbox optimization](). Springer.
