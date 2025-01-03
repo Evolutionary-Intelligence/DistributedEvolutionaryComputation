@@ -159,4 +159,15 @@
   organization={AAAI}
 }
 
+@article{2017-Science,
+  title={Coherent imaging of an attosecond electron wave packet},
+  author={Villeneuve, DM and Hockett, Paul and Vrakking, MJJ and Niikura, Hiromichi},
+  journal={Science},
+  volume={356},
+  number={6343},
+  pages={1150--1153},
+  year={2017},
+  publisher={American Association for the Advancement of Science}
+}
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-PSO)
