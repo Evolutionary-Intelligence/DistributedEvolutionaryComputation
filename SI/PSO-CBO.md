@@ -9,7 +9,9 @@
   * Alekseev, G.V., 2018. Analysis of a two-dimensional thermal cloaking problem on the basis of optimization. Computational Mathematics and Mathematical Physics, 58, pp.478-492.
   * Alekseev, G.V., Levin, V.A. and Tereshko, D.A., 2017, October. The optimization method in design problems of spherical layered thermal shells. In Doklady Physics (Vol. 62, pp. 465-469). Pleiades Publishing.
   * Alekseev, G.V., Levin, V.A. and Tereshko, D.A., 2017, February. Optimization analysis of the thermal cloaking problem for a cylindrical body. In Doklady Physics (Vol. 62, pp. 71-75). Pleiades Publishing.
-* Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024. Machine learning reveals the control mechanics of an insect wing hinge. **Nature**, pp.1-9.
+* Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024.
+  [Machine learning reveals the control mechanics of an insect wing hinge](https://www.nature.com/articles/s41586-024-07293-4).
+  **Nature**, pp.1-9.
 * Stolze, L., Arora, B., Dwivedi, D., Steefel, C.I., Bandai, T., Wu, Y. and Nico, P., 2024. Climate forcing controls on carbon terrestrial fluxes during shale weathering. **Proceedings of the National Academy of Sciences**, 121(27), p.e2400230121.
 * Bungert, L., Roith, T. and Wacker, P., 2024. Polarized consensus-based dynamics for optimization and sampling. **Mathematical Programming**, pp.1-31.
 * Huang, H., Qiu, J. and Riedl, K., 2024. Consensus-based optimization for saddle point problems. **SIAM Journal on Control and Optimization**, 62(2), pp.1093-1121.
