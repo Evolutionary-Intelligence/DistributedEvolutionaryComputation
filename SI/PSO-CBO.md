@@ -175,6 +175,17 @@
   organization={AAAI}
 }
 
+@article{2013-Science,
+  title={Emergent sensing of complex environments by mobile animal groups},
+  author={Berdahl, Andrew and Torney, Colin J and Ioannou, Christos C and Faria, Jolyon J and Couzin, Iain D},
+  journal={Science},
+  volume={339},
+  number={6119},
+  pages={574--576},
+  year={2013},
+  publisher={American Association for the Advancement of Science}
+}
+
 @article{2017-Science,
   title={Coherent imaging of an attosecond electron wave packet},
   author={Villeneuve, DM and Hockett, Paul and Vrakking, MJJ and Niikura, Hiromichi},
