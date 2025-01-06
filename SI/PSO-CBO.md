@@ -121,6 +121,10 @@
 * Liu, R., Li, J., Mu, C. and Jiao, L., 2017. A coevolutionary technique based on multi-swarm particle swarm optimization for dynamic multi-objective optimization. European Journal of Operational Research, 261(3), pp.1028-1051.
 * Li, L., Jiao, L., Zhao, J., Shang, R. and Gong, M., 2017. Quantum-behaved discrete multi-objective particle swarm optimization for complex network clustering. Pattern Recognition, 63, pp.1-14.
 
+### 2013
+
+* Berdahl, A., Torney, C.J., Ioannou, C.C., Faria, J.J. and Couzin, I.D., 2013. Emergent sensing of complex environments by mobile animal groups. Science, 339(6119), pp.574-576.
+
 ### 2004
 
 * Boeringer, D.W. and Werner, D.H., 2004. Particle swarm optimization versus genetic algorithms for phased array synthesis. IEEE Transactions on Antennas and Propagation, 52(3), pp.771-779.
