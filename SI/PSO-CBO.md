@@ -123,7 +123,7 @@
 
 ### 2013
 
-* Berdahl, A., Torney, C.J., Ioannou, C.C., Faria, J.J. and Couzin, I.D., 2013. Emergent sensing of complex environments by mobile animal groups. Science, 339(6119), pp.574-576.
+* Berdahl, A., Torney, C.J., Ioannou, C.C., Faria, J.J. and Couzin, I.D., 2013. [Emergent sensing of complex environments by mobile animal groups](https://www.science.org/doi/10.1126/science.1225883). Science, 339(6119), pp.574-576.
 
 ### 2004
 
