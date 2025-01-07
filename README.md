@@ -1,4 +1,6 @@
-# A (Growing) Paper List of Evolutionary Computation (EC) and Swarm Intelligence (SI) on Top-Tier Publications (e.g., Nature, Science, etc.)
+# A Paper List of Evolutionary Computation (EC) and Swarm Intelligence (SI) on Top-Tier Publications (e.g., Nature, Science, etc.)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
 
 This is a *growing* paper list for [evolutionary computation (EC)](https://tinyurl.com/2j4n5p2s) and
 [Swarm Intelligence (SI)](https://link.springer.com/journal/11721). Currently we are **actively**
@@ -156,5 +158,3 @@ Currently, this **long-term** open project is led by **Qiqi Duan** and **Qi Zhao
 published in some of **top-tier** and/or **representative** journals and
 conferences such as **JMLR** (CCF-A), **TPDS** (CCF-A), **TMLR**, **TEVC** (CCF-B),
 **PPSN** (CCF-B), **GECCO** (CCF-C), **ASOC** (JCR-1), **CEC**, **SSCI**, etc.).
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
