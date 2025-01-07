@@ -86,8 +86,10 @@
 ### 2021
 
 * Guan, P.W., Hemley, R.J. and Viswanathan, V., 2021.
-  Combining pressure and electrochemistry to synthesize superhydrides.
+  [Combining pressure and electrochemistry to synthesize superhydrides](https://www.pnas.org/doi/suppl/10.1073/pnas.2110470118).
   Proceedings of the National Academy of Sciences, 118(46), p.e2110470118.
+  * **Abstract**
+  * **CALYPSO**
 
 ### 2020
 
