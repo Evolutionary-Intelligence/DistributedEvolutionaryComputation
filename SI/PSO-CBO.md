@@ -104,6 +104,9 @@
 
 ### 2018
 
+* Mitchell, S., Roy, K., Zangle, T.A. and Hoffmann, A., 2018.
+  [Nongenetic origins of cell-to-cell variability in B lymphocyte proliferation]().
+  Proceedings of the National Academy of Sciences, 115(12), pp.E2888-E2897.
 * Yang, S., Pan, Z., Amert, T., Wang, K., Yu, L., Berg, T. and Lin, M.C., 2018. Physics-inspired garment recovery from a single-view image. **ACM Transactions on Graphics**, 37(5), pp.1-14.
 
 ### 2017
