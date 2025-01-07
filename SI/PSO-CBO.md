@@ -128,6 +128,12 @@
   [Emergent sensing of complex environments by mobile animal groups](https://www.science.org/doi/10.1126/science.1225883).
   Science, 339(6119), pp.574-576.
 
+### 2012
+
+* Zhu, L., Wang, Z., Wang, Y., Zou, G., Mao, H.K. and Ma, Y., 2012.
+  Spiral chain O4 form of dense oxygen.
+  Proceedings of the National Academy of Sciences, 109(3), pp.751-753.
+
 ### 2004
 
 * Boeringer, D.W. and Werner, D.H., 2004. Particle swarm optimization versus genetic algorithms for phased array synthesis. IEEE Transactions on Antennas and Propagation, 52(3), pp.771-779.
