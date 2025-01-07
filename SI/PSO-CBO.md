@@ -1,5 +1,7 @@
 # PSO + CBO
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-PSO)
+
 ## 2024
 
 * Yang, F., Zhang, Z., Xu, L., Liu, Z., Jin, P., Zhuang, P., Lei, M., Liu, J., Jiang, J.H., Ouyang, X. and Marchesoni, F., 2024. [Controlling mass and energy diffusion with metamaterials](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.96.015002). **Reviews of Modern Physics**, 96(1), p.015002.
@@ -245,4 +247,4 @@
   publisher={Nature Publishing Group}
 }
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-PSO)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
