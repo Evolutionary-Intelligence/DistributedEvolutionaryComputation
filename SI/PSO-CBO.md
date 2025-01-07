@@ -200,4 +200,13 @@
   publisher={American Association for the Advancement of Science}
 }
 
+@article{2024-Nature,
+  title={Machine learning reveals the control mechanics of an insect wing hinge},
+  author={Melis, Johan M and Siwanowicz, Igor and Dickinson, Michael H},
+  journal={Nature},
+  pages={1--9},
+  year={2024},
+  publisher={Nature Publishing Group}
+}
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-PSO)
