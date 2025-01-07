@@ -133,6 +133,8 @@
 * Zhu, L., Wang, Z., Wang, Y., Zou, G., Mao, H.K. and Ma, Y., 2012.
   [Spiral chain O4 form of dense oxygen](https://www.pnas.org/doi/abs/10.1073/pnas.1119375109).
   Proceedings of the National Academy of Sciences, 109(3), pp.751-753.
+  * **Abstract**
+  * **CALYPSO**
 
 ### 2004
 
@@ -182,6 +184,17 @@
   pages={67--72},
   year={1997},
   organization={AAAI}
+}
+
+@article{2012-PNAS,
+  title={Spiral chain O4 form of dense oxygen},
+  author={Zhu, Li and Wang, Ziwei and Wang, Yanchao and Zou, Guangtian and Mao, Ho-kwang and Ma, Yanming},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={109},
+  number={3},
+  pages={751--753},
+  year={2012},
+  publisher={National Academy of Sciences}
 }
 
 @article{2013-Science,
