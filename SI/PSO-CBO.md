@@ -131,7 +131,7 @@
 ### 2012
 
 * Zhu, L., Wang, Z., Wang, Y., Zou, G., Mao, H.K. and Ma, Y., 2012.
-  Spiral chain O4 form of dense oxygen.
+  [Spiral chain O4 form of dense oxygen](https://www.pnas.org/doi/abs/10.1073/pnas.1119375109).
   Proceedings of the National Academy of Sciences, 109(3), pp.751-753.
 
 ### 2004
