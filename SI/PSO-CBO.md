@@ -81,6 +81,10 @@
 
 * Menke, T., 2022. Classical and quantum optimization of quantum processors (**Doctoral dissertation, Harvard University**).
 
+### 2021
+
+* 
+
 ### 2020
 
 * Zang, Y., Qi, F., Yang, C., Liu, Z., Zhang, M., Liu, Q. and Sun, M., 2020, July.
@@ -217,6 +221,17 @@
   pages={1150--1153},
   year={2017},
   publisher={American Association for the Advancement of Science}
+}
+
+@article{2021-PNAS,
+  title={Combining pressure and electrochemistry to synthesize superhydrides},
+  author={Guan, Pin-Wen and Hemley, Russell J and Viswanathan, Venkatasubramanian},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={118},
+  number={46},
+  pages={e2110470118},
+  year={2021},
+  publisher={National Academy of Sciences}
 }
 
 @article{2024-Nature,
