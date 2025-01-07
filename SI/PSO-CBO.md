@@ -203,6 +203,17 @@
 }
 
 @article{2012-PNAS,
+  title={Superconductive sodalite-like clathrate calcium hydride at high pressures},
+  author={Wang, Hui and Tse, John S and Tanaka, Kaori and Iitaka, Toshiaki and Ma, Yanming},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={109},
+  number={17},
+  pages={6463--6466},
+  year={2012},
+  publisher={National Academy of Sciences}
+}
+
+@article{2012-PNAS,
   title={Spiral chain O4 form of dense oxygen},
   author={Zhu, Li and Wang, Ziwei and Wang, Yanchao and Zou, Guangtian and Mao, Ho-kwang and Ma, Yanming},
   journal={Proceedings of the National Academy of Sciences},
