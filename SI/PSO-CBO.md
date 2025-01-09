@@ -82,6 +82,7 @@
 ### 2022
 
 * Menke, T., 2022. Classical and quantum optimization of quantum processors (**Doctoral dissertation, Harvard University**).
+* Tsai, C.L. and Fredrickson, G.H., 2022. Using particle swarm optimization and self-consistent field theory to discover globally stable morphologies of block copolymers. Macromolecules, 55(12), pp.5249-5262.
 
 ### 2021
 
