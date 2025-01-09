@@ -105,7 +105,7 @@
 ### 2018
 
 * Mitchell, S., Roy, K., Zangle, T.A. and Hoffmann, A., 2018.
-  [Nongenetic origins of cell-to-cell variability in B lymphocyte proliferation]().
+  [Nongenetic origins of cell-to-cell variability in B lymphocyte proliferation](https://www.pnas.org/doi/abs/10.1073/pnas.1715639115).
   Proceedings of the National Academy of Sciences, 115(12), pp.E2888-E2897.
 * Yeom, K.H., Mitchell, S., Linares, A.J., Zheng, S., Lin, C.H., Wang, X.J., Hoffmann, A. and Black, D.L., 2018.
   [Polypyrimidine tract-binding protein blocks miRNA-124 biogenesis to enforce its neuronal-specific expression in the mouse]().
@@ -250,6 +250,17 @@
   pages={1150--1153},
   year={2017},
   publisher={American Association for the Advancement of Science}
+}
+
+@article{2018-PNAS,
+  title={Nongenetic origins of cell-to-cell variability in B lymphocyte proliferation},
+  author={Mitchell, Simon and Roy, Koushik and Zangle, Thomas A and Hoffmann, Alexander},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={115},
+  number={12},
+  pages={E2888--E2897},
+  year={2018},
+  publisher={National Academy of Sciences}
 }
 
 @article{2021-PNAS,
