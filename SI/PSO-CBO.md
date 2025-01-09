@@ -280,6 +280,17 @@
   publisher={National Academy of Sciences}
 }
 
+@article{2019-PNAS,
+  title={Graphene-like monolayer monoxides and monochlorides},
+  author={Luo, Bingcheng and Yao, Yuan and Tian, Enke and Song, Hongzhou and Wang, Xiaohui and Li, Guowu and Xi, Kai and Li, Baiwen and Song, Haifeng and Li, Longtu},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={116},
+  number={35},
+  pages={17213--17218},
+  year={2019},
+  publisher={National Academy of Sciences}
+}
+
 @article{2021-PNAS,
   title={Combining pressure and electrochemistry to synthesize superhydrides},
   author={Guan, Pin-Wen and Hemley, Russell J and Viswanathan, Venkatasubramanian},
