@@ -220,7 +220,7 @@
 }
 
 @article{2012-PNAS,
-  title={Spiral chain O4 form of dense oxygen},
+  title={Spiral chain {O4} form of dense oxygen},
   author={Zhu, Li and Wang, Ziwei and Wang, Yanchao and Zou, Guangtian and Mao, Ho-kwang and Ma, Yanming},
   journal={Proceedings of the National Academy of Sciences},
   volume={109},
@@ -253,7 +253,7 @@
 }
 
 @article{2018-PNAS,
-  title={Nongenetic origins of cell-to-cell variability in B lymphocyte proliferation},
+  title={Nongenetic origins of cell-to-cell variability in {B} lymphocyte proliferation},
   author={Mitchell, Simon and Roy, Koushik and Zangle, Thomas A and Hoffmann, Alexander},
   journal={Proceedings of the National Academy of Sciences},
   volume={115},
@@ -264,7 +264,7 @@
 }
 
 @article{2018-PNAS-Yeom,
-  title={Polypyrimidine tract-binding protein blocks miRNA-124 biogenesis to enforce its neuronal-specific expression in the mouse},
+  title={Polypyrimidine tract-binding protein blocks {miRNA-124} biogenesis to enforce its neuronal-specific expression in the mouse},
   author={Yeom, Kyu-Hyeon and Mitchell, Simon and Linares, Anthony J and Zheng, Sika and Lin, Chia-Ho and Wang, Xiao-Jun and Hoffmann, Alexander and Black, Douglas L},
   journal={Proceedings of the National Academy of Sciences},
   volume={115},
