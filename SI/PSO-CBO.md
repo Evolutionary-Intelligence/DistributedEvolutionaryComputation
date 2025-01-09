@@ -108,7 +108,7 @@
   [Nongenetic origins of cell-to-cell variability in B lymphocyte proliferation](https://www.pnas.org/doi/abs/10.1073/pnas.1715639115).
   Proceedings of the National Academy of Sciences, 115(12), pp.E2888-E2897.
 * Yeom, K.H., Mitchell, S., Linares, A.J., Zheng, S., Lin, C.H., Wang, X.J., Hoffmann, A. and Black, D.L., 2018.
-  [Polypyrimidine tract-binding protein blocks miRNA-124 biogenesis to enforce its neuronal-specific expression in the mouse]().
+  [Polypyrimidine tract-binding protein blocks miRNA-124 biogenesis to enforce its neuronal-specific expression in the mouse](https://www.pnas.org/doi/abs/10.1073/pnas.1809609115).
   Proceedings of the National Academy of Sciences, 115(47), pp.E11061-E11070.
 * Yang, S., Pan, Z., Amert, T., Wang, K., Yu, L., Berg, T. and Lin, M.C., 2018. Physics-inspired garment recovery from a single-view image. **ACM Transactions on Graphics**, 37(5), pp.1-14.
 
