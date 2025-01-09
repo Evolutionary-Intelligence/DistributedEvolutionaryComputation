@@ -102,6 +102,12 @@
 * Zhu, L., et al., 2020. Carbon-boron clathrates as a new class of sp3-bonded framework materials. **Science Advances**, 6(2), p.eaay8361. < **CALYPSO** >
 * Wang, Y., et al., 2020. Pressure-stabilized divalent ozonide CaO3 and its impact on Earth’s oxygen cycles. **Nature Communications**, 11(1), p.4702. < **CALYPSO** >
 
+### 2019
+
+* Luo, B., Yao, Y., Tian, E., Song, H., Wang, X., Li, G., Xi, K., Li, B., Song, H. and Li, L., 2019.
+  [Graphene-like monolayer monoxides and monochlorides]().
+  Proceedings of the National Academy of Sciences, 116(35), pp.17213-17218.
+
 ### 2018
 
 * Mitchell, S., Roy, K., Zangle, T.A. and Hoffmann, A., 2018.
