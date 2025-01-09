@@ -107,6 +107,9 @@
 * Luo, B., Yao, Y., Tian, E., Song, H., Wang, X., Li, G., Xi, K., Li, B., Song, H. and Li, L., 2019.
   [Graphene-like monolayer monoxides and monochlorides](https://www.pnas.org/doi/10.1073/pnas.1906510116).
   Proceedings of the National Academy of Sciences, 116(35), pp.17213-17218.
+* Kamali, S.M., Arbabi, E., Kwon, H. and Faraon, A., 2019.
+  [Metasurface-generated complex 3-dimensional optical fields for interference lithography](https://www.pnas.org/doi/abs/10.1073/pnas.1908382116).
+  Proceedings of the National Academy of Sciences, 116(43), pp.21379-21384.
 
 ### 2018
 
@@ -289,6 +292,17 @@
   pages={17213--17218},
   year={2019},
   publisher={National Academy of Sciences}
+}
+
+@article{kamali2019metasurface,
+  title={Metasurface-generated complex 3-dimensional optical fields for interference lithography},
+  author={Kamali, Seyedeh Mahsa and Arbabi, Ehsan and Kwon, Hyounghan and Faraon, Andrei},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={116},
+  number={43},
+  pages={21379--21384},
+  year={2019},
+  publisher={National Acad Sciences}
 }
 
 @article{2021-PNAS,
