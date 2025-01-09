@@ -105,7 +105,7 @@
 ### 2019
 
 * Luo, B., Yao, Y., Tian, E., Song, H., Wang, X., Li, G., Xi, K., Li, B., Song, H. and Li, L., 2019.
-  [Graphene-like monolayer monoxides and monochlorides]().
+  [Graphene-like monolayer monoxides and monochlorides](https://www.pnas.org/doi/10.1073/pnas.1906510116).
   Proceedings of the National Academy of Sciences, 116(35), pp.17213-17218.
 
 ### 2018
