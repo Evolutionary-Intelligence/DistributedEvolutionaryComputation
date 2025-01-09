@@ -157,6 +157,12 @@
 * Liu, R., Li, J., Mu, C. and Jiao, L., 2017. A coevolutionary technique based on multi-swarm particle swarm optimization for dynamic multi-objective optimization. European Journal of Operational Research, 261(3), pp.1028-1051.
 * Li, L., Jiao, L., Zhao, J., Shang, R. and Gong, M., 2017. Quantum-behaved discrete multi-objective particle swarm optimization for complex network clustering. Pattern Recognition, 63, pp.1-14.
 
+### 2016
+
+* Rahm, M., Lunine, J.I., Usher, D.A. and Shalloway, D., 2016.
+  [Polymorphism and electronic structure of polyimine and its potential significance for prebiotic chemistry on Titan](https://www.pnas.org/doi/10.1073/pnas.1606634113).
+  Proceedings of the National Academy of Sciences, 113(29), pp.8121-8126.
+
 ### 2013
 
 * Berdahl, A., Torney, C.J., Ioannou, C.C., Faria, J.J. and Couzin, I.D., 2013.
@@ -258,6 +264,17 @@
   pages={574--576},
   year={2013},
   publisher={American Association for the Advancement of Science}
+}
+
+@article{2016-PNAS,
+  title={Polymorphism and electronic structure of polyimine and its potential significance for prebiotic chemistry on Titan},
+  author={Rahm, Martin and Lunine, Jonathan I and Usher, David A and Shalloway, David},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={113},
+  number={29},
+  pages={8121--8126},
+  year={2016},
+  publisher={National Academy of Sciences}
 }
 
 @article{2017-Science,
