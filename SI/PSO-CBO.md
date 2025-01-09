@@ -294,7 +294,7 @@
   publisher={National Academy of Sciences}
 }
 
-@article{kamali2019metasurface,
+@article{2019-PNAS-Kamali,
   title={Metasurface-generated complex 3-dimensional optical fields for interference lithography},
   author={Kamali, Seyedeh Mahsa and Arbabi, Ehsan and Kwon, Hyounghan and Faraon, Andrei},
   journal={Proceedings of the National Academy of Sciences},
@@ -302,7 +302,7 @@
   number={43},
   pages={21379--21384},
   year={2019},
-  publisher={National Acad Sciences}
+  publisher={National Academy of Sciences}
 }
 
 @article{2021-PNAS,
