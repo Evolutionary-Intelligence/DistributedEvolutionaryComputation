@@ -263,6 +263,17 @@
   publisher={National Academy of Sciences}
 }
 
+@article{2018-PNAS-Yeom,
+  title={Polypyrimidine tract-binding protein blocks miRNA-124 biogenesis to enforce its neuronal-specific expression in the mouse},
+  author={Yeom, Kyu-Hyeon and Mitchell, Simon and Linares, Anthony J and Zheng, Sika and Lin, Chia-Ho and Wang, Xiao-Jun and Hoffmann, Alexander and Black, Douglas L},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={115},
+  number={47},
+  pages={E11061--E11070},
+  year={2018},
+  publisher={National Academy of Sciences}
+}
+
 @article{2021-PNAS,
   title={Combining pressure and electrochemistry to synthesize superhydrides},
   author={Guan, Pin-Wen and Hemley, Russell J and Viswanathan, Venkatasubramanian},
