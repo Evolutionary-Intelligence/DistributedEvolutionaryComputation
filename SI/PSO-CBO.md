@@ -264,6 +264,17 @@
   publisher={American Association for the Advancement of Science}
 }
 
+@article{2017-PNAS,
+  title={Stabilization of ammonia-rich hydrate inside icy planets},
+  author={Naden Robinson, Victor and Wang, Yanchao and Ma, Yanming and Hermann, Andreas},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={114},
+  number={34},
+  pages={9003--9008},
+  year={2017},
+  publisher={National Academy of Sciences}
+}
+
 @article{2018-PNAS,
   title={Nongenetic origins of cell-to-cell variability in {B} lymphocyte proliferation},
   author={Mitchell, Simon and Roy, Koushik and Zangle, Thomas A and Hoffmann, Alexander},
