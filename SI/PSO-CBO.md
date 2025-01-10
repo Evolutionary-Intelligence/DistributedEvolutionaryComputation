@@ -325,6 +325,17 @@
   publisher={National Academy of Sciences}
 }
 
+@article{2017-PNAS-Liu,
+  title={Potential {high-Tc} superconducting lanthanum and yttrium hydrides at high pressure},
+  author={Liu, Hanyu and Naumov, Ivan I and Hoffmann, Roald and Ashcroft, NW and Hemley, Russell J},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={114},
+  number={27},
+  pages={6990--6995},
+  year={2017},
+  publisher={National Academy of Sciences}
+}
+
 @article{2018-PNAS,
   title={Nongenetic origins of cell-to-cell variability in {B} lymphocyte proliferation},
   author={Mitchell, Simon and Roy, Koushik and Zangle, Thomas A and Hoffmann, Alexander},
