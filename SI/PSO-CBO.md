@@ -98,7 +98,7 @@
   * **Abstract**
   * **CALYPSO**
 * Pei, Z., Zhang, S., Lei, Y., Zhang, F. and Chen, M., 2021.
-  [Decoupling between Shockley partials and stacking faults strengthens multiprincipal element alloys]().
+  [Decoupling between Shockley partials and stacking faults strengthens multiprincipal element alloys](https://www.pnas.org/doi/abs/10.1073/pnas.2114167118).
   Proceedings of the National Academy of Sciences, 118(51), p.e2114167118.
 
 ### 2020
@@ -370,6 +370,17 @@
   volume={118},
   number={46},
   pages={e2110470118},
+  year={2021},
+  publisher={National Academy of Sciences}
+}
+
+@article{2021-PNAS-Pei,
+  title={Decoupling between {Shockley} partials and stacking faults strengthens multiprincipal element alloys},
+  author={Pei, Zongrui and Zhang, Siyuan and Lei, Yinkai and Zhang, Fan and Chen, Mingwei},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={118},
+  number={51},
+  pages={e2114167118},
   year={2021},
   publisher={National Academy of Sciences}
 }
