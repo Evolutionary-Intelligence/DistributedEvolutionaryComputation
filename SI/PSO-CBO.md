@@ -132,6 +132,9 @@
 * Yeom, K.H., Mitchell, S., Linares, A.J., Zheng, S., Lin, C.H., Wang, X.J., Hoffmann, A. and Black, D.L., 2018.
   [Polypyrimidine tract-binding protein blocks miRNA-124 biogenesis to enforce its neuronal-specific expression in the mouse](https://www.pnas.org/doi/abs/10.1073/pnas.1809609115).
   Proceedings of the National Academy of Sciences, 115(47), pp.E11061-E11070.
+* Mohamad, M.A. and Sapsis, T.P., 2018.
+  [Sequential sampling strategy for extreme event statistics in nonlinear dynamical systems]().
+  Proceedings of the National Academy of Sciences, 115(44), pp.11138-11143.
 * Yang, S., Pan, Z., Amert, T., Wang, K., Yu, L., Berg, T. and Lin, M.C., 2018. Physics-inspired garment recovery from a single-view image. **ACM Transactions on Graphics**, 37(5), pp.1-14.
 
 ### 2017
@@ -354,6 +357,17 @@
   volume={115},
   number={47},
   pages={E11061--E11070},
+  year={2018},
+  publisher={National Academy of Sciences}
+}
+
+@article{2018-PNAS-Mohamad,
+  title={Sequential sampling strategy for extreme event statistics in nonlinear dynamical systems},
+  author={Mohamad, Mustafa A and Sapsis, Themistoklis P},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={115},
+  number={44},
+  pages={11138--11143},
   year={2018},
   publisher={National Academy of Sciences}
 }
