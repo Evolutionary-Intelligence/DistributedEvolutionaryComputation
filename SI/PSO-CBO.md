@@ -270,7 +270,7 @@
 }
 
 @article{2016-PNAS,
-  title={Polymorphism and electronic structure of polyimine and its potential significance for prebiotic chemistry on Titan},
+  title={Polymorphism and electronic structure of polyimine and its potential significance for prebiotic chemistry on {Titan}},
   author={Rahm, Martin and Lunine, Jonathan I and Usher, David A and Shalloway, David},
   journal={Proceedings of the National Academy of Sciences},
   volume={113},
@@ -281,7 +281,7 @@
 }
 
 @article{2016-PNAS-Yong,
-  title={Crystal structures and dynamical properties of dense CO2},
+  title={Crystal structures and dynamical properties of dense {CO2}},
   author={Yong, Xue and Liu, Hanyu and Wu, Min and Yao, Yansun and Tse, John S and Dias, Ranga and Yoo, Choong-Shik},
   journal={Proceedings of the National Academy of Sciences},
   volume={113},
