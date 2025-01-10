@@ -165,6 +165,9 @@
 * Yong, X., Liu, H., Wu, M., Yao, Y., Tse, J.S., Dias, R. and Yoo, C.S., 2016.
   [Crystal structures and dynamical properties of dense CO2](https://www.pnas.org/doi/abs/10.1073/pnas.1601254113).
   Proceedings of the National Academy of Sciences, 113(40), pp.11110-11115.
+* Hermann, A. and Mookherjee, M., 2016.
+  [High-pressure phase of brucite stable at Earth’s mantle transition zone and lower mantle conditions](https://www.pnas.org/doi/abs/10.1073/pnas.1611571113).
+  Proceedings of the National Academy of Sciences, 113(49), pp.13971-13976.
 
 ### 2013
 
