@@ -100,6 +100,9 @@
 * Pei, Z., Zhang, S., Lei, Y., Zhang, F. and Chen, M., 2021.
   [Decoupling between Shockley partials and stacking faults strengthens multiprincipal element alloys](https://www.pnas.org/doi/abs/10.1073/pnas.2114167118).
   Proceedings of the National Academy of Sciences, 118(51), p.e2114167118.
+  * Z. Pei, M. Eisenbach,
+    Acceleration of the particle swarm optimization for Peierls–Nabarro modeling of dislocations in conventional and high-entropy alloys.
+    Comput. Phys. Commun. 215, 7–12 (2017).
 
 ### 2020
 
