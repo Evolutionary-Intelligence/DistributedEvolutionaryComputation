@@ -162,6 +162,9 @@
 * Rahm, M., Lunine, J.I., Usher, D.A. and Shalloway, D., 2016.
   [Polymorphism and electronic structure of polyimine and its potential significance for prebiotic chemistry on Titan](https://www.pnas.org/doi/10.1073/pnas.1606634113).
   Proceedings of the National Academy of Sciences, 113(29), pp.8121-8126.
+* Yong, X., Liu, H., Wu, M., Yao, Y., Tse, J.S., Dias, R. and Yoo, C.S., 2016.
+  [Crystal structures and dynamical properties of dense CO2](https://www.pnas.org/doi/abs/10.1073/pnas.1601254113).
+  Proceedings of the National Academy of Sciences, 113(40), pp.11110-11115.
 
 ### 2013
 
@@ -273,6 +276,17 @@
   volume={113},
   number={29},
   pages={8121--8126},
+  year={2016},
+  publisher={National Academy of Sciences}
+}
+
+@article{2016-PNAS-Yong,
+  title={Crystal structures and dynamical properties of dense CO2},
+  author={Yong, Xue and Liu, Hanyu and Wu, Min and Yao, Yansun and Tse, John S and Dias, Ranga and Yoo, Choong-Shik},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={113},
+  number={40},
+  pages={11110--11115},
   year={2016},
   publisher={National Academy of Sciences}
 }
