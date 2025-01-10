@@ -97,6 +97,9 @@
   Proceedings of the National Academy of Sciences, 118(46), p.e2110470118.
   * **Abstract**
   * **CALYPSO**
+* Pei, Z., Zhang, S., Lei, Y., Zhang, F. and Chen, M., 2021.
+  [Decoupling between Shockley partials and stacking faults strengthens multiprincipal element alloys]().
+  Proceedings of the National Academy of Sciences, 118(51), p.e2114167118.
 
 ### 2020
 
