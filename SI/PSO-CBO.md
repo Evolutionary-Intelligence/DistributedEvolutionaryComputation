@@ -103,6 +103,11 @@
   * Z. Pei, M. Eisenbach,
     Acceleration of the particle swarm optimization for Peierls–Nabarro modeling of dislocations in conventional and high-entropy alloys.
     Comput. Phys. Commun. 215, 7–12 (2017).
+* Ranc, N., Moorcroft, P.R., Ossi, F. and Cagnacci, F., 2021.
+  [Experimental evidence of memory-based foraging decisions in a large wild mammal](https://www.pnas.org/doi/abs/10.1073/pnas.2014856118).
+  Proceedings of the National Academy of Sciences, 118(15), p.e2014856118.
+  * **MATLAB**
+  * Distributed PSO
 
 ### 2020
 
@@ -429,6 +434,17 @@
   volume={118},
   number={51},
   pages={e2114167118},
+  year={2021},
+  publisher={National Academy of Sciences}
+}
+
+@article{2021-PNAS-Ranc,
+  title={Experimental evidence of memory-based foraging decisions in a large wild mammal},
+  author={Ranc, Nathan and Moorcroft, Paul R and Ossi, Federico and Cagnacci, Francesca},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={118},
+  number={15},
+  pages={e2014856118},
   year={2021},
   publisher={National Academy of Sciences}
 }
