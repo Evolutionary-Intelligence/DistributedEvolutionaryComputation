@@ -109,7 +109,7 @@
   * **MATLAB**
   * Distributed PSO
 * Yao, T., Coleman, S., Nguyen, T.V.P., Golding, I. and Igoshin, O.A., 2021.
-  [Bacteriophage self-counting in the presence of viral replication]().
+  [Bacteriophage self-counting in the presence of viral replication](https://www.pnas.org/doi/abs/10.1073/pnas.2104163118).
   Proceedings of the National Academy of Sciences, 118(51), p.e2104163118.
   * **MATLAB**
   * Distributed PSO
