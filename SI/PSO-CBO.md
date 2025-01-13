@@ -183,6 +183,9 @@
 * Hermann, A. and Mookherjee, M., 2016.
   [High-pressure phase of brucite stable at Earth’s mantle transition zone and lower mantle conditions](https://www.pnas.org/doi/abs/10.1073/pnas.1611571113).
   Proceedings of the National Academy of Sciences, 113(49), pp.13971-13976.
+* Manibog, K., Sankar, K., Kim, S.A., Zhang, Y., Jernigan, R.L. and Sivasankar, S., 2016.
+  [Molecular determinants of cadherin ideal bond formation: Conformation-dependent unbinding on a multidimensional landscape](https://www.pnas.org/doi/abs/10.1073/pnas.1604012113).
+  Proceedings of the National Academy of Sciences, 113(39), pp.E5711-E5720.
 
 ### 2013
 
@@ -305,6 +308,17 @@
   volume={113},
   number={40},
   pages={11110--11115},
+  year={2016},
+  publisher={National Academy of Sciences}
+}
+
+@article{2016-PNAS-Manibog,
+  title={Molecular determinants of cadherin ideal bond formation: Conformation-dependent unbinding on a multidimensional landscape},
+  author={Manibog, Kristine and Sankar, Kannan and Kim, Sun-Ae and Zhang, Yunxiang and Jernigan, Robert L and Sivasankar, Sanjeevi},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={113},
+  number={39},
+  pages={E5711--E5720},
   year={2016},
   publisher={National Academy of Sciences}
 }
