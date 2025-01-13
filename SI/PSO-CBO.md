@@ -136,6 +136,9 @@
   [Sequential sampling strategy for extreme event statistics in nonlinear dynamical systems]().
   Proceedings of the National Academy of Sciences, 115(44), pp.11138-11143.
 * Yang, S., Pan, Z., Amert, T., Wang, K., Yu, L., Berg, T. and Lin, M.C., 2018. Physics-inspired garment recovery from a single-view image. **ACM Transactions on Graphics**, 37(5), pp.1-14.
+* Carrillo, J.A., Choi, Y.P., Totzeck, C. and Tse, O., 2018.
+  [An analytical framework for consensus-based global optimization method]().
+  Mathematical Models and Methods in Applied Sciences, 28(06), pp.1037-1066.
 
 ### 2017
 
