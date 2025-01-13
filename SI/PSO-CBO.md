@@ -108,6 +108,11 @@
   Proceedings of the National Academy of Sciences, 118(15), p.e2014856118.
   * **MATLAB**
   * Distributed PSO
+* Yao, T., Coleman, S., Nguyen, T.V.P., Golding, I. and Igoshin, O.A., 2021.
+  [Bacteriophage self-counting in the presence of viral replication]().
+  Proceedings of the National Academy of Sciences, 118(51), p.e2104163118.
+  * **MATLAB**
+  * Distributed PSO
 
 ### 2020
 
@@ -445,6 +450,17 @@
   volume={118},
   number={15},
   pages={e2014856118},
+  year={2021},
+  publisher={National Academy of Sciences}
+}
+
+@article{2021-PNAS-Yao,
+  title={Bacteriophage self-counting in the presence of viral replication},
+  author={Yao, Tianyou and Coleman, Seth and Nguyen, Thu Vu Phuc and Golding, Ido and Igoshin, Oleg A},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={118},
+  number={51},
+  pages={e2104163118},
   year={2021},
   publisher={National Academy of Sciences}
 }
