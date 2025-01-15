@@ -494,7 +494,16 @@
   publisher={Nature}
 }
 
-@article{2024-NatureMaterials,
+@article{2024-NatureMaterials-Yin,
+  title={High-$\kappa$ monocrystalline dielectrics for low-power two-dimensional electronics},
+  author={Yin, Lei and Cheng, Ruiqing and Wan, Xuhao and Ding, Jiahui and Jia, Jun and Wen, Yao and Liu, Xiaoze and Guo, Yuzheng and He, Jun},
+  journal={Nature Materials},
+  pages={1--8},
+  year={2024},
+  publisher={Nature}
+}
+
+@article{2024-NatureMaterials-Wang,
   title={Seeded growth of single-crystal black phosphorus nanoribbons},
   author={Wang, Hongya and Song, Yichen and Huang, Guangyi and Ding, Feng and Ma, Liyang and Tian, Ning and Qiu, Lu and Li, Xian and Zhu, Ruimin and Huang, Shenyang and others},
   journal={Nature Materials},
