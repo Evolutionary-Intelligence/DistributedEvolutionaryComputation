@@ -16,6 +16,9 @@
   **Nature**, pp.1-9.
   * https://www.nature.com/articles/d41586-024-00912-0
   * https://www.nature.com/articles/d41586-024-01122-4
+* Yin, L., Cheng, R., Wan, X., Ding, J., Jia, J., Wen, Y., Liu, X., Guo, Y. and He, J., 2024.
+  [High-κ monocrystalline dielectrics for low-power two-dimensional electronics]().
+  Nature Materials, pp.1-8.
 * Wang, H., Song, Y., Huang, G., Ding, F., Ma, L., Tian, N., Qiu, L., Li, X., Zhu, R., Huang, S. and Yan, H., 2024.
   [Seeded growth of single-crystal black phosphorus nanoribbons](https://www.nature.com/articles/s41563-024-01830-2).
   **Nature Materials**, 23(4), pp.470-478.
