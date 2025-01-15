@@ -485,7 +485,18 @@
   journal={Nature},
   pages={1--9},
   year={2024},
-  publisher={Nature Publishing Group}
+  publisher={Nature}
+}
+
+@article{2024-NatureMaterials,
+  title={Seeded growth of single-crystal black phosphorus nanoribbons},
+  author={Wang, Hongya and Song, Yichen and Huang, Guangyi and Ding, Feng and Ma, Liyang and Tian, Ning and Qiu, Lu and Li, Xian and Zhu, Ruimin and Huang, Shenyang and others},
+  journal={Nature Materials},
+  volume={23},
+  number={4},
+  pages={470--478},
+  year={2024},
+  publisher={Nature}
 }
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
