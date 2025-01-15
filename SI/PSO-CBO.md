@@ -16,6 +16,9 @@
   **Nature**, pp.1-9.
   * https://www.nature.com/articles/d41586-024-00912-0
   * https://www.nature.com/articles/d41586-024-01122-4
+* Wang, H., Song, Y., Huang, G., Ding, F., Ma, L., Tian, N., Qiu, L., Li, X., Zhu, R., Huang, S. and Yan, H., 2024.
+  [Seeded growth of single-crystal black phosphorus nanoribbons](https://www.nature.com/articles/s41563-024-01830-2).
+  **Nature Materials**, 23(4), pp.470-478.
 * Stolze, L., Arora, B., Dwivedi, D., Steefel, C.I., Bandai, T., Wu, Y. and Nico, P., 2024. Climate forcing controls on carbon terrestrial fluxes during shale weathering. **Proceedings of the National Academy of Sciences**, 121(27), p.e2400230121.
 * Bungert, L., Roith, T. and Wacker, P., 2024. Polarized consensus-based dynamics for optimization and sampling. **Mathematical Programming**, pp.1-31.
 * Huang, H., Qiu, J. and Riedl, K., 2024. Consensus-based optimization for saddle point problems. **SIAM Journal on Control and Optimization**, 62(2), pp.1093-1121.
