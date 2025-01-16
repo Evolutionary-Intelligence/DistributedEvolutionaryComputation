@@ -25,7 +25,13 @@
   [Seeded growth of single-crystal black phosphorus nanoribbons](https://www.nature.com/articles/s41563-024-01830-2).
   **Nature Materials**, 23(4), pp.470-478.
   * **CALYPSO**
-* Stolze, L., Arora, B., Dwivedi, D., Steefel, C.I., Bandai, T., Wu, Y. and Nico, P., 2024. Climate forcing controls on carbon terrestrial fluxes during shale weathering. **Proceedings of the National Academy of Sciences**, 121(27), p.e2400230121.
+* Shao, S., Lv, J., Li, X., Li, L., Liu, P., Liu, Z., Chen, C., Wang, Y. and Ma, Y., 2024.
+  [New MgSiO4H2 phases as potential primary water carriers into the deep earth](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.214101).
+  Physical Review Letters, 133(21), p.214101.
+  * **CALYPSO**
+* Stolze, L., Arora, B., Dwivedi, D., Steefel, C.I., Bandai, T., Wu, Y. and Nico, P., 2024.
+  Climate forcing controls on carbon terrestrial fluxes during shale weathering.
+  **Proceedings of the National Academy of Sciences**, 121(27), p.e2400230121.
 * Bungert, L., Roith, T. and Wacker, P., 2024. Polarized consensus-based dynamics for optimization and sampling. **Mathematical Programming**, pp.1-31.
 * Huang, H., Qiu, J. and Riedl, K., 2024. Consensus-based optimization for saddle point problems. **SIAM Journal on Control and Optimization**, 62(2), pp.1093-1121.
 * Palma, G., Centracchio, F., Burghignoli, L., Cioffi, I. and Iemma, U., 2024. Numerical Optimization of Metasurface Cells for Acoustic Reflection. **AIAA Journal**, 62(3), pp.1136-1147.
@@ -512,6 +518,17 @@
   pages={470--478},
   year={2024},
   publisher={Nature}
+}
+
+@article{2024-PRL-Shao,
+  title={New {MgSiO4H2} phases as potential primary water carriers into the deep earth},
+  author={Shao, Sen and Lv, Jian and Li, Xin and Li, Lu and Liu, Peng and Liu, Zhaodong and Chen, Changfeng and Wang, Yanchao and Ma, Yanming},
+  journal={Physical Review Letters},
+  volume={133},
+  number={21},
+  pages={214101},
+  year={2024},
+  publisher={APS}
 }
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
