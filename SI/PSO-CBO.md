@@ -496,7 +496,7 @@
   publisher={National Academy of Sciences}
 }
 
-@article{2024-Nature,
+@article{2024-Nature-Melis,
   title={Machine learning reveals the control mechanics of an insect wing hinge},
   author={Melis, Johan M and Siwanowicz, Igor and Dickinson, Michael H},
   journal={Nature},
@@ -534,6 +534,17 @@
   pages={214101},
   year={2024},
   publisher={APS}
+}
+
+@article{2024-PNAS-He,
+  title={Predicted hot superconductivity in {LaSc2H24} under pressure},
+  author={He, Xin-Ling and Zhao, Wenbo and Xie, Yu and Hermann, Andreas and Hemley, Russell J and Liu, Hanyu and Ma, Yanming},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={121},
+  number={26},
+  pages={e2401840121},
+  year={2024},
+  publisher={National Academy of Sciences}
 }
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
