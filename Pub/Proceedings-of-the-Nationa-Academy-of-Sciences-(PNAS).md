@@ -3,6 +3,11 @@
 The **homepage** of **PNAS** is [https://www.pnas.org/](https://www.pnas.org/).
 
 * Evolution takes multiple paths to evolvability when facing environmental change {**AL**}
+* He, X.L., Zhao, W., Xie, Y., Hermann, A., Hemley, R.J., Liu, H. and Ma, Y., 2024.
+  [Predicted hot superconductivity in LaSc2H24 under pressure](https://www.pnas.org/doi/abs/10.1073/pnas.2401840121).
+  Proceedings of the National Academy of Sciences, 121(26), p.e2401840121. ||| **PSO** |||
+  * **Conclusion**
+  * **CALYPSO**
 * Zhang, S., Larsen, B., Sydnor, V.J., Zeng, T., An, L., Yan, X., Kong, R., Kong, X., Gur, R.C., Gur, R.E. and Moore, T.M., 2024. [In vivo whole-cortex marker of excitation-inhibition ratio indexes cortical maturation and cognitive ability in youth](https://www.pnas.org/doi/abs/10.1073/pnas.2318641121). Proceedings of the National Academy of Sciences, 121(23), p.e2318641121. <**CMA-ES**>
   * "The 10 pFIC parameters were estimated using the covariance matrix adaptation evolution strategy (CMA-ES) by minimizing the difference between simulated and empirical fMRI data."
   * "X. Kong et al., Sensory-motor cortices shape functional connectivity dynamics in the human brain. Nat. Commun. 12, 6373 (2021)."
