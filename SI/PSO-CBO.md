@@ -4,7 +4,9 @@
 
 ## 2024
 
-* Yang, F., Zhang, Z., Xu, L., Liu, Z., Jin, P., Zhuang, P., Lei, M., Liu, J., Jiang, J.H., Ouyang, X. and Marchesoni, F., 2024. [Controlling mass and energy diffusion with metamaterials](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.96.015002). **Reviews of Modern Physics**, 96(1), p.015002.
+* Yang, F., Zhang, Z., Xu, L., Liu, Z., Jin, P., Zhuang, P., Lei, M., Liu, J., Jiang, J.H., Ouyang, X. and Marchesoni, F., 2024.
+  [Controlling mass and energy diffusion with metamaterials](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.96.015002).
+  **Reviews of Modern Physics**, 96(1), p.015002.
   * Zhang, C., Li, T., Jin, P., Yuan, Y., Ouyang, X., Marchesoni, F. and Huang, J., 2022. Extracting stellar emissivity via a machine learning analysis of MSX and LAMOST catalog data. Physical Review D, 106(12), p.123035. <**Abstract**>
   * Jin, P., Yang, S., Xu, L., Dai, G., Huang, J. and Ouyang, X., 2021. **Particle swarm optimization for realizing bilayer thermal sensors with bulk isotropic materials**. International Journal of Heat and Mass Transfer, 172, p.121177.
   * Alekseev, G.V. and Tereshko, D.A., 2019. **Particle swarm optimization-based algorithms for solving inverse problems of designing thermal cloaking and shielding devices**. International Journal of Heat and Mass Transfer, 135, pp.1269-1277.
@@ -29,6 +31,9 @@
   [New MgSiO4H2 phases as potential primary water carriers into the deep earth](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.214101).
   Physical Review Letters, 133(21), p.214101.
   * **CALYPSO**
+* He, X.L., Zhao, W., Xie, Y., Hermann, A., Hemley, R.J., Liu, H. and Ma, Y., 2024.
+  [Predicted hot superconductivity in LaSc2H24 under pressure](https://www.pnas.org/doi/abs/10.1073/pnas.2401840121).
+  Proceedings of the National Academy of Sciences, 121(26), p.e2401840121.
 * Stolze, L., Arora, B., Dwivedi, D., Steefel, C.I., Bandai, T., Wu, Y. and Nico, P., 2024.
   Climate forcing controls on carbon terrestrial fluxes during shale weathering.
   **Proceedings of the National Academy of Sciences**, 121(27), p.e2400230121.
