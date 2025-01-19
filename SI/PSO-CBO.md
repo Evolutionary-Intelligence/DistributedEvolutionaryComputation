@@ -33,7 +33,9 @@
   * **CALYPSO**
 * He, X.L., Zhao, W., Xie, Y., Hermann, A., Hemley, R.J., Liu, H. and Ma, Y., 2024.
   [Predicted hot superconductivity in LaSc2H24 under pressure](https://www.pnas.org/doi/abs/10.1073/pnas.2401840121).
-  Proceedings of the National Academy of Sciences, 121(26), p.e2401840121.
+  Proceedings of the National Academy of Sciences, 121(26), p.e2401840121. ||| **PSO** |||
+  * **Conclusion**
+  * **CALYPSO**
 * Stolze, L., Arora, B., Dwivedi, D., Steefel, C.I., Bandai, T., Wu, Y. and Nico, P., 2024.
   Climate forcing controls on carbon terrestrial fluxes during shale weathering.
   **Proceedings of the National Academy of Sciences**, 121(27), p.e2400230121.
