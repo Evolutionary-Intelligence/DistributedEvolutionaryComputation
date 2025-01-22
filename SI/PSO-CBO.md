@@ -258,7 +258,7 @@
   * **CALYPSO**
 * Luo, X., Yang, J., Liu, H., Wu, X., Wang, Y., Ma, Y., Wei, S.H., Gong, X. and Xiang, H., 2011.
   [Predicting two-dimensional boron–carbon compounds by the global optimization method](https://pubs.acs.org/doi/abs/10.1021/ja2072753).
-  Journal of the American Chemical Society, 133(40), pp.16285-16290.
+  Journal of the American Chemical Society, 133(40), pp.16285-16290. ||| **PSO** |||
   * **Abstract**
   * **CALYPSO**
 
