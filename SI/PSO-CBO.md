@@ -487,6 +487,16 @@
   publisher={National Academy of Sciences}
 }
 
+@article{2022-JCP-Shao,
+  title={A symmetry-orientated divide-and-conquer method for crystal structure prediction},
+  author={Shao, Xuecheng and Lv, Jian and Liu, Peng and Shao, Sen and Gao, Pengyue and Liu, Hanyu and Wang, Yanchao and Ma, Yanming},
+  journal={Journal of Chemical Physics},
+  volume={156},
+  number={1},
+  year={2022},
+  publisher={AIP}
+}
+
 @article{2023-PNAS,
   title={Desperately seeking soft structures},
   author={Fredrickson, Glenn H},
