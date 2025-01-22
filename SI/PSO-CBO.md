@@ -248,7 +248,7 @@
 
 * Wang, Y., Liu, H., Lv, J., Zhu, L., Wang, H. and Ma, Y., 2011.
   [High pressure partially ionic phase of water ice](https://www.nature.com/articles/ncomms1566).
-  Nature Communications, 2(1), p.563. ||| ***PSO*** |||
+  Nature Communications, 2(1), p.563. ||| **PSO** |||
   * **Abstract**
   * **CALYPSO**
 
@@ -256,7 +256,7 @@
 
 * Wang, Y., Lv, J., Zhu, L. and Ma, Y., 2010.
   [Crystal structure prediction via particle-swarm optimization](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.82.094116).
-  Physical Review B—Condensed Matter and Materials Physics, 82(9), p.094116. ||| ***PSO*** |||
+  Physical Review B—Condensed Matter and Materials Physics, 82(9), p.094116. ||| **PSO** |||
   * **Title**
   * **CALYPSO**
 
