@@ -252,7 +252,7 @@
   * **Abstract**
   * **CALYPSO**
 * Zhao, Z., Xu, B., Zhou, X.F., Wang, L.M., Wen, B., He, J., Liu, Z., Wang, H.T. and Tian, Y., 2011.
-  Novel superhard carbon: C-centered orthorhombic C8.
+  [Novel superhard carbon: C-centered orthorhombic C8](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.107.215502).
   Physical Review Letters, 107(21), p.215502. ||| **PSO** |||
   * **Abstract**
   * **CALYPSO**
