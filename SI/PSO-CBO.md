@@ -251,6 +251,11 @@
   Nature Communications, 2(1), p.563. ||| **PSO** |||
   * **Abstract**
   * **CALYPSO**
+* Zhao, Z., Xu, B., Zhou, X.F., Wang, L.M., Wen, B., He, J., Liu, Z., Wang, H.T. and Tian, Y., 2011.
+  Novel superhard carbon: C-centered orthorhombic C8.
+  Physical Review Letters, 107(21), p.215502. ||| **PSO** |||
+  * **Abstract**
+  * **CALYPSO**
 
 ### 2010
 
