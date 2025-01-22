@@ -306,7 +306,7 @@
   organization={IEEE}
 }
 
-@inproceedings{1997-AAAI,
+@inproceedings{1997-AAAI-Kennedy,
   title={Minds and cultures: Particle swarm implications},
   author={Kennedy, James},
   booktitle={Socially Intelligent Agents},
@@ -335,6 +335,17 @@
   pages={563},
   year={2011},
   publisher={Nature}
+}
+
+@article{2011-PRL-Zhao,
+  title={Novel superhard carbon: {C}-centered orthorhombic {C8}},
+  author={Zhao, Zhisheng and Xu, Bo and Zhou, Xiang-Feng and Wang, Li-Min and Wen, Bin and He, Julong and Liu, Zhongyuan and Wang, Hui-Tian and Tian, Yongjun},
+  journal={Physical Review Letters},
+  volume={107},
+  number={21},
+  pages={215502},
+  year={2011},
+  publisher={APS}
 }
 
 @article{2012-PNAS-Wang,
