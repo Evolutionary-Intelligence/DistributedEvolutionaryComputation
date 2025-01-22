@@ -244,6 +244,13 @@
   Computer Physics Communications, 183(10), pp.2063-2070.
   * **CALYPSO**
 
+### 2010
+
+* Wang, Y., Lv, J., Zhu, L. and Ma, Y., 2010.
+  [Crystal structure prediction via particle-swarm optimization](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.82.094116).
+  Physical Review B—Condensed Matter and Materials Physics, 82(9), p.094116.
+  * **CALYPSO**
+
 ### 2004
 
 * Boeringer, D.W. and Werner, D.H., 2004. Particle swarm optimization versus genetic algorithms for phased array synthesis. IEEE Transactions on Antennas and Propagation, 52(3), pp.771-779.
@@ -292,6 +299,17 @@
   pages={67--72},
   year={1997},
   organization={AAAI}
+}
+
+@article{2010-PRB-Wang,
+  title={Crystal structure prediction via particle-swarm optimization},
+  author={Wang, Yanchao and Lv, Jian and Zhu, Li and Ma, Yanming},
+  journal={Physical Review B—Condensed Matter and Materials Physics},
+  volume={82},
+  number={9},
+  pages={094116},
+  year={2010},
+  publisher={APS}
 }
 
 @article{2012-PNAS-Wang,
