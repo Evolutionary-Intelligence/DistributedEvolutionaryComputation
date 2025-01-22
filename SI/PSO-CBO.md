@@ -244,6 +244,12 @@
   Computer Physics Communications, 183(10), pp.2063-2070.
   * **CALYPSO**
 
+### 2011
+
+* Wang, Y., Liu, H., Lv, J., Zhu, L., Wang, H. and Ma, Y., 2011.
+  [High pressure partially ionic phase of water ice]().
+  Nature Communications, 2(1), p.563.
+
 ### 2010
 
 * Wang, Y., Lv, J., Zhu, L. and Ma, Y., 2010.
@@ -310,6 +316,17 @@
   pages={094116},
   year={2010},
   publisher={APS}
+}
+
+@article{2011-NC-Wang,
+  title={High pressure partially ionic phase of water ice},
+  author={Wang, Yanchao and Liu, Hanyu and Lv, Jian and Zhu, Li and Wang, Hui and Ma, Yanming},
+  journal={Nature Communications},
+  volume={2},
+  number={1},
+  pages={563},
+  year={2011},
+  publisher={Nature}
 }
 
 @article{2012-PNAS-Wang,
