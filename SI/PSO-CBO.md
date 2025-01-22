@@ -353,6 +353,17 @@
   publisher={APS}
 }
 
+@article{2011-JACS-Luo,
+  title={Predicting two-dimensional boron--carbon compounds by the global optimization method},
+  author={Luo, Xinyu and Yang, Jihui and Liu, Hanyu and Wu, Xiaojun and Wang, Yanchao and Ma, Yanming and Wei, Su-Huai and Gong, Xingao and Xiang, Hongjun},
+  journal={Journal of the American Chemical Society},
+  volume={133},
+  number={40},
+  pages={16285--16290},
+  year={2011},
+  publisher={ACS}
+}
+
 @article{2012-PNAS-Wang,
   title={Superconductive sodalite-like clathrate calcium hydride at high pressures},
   author={Wang, Hui and Tse, John S and Tanaka, Kaori and Iitaka, Toshiaki and Ma, Yanming},
