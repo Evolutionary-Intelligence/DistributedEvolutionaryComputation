@@ -247,7 +247,7 @@
 ### 2011
 
 * Wang, Y., Liu, H., Lv, J., Zhu, L., Wang, H. and Ma, Y., 2011.
-  [High pressure partially ionic phase of water ice]().
+  [High pressure partially ionic phase of water ice](https://www.nature.com/articles/ncomms1566).
   Nature Communications, 2(1), p.563.
 
 ### 2010
