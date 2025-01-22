@@ -239,6 +239,11 @@
   * **Abstract**
   * **CALYPSO**
 
+* Wang, Y., Lv, J., Zhu, L. and Ma, Y., 2012.
+  [CALYPSO: A method for crystal structure prediction](https://www.sciencedirect.com/science/article/abs/pii/S0010465512001762).
+  Computer Physics Communications, 183(10), pp.2063-2070.
+  * **CALYPSO**
+
 ### 2004
 
 * Boeringer, D.W. and Werner, D.H., 2004. Particle swarm optimization versus genetic algorithms for phased array synthesis. IEEE Transactions on Antennas and Propagation, 52(3), pp.771-779.
@@ -289,7 +294,7 @@
   organization={AAAI}
 }
 
-@article{2012-PNAS,
+@article{2012-PNAS-Wang,
   title={Superconductive sodalite-like clathrate calcium hydride at high pressures},
   author={Wang, Hui and Tse, John S and Tanaka, Kaori and Iitaka, Toshiaki and Ma, Yanming},
   journal={Proceedings of the National Academy of Sciences},
@@ -300,7 +305,7 @@
   publisher={National Academy of Sciences}
 }
 
-@article{2012-PNAS,
+@article{2012-PNAS-Zhu,
   title={Spiral chain {O4} form of dense oxygen},
   author={Zhu, Li and Wang, Ziwei and Wang, Yanchao and Zou, Guangtian and Mao, Ho-kwang and Ma, Yanming},
   journal={Proceedings of the National Academy of Sciences},
@@ -311,7 +316,18 @@
   publisher={National Academy of Sciences}
 }
 
-@article{2013-Science,
+@article{2012-CPC-Wang,
+  title={{CALYPSO}: A method for crystal structure prediction},
+  author={Wang, Yanchao and Lv, Jian and Zhu, Li and Ma, Yanming},
+  journal={Computer Physics Communications},
+  volume={183},
+  number={10},
+  pages={2063--2070},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{2013-Science-Berdahl,
   title={Emergent sensing of complex environments by mobile animal groups},
   author={Berdahl, Andrew and Torney, Colin J and Ioannou, Christos C and Faria, Jolyon J and Couzin, Iain D},
   journal={Science},
