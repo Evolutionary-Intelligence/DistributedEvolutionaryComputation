@@ -400,6 +400,17 @@
   publisher={ACS}
 }
 
+@article{2012-PRL-Wang,
+  title={Cagelike diamondoid nitrogen at high pressures},
+  author={Wang, Xiaoli and Wang, Yanchao and Miao, Maosheng and Zhong, Xin and Lv, Jian and Cui, Tian and Li, Jianfu and Chen, Li and Pickard, Chris J and Ma, Yanming},
+  journal={Physical Review Letters},
+  volume={109},
+  number={17},
+  pages={175502},
+  year={2012},
+  publisher={APS}
+}
+
 @article{2012-PNAS-Wang,
   title={Superconductive sodalite-like clathrate calcium hydride at high pressures},
   author={Wang, Hui and Tse, John S and Tanaka, Kaori and Iitaka, Toshiaki and Ma, Yanming},
