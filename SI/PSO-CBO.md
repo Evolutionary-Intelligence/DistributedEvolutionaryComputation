@@ -256,6 +256,11 @@
   Physical Review Letters, 107(21), p.215502. ||| **PSO** |||
   * **Abstract**
   * **CALYPSO**
+* Lv, J., Wang, Y., Zhu, L. and Ma, Y., 2011.
+  [Predicted novel high-pressure phases of {Lithium}](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.015503).
+  Physical Review Letters, 106(1), p.015503. ||| **PSO** |||
+  * **Abstract**
+  * **CALYPSO**
 * Luo, X., Yang, J., Liu, H., Wu, X., Wang, Y., Ma, Y., Wei, S.H., Gong, X. and Xiang, H., 2011.
   [Predicting two-dimensional boron–carbon compounds by the global optimization method](https://pubs.acs.org/doi/abs/10.1021/ja2072753).
   Journal of the American Chemical Society, 133(40), pp.16285-16290. ||| **PSO** |||
