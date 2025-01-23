@@ -261,6 +261,11 @@
   Physical Review Letters, 106(1), p.015503. ||| **PSO** |||
   * **Abstract**
   * **CALYPSO**
+* Zhu, L., Wang, H., Wang, Y., Lv, J., Ma, Y., Cui, Q., Ma, Y. and Zou, G., 2011.
+  [Substitutional alloy of Bi and Te at high pressure](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.145501).
+  Physical Review Letters, 106(14), p.145501.
+  * **Abstract**
+  * **CALYPSO**
 * Luo, X., Yang, J., Liu, H., Wu, X., Wang, Y., Ma, Y., Wei, S.H., Gong, X. and Xiang, H., 2011.
   [Predicting two-dimensional boron–carbon compounds by the global optimization method](https://pubs.acs.org/doi/abs/10.1021/ja2072753).
   Journal of the American Chemical Society, 133(40), pp.16285-16290. ||| **PSO** |||
@@ -365,6 +370,17 @@
   volume={106},
   number={1},
   pages={015503},
+  year={2011},
+  publisher={APS}
+}
+
+@article{2011-PRL-Zhu,
+  title={Substitutional alloy of {Bi and Te} at high pressure},
+  author={Zhu, Li and Wang, Hui and Wang, Yanchao and Lv, Jian and Ma, Yanmei and Cui, Qiliang and Ma, Yanming and Zou, Guangtian},
+  journal={Physical Review Letters},
+  volume={106},
+  number={14},
+  pages={145501},
   year={2011},
   publisher={APS}
 }
