@@ -227,6 +227,10 @@
 
 ### 2012
 
+* Wang, X., Wang, Y., Miao, M., Zhong, X., Lv, J., Cui, T., Li, J., Chen, L., Pickard, C.J. and Ma, Y., 2012.
+  [Cagelike diamondoid nitrogen at high pressures](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.175502).
+  Physical Review Letters, 109(17), p.175502.
+  * **CALYPSO**
 * Wang, H., Tse, J.S., Tanaka, K., Iitaka, T. and Ma, Y., 2012.
   [Superconductive sodalite-like clathrate calcium hydride at high pressures]().
   Proceedings of the National Academy of Sciences, 109(17), pp.6463-6466.
