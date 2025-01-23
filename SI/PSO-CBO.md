@@ -267,7 +267,7 @@
   * **CALYPSO**
 * Zhu, L., Wang, H., Wang, Y., Lv, J., Ma, Y., Cui, Q., Ma, Y. and Zou, G., 2011.
   [Substitutional alloy of Bi and Te at high pressure](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.145501).
-  Physical Review Letters, 106(14), p.145501.
+  Physical Review Letters, 106(14), p.145501. ||| **PSO** |||
   * **Abstract**
   * **CALYPSO**
 * Luo, X., Yang, J., Liu, H., Wu, X., Wang, Y., Ma, Y., Wei, S.H., Gong, X. and Xiang, H., 2011.
