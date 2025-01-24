@@ -275,6 +275,9 @@
   Journal of the American Chemical Society, 133(40), pp.16285-16290. ||| **PSO** |||
   * **Abstract**
   * **CALYPSO**
+* Oikonomidis, I., Kyriazis, N. and Argyros, A.A., 2011.
+  [Efficient model-based 3D tracking of hand articulations using kinect]().
+  Computer Vision and Image Understanding, 108(1-2), pp.52-73.
 
 ### 2010
 
