@@ -165,8 +165,9 @@ conferences such as
 **GECCO** (CCF-C),
 **ASOC** (JCR-1),
 **CEC**,
-**SSCI**, etc.).
+**SSCI**, etc.
 He have reviewed various papers for e.g.,
-Knowledge-Based Systems
+IEEE Transactions on Cognitive and Developmental Systems,
+Knowledge-Based Systems,
 etc.
 
