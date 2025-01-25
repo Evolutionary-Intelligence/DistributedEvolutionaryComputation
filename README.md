@@ -156,5 +156,17 @@ Currently, this **long-term** open project is led by **Qiqi Duan** and **Qi Zhao
 
 **Qiqi Duan** is **just a fan** of both **biological and computational evolution**,
 published in some of **top-tier** and/or **representative** journals and
-conferences such as **JMLR** (CCF-A), **TPDS** (CCF-A), **TMLR**, **TEVC** (CCF-B),
-**PPSN** (CCF-B), **GECCO** (CCF-C), **ASOC** (JCR-1), **CEC**, **SSCI**, etc.).
+conferences such as
+**JMLR** (CCF-A),
+**TPDS** (CCF-A),
+**TMLR**,
+**TEVC** (CCF-B),
+**PPSN** (CCF-B),
+**GECCO** (CCF-C),
+**ASOC** (JCR-1),
+**CEC**,
+**SSCI**, etc.).
+He have reviewed various papers for e.g.,
+Knowledge-Based Systems
+etc.
+
