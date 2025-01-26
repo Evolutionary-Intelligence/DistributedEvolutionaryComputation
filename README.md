@@ -167,7 +167,7 @@ conferences such as
 **CEC**,
 **SSCI**, etc.
 He have reviewed various papers for e.g.,
+ACM Transactions on Evolutionary Learning and Optimization,
 IEEE Transactions on Cognitive and Developmental Systems,
 Knowledge-Based Systems,
 etc.
-
