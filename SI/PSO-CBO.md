@@ -152,6 +152,9 @@
   * **PSO**
   * **Abstract**
   * Tsinghua University + Columbia University + Huawei Noah’s Ark Lab
+* Luo, X., Yuan, Y., Chen, S., Zeng, N. and Wang, Z., 2020.
+  Position-transitional particle swarm optimization-incorporated latent factor analysis.
+  IEEE Transactions on Knowledge and Data Engineering, 34(8), pp.3958-3970.
 
 ### 2019
 
