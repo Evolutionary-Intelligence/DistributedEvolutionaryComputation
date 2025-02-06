@@ -146,6 +146,11 @@
 * Assmann, R.W., et al., 2020. EuPRAXIA conceptual design report. European Physical Journal Special Topics, 229(24), pp.3675-4284.
 * Zhu, L., et al., 2020. Carbon-boron clathrates as a new class of sp3-bonded framework materials. **Science Advances**, 6(2), p.eaay8361. < **CALYPSO** >
 * Wang, Y., et al., 2020. Pressure-stabilized divalent ozonide CaO3 and its impact on Earth’s oxygen cycles. **Nature Communications**, 11(1), p.4702. < **CALYPSO** >
+* Zang, Y., Qi, F., Yang, C., Liu, Z., Zhang, M., Liu, Q. and Sun, M., 2020, July.
+  Word-level textual adversarial attacking as combinatorial optimization.
+  In Proceedings of Annual Meeting of the Association for Computational Linguistics (pp. 6066-6080).
+  * **PSO**
+  * **Abstract**
 
 ### 2019
 
