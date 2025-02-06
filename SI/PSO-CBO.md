@@ -1,4 +1,4 @@
-# PSO + CBO
+# Particle Swarm Optimization (PSO) and
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation-PSO)
 
