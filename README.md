@@ -172,4 +172,5 @@ IEEE Transactions on Cognitive and Developmental Systems,
 IEEE Transactions on Evolutionary Computation,
 Complex & Intelligent Systems,
 Knowledge-Based Systems,
+ALIFE,
 etc.
