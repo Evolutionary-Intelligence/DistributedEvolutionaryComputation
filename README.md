@@ -166,9 +166,10 @@ conferences such as
 **ASOC** (JCR-1),
 **CEC**,
 **SSCI**, etc.
-He have reviewed various papers for e.g.,
+He have reviewed various research papers for e.g.,
 ACM Transactions on Evolutionary Learning and Optimization,
 IEEE Transactions on Cognitive and Developmental Systems,
 IEEE Transactions on Evolutionary Computation,
+Complex & Intelligent Systems,
 Knowledge-Based Systems,
 etc.
