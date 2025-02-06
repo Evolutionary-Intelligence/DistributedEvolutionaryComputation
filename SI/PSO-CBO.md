@@ -585,6 +585,15 @@
   publisher={National Academy of Sciences}
 }
 
+@inproceedings{2020-ACL-Zang,
+  title={Word-level Textual Adversarial Attacking as Combinatorial Optimization},
+  author={Zang, Yuan and Qi, Fanchao and Yang, Chenghao and Liu, Zhiyuan and Zhang, Meng and Liu, Qun and Sun, Maosong},
+  booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+  pages={6066--6080},
+  year={2020},
+  publisher={Association for Computational Linguistics}
+}
+
 @article{2021-PNAS,
   title={Combining pressure and electrochemistry to synthesize superhydrides},
   author={Guan, Pin-Wen and Hemley, Russell J and Viswanathan, Venkatasubramanian},
