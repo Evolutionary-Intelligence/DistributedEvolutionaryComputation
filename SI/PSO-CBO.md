@@ -151,6 +151,7 @@
   In Proceedings of Annual Meeting of the Association for Computational Linguistics (pp. 6066-6080).
   * **PSO**
   * **Abstract**
+  * Tsinghua University + Columbia University + Huawei Noah’s Ark Lab
 
 ### 2019
 
