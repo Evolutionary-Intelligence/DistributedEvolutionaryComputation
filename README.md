@@ -173,4 +173,5 @@ IEEE Transactions on Evolutionary Computation,
 Complex & Intelligent Systems,
 Knowledge-Based Systems,
 ALIFE,
+International Conference on Neural Information Processing,
 etc.
