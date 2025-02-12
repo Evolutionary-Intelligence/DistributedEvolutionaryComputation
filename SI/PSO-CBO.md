@@ -135,6 +135,9 @@
   Proceedings of the National Academy of Sciences, 118(51), p.e2104163118.
   * **MATLAB**
   * Distributed PSO
+* Weiel, M., Götz, M., Klein, A., Coquelin, D., Floca, R. and Schug, A., 2021.
+  Dynamic particle swarm optimization of biomolecular simulation parameters with flexible objective functions.
+  Nature Machine Intelligence, 3(8), pp.727-734.
 
 ### 2020
 
