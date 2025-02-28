@@ -1,6 +1,6 @@
 # JMLR (Journal of Machine Learning Research)
 
-* Duan, Q., Zhou, G., Shao, C., Wang, Z., Feng, M., Huang, Y., Tan, Y., Yang, Y., Zhao, Q. and Shi, Y., 2024. PyPop7: A pure-python library for population-based black-box optimization. Journal of Machine Learning Research, 25(296), pp.1-28.
+* Duan, Q., Zhou, G., Shao, C., Wang, Z., Feng, M., Huang, Y., Tan, Y., Yang, Y., Zhao, Q. and Shi, Y., 2024. PyPop7: A pure-Python library for population-based black-box optimization. Journal of Machine Learning Research, 25(296), pp.1-28.
 *
 
 
