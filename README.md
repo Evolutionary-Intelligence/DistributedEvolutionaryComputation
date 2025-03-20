@@ -146,8 +146,8 @@ contribution from [Vincent A. Cicirello](https://github.com/cicirello). We thank
 
 ## An Open-Added Team for Paper Summary
 
-Currently, this **long-term** *open-access* project is led by **Qiqi Duan** @SUSTech,
-Shenzhen, China, with the following **kindly** collaborators:
+Currently, this **long-term** *open-access* project is led by **Qiqi Duan** (@SUSTech,
+Shenzhen, China) with the following **kindly** collaborators:
 
 *  (evolutionary reinforcement learning)
 * Lijun Sun (swarm intelligence and swarm robotics)
