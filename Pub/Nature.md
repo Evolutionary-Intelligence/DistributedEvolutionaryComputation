@@ -160,7 +160,12 @@
 ## Biological Evolution
 
 * Long-term studies provide unique insights into evolution
-* Grant, P.R. and Grant, B.R., 2002. [Unpredictable evolution in a 30-year study of Darwin's finches](). Science, 296(5568), pp.707-711.
+* Bozdag, G.O., Zamani-Dahaj, S.A., Day, T.C., Kahn, P.C., Burnetti, A.J., Lac, D.T., Tong, K., Conlin, P.L., Balwani, A.H., Dyer, E.L. and Yunker, P.J., 2023.
+  De novo evolution of macroscopic multicellularity.
+  Nature, 617(7962), pp.747-754.
+* Grant, P.R. and Grant, B.R., 2002.
+  [Unpredictable evolution in a 30-year study of Darwin's finches]().
+  Science, 296(5568), pp.707-711.
 
 ###
 
