@@ -167,6 +167,7 @@ conferences such as
 **CEC**,
 **SSCI**,
 **ICSI**,
+**BIC-TA**
 etc.
 He reviewed various research papers for e.g.,
 ACM Transactions on Evolutionary Learning and Optimization,
