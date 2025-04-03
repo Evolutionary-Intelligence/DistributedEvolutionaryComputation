@@ -167,10 +167,11 @@ conferences such as
 **CEC**,
 **SSCI**,
 **ICSI**,
-**BIC-TA**
+**BIC-TA**,
+**SEAL**,
 etc.
 He reviewed various research papers for e.g.,
-ACM Transactions on Evolutionary Learning and Optimization,
+**ACM Transactions on Evolutionary Learning and Optimization**,
 IEEE Transactions on Cognitive and Developmental Systems,
 IEEE Transactions on Evolutionary Computation,
 Complex & Intelligent Systems,
