@@ -59,7 +59,6 @@
 * Wang, X., Shangguan, H., Huang, F., Wu, S. and Jia, W., 2024. MEL: Efficient multi-task evolutionary learning for high-dimensional feature selection. IEEE Transactions on Knowledge and Data Engineering.
 * Jha, D.N., Li, Y., Wen, Z., Morgan, G., Jayaraman, P.P., Koutny, M., Rana, O.F. and Ranjan, R., 2024. GeoDeploy: Geo-distributed Application Deployment using Benchmarking. IEEE Transactions on Parallel and Distributed Systems.
 * Tao, Q., Cai, R., Lin, Z. and Tang, Y., 2024. Automatic Design of Deep Graph Neural Networks With Decoupled Mode. IEEE Transactions on Neural Networks and Learning Systems.
-* Martí, R., Sevaux, M. and Sörensen, K., 2024. 50 years of metaheuristics. European Journal of Operational Research.
 * Pieren, R., Le Griffon, I., Bertsch, L., Heusser, A., Centracchio, F., Weintraub, D., Lavandier, C. and Schäffer, B., 2024. Perception-based noise assessment of a future blended wing body aircraft concept using synthesized flyovers in an acoustic VR environment—The ARTEM study. Aerospace Science and Technology, 144, p.108767.
 * Staffoli, E., Maddinelli, G. and Pavesi, L., 2024. A Silicon Photonic Neural Network for Chromatic Dispersion Compensation in 20 Gbps PAM4 Signal at 125 km and Its Scalability up to 100 Gbps. Journal of Lightwave Technology.
 * Ji, Q., Luo, B. and Biondi, B., 2024. Exploiting the Potential of Urban DAS Grids: Ambient‐Noise Subsurface Imaging Using Joint Rayleigh and Love Waves. Seismological Research Letters, 95(3), pp.1794-1811.
