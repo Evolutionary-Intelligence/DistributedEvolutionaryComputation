@@ -13,11 +13,6 @@
   * Alekseev, G.V., 2018. Analysis of a two-dimensional thermal cloaking problem on the basis of optimization. Computational Mathematics and Mathematical Physics, 58, pp.478-492.
   * Alekseev, G.V., Levin, V.A. and Tereshko, D.A., 2017, October. The optimization method in design problems of spherical layered thermal shells. In Doklady Physics (Vol. 62, pp. 465-469). Pleiades Publishing.
   * Alekseev, G.V., Levin, V.A. and Tereshko, D.A., 2017, February. Optimization analysis of the thermal cloaking problem for a cylindrical body. In Doklady Physics (Vol. 62, pp. 71-75). Pleiades Publishing.
-* Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024.
-  [Machine learning reveals the control mechanics of an insect wing hinge](https://www.nature.com/articles/s41586-024-07293-4).
-  **Nature**, pp.1-9.
-  * https://www.nature.com/articles/d41586-024-00912-0
-  * https://www.nature.com/articles/d41586-024-01122-4
 * Yin, L., Cheng, R., Wan, X., Ding, J., Jia, J., Wen, Y., Liu, X., Guo, Y. and He, J., 2024.
   [High-κ monocrystalline dielectrics for low-power two-dimensional electronics](https://www.nature.com/articles/s41563-024-02043-3).
   Nature Materials, pp.1-8.
