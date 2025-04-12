@@ -45,7 +45,6 @@
 * Tom, G., Schmid, S.P., Baird, S.G., Cao, Y., Darvish, K., Hao, H., Lo, S., Pablo-García, S., Rajaonson, E.M., Skreta, M. and Yoshikawa, N., 2024. Self-driving laboratories for chemistry and materials science. Chemical Reviews, 124(16), pp.9633-9732.
 * Schön, J.C., 2024. Energy landscapes—Past, present, and future: A perspective. Journal of Chemical Physics, 161(5).
 * Fukuura, S., Nishidate, Y. and Yumura, T., 2024. Performance of Particle Swarm Optimization in Predicting the Orientation of π-Conjugated Molecules Inside Carbon Nanotubes Compared with Density Functional Theory Calculations. Journal of Physical Chemistry A.
-* Bottrell, C., Yesuf, H.M., Popping, G., Omori, K.C., Tang, S., Ding, X., Pillepich, A., Nelson, D., Eisert, L., Gao, H. and Goulding, A.D., 2024. IllustrisTNG in the HSC-SSP: Image data release and the major role of mini mergers as drivers of asymmetry and star formation. Monthly Notices of the Royal Astronomical Society, 527(3), pp.6506-6539.
 * Cherepanova, V., Levin, R., Somepalli, G., Geiping, J., Bruss, C.B., Wilson, A.G., Goldstein, T. and Goldblum, M., 2024. A performance-driven benchmark for feature selection in tabular deep learning. Advances in Neural Information Processing Systems, 36.
 * Bailo, R., Barbaro, A., Gomes, S.N., Riedl, K., Roith, T., Totzeck, C. and Vaes, U., 2024. CBX: Python and Julia packages for consensus-based interacting particle methods. arXiv preprint arXiv:2403.14470.
 * Tadmor, E. and Zenginoğlu, A., 2024. Swarm-based optimization with random descent. Acta Applicandae Mathematicae, 190(1), p.2.
