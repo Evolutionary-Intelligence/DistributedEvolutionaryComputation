@@ -149,10 +149,10 @@ contribution from [Vincent A. Cicirello](https://github.com/cicirello). We thank
 Currently, this **long-term** *open-access* project is led by **Qiqi Duan** (@SUSTech,
 Shenzhen, China) with the following **kindly** collaborators:
 
-*  (evolutionary reinforcement learning)
+* (evolutionary reinforcement learning)
 * Lijun Sun (swarm intelligence and swarm robotics)
-* Yajing Tan (swarm intelligence for large language models)
-*  (evolutionary computation for machine learning)
+* (swarm intelligence for large language models)
+* (evolutionary computation for machine learning)
 
 **Qiqi Duan** is **just a fan** of both **biological and computational evolution**,
 published in some of **top-tier** and/or **representative** journals and
