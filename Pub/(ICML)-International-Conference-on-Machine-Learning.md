@@ -1,5 +1,11 @@
 # ICML (International Conference on Machine Learning)
 
+* Pourcel, J., Colas, C. and Oudeyer, P.Y., 2025.
+  Self-improving language models for evolutionary program synthesis: A case study on ARC-AGI.
+  In International Conference on Machine Learning.
+
+
+
 * Archer, A., Fahrbach, M., Liu, K. and Prabhu, P., 2024. [Practical performance guarantees for pipelined DNN inference](https://openreview.net/forum?id=S3xqyEaST9). In International Conference on Machine Learning.
   * **Google + MIT**
   * "We give a fast and practical pipeline partitioning algorithm called SliceGraph that combines dynamic programming with a biased random-key **GA**."
