@@ -1,7 +1,7 @@
 # ICML (International Conference on Machine Learning)
 
 * Pourcel, J., Colas, C. and Oudeyer, P.Y., 2025.
-  Self-improving language models for evolutionary program synthesis: A case study on ARC-AGI.
+  [Self-improving language models for evolutionary program synthesis: A case study on ARC-AGI](https://icml.cc/virtual/2025/poster/43499).
   In International Conference on Machine Learning.
 
 
