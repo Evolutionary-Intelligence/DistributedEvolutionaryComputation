@@ -3,7 +3,9 @@
 * Pourcel, J., Colas, C. and Oudeyer, P.Y., 2025.
   [Self-improving language models for evolutionary program synthesis: A case study on ARC-AGI](https://icml.cc/virtual/2025/poster/43499).
   In International Conference on Machine Learning.
-
+* Ye, H., Xu, H., Yan, A. and Cheng, Y., 2025.
+  [large language model-driven large neighborhood search for large-scale MILP problems]().
+  In International Conference on Machine Learning.
 
 
 * Archer, A., Fahrbach, M., Liu, K. and Prabhu, P., 2024. [Practical performance guarantees for pipelined DNN inference](https://openreview.net/forum?id=S3xqyEaST9). In International Conference on Machine Learning.
