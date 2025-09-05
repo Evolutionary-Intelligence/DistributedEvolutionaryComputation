@@ -1,5 +1,7 @@
 # IJCAI (International Joint Conference on Artificial Intelligence)
 
+* 2025: A fast neural architecture search method for multi-modal classification via knowledge sharing
+
 Huang, K., Guo, D., Zhang, X., Ji, X. and Liu, H., 2024. CompetEvo: Towards Morphological Evolution from Competition. arXiv preprint arXiv:2405.18300. [ [www](https://www.ijcai.org/proceedings/2024/10) | [pdf](https://www.ijcai.org/proceedings/2024/0010.pdf) ]
 
 Nguyen, D., Le, H., Do, K., Gupta, S., Venkatesh, S. and Tran, T., 2024. Diversifying Training Pool Predictability for Zero-shot Coordination: A Theory of Mind Approach. [ [www](https://www.ijcai.org/proceedings/2024/19) | [pdf](https://www.ijcai.org/proceedings/2024/0019.pdf) ]
