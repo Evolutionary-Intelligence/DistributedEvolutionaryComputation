@@ -3,12 +3,13 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
 
 This is an *actively updated* paper list for [evolutionary computation (EC)](https://tinyurl.com/2j4n5p2s)
-and [Swarm Intelligence (SI)](https://link.springer.com/journal/11721) to keep *growing*. Owing to the abundance of literature, however, we believe that many
-interesting works are still missed here. If you find them missed here, welcome to contact with us
-via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues)
-or [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls)
-to add. Recently (2023), we have noticed that some other research group(s) also starts to adopt a
-similar way to collect literatures regarding EC, which is a good news.
+and [Swarm Intelligence (SI)](https://link.springer.com/journal/11721) to keep *growing* from Jan 26, 2021.
+Owing to the abundance of literature, however, we believe that many interesting works are still missed here.
+If you find them missed here, welcome to contact with us via
+[Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues) or
+[Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls)
+to kindly add. Recently (2023), we have noticed that some other research group(s) also starts to adopt a
+very similar way to collect the related literature regarding EC, which is really a good news.
 
 **NOTE**: Although our initial goal was to cover only *parallel and distributed* EC, now our focus is switched to **Evolutionary Computation (EC)** researches and applications for (>30) chosen journals and conferences (such as [Nature](https://www.nature.com/), [Science](https://science.sciencemag.org/), [PNAS (Proceedings of the National Academy of Sciences)](https://www.pnas.org/), [PRL (Physical Review Letters)](https://journals.aps.org/prl/), [JACS](https://pubs.acs.org/journal/jacsat), [PIEEE](https://proceedingsoftheieee.ieee.org/),
 [Nature Physics](https://www.nature.com/nphys/),
