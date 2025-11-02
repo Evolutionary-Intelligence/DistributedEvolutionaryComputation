@@ -1,5 +1,12 @@
 # Nature
 
+* Eiben, A.E. and Smith, J., 2015.
+  [From evolutionary computation to the evolution of things](https://www.nature.com/articles/nature14544).
+  Nature, 521(7553), pp.476-482.
+  * Survery
+
+## 
+
 * Romera-Paredes, B., Barekatain, M., Novikov, A., Balog, M., Kumar, M.P., Dupont, E., Ruiz, F.J., Ellenberg, J.S., Wang, P., Fawzi, O. and Kohli, P., and Fawzi, A., 2024. [Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6). Nature, 625(7995), pp.468-475.
 * Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024. [Machine learning reveals the control mechanics of an insect wing hinge](https://www.nature.com/articles/s41586-024-07293-4). Nature, pp.1-9. { **California Institute of Technology + Howard Hughes Medical Institute** }
   * "To reconstruct the wing kinematics from high-speed images, we developed an automated tracking algorithm that used a trained convolutional neural network and particle swarm optimization."
@@ -76,9 +83,6 @@
 * Lorenzo-Redondo, R., Fryer, H.R., Bedford, T., Kim, E.Y., Archer, J., Kosakovsky Pond, S.L., Chung, Y.S., Penugonda, S., Chipman, J.G., Fletcher, C.V. and Schacker, T.W., 2016. Persistent HIV-1 replication maintains the tissue reservoir during therapy. Nature, 530(7588), pp.51-56.
 * Cully, A., Clune, J., Tarapore, D. and Mouret, J.B., 2015. Robots that can adapt like animals. Nature, 521(7553), pp.503-507. [ [www](https://www.nature.com/articles/nature14422) ] ( **QD** )
   * "An evolutionary algorithm has been developed that allows robots to adapt to unforeseen change. The robots learn behaviours quickly and instinctively by mining the memory of their past achievements." ---[news & views](https://www.nature.com/articles/521426a)
-* **Eiben, A.E. and Smith, J., 2015.
-  [From evolutionary computation to the evolution of things](https://www.nature.com/articles/nature14544).
-  Nature, 521(7553), pp.476-482.** {**EC**}
 * Rus, D. and Tolley, M.T., 2015. Design, fabrication and control of soft robots. Nature, 521(7553), pp.467-475. [ [www](https://www.nature.com/articles/nature14543) ] ( **ER** )
   * "Researchers have used design automation algorithms inspired by evolution to design soft robots. Soft-robot designs have been automatically generated using custom finite element analysis software (VoxCAD), which accommodates materials with a large range of moduli, coupled with design optimization using an evolutionary algorithm. In addition, evolutionary algorithms have been used to automatically generate soft-robot designs."
     * Lipson, H., 2014. Challenges and opportunities for design, simulation, and fabrication of soft robots. Soft Robotics, 1(1), pp.21-27.
