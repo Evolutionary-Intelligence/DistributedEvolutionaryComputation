@@ -1,6 +1,6 @@
 # Nature
 
-* Romera-Paredes, B., Barekatain, M., Novikov, A., Balog, M., Kumar, M.P., Dupont, E., Ruiz, F.J., Ellenberg, J.S., Wang, P., Fawzi, O. and Kohli, P., 2024. [Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6). Nature, 625(7995), pp.468-475.
+* Romera-Paredes, B., Barekatain, M., Novikov, A., Balog, M., Kumar, M.P., Dupont, E., Ruiz, F.J., Ellenberg, J.S., Wang, P., Fawzi, O. and Kohli, P., and Fawzi, A., 2024. [Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6). Nature, 625(7995), pp.468-475.
 * Melis, J.M., Siwanowicz, I. and Dickinson, M.H., 2024. [Machine learning reveals the control mechanics of an insect wing hinge](https://www.nature.com/articles/s41586-024-07293-4). Nature, pp.1-9. { **California Institute of Technology + Howard Hughes Medical Institute** }
   * "To reconstruct the wing kinematics from high-speed images, we developed an automated tracking algorithm that used a trained convolutional neural network and particle swarm optimization."
   * "We developed an automated tracking system to extract body and wing pose, called Flynet, which consists of two steps: (1) a trained CNN that predicts pose vectors of the body and wing; and (2) a PSO step that refines the CNN prediction via 3D model fitting."
