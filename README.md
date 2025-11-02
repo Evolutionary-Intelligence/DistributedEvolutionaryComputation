@@ -2,9 +2,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
 
-This is a *growing* paper list for [evolutionary computation (EC)](https://tinyurl.com/2j4n5p2s) and
-[Swarm Intelligence (SI)](https://link.springer.com/journal/11721). Currently we are **actively**
-updating it (from 2021). Owing to the abundance of literatures, however, we believe that many
+This is an *actively updated* paper list for [evolutionary computation (EC)](https://tinyurl.com/2j4n5p2s)
+and [Swarm Intelligence (SI)](https://link.springer.com/journal/11721) to keep *growing*. Owing to the abundance of literature, however, we believe that many
 interesting works are still missed here. If you find them missed here, welcome to contact with us
 via [Issues](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/issues)
 or [Pull requests](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/pulls)
