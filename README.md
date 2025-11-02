@@ -1,4 +1,4 @@
-# A Paper List of Evolutionary Computation (EC) and Swarm Intelligence (SI) on Top-Tier Publications (e.g., Nature, Science, etc.)
+# A Growing Paper List of Evolutionary Computation (EC) and Swarm Intelligence (SI) on Top-Tier Publications (e.g., Nature, Science, etc.)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
 
