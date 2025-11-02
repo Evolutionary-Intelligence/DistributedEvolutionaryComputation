@@ -1,6 +1,7 @@
 # A Growing Paper List of Evolutionary Computation (EC) and Swarm Intelligence (SI) on Top-Tier Publications (e.g., Nature, Science, etc.)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.DistributedEvolutionaryComputation)
+[![Designer](https://img.shields.io/badge/Designer-QiqiDuan-brown)]()
 
 This is an *actively updated* paper list for [evolutionary computation (EC)](https://tinyurl.com/2j4n5p2s)
 and [Swarm Intelligence (SI)](https://link.springer.com/journal/11721) to keep *growing* from Jan 26, 2021.
