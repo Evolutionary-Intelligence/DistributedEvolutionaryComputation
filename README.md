@@ -131,14 +131,3 @@ Here, we consider a family of evolutionary algorithms (and also several closely-
 *******
 **"Frequently nonadditive interaction (i.e., "epistasis" or "nonlinearity") makes it impossible to determine the performance of a structure from a study of its isolated parts. While these difficulties pose a real problem for the analyst, we know that they are routinely handled by biological adaptive processes, qua processes."**---[[John H. Holland, Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence, 1992]](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
 *******
-
-## Financial Supports
-
-This *ongoing* paper list for EC/SI (previous only for PDEC) was supported by **Shenzhen
-Fundamental Research Program under Grant No. JCYJ20200109141235597** (2,000,000 Yuan
-from 2021 to 2023). Now it is supported by National Natural Science Foundation of China
-under Grant No. 72401122, Guangdong Basic and Applied Basic Research Foundation under
-Grant No. 2024A1515012241 and 2021A1515110024. We also acknowledge the *early*
-contribution from [Vincent A. Cicirello](https://github.com/cicirello). We thank e.g.,
-[link (from a PhD candidate of Tsinghua)](https://cuglirui.github.io/links.htm) to this
-(unbiased as much as possible) paper-summary project.
