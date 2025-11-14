@@ -1,7 +1,8 @@
 # JACM (Journal of the ACM)
 
 * Valiant, L.G., 2009. Evolvability. Journal of the ACM, 56(1), pp.1-21. [ [www](https://dl.acm.org/doi/abs/10.1145/1462153.1462156) ] ( **EC** )
-* Holland, J.H., 1962. Outline for a logical theory of adaptive systems. Journal of the ACM, 9(3), pp.297-314. [ [www](https://dl.acm.org/doi/abs/10.1145/321127.321128) ] (  **GA** )
+* Holland, J.H., 1962. [Outline for a logical theory of adaptive systems](https://dl.acm.org/doi/abs/10.1145/321127.321128). Journal of the ACM, 9(3), pp.297-314.
+  * **GA**
 
 ## 2021
 
