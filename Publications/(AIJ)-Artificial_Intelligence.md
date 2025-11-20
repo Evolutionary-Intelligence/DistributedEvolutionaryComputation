@@ -1,5 +1,7 @@
 # Artificial Intelligence (AIJ)
 
+##
+
 * Inza, I., Larrañaga, P., Etxeberria, R. and Sierra, B., 2000. [Feature subset selection by Bayesian network-based optimization](https://www.sciencedirect.com/science/article/pii/S0004370200000527). Artificial Intelligence, 123(1-2), pp.157-184. { **EDA** }
 * Jelasity, M. and Dombi, J., 1998. [GAS, a concept on modeling species in genetic algorithms]((https://www.sciencedirect.com/science/article/pii/S0004370297000714) ). Artificial Intelligence, 99(1), pp.1-19. { **GA** }
 * Lissovoi, A., Oliveto, P.S. and Warwicker, J.A., 2023. When move acceptance selection hyper-heuristics outperform Metropolis and elitist evolutionary algorithms and when not. Artificial Intelligence, 314, p.103804. [ [www](https://www.sciencedirect.com/science/article/pii/S0004370222001448) ] ( **EA** )
