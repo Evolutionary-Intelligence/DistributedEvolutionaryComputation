@@ -1,4 +1,4 @@
-# JOC (INFORMS Journal on Computing)
+# INFORMS Journal on Computing (IJOC)
 
 * Zhang, Y., Zhu, C., Tang, S., Ran, Y., Du, D.Z. and Zhang, Z., 2023. Evolutionary Algorithm on General Cover with Theoretically Guaranteed Approximation Ratio. INFORMS Journal on Computing. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.0327) ]
 * Zhou, Y., Hao, J.K. and Li, Z., 2024. Heuristic search for rank aggregation with application to label ranking. INFORMS Journal on Computing, 36(2), pp.308-326. [ [www](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.0019) ] ( **EA** )
